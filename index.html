@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>我的学习工作台</title>
+<style>
+  :root{
+    --bg:#f6f7fb; --card:#ffffff; --ink:#1f2430; --sub:#6b7280; --line:#e6e8ef;
+    --blue:#2f6fed; --blue-soft:#eaf1ff; --green:#18a058; --green-soft:#e8f7ef;
+    --red:#d64545; --red-soft:#fdecec; --gold:#b8860b; --gold-soft:#fdf6e3;
+    --purple:#7c3aed; --purple-soft:#f3edff;
+    --radius:14px; --shadow:0 1px 3px rgba(20,30,60,.06),0 6px 18px rgba(20,30,60,.05);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Microsoft YaHei",-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);display:flex;min-height:100vh}
+  /* ---------- 侧边栏 ---------- */
+  aside{width:220px;background:#fff;border-right:1px solid var(--line);padding:22px 14px;position:sticky;top:0;height:100vh;flex-shrink:0}
+  .logo{font-size:19px;font-weight:800;padding:0 10px 18px;letter-spacing:.5px}
+  .logo span{color:var(--blue)}
+  .nav-group{margin-bottom:14px}
+  .nav-title{font-size:12px;color:var(--sub);padding:8px 10px 6px;letter-spacing:2px}
+  .nav-item{display:flex;align-items:center;gap:9px;padding:10px 12px;border-radius:10px;cursor:pointer;font-size:14.5px;color:#3a4152;margin-bottom:2px;transition:.15s}
+  .nav-item:hover{background:#f1f4fa}
+  .nav-item.active{background:var(--blue-soft);color:var(--blue);font-weight:700}
+  .today-chip{margin-top:18px;padding:12px;border-radius:12px;background:linear-gradient(135deg,#eaf1ff,#f3edff);font-size:12.5px;color:#4a5268;line-height:1.7}
+  /* ---------- 主区 ---------- */
+  main{flex:1;padding:26px 34px;max-width:1080px}
+  .view{display:none}
+  .view.show{display:block;animation:fade .25s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1}}
+  h1.page{font-size:22px;margin-bottom:4px}
+  .page-sub{color:var(--sub);font-size:13.5px;margin-bottom:20px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:22px;margin-bottom:20px}
+  .card h2{font-size:16.5px;margin-bottom:4px;display:flex;align-items:center;gap:8px}
+  .card .hint{color:var(--sub);font-size:12.5px;margin-bottom:14px}
+  .btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:#fff;border-radius:9px;padding:7px 14px;font-size:13px;cursor:pointer;color:#333;transition:.15s}
+  .btn:hover{border-color:var(--blue);color:var(--blue)}
+  .btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+  .btn.primary:hover{opacity:.9}
+  .btn.small{padding:4px 10px;font-size:12px;border-radius:7px}
+  .tag{display:inline-block;font-size:11.5px;padding:2px 9px;border-radius:20px;background:var(--blue-soft);color:var(--blue);margin-left:6px;font-weight:600}
+  /* 文章 */
+  .art-title{font-size:19px;font-weight:800;margin:6px 0 2px}
+  .art-title-cn{color:var(--sub);font-size:13px;margin-bottom:12px}
+  .para{margin-bottom:14px;line-height:1.9;font-size:15.5px}
+  .para .en .w{cursor:pointer;border-radius:4px;padding:0 1px;transition:.1s}
+  .para .en .w:hover{background:#ffe9a8}
+  .para .cn{display:none;margin-top:6px;padding:9px 13px;background:#f7f8fc;border-left:3px solid var(--blue);border-radius:6px;color:#4b5364;font-size:13.5px;line-height:1.8}
+  .show-cn .para .cn{display:block}
+  .para-tools{display:inline-flex;margin-left:6px;vertical-align:middle}
+  .speak-mini{cursor:pointer;font-size:13px;opacity:.45}
+  .speak-mini:hover{opacity:1}
+  /* 单词卡 */
+  .word-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:10px}
+  .word-card{border:1px solid var(--line);border-radius:11px;padding:11px 13px;cursor:pointer;background:#fff;transition:.15s;position:relative}
+  .word-card:hover{border-color:var(--blue);box-shadow:var(--shadow)}
+  .word-card.done{background:var(--green-soft);border-color:#bfe8d2}
+  .word-card .w-head{font-weight:800;font-size:15px;display:flex;justify-content:space-between;align-items:center}
+  .word-card .w-p{color:var(--sub);font-size:12px;margin:2px 0}
+  .word-card .w-cn{font-size:13px;color:#374151}
+  .word-card .w-ex{display:none;font-size:12px;color:var(--sub);margin-top:6px;line-height:1.6;border-top:1px dashed var(--line);padding-top:6px}
+  .word-card.open .w-ex{display:block}
+  .w-check{position:absolute;top:9px;right:10px;font-size:15px}
+  /* 语法 */
+  .gq{margin-bottom:18px;padding:16px;border:1px solid var(--line);border-radius:11px}
+  .gq .q{font-size:15px;font-weight:600;margin-bottom:10px;line-height:1.7}
+  .opt{display:block;width:100%;text-align:left;padding:9px 13px;margin-bottom:7px;border:1px solid var(--line);border-radius:9px;background:#fff;cursor:pointer;font-size:14px;transition:.12s}
+  .opt:hover{border-color:var(--blue)}
+  .opt.chosen{background:var(--blue-soft);border-color:var(--blue);color:var(--blue);font-weight:700}
+  .opt.right{background:var(--green-soft);border-color:var(--green);color:var(--green);font-weight:700}
+  .opt.wrong{background:var(--red-soft);border-color:var(--red);color:var(--red)}
+  .explain{display:none;margin-top:10px;padding:12px 14px;background:var(--gold-soft);border-left:3px solid var(--gold);border-radius:6px;font-size:13.5px;line-height:1.8;color:#5b4a12}
+  .explain.show{display:block}
+  /* 玄学 */
+  .subj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:14px}
+  .subj-card{background:#fff;border:1px solid var(--line);border-radius:13px;padding:18px;cursor:pointer;transition:.18s;box-shadow:var(--shadow)}
+  .subj-card:hover{transform:translateY(-3px);border-color:var(--blue)}
+  .subj-card .s-name{font-size:17px;font-weight:800;margin:8px 0 4px}
+  .subj-card .s-intro{font-size:12.5px;color:var(--sub);line-height:1.7;min-height:56px}
+  .pbar{height:7px;background:#eef0f6;border-radius:6px;margin-top:10px;overflow:hidden}
+  .pbar i{display:block;height:100%;border-radius:6px;transition:.4s}
+  .p-label{font-size:12px;color:var(--sub);margin-top:5px}
+  /* 数据备份 */
+  .btn{display:inline-block;padding:11px 20px;border:none;border-radius:11px;background:var(--blue);color:#fff;font-size:14.5px;font-weight:700;cursor:pointer;transition:.15s}
+  .btn:hover{filter:brightness(1.06)}
+  .btn.ghost{background:#eef1f8;color:var(--blue)}
+  .btn.warn{background:var(--red);color:#fff}
+  .status{margin-top:12px;font-size:13.5px;line-height:1.7;min-height:20px;color:var(--sub)}
+  .status.ok{color:var(--green)}
+  .status.err{color:var(--red)}
+  .data-warn{margin:-4px 0 16px;padding:12px 15px;border-radius:11px;background:var(--gold-soft);border:1px solid var(--gold);color:#7a5b08;font-size:13.5px;line-height:1.8}
+  .ov-row{display:flex;justify-content:space-between;padding:10px 4px;border-bottom:1px dashed var(--line);font-size:14.5px}
+  .ov-row:last-child{border-bottom:none}
+  .ov-row b{color:var(--blue)}
+  .ov-tag{display:inline-block;padding:2px 10px;border-radius:20px;font-size:12.5px;font-weight:700}
+  .ov-tag.good{background:var(--green-soft);color:var(--green)}
+  .ov-tag.bad{background:var(--gold-soft);color:#7a5b08}
+  /* 语法自学分组 */
+  .gram-group{margin-bottom:22px}
+  .gram-group-title{font-size:15px;font-weight:800;color:var(--blue);margin:6px 2px 12px;padding-left:10px;border-left:4px solid var(--blue)}
+  .gram-grid-inner{display:grid;grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:14px}
+  .chap-item{display:flex;align-items:center;gap:10px;padding:10px 13px;border-radius:9px;margin-bottom:5px;font-size:14px}
+  .chap-item.open-ch{cursor:pointer}
+  .chap-item.open-ch:hover{background:#f1f4fa}
+  .chap-item.locked{color:#b6bcc9}
+  .chap-item.current{background:var(--blue-soft);color:var(--blue);font-weight:700}
+  .chap-item.passed{color:var(--green)}
+  .sec{margin-bottom:16px}
+  .sec h4{font-size:15px;margin-bottom:6px;color:#2b3346}
+  .sec p{font-size:14.5px;line-height:1.95;color:#3c4354}
+  .case-box{background:var(--purple-soft);border-left:3px solid var(--purple);border-radius:8px;padding:14px 16px;margin:16px 0}
+  .case-box b{color:var(--purple)}
+  .case-box p{font-size:13.5px;line-height:1.9;margin-top:6px;color:#4a3f68}
+  .quiz-score{font-size:14px;font-weight:700;margin-top:8px}
+  .note-area{width:100%;border:1px solid var(--line);border-radius:9px;padding:10px;font-size:13.5px;font-family:inherit;resize:vertical;min-height:60px}
+  .note-item{padding:9px 12px;background:#f7f8fc;border-radius:8px;font-size:13px;margin-top:7px;color:#4b5364;line-height:1.7}
+  .note-item .n-meta{font-size:11px;color:#9aa1af;margin-bottom:2px}
+  .crumb{font-size:13px;color:var(--sub);margin-bottom:14px;cursor:pointer}
+  .crumb:hover{color:var(--blue)}
+  /* 分析 */
+  .stat-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:20px}
+  .stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px;box-shadow:var(--shadow)}
+  .stat .num{font-size:26px;font-weight:800;color:var(--blue)}
+  .stat .lbl{font-size:12.5px;color:var(--sub);margin-top:3px}
+  table.rec{width:100%;border-collapse:collapse;font-size:13.5px}
+  table.rec th,table.rec td{padding:9px 10px;text-align:left;border-bottom:1px solid var(--line)}
+  table.rec th{color:var(--sub);font-weight:600;font-size:12.5px}
+  .ok{color:var(--green);font-weight:700}.no{color:#c0c4cf}
+  /* 词义浮窗 */
+  #tip{position:fixed;z-index:99;background:#1f2430;color:#fff;border-radius:10px;padding:11px 14px;font-size:13px;max-width:260px;box-shadow:0 8px 24px rgba(0,0,0,.25);display:none;line-height:1.7}
+  #tip .t-w{font-size:15px;font-weight:800}
+  #tip .t-p{color:#9fb4e8;font-size:12px}
+  #tip .t-link{color:#8ec3ff;text-decoration:underline;cursor:pointer;font-size:12px}
+  .footer-tip{color:#9aa1af;font-size:12px;text-align:center;padding:10px 0 30px}
+  svg text{font-family:inherit}
+  /* 英语学习子导航（四个独立模块） */
+  .subnav{display:flex;gap:6px;margin-bottom:18px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:12px}
+  .subnav-item{padding:8px 16px;border-radius:10px;cursor:pointer;font-size:14px;color:#3a4152;font-weight:600;transition:.15s;background:#f1f4fa}
+  .subnav-item:hover{background:#e6ecf9}
+  .subnav-item.active{background:var(--blue);color:#fff}
+  .subnav-item .s-badge{font-size:11px;background:rgba(255,255,255,.35);padding:1px 7px;border-radius:10px;margin-left:6px;font-weight:700}
+  .subnav-item:not(.active) .s-badge{background:#fff;color:var(--sub)}
+  .eng-pane{display:none}
+  .eng-pane.show{display:block;animation:fade .25s ease}
+  @media(max-width:860px){aside{display:none}main{padding:18px}}
+</style>
+</head>
+<body>
+<aside>
+  <div class="logo">📖 学习<span>工作台</span></div>
+  <div class="nav-group">
+    <div class="nav-title">学 习</div>
+    <div class="nav-item" data-v="english">🇬🇧 英语 · 雅思</div>
+    <div class="nav-item" data-v="mystic">☯️ 阴阳 · 玄学</div>
+  </div>
+  <div class="nav-group">
+    <div class="nav-title">记 录</div>
+    <div class="nav-item" data-v="engAna">📈 英语分析</div>
+    <div class="nav-item" data-v="mysAna">📊 阴阳分析</div>
+    <div class="nav-item" data-v="data">🗄️ 数据备份</div>
+  </div>
+  <div class="today-chip" id="todayChip"></div>
+</aside>
+
+<main>
+  <!-- ============ 英语 ============ -->
+  <div class="view" id="view-english">
+    <h1 class="page">英语 · 雅思每日学习</h1>
+    <div class="page-sub" id="engSub"></div>
+
+    <div class="subnav" id="engSubnav">
+      <div class="subnav-item active" data-eng="article">📰 雅思文章</div>
+      <div class="subnav-item" data-eng="words">🔤 每日单词 <span class="s-badge" id="bWords">0/30</span></div>
+      <div class="subnav-item" data-eng="vocab">📚 词汇阅读</div>
+      <div class="subnav-item" data-eng="grammar">✏️ 语法自学 <span class="s-badge" id="bGram">0次</span></div>
+    </div>
+
+    <!-- 模块 1：雅思文章（独立） -->
+    <div class="eng-pane show" id="eng-article">
+      <div class="card" id="articleCard">
+        <h2>📰 今日雅思文章 <span class="tag" id="topicTag"></span></h2>
+        <div class="hint">点击任意单词可查看释义并发音 · 每天自动更新</div>
+        <div style="margin-bottom:12px;display:flex;gap:8px;flex-wrap:wrap">
+          <button class="btn primary" id="btnPlayAll">▶ 朗读全文</button>
+          <button class="btn" id="btnStop">⏹ 停止</button>
+          <button class="btn" id="btnCn">🀄 显示/隐藏中文对照</button>
+          <button class="btn" id="btnSlow">🐢 慢速: 关</button>
+        </div>
+        <div class="art-title" id="artTitle"></div>
+        <div class="art-title-cn" id="artTitleCn"></div>
+        <div id="artBody" class="art-container"></div>
+        <button class="btn" id="btnRead" style="margin-top:8px">✅ 我读完这篇文章了</button>
+      </div>
+    </div>
+
+    <!-- 模块 2：每日单词（独立） -->
+    <div class="eng-pane" id="eng-words">
+      <div class="card">
+        <h2>🔤 今日 30 个雅思单词</h2>
+        <div class="hint">点击卡片：发音并展开例句 · 点击右上角 ⭕ 标记已背 · <b id="wordProg"></b></div>
+        <div class="word-grid" id="wordGrid"></div>
+      </div>
+    </div>
+
+    <!-- 模块 3：词汇阅读（独立） -->
+    <div class="eng-pane" id="eng-vocab">
+      <div class="card">
+        <h2>📚 词汇阅读文章 <span class="tag">用今日30词写成</span></h2>
+        <div class="hint">在语境中巩固今日单词（加粗的即为今日单词，点击可查词）</div>
+        <div style="margin-bottom:12px;display:flex;gap:8px">
+          <button class="btn" id="btnPlayVocab">▶ 朗读本文</button>
+          <button class="btn" id="btnCn2">🀄 中文对照</button>
+        </div>
+        <div class="art-title" id="vArtTitle"></div>
+        <div class="art-title-cn" id="vArtTitleCn"></div>
+        <div id="vArtBody" class="art-container"></div>
+      </div>
+    </div>
+
+    <!-- 模块 4：语法自学（独立） -->
+    <div class="eng-pane" id="eng-grammar">
+      <div id="grammarHome">
+        <div class="card">
+          <h2>✏️ 语法自学 · 十大专题</h2>
+          <div class="hint">点开任一专题先学讲解，再开始「随机10题」测试；每次练习题目与顺序都不同，可无限重练</div>
+          <div class="subj-grid" id="grammarGrid"></div>
+        </div>
+      </div>
+      <div id="grammarDetail" style="display:none"></div>
+    </div>
+    <div class="footer-tip">四个模块各自独立 · 完成学习后数据自动记入「英语分析」· 内容每日清晨自动更新</div>
+  </div>
+
+  <!-- ============ 玄学 ============ -->
+  <div class="view" id="view-mystic">
+    <div id="mysticHome">
+      <h1 class="page">阴阳 · 玄学七门</h1>
+      <div class="page-sub">从零开始逐章学习 · 每章配案例与测试，测试通过（≥3/4）才解锁下一章</div>
+      <div class="subj-grid" id="subjGrid"></div>
+    </div>
+    <div id="mysticDetail" style="display:none"></div>
+  </div>
+
+  <!-- ============ 英语分析 ============ -->
+  <div class="view" id="view-engAna">
+    <h1 class="page">英语分析</h1>
+    <div class="page-sub">我的雅思学习记录，每天自动汇总</div>
+    <div class="stat-row" id="engStats"></div>
+    <div class="card">
+      <h2>📊 近14天 · 单词背诵量</h2>
+      <div class="hint">每根柱子 = 当天标记「已背」的单词数（满分30）</div>
+      <div id="chartWords"></div>
+    </div>
+    <div class="card">
+      <h2>📋 每日明细</h2>
+      <div id="recTable"></div>
+    </div>
+  </div>
+
+  <!-- ============ 阴阳分析 ============ -->
+  <div class="view" id="view-mysAna">
+    <h1 class="page">阴阳分析</h1>
+    <div class="page-sub">七门功课各学到哪里、测试成绩、以及记下的疑问</div>
+    <div class="card">
+      <h2>📊 学习进度总览</h2>
+      <div class="hint">进度 = 已通过测试的章节 / 大纲总章节</div>
+      <div id="chartMystic"></div>
+    </div>
+    <div class="card">
+      <h2>❓ 我的疑问记录</h2>
+      <div class="hint">在每章学习页写下的「没明白」都会汇总到这里，下次问我即可逐个击破</div>
+      <div id="noteList"></div>
+    </div>
+  </div>
+
+  <!-- ============ 数据备份 ============ -->
+  <div class="view" id="view-data">
+    <h1 class="page">数据备份与同步</h1>
+    <div class="page-sub">所有学习记录、每日单词、语法成绩、玄学进度都保存在你的浏览器本地。重装 / 更新工作台 / 换电脑前，请先「导出」备份，更新后再「导入」恢复。</div>
+    <div id="dataWarn"></div>
+    <div class="card">
+      <h2>💾 导出数据</h2>
+      <div class="hint">把当前所有学习数据打包成一个 .json 文件，下载到电脑保存。建议每周或每次更新前导出一次。</div>
+      <button class="btn" id="btnExport">⬇️ 导出全部数据（.json）</button>
+      <div class="status" id="expStatus"></div>
+    </div>
+    <div class="card">
+      <h2>📥 导入数据</h2>
+      <div class="hint">选择之前导出的 .json 文件，把数据恢复到本工作台。导入前会自动备份当前数据，可随时再导出找回。</div>
+      <button class="btn ghost" id="btnImportPick">⬆️ 选择文件并导入</button>
+      <input type="file" id="fileImport" accept="application/json,.json" style="display:none">
+      <div class="status" id="impStatus"></div>
+    </div>
+    <div class="card">
+      <h2>📊 当前数据概览</h2>
+      <div id="dataOverview"></div>
+    </div>
+  </div>
+</main>
+
+<div id="tip"></div>
+
+<script src="data/english_daily.js"></script>
+<script src="data/english_history.js"></script>
+<script src="data/mystic_courses.js"></script>
+<script src="data/grammar_course.js"></script>
+<script>
+/* ================= 通用 ================= */
+const D = window.ENGLISH_DAILY, COURSES = window.MYSTIC_COURSES;
+const TODAY = new Date().toISOString().slice(0,10);
+const $ = s => document.querySelector(s);
+/* localStorage 访问：file:// 或隐私模式下可能不可用，加内存兜底，保证页面始终可用 */
+const LS = (function(){
+  let mem = {}; let ok = true;
+  try { const t='__wb_t'; localStorage.setItem(t,'1'); localStorage.removeItem(t); }
+  catch(e){ ok = false; }
+  function allKeys(){
+    if(ok){ const a=[]; for(let i=0;i<localStorage.length;i++){ const k=localStorage.key(i); if(k) a.push(k); } return a; }
+    return Object.keys(mem);
+  }
+  return {
+    available: ok,
+    get(k,d){ try{ const v = ok ? localStorage.getItem(k) : mem[k]; return v==null ? d : JSON.parse(v); }catch(e){ return d; } },
+    set(k,v){ const s = JSON.stringify(v); try{ if(ok) localStorage.setItem(k, s); else mem[k]=s; }catch(e){ mem[k]=s; } },
+    // 导出：返回某前缀的所有键值对
+    entries(prefix){ const out={}; allKeys().forEach(k=>{ if(k.indexOf(prefix)===0){ const v=ok?localStorage.getItem(k):mem[k]; if(v!=null){ try{ out[k]=JSON.parse(v); }catch(e){ out[k]=v; } } } }); return out; },
+    // 清空：删除某前缀的所有键
+    clear(prefix){ allKeys().forEach(k=>{ if(k.indexOf(prefix)===0){ try{ if(ok) localStorage.removeItem(k); else delete mem[k]; }catch(e){} } }); }
+  };
+})();
+window.LS = LS; /* 便于在浏览器控制台查看/调试数据 */
+/* 打卡记录：{date:{words:n, grammar:n, read:bool}} */
+function records(){ return LS.get('wb_eng_records', {}) }
+function saveRec(patch){
+  const r = records(); r[TODAY] = Object.assign({words:0,grammar:0,read:false}, r[TODAY]||{}, patch);
+  LS.set('wb_eng_records', r);
+}
+
+/* 导航 */
+document.querySelectorAll('.nav-item').forEach(el=>{
+  el.onclick = ()=>show(el.dataset.v);
+});
+/* 英语四个子模块独立切换 */
+document.querySelectorAll('#engSubnav .subnav-item').forEach(el=>{
+  el.onclick = ()=>{
+    document.querySelectorAll('#engSubnav .subnav-item').forEach(e=>e.classList.toggle('active', e===el));
+    document.querySelectorAll('.eng-pane').forEach(p=>p.classList.remove('show'));
+    $('#eng-'+el.dataset.eng).classList.add('show');
+  };
+});
+function show(v){
+  document.querySelectorAll('.nav-item').forEach(e=>e.classList.toggle('active', e.dataset.v===v));
+  document.querySelectorAll('.view').forEach(e=>e.classList.remove('show'));
+  $('#view-'+v).classList.add('show');
+  if(v==='engAna') renderEngAna();
+  if(v==='mysAna') renderMysAna();
+  if(v==='data') renderDataView();
+}
+
+/* ================= 语音 ================= */
+let slow = false;
+function speak(text, rate){
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-US'; u.rate = rate ?? (slow ? 0.72 : 0.95);
+  const vs = speechSynthesis.getVoices().filter(v=>/en(-|_)(US|GB)/i.test(v.lang));
+  if(vs.length) u.voice = vs.find(v=>/GB/i.test(v.lang)) || vs[0];
+  speechSynthesis.speak(u);
+}
+speechSynthesis.onvoiceschanged = ()=>{};
+
+/* ================= 词典 ================= */
+const GLOSS = {};
+(D.article.glossary||[]).forEach(g=>GLOSS[g.w.toLowerCase()]=g);
+D.words.forEach(w=>GLOSS[w.w.toLowerCase()] = {w:w.w,pos:w.pos,p:w.p,cn:w.cn});
+function lookup(raw){
+  let w = raw.toLowerCase().replace(/[^a-z'-]/g,'');
+  if(GLOSS[w]) return GLOSS[w];
+  const tries=[];
+  if(w.endsWith("'s")) tries.push(w.slice(0,-2));
+  if(w.endsWith('ies')) tries.push(w.slice(0,-3)+'y');
+  if(w.endsWith('es')) tries.push(w.slice(0,-2));
+  if(w.endsWith('s')) tries.push(w.slice(0,-1));
+  if(w.endsWith('ing')) tries.push(w.slice(0,-3), w.slice(0,-3)+'e');
+  if(w.endsWith('ed')) tries.push(w.slice(0,-2), w.slice(0,-1));
+  if(w.endsWith('ly')) tries.push(w.slice(0,-2));
+  for(const t of tries) if(GLOSS[t]) return GLOSS[t];
+  return null;
+}
+const tip = $('#tip');
+function showTip(ev, word){
+  const g = lookup(word);
+  speak(word.replace(/[^a-zA-Z'-]/g,''), 0.85);
+  tip.innerHTML = g
+    ? `<div class="t-w">${g.w}</div><div class="t-p">${g.p||''} ${g.pos||''}</div><div>${g.cn}</div>`
+    : `<div class="t-w">${word}</div><div style="color:#aab3c5">本地词库未收录</div><div class="t-link" onclick="window.open('https://dict.youdao.com/result?word=${encodeURIComponent(word)}&lang=en')">去有道词典查看 →</div>`;
+  tip.style.display='block';
+  const x = Math.min(ev.clientX+12, innerWidth-280), y = Math.min(ev.clientY+14, innerHeight-120);
+  tip.style.left=x+'px'; tip.style.top=y+'px';
+}
+document.addEventListener('click', e=>{
+  if(e.target.classList.contains('w')){ showTip(e, e.target.textContent); e.stopPropagation(); }
+  else tip.style.display='none';
+});
+
+/* ================= 英语渲染 ================= */
+function tokenize(en, boldSet){
+  return en.split(/([A-Za-z][A-Za-z'-]*)/g).map(t=>{
+    if(/^[A-Za-z]/.test(t)){
+      const isNew = boldSet && boldSet.has(t.toLowerCase().replace(/[^a-z-]/g,''));
+      return `<span class="w" style="${isNew?'font-weight:800;color:#2f6fed':''}">${t}</span>`;
+    }
+    return t;
+  }).join('');
+}
+function renderArticle(container, paras, boldSet){
+  container.innerHTML = paras.map((p,i)=>`
+    <div class="para">
+      <span class="en">${tokenize(p.en, boldSet)}</span>
+      <span class="para-tools"><span class="speak-mini" data-say="${encodeURIComponent(p.en)}">🔊</span></span>
+      <div class="cn">${p.cn}</div>
+    </div>`).join('');
+  container.querySelectorAll('.speak-mini').forEach(el=>{
+    el.onclick = e=>{ e.stopPropagation(); speak(decodeURIComponent(el.dataset.say)); };
+  });
+}
+function initEnglish(){
+  $('#engSub').textContent = `${D.date} · 主题：${D.topic} · 每天清晨自动更新`;
+  $('#topicTag').textContent = D.topic.split('（')[0];
+  $('#todayChip').innerHTML = `📅 ${TODAY}<br>今日主题：${D.topic.split('（')[0]}<br>坚持就是胜利 💪`;
+  $('#artTitle').textContent = D.article.title;
+  $('#artTitleCn').textContent = D.article.titleCn;
+  renderArticle($('#artBody'), D.article.paras);
+  $('#vArtTitle').textContent = D.vocabArticle.title;
+  $('#vArtTitleCn').textContent = D.vocabArticle.titleCn;
+  const newSet = new Set(D.words.map(w=>w.w.toLowerCase()));
+  const boldAll = new Set();
+  D.vocabArticle.paras.forEach(p=>p.en.split(/[^A-Za-z'-]+/).forEach(t=>{
+    const g = lookup(t); if(g && newSet.has(g.w.toLowerCase())) boldAll.add(t.toLowerCase());
+  }));
+  renderArticle($('#vArtBody'), D.vocabArticle.paras, boldAll);
+
+  $('#btnPlayAll').onclick = ()=>speak(D.article.title+'. '+D.article.paras.map(p=>p.en).join(' '));
+  $('#btnPlayVocab').onclick = ()=>speak(D.vocabArticle.title+'. '+D.vocabArticle.paras.map(p=>p.en).join(' '));
+  $('#btnStop').onclick = ()=>speechSynthesis.cancel();
+  $('#btnCn').onclick = ()=>$('#artBody').classList.toggle('show-cn');
+  $('#btnCn2').onclick = ()=>$('#vArtBody').classList.toggle('show-cn');
+  $('#btnSlow').onclick = e=>{ slow=!slow; e.target.textContent='🐢 慢速: '+(slow?'开':'关'); };
+  const readBtn = $('#btnRead');
+  const refreshRead = ()=>{
+    const r = records()[TODAY];
+    if(r && r.read){ readBtn.textContent='✅ 今日文章已读完'; readBtn.style.color='var(--green)'; }
+  };
+  readBtn.onclick = ()=>{ saveRec({read:true}); refreshRead(); };
+  refreshRead();
+  renderWords(); renderGrammarHome();
+  const bg0=$('#bGram'); if(bg0){ const r=records()[TODAY]; bg0.textContent=((r&&r.gramSessions)||0)+'次'; }
+}
+function renderWords(){
+  const done = new Set(LS.get('wb_words_'+TODAY, []));
+  const grid = $('#wordGrid');
+  grid.innerHTML = D.words.map((w,i)=>`
+    <div class="word-card ${done.has(i)?'done':''}" data-i="${i}">
+      <span class="w-check">${done.has(i)?'✅':'⭕'}</span>
+      <div class="w-head">${w.w}</div>
+      <div class="w-p">${w.p} ${w.pos}</div>
+      <div class="w-cn">${w.cn}</div>
+      <div class="w-ex"><b>${w.ex}</b><br>${w.exCn}</div>
+    </div>`).join('');
+  $('#wordProg').textContent = `已背 ${done.size} / 30`;
+  const bw = $('#bWords'); if(bw) bw.textContent = `${done.size}/30`;
+  saveRec({words: done.size});
+  grid.querySelectorAll('.word-card').forEach(card=>{
+    const i = +card.dataset.i;
+    card.onclick = e=>{
+      if(e.target.classList.contains('w-check')){
+        const s = new Set(LS.get('wb_words_'+TODAY, []));
+        s.has(i) ? s.delete(i) : s.add(i);
+        LS.set('wb_words_'+TODAY, [...s]); renderWords();
+      } else { card.classList.toggle('open'); speak(D.words[i].w, 0.85); }
+    };
+  });
+}
+/* ================= 语法自学课程 ================= */
+const GCTOPICS = window.GRAMMAR_COURSE.topics;
+const GCPER = window.GRAMMAR_COURSE.perSession;
+let currentGramQuiz = [], quizSel = {};
+function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+function gramState(){ return LS.get('wb_grammar_states', {}) }
+function saveGramState(s){ LS.set('wb_grammar_states', s); }
+function logGramSession(score){
+  const r = records(); const t = r[TODAY]||{};
+  r[TODAY] = Object.assign({words:0,grammar:0,read:false,gramSessions:0,gramAnswered:0,gramCorrect:0,gramBest:0}, t, {
+    gramSessions:(t.gramSessions||0)+1,
+    gramAnswered:(t.gramAnswered||0)+GCPER,
+    gramCorrect:(t.gramCorrect||0)+score,
+    gramBest:Math.max(t.gramBest||0, score)
+  });
+  LS.set('wb_eng_records', r);
+  const bg=$('#bGram'); if(bg) bg.textContent=((r[TODAY].gramSessions)||0)+'次';
+}
+function renderGrammarHome(){
+  const st = gramState();
+  const groups = {};
+  GCTOPICS.forEach(t=>{ const k=t.cat||'其他'; (groups[k]=groups[k]||[]).push(t); });
+  let html = '';
+  Object.keys(groups).forEach(cat=>{
+    html += `<div class="gram-group"><div class="gram-group-title">${cat}</div><div class="gram-grid-inner">`;
+    html += groups[cat].map(t=>{
+      const s = st[t.id] || {sessions:0,best:0};
+      const pct = s.sessions ? Math.round(s.best/GCPER*100) : 0;
+      return `<div class="subj-card" data-gid="${t.id}">
+        <div style="font-size:26px">${t.emoji}</div>
+        <div class="s-name">${t.name}</div>
+        <div class="s-intro">${t.pool.length} 题题库 · 每次随机抽取 10 题</div>
+        <div class="pbar"><i style="width:${pct}%;background:var(--green)"></i></div>
+        <div class="p-label">已练 ${s.sessions} 次 · 最佳 ${s.best}/${GCPER}</div>
+      </div>`;
+    }).join('');
+    html += `</div></div>`;
+  });
+  $('#grammarGrid').innerHTML = html;
+  document.querySelectorAll('#grammarGrid .subj-card').forEach(el=>{
+    el.onclick = ()=>openGrammarTopic(el.dataset.gid);
+  });
+}
+function openGrammarTopic(id){
+  const t = GCTOPICS.find(x=>x.id===id);
+  const st = gramState(); const s = st[id]||{sessions:0,best:0};
+  $('#grammarHome').style.display='none';
+  const box = $('#grammarDetail'); box.style.display='block';
+  box.innerHTML = `
+    <div class="crumb" id="gBack">← 返回语法专题</div>
+    <h1 class="page">${t.emoji} ${t.name}</h1>
+    <div class="page-sub">题库 ${t.pool.length} 题 · 每次随机抽取 10 题，选项顺序也一并打乱</div>
+    <div class="card">
+      <h2>📖 知识点讲解</h2>
+      <div class="sec">${t.lesson}</div>
+    </div>
+    <div class="card">
+      <h2>🎯 随机练习（10 题）</h2>
+      <div class="hint">已练 ${s.sessions} 次 · 历史最佳 ${s.best}/${GCPER} · 点按钮生成一套<b>全新</b>的 10 题，可无限重练</div>
+      <button class="btn primary" id="gStart">▶ 开始一套随机 10 题</button>
+      <div id="gQuiz"></div>
+    </div>`;
+  $('#gBack').onclick = ()=>{ box.style.display='none'; $('#grammarHome').style.display='block'; renderGrammarHome(); };
+  $('#gStart').onclick = ()=>startGrammarQuiz(id);
+}
+function startGrammarQuiz(id){
+  const t = GCTOPICS.find(x=>x.id===id);
+  const pool = t.pool.slice(); shuffle(pool);
+  const picked = pool.slice(0, GCPER);
+  currentGramQuiz = picked.map(item=>{
+    const arr = item.o.map((opt,oi)=>({opt, ok: oi===item.a}));
+    shuffle(arr);
+    return {q:item.q, options:arr.map(x=>x.opt), answer:arr.findIndex(x=>x.ok), explain:item.e};
+  });
+  quizSel = {};
+  const wrap = $('#gQuiz');
+  wrap.innerHTML = currentGramQuiz.map((g,qi)=>`
+    <div class="gq" data-q="${qi}">
+      <div class="q">Q${qi+1}. ${g.q}</div>
+      ${g.options.map((o,oi)=>`<button class="opt" data-q="${qi}" data-o="${oi}">${String.fromCharCode(65+oi)}. ${o}</button>`).join('')}
+      <div class="explain" id="gex-${qi}"></div>
+    </div>`).join('')
+    + `<button class="btn primary" id="gSubmit">提交本套练习</button>
+       <div class="quiz-score" id="gResult"></div>`;
+  wrap.querySelectorAll('.opt').forEach(b=>{
+    b.onclick = ()=>{
+      const qi=+b.dataset.q;
+      wrap.querySelectorAll(`.opt[data-q="${qi}"]`).forEach(x=>x.classList.remove('chosen'));
+      b.classList.add('chosen');
+      quizSel[qi]=+b.dataset.o;
+    };
+  });
+  $('#gSubmit').onclick = ()=>{
+    let score=0, unanswered=0;
+    currentGramQuiz.forEach((g,qi)=>{
+      const chosen = quizSel[qi];
+      const exEl = $('#gex-'+qi);
+      if(chosen===undefined){ unanswered++; exEl.classList.add('show'); exEl.innerHTML='⚠️ 未作答。正确答案：'+String.fromCharCode(65+g.answer)+'<br>'+g.explain; return; }
+      const ok = chosen===g.answer; if(ok) score++;
+      wrap.querySelector(`.opt[data-q="${qi}"][data-o="${g.answer}"]`).classList.add('right');
+      if(!ok) wrap.querySelector(`.opt[data-q="${qi}"][data-o="${chosen}"]`).classList.add('wrong');
+      exEl.classList.add('show');
+      exEl.innerHTML = (ok?'✅ 回答正确！':'❌ 回答错误。正确答案：'+String.fromCharCode(65+g.answer))+'<br>'+g.explain;
+    });
+    if(unanswered>0){ $('#gResult').textContent='还有 '+unanswered+' 题未作答'; $('#gResult').style.color='var(--red)'; return; }
+    const st = gramState(); if(!st[id]) st[id]={sessions:0,best:0};
+    st[id].sessions++; st[id].best=Math.max(st[id].best, score); saveGramState(st);
+    logGramSession(score);
+    $('#gResult').innerHTML = `🎯 本套得分 ${score}/${GCPER}` + (score===GCPER?' · 满分！太棒了 🎉':(score>=GCPER*0.6?' · 不错，继续巩固':' · 多看看上面的讲解再练一套'));
+    $('#gResult').style.color = score===GCPER?'var(--green)':(score>=GCPER*0.6?'var(--blue)':'var(--red)');
+    // 刷新专题卡里的进度（下次返回时可见）
+  };
+}
+
+/* ================= 玄学 ================= */
+function mysState(){ return LS.get('wb_mystic', {}) }
+function subjState(id){
+  const s = mysState();
+  if(!s[id]) s[id] = {unlocked:1, scores:{}, notes:[]};
+  return s[id];
+}
+function saveSubj(id, st){ const s = mysState(); s[id]=st; LS.set('wb_mystic', s); }
+
+function renderSubjects(){
+  $('#subjGrid').innerHTML = COURSES.map(c=>{
+    const st = subjState(c.id);
+    const passed = Object.values(st.scores).filter(v=>v>=3).length;
+    const pct = Math.round(passed / c.syllabus.length * 100);
+    return `<div class="subj-card" data-id="${c.id}">
+      <div style="font-size:26px">${c.emoji}</div>
+      <div class="s-name">${c.name}</div>
+      <div class="s-intro">${c.intro}</div>
+      <div class="pbar"><i style="width:${pct}%;background:${c.color}"></i></div>
+      <div class="p-label">已通过 ${passed}/${c.syllabus.length} 章 · 当前解锁到第 ${st.unlocked} 章</div>
+    </div>`;
+  }).join('');
+  document.querySelectorAll('#subjGrid .subj-card').forEach(el=>{
+    el.onclick = ()=>openSubject(el.dataset.id, null);
+  });
+}
+function openSubject(id, chIndex){
+  const c = COURSES.find(x=>x.id===id);
+  const st = subjState(id);
+  if(chIndex===null || chIndex===undefined) chIndex = Math.min(st.unlocked, c.chapters.length) - 1;
+  if(chIndex < 0) chIndex = 0;
+  $('#mysticHome').style.display='none';
+  const box = $('#mysticDetail'); box.style.display='block';
+  const hasContent = chIndex < c.chapters.length;
+  const ch = hasContent ? c.chapters[chIndex] : null;
+  const quizState = st.scores['ch'+chIndex];
+
+  box.innerHTML = `
+    <div class="crumb" id="backHome">← 返回全部课程</div>
+    <h1 class="page">${c.emoji} ${c.name}</h1>
+    <div class="page-sub">${c.intro}</div>
+    <div style="display:grid;grid-template-columns:250px 1fr;gap:18px;align-items:start">
+      <div class="card" style="padding:14px">
+        <h2 style="font-size:14px;margin-bottom:10px">📑 课程大纲</h2>
+        ${c.syllabus.map((t,i)=>{
+          const passed = st.scores['ch'+i]>=3;
+          const unlocked = i < st.unlocked;
+          const cls = i===chIndex?'current':(passed?'passed':(unlocked?'':'locked'));
+          const icon = passed?'✅':(unlocked?'📖':'🔒');
+          return `<div class="chap-item ${cls} ${unlocked?'open-ch':''}" data-ch="${i}">${icon} ${t}</div>`;
+        }).join('')}
+      </div>
+      <div>
+        ${hasContent ? `
+        <div class="card">
+          <h2>${ch.title}</h2>
+          <div class="hint">认真读完正文和案例，再做下方测试；答对 3/4 即解锁下一章</div>
+          ${ch.sections.map(s=>`<div class="sec"><h4>◆ ${s.h}</h4><p>${s.b}</p></div>`).join('')}
+          <div class="case-box"><b>📜 ${ch.caseStudy.title}</b><p>${ch.caseStudy.b}</p></div>
+        </div>
+        <div class="card">
+          <h2>🎯 本章测试</h2>
+          <div class="hint">${quizState!==undefined ? `上次成绩：${quizState}/4 ${quizState>=3?'（已通过 ✅）':'（未通过，可重测）'}` : '完成4题后点击「提交测试」'}</div>
+          <div id="quizBox">${ch.quiz.map((q,qi)=>`
+            <div class="gq"><div class="q">${qi+1}. ${q.q}</div>
+            ${q.options.map((o,oi)=>`<label style="display:block;padding:7px 10px;font-size:14px;cursor:pointer">
+              <input type="radio" name="qz${qi}" value="${oi}"> ${String.fromCharCode(65+oi)}. ${o}</label>`).join('')}
+            <div class="explain" id="qex-${qi}"></div></div>`).join('')}
+          </div>
+          <button class="btn primary" id="quizSubmit">提交测试</button>
+          <div class="quiz-score" id="quizResult"></div>
+        </div>` : `
+        <div class="card">
+          <h2>🔜 ${c.syllabus[chIndex]}</h2>
+          <p style="line-height:2;font-size:14.5px;color:#4b5364;margin-top:8px">
+          这一章的内容还没有生成。你已经完成了前面的学习，非常棒！<br><br>
+          👉 <b>回到 WorkBuddy 对话里告诉我：「我通过了${c.name}第${chIndex}章的测试，请生成第${chIndex+1}章」</b>，
+          我会搜索整理这一章的知识，写好正文、案例和测试题放进工作台，你刷新页面就能继续学习。</p>
+        </div>`}
+        <div class="card">
+          <h2>📝 学习笔记 / 哪里没明白</h2>
+          <div class="hint">记下疑问，会汇总到「阴阳分析」，下次直接问我</div>
+          <textarea class="note-area" id="noteInput" placeholder="例如：老阴老阳为什么会变？三背为什么是阳动？"></textarea>
+          <button class="btn" id="noteSave" style="margin-top:8px">保存笔记</button>
+          <div id="subjNotes">${(st.notes||[]).slice().reverse().map(n=>`
+            <div class="note-item"><div class="n-meta">${n.date} · ${n.ch}</div>${n.text}</div>`).join('')}</div>
+        </div>
+      </div>
+    </div>`;
+
+  $('#backHome').onclick = ()=>{ box.style.display='none'; $('#mysticHome').style.display='block'; renderSubjects(); };
+  box.querySelectorAll('.open-ch').forEach(el=>{ el.onclick = ()=>openSubject(id, +el.dataset.ch); });
+
+  if(hasContent){
+    $('#quizSubmit').onclick = ()=>{
+      let score = 0, answered = 0;
+      ch.quiz.forEach((q,qi)=>{
+        const sel = box.querySelector(`input[name=qz${qi}]:checked`);
+        const exEl = $('#qex-'+qi);
+        if(sel){ answered++;
+          const ok = +sel.value===q.answer; if(ok) score++;
+          exEl.classList.add('show');
+          exEl.innerHTML = (ok?'✅ 回答正确！':'❌ 回答错误。正确答案：'+String.fromCharCode(65+q.answer))+'<br>'+q.explain;
+        }
+      });
+      if(answered < ch.quiz.length){ $('#quizResult').textContent='还有题目没做完哦'; $('#quizResult').style.color='var(--red)'; return; }
+      st.scores['ch'+chIndex] = score;
+      if(score>=3 && st.unlocked === chIndex+1) st.unlocked = chIndex+2;
+      saveSubj(id, st);
+      $('#quizResult').innerHTML = score>=3
+        ? `🎉 ${score}/4 通过！${chIndex+1 < c.syllabus.length ? '已解锁下一章（若显示待生成，请在对话里让我生成）' : '本课程大纲已全部完成！'}`
+        : `${score}/4 未通过（需≥3），复习正文后可重新作答提交`;
+      $('#quizResult').style.color = score>=3 ? 'var(--green)' : 'var(--red)';
+    };
+  }
+  $('#noteSave').onclick = ()=>{
+    const t = $('#noteInput').value.trim(); if(!t) return;
+    st.notes.push({date:TODAY, ch: hasContent?ch.title:c.syllabus[chIndex], text:t});
+    saveSubj(id, st); openSubject(id, chIndex);
+  };
+}
+
+/* ================= 英语分析 ================= */
+function renderEngAna(){
+  const r = records();
+  const dates = Object.keys(r).sort();
+  let streak = 0;
+  for(let i=0;;i++){
+    const d = new Date(); d.setDate(d.getDate()-i);
+    const k = d.toISOString().slice(0,10);
+    const v = r[k];
+    if(v && (v.words>0 || v.read || v.grammar>0)) streak++;
+    else if(i===0) continue; else break;
+  }
+  const totalWords = dates.reduce((n,k)=>n+(r[k].words||0),0);
+  const readDays = dates.filter(k=>r[k].read).length;
+  const gTotal = dates.reduce((n,k)=>n+((r[k]&&r[k].gramAnswered)||0),0);
+  const gRight = dates.reduce((n,k)=>n+((r[k]&&r[k].gramCorrect)||0),0);
+  $('#engStats').innerHTML = `
+    <div class="stat"><div class="num">${streak}</div><div class="lbl">连续学习天数 🔥</div></div>
+    <div class="stat"><div class="num">${totalWords}</div><div class="lbl">累计已背单词</div></div>
+    <div class="stat"><div class="num">${readDays}</div><div class="lbl">累计精读文章</div></div>
+    <div class="stat"><div class="num">${gTotal? Math.round(gRight/gTotal*100):0}%</div><div class="lbl">语法正确率</div></div>`;
+
+  /* 近14天柱状图 */
+  const days=[];
+  for(let i=13;i>=0;i--){ const d=new Date(); d.setDate(d.getDate()-i); days.push(d.toISOString().slice(0,10)); }
+  const W=760,H=210,bw=W/14;
+  let bars = days.map((k,i)=>{
+    const v=(r[k]&&r[k].words)||0, h=v/30*140;
+    const x=i*bw+10, y=170-h;
+    return `<rect x="${x}" y="${y}" width="${bw-18}" height="${Math.max(h,2)}" rx="5" fill="${v>0?'#2f6fed':'#e4e8f2'}"/>
+      <text x="${x+(bw-18)/2}" y="${y-6}" font-size="11" fill="#5b6474" text-anchor="middle">${v||''}</text>
+      <text x="${x+(bw-18)/2}" y="${188}" font-size="10" fill="#9aa1af" text-anchor="middle">${k.slice(5)}</text>`;
+  }).join('');
+  $('#chartWords').innerHTML = `<svg viewBox="0 0 ${W} ${H}" style="width:100%">
+    <line x1="8" y1="170" x2="${W-4}" y2="170" stroke="#e6e8ef"/>
+    <line x1="8" y1="30" x2="${W-4}" y2="30" stroke="#f0f2f8" stroke-dasharray="4 4"/>
+    <text x="10" y="24" font-size="10" fill="#b9bfcc">30词</text>${bars}</svg>`;
+
+  /* 明细表 */
+  const rows = dates.slice(-30).reverse().map(k=>{
+    const v=r[k];
+    return `<tr><td>${k}</td>
+      <td>${v.read?'<span class="ok">✔ 已读</span>':'<span class="no">未读</span>'}</td>
+      <td>${v.words||0} / 30</td>
+      <td>${v.gramSessions?(v.gramSessions+' 次 · 最佳 '+(v.gramBest||0)+'/10'):'<span class="no">未练</span>'}</td></tr>`;
+  }).join('');
+  $('#recTable').innerHTML = dates.length
+    ? `<table class="rec"><tr><th>日期</th><th>精读文章</th><th>已背单词</th><th>语法练习</th></tr>${rows}</table>`
+    : '<div style="color:var(--sub);font-size:13.5px">还没有记录，去「英语」页开始今天的学习吧！';
+}
+
+/* ================= 阴阳分析 ================= */
+function renderMysAna(){
+  const W=760, rowH=44, H=COURSES.length*rowH+20;
+  let g = COURSES.map((c,i)=>{
+    const st = subjState(c.id);
+    const passed = Object.values(st.scores).filter(v=>v>=3).length;
+    const pct = passed/c.syllabus.length;
+    const y = i*rowH+14, bx=150, bw=(W-260);
+    return `<text x="0" y="${y+15}" font-size="13" fill="#2b3346" font-weight="700">${c.emoji} ${c.name}</text>
+      <rect x="${bx}" y="${y}" width="${bw}" height="20" rx="10" fill="#eef0f6"/>
+      <rect x="${bx}" y="${y}" width="${Math.max(bw*pct, pct>0?14:0)}" height="20" rx="10" fill="${c.color}"/>
+      <text x="${bx+bw+12}" y="${y+15}" font-size="12" fill="#5b6474">${passed}/${c.syllabus.length} 章 · 解锁至第${st.unlocked}章</text>`;
+  }).join('');
+  $('#chartMystic').innerHTML = `<svg viewBox="0 0 ${W} ${H}" style="width:100%">${g}</svg>`;
+
+  const notes = [];
+  COURSES.forEach(c=>{
+    (subjState(c.id).notes||[]).forEach(n=>notes.push({subj:c.name, emoji:c.emoji, ...n}));
+  });
+  notes.sort((a,b)=>b.date.localeCompare(a.date));
+  $('#noteList').innerHTML = notes.length
+    ? notes.map(n=>`<div class="note-item"><div class="n-meta">${n.date} · ${n.emoji} ${n.subj} · ${n.ch}</div>${n.text}</div>`).join('')
+    : '<div style="color:var(--sub);font-size:13.5px">暂无疑问记录。学习中有不明白的地方，在章节页写下来就会出现在这里。</div>';
+}
+
+/* ================= 数据备份 / 导入导出 ================= */
+const WB_BACKUP_PREFIX = 'wb_';
+function renderDataView(){
+  // 存储模式提示
+  const warn = $('#dataWarn');
+  if(LS.available){
+    warn.innerHTML = '<div class="data-warn">✅ 当前使用<strong>浏览器本地存储</strong>，关闭工作台后数据会保留。仍建议定期「导出」备份，以便更新或换设备时迁移。</div>';
+  } else {
+    warn.innerHTML = '<div class="data-warn">⚠️ 当前环境<strong>无法使用浏览器本地存储</strong>（多为以 file:// 双击打开时被浏览器限制），数据仅临时保存在内存中，<strong>关闭页面即丢失</strong>。请立刻用「导出」把数据存成文件，下次用「导入」恢复。</div>';
+  }
+  // 概览统计
+  const rec = LS.get('wb_eng_records', {});
+  const recDays = Object.keys(rec).length;
+  const totalWords = Object.values(rec).reduce((n,r)=>n+((r&&r.words)||0),0);
+  const totalGram = Object.values(rec).reduce((n,r)=>n+((r&&r.gramSessions)||0),0);
+  const gramStates = LS.get('wb_grammar_states', {});
+  const gramTopics = Object.keys(gramStates).length;
+  const mys = LS.get('wb_mystic', {});
+  let mysPassed = 0, mysNotes = 0;
+  Object.values(mys).forEach(s=>{ if(s&&s.scores) mysPassed += Object.values(s.scores).filter(v=>v>=3).length; if(s&&s.notes) mysNotes += s.notes.length; });
+  const allKeys = LS.entries(WB_BACKUP_PREFIX);
+  const dataItems = Object.keys(allKeys).length;
+  $('#dataOverview').innerHTML = `
+    <div class="ov-row"><span>存储模式</span><span class="ov-tag ${LS.available?'good':'bad'}">${LS.available?'本地持久化':'内存临时'}</span></div>
+    <div class="ov-row"><span>已保存数据项</span><b>${dataItems} 项</b></div>
+    <div class="ov-row"><span>英语打卡天数</span><b>${recDays} 天</b></div>
+    <div class="ov-row"><span>累计背诵单词</span><b>${totalWords} 个</b></div>
+    <div class="ov-row"><span>语法练习次数</span><b>${totalGram} 次</b></div>
+    <div class="ov-row"><span>语法专题已练</span><b>${gramTopics} 个</b></div>
+    <div class="ov-row"><span>玄学通过章节</span><b>${mysPassed} 章</b></div>
+    <div class="ov-row"><span>玄学疑问笔记</span><b>${mysNotes} 条</b></div>`;
+}
+
+function exportData(){
+  const data = LS.entries(WB_BACKUP_PREFIX);
+  const payload = { app:'learning-workbench', version:1, exportedAt:new Date().toISOString(), data };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const stamp = new Date().toISOString().slice(0,10);
+  a.href = url; a.download = `workbench-backup-${stamp}.json`;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(()=>URL.revokeObjectURL(url), 1500);
+  $('#expStatus').className = 'status ok';
+  $('#expStatus').textContent = `✅ 已导出 ${Object.keys(data).length} 项数据 → workbench-backup-${stamp}.json`;
+}
+
+function importData(file){
+  const status = $('#impStatus');
+  const reader = new FileReader();
+  reader.onload = e=>{
+    try{
+      const payload = JSON.parse(e.target.result);
+      const data = (payload && typeof payload.data === 'object') ? payload.data : payload;
+      if(typeof data !== 'object' || !data || Array.isArray(data)) throw new Error('文件不是有效的工作台备份');
+      // 导入前自动备份当前数据（键名用 bak_ 前缀，避免被下面的 clear('wb_') 清掉）
+      const stamp = new Date().toISOString().slice(0,19).replace(/[:T]/g,'-');
+      LS.set('bak_'+stamp, LS.entries(WB_BACKUP_PREFIX));
+      // 清空旧数据并写入导入数据
+      LS.clear(WB_BACKUP_PREFIX);
+      let n=0, skip=0;
+      Object.keys(data).forEach(k=>{
+        if(k.indexOf(WB_BACKUP_PREFIX)===0){ LS.set(k, data[k]); n++; }
+        else skip++;
+      });
+      // 全量刷新（renderDataView 会重算概览，不要提前写状态，避免被刷新清空）
+      initEnglish(); renderSubjects(); renderEngAna(); renderMysAna(); renderDataView();
+      status.className = 'status ok';
+      status.textContent = `✅ 已导入 ${n} 项数据（${skip>0?('跳过 '+skip+' 个非本应用键，'):''}已自动备份更新前的数据，键名 bak_${stamp}）`;
+    }catch(err){
+      status.className = 'status err';
+      status.textContent = '❌ 导入失败：' + err.message;
+    }
+  };
+  reader.onerror = ()=>{ status.className='status err'; status.textContent='❌ 读取文件失败'; };
+  reader.readAsText(file);
+}
+
+$('#btnExport').onclick = exportData;
+$('#btnImportPick').onclick = ()=> $('#fileImport').click();
+$('#fileImport').onchange = ev=>{ const f = ev.target.files[0]; if(f) importData(f); ev.target.value=''; };
+
+/* ================= 启动 ================= */
+initEnglish();
+renderSubjects();
+show('english');
+</script>
+</body>
+</html>
