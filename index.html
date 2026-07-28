@@ -143,11 +143,34 @@
   .subnav-item:not(.active) .s-badge{background:#fff;color:var(--sub)}
   .eng-pane{display:none}
   .eng-pane.show{display:block;animation:fade .25s ease}
-  @media(max-width:860px){aside{display:none}main{padding:18px}}
+  /* ---------- 手机顶栏 + 抽屉 ---------- */
+  #mobileBar{display:none}
+  #overlay{display:none}
+  @media(max-width:860px){
+    #mobileBar{display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:60;
+      background:#fff;border-bottom:1px solid var(--line);padding:10px 14px;box-shadow:0 2px 8px rgba(20,30,60,.05)}
+    #menuBtn{border:none;background:#eef2fb;color:var(--blue);font-size:20px;line-height:1;width:42px;height:42px;border-radius:10px;cursor:pointer}
+    .m-title{font-size:16px;font-weight:800}
+    .m-title span{color:var(--blue)}
+    aside{position:fixed;left:0;top:0;height:100vh;z-index:70;transform:translateX(-100%);transition:transform .25s ease;box-shadow:0 0 40px rgba(0,0,0,.18)}
+    aside.open{transform:translateX(0)}
+    #overlay{display:block;position:fixed;inset:0;background:rgba(15,22,40,.45);z-index:65;opacity:0;visibility:hidden;transition:.25s}
+    #overlay.show{opacity:1;visibility:visible}
+    main{padding:14px 14px 40px;max-width:100%}
+    .word-grid,.subj-grid,.gram-grid-inner{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+    .course-layout{grid-template-columns:1fr !important}
+    .card{padding:16px}
+    .para{font-size:15px}
+  }
 </style>
 </head>
 <body>
-<aside>
+<div id="mobileBar">
+  <button id="menuBtn" aria-label="菜单">☰</button>
+  <div class="m-title">📖 学习工作台</div>
+</div>
+<div id="overlay"></div>
+<aside id="aside">
   <div class="logo">📖 学习<span>工作台</span></div>
   <div class="nav-group">
     <div class="nav-title">学 习</div>
@@ -338,9 +361,15 @@ function saveRec(patch){
 }
 
 /* 导航 */
+function closeDrawer(){ document.getElementById('aside').classList.remove('open'); document.getElementById('overlay').classList.remove('show'); }
 document.querySelectorAll('.nav-item').forEach(el=>{
-  el.onclick = ()=>show(el.dataset.v);
+  el.onclick = ()=>{ show(el.dataset.v); closeDrawer(); };
 });
+document.getElementById('menuBtn').onclick = ()=>{
+  const a=document.getElementById('aside'), o=document.getElementById('overlay');
+  a.classList.toggle('open'); o.classList.toggle('show', a.classList.contains('open'));
+};
+document.getElementById('overlay').onclick = closeDrawer;
 /* 英语四个子模块独立切换 */
 document.querySelectorAll('#engSubnav .subnav-item').forEach(el=>{
   el.onclick = ()=>{
@@ -637,7 +666,7 @@ function openSubject(id, chIndex){
     <div class="crumb" id="backHome">← 返回全部课程</div>
     <h1 class="page">${c.emoji} ${c.name}</h1>
     <div class="page-sub">${c.intro}</div>
-    <div style="display:grid;grid-template-columns:250px 1fr;gap:18px;align-items:start">
+    <div class="course-layout" style="display:grid;grid-template-columns:250px 1fr;gap:18px;align-items:start">
       <div class="card" style="padding:14px">
         <h2 style="font-size:14px;margin-bottom:10px">📑 课程大纲</h2>
         ${c.syllabus.map((t,i)=>{
