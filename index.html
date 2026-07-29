@@ -205,6 +205,37 @@
   .hot-reason{font-size:12.5px;color:#7a6350;line-height:1.6;margin-top:4px}
   .pick-list{margin-top:2px}
   @media(max-width:680px){.gold-grid{grid-template-columns:repeat(2,1fr)}.hot-list{grid-template-columns:1fr}}
+  /* 金融分析：重点 / 三段 / 订单流 */
+  .fin-pane{display:none}
+  .fin-pane.show{display:block;animation:fade .25s ease}
+  .focus-item{border:1px solid #e6ebf3;border-radius:12px;padding:14px 16px;margin:12px 0;background:#fff}
+  .focus-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .focus-name{font-size:17px;font-weight:800;color:#2b3346}
+  .focus-val{font-size:15px;font-weight:800;color:#1f6feb;margin-left:auto}
+  .focus-trend{font-size:13.5px;line-height:1.8;color:#3c4354;margin:8px 0}
+  .focus-win{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:6px}
+  .fw{border:1px dashed #d9deea;border-radius:10px;padding:9px 11px;background:#f9fbfe}
+  .fw-l{font-size:12px;color:#6b7384;font-weight:700}
+  .fw-d{display:inline-block;font-size:12.5px;font-weight:800;padding:1px 9px;border-radius:12px;margin:3px 0}
+  .fw-n{font-size:12.5px;color:#3c4354;line-height:1.6;margin-top:4px}
+  .dir-up{background:#e8f7ef;color:#1a8a4f}
+  .dir-down{background:#fdecec;color:#c0392b}
+  .dir-flat{background:#eef0f6;color:#5b6474}
+  .win-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+  .win-card{border:1px solid #e3e8f0;border-radius:12px;padding:13px 15px;background:#fff}
+  .win-h{font-size:14.5px;font-weight:800;color:#2b3346;margin-bottom:6px}
+  .win-sum{font-size:13px;line-height:1.8;color:#3c4354}
+  .win-buy{margin-top:8px;font-size:13px;color:#1a8a4f;line-height:1.7;background:#eefcf3;border:1px solid #c5ecd3;border-radius:8px;padding:7px 10px}
+  .win-buy b{color:#1a8a4f}
+  .of-card{background:#f7f9fc;border:1px solid #e6ebf3;border-radius:10px;padding:12px 14px;margin-top:6px}
+  .of-sum{font-size:13.5px;line-height:1.85;color:#3c4354;margin-bottom:8px}
+  .of-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:9px}
+  .of-m{border:1px solid #e6ebf3;border-radius:9px;padding:9px 11px;background:#fff}
+  .of-k{font-size:12px;color:#6b7384}
+  .of-v{font-size:13.5px;font-weight:700;color:#2b3346;margin:3px 0}
+  .of-tag{display:inline-block;font-size:11.5px;font-weight:800;padding:1px 8px;border-radius:10px}
+  .of-flow{margin-top:9px;font-size:13px;line-height:1.8;color:#3c4354;background:#fff7ed;border:1px solid #ffe0b0;border-radius:8px;padding:7px 10px}
+  @media(max-width:680px){.focus-win,.win-row{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -304,16 +335,27 @@
 
   <!-- ============ 金融分析 ============ -->
   <div class="view" id="view-finAna">
-    <h1 class="page">💰 金融分析 · 每日早报</h1>
-    <div class="page-sub">股票 / 期货 / 基金 / 外汇 分别详细分析 · 含「最火标的」与「重点推荐 5 只」（买/卖/持有/观望）· 综合新浪新闻、通达信、同花顺等公开信息 · 每日 6:00 自动更新 · 仅供参考，非投资建议</div>
+    <h1 class="page">💰 金融分析 · 每日三段</h1>
+    <div class="page-sub">重点：黄金 · 恒指 · 纳指 ｜ 股票/期货/基金/外汇 点开分看 ｜ 含「三段趋势预测 + 买什么」与订单流/成交量分析 ｜ 综合新浪新闻、通达信、同花顺等 ｜ 每日 6:00 / 14:00 / 20:00 更新 ｜ 仅供参考，非投资建议</div>
     <div id="finBadge"></div>
     <div class="fin-summary" id="finSummary"></div>
-    <div class="card" id="goldCard">
-      <h2>🌟 本期焦点：黄金</h2>
-      <div class="hint">每日详细研判（价格、信号、关键位、多空因素、重磅事件），为本报重点关注对象</div>
-      <div id="goldBox"></div>
+    <div class="card" id="focusCard">
+      <h2>🌟 今日重点：黄金 · 恒指 · 纳指</h2>
+      <div class="hint">三个核心标的当前价位、综合信号，以及「早 7-10 / 午 14:30-16 / 夜 20:30-23」三段的方向研判</div>
+      <div id="focusBox"></div>
     </div>
-    <div id="catBox"></div>
+    <div class="card">
+      <h2>⏱️ 三段趋势预测 · 买什么</h2>
+      <div class="hint">分别对应 A股/港股/美股 三个活跃时段，给出该时段的方向与可关注标的</div>
+      <div id="windowBox"></div>
+    </div>
+    <div class="subnav" id="finSubnav">
+      <div class="subnav-item active" data-fin="stocks">📈 股票</div>
+      <div class="subnav-item" data-fin="futures">📊 期货</div>
+      <div class="subnav-item" data-fin="funds">📦 基金</div>
+      <div class="subnav-item" data-fin="forex">💱 外汇</div>
+    </div>
+    <div id="finPaneBox"></div>
     <div class="card">
       <h2>📚 信息来源</h2>
       <div class="hint">含 新浪新闻、通达信、同花顺、金投网、世界黄金协会(WGC)、中信证券/期货、中金外汇、新华财经等公开渠道</div>
@@ -396,6 +438,17 @@ document.querySelectorAll('#engSubnav .subnav-item').forEach(el=>{
     document.querySelectorAll('#engSubnav .subnav-item').forEach(e=>e.classList.toggle('active', e===el));
     document.querySelectorAll('.eng-pane').forEach(p=>p.classList.remove('show'));
     $('#eng-'+el.dataset.eng).classList.add('show');
+  };
+});
+/* 金融分析四块子导航：点击切换显示，不一次性铺开 */
+let finTab = 'stocks';
+document.querySelectorAll('#finSubnav .subnav-item').forEach(el=>{
+  el.onclick = ()=>{
+    finTab = el.dataset.fin;
+    document.querySelectorAll('#finSubnav .subnav-item').forEach(e=>e.classList.toggle('active', e===el));
+    document.querySelectorAll('.fin-pane').forEach(p=>p.classList.remove('show'));
+    const pane = document.getElementById('fin-pane-'+finTab);
+    if(pane) pane.classList.add('show');
   };
 });
 function show(v){
@@ -781,67 +834,111 @@ function renderFinAna(){
   const FIN = window.FINANCE_DAILY;
   if(!FIN){
     const b = document.getElementById('finBadge'); if(b) b.outerHTML = '';
-    ['finSummary','goldBox','catBox','srcBox','finDisc'].forEach(function(id){ var e=document.getElementById(id); if(e) e.innerHTML='<div class="fin-empty">今日金融数据尚未生成（每日 6:00 自动更新）。请稍后再看，或手动运行「金融早报」更新任务。</div>'; });
+    ['finSummary','focusBox','windowBox','finPaneBox','srcBox','finDisc'].forEach(function(id){ var e=document.getElementById(id); if(e) e.innerHTML='<div class="fin-empty">今日金融数据尚未生成（每日 6:00 / 14:00 / 20:00 自动更新）。请稍后再看，或手动运行「金融早报」更新任务。</div>'; });
     return;
   }
   const sigClass = function(s){ return ({'买入':'sig-buy','卖出':'sig-sell','持有':'sig-hold','观望':'sig-watch'}[s] || 'sig-watch'); };
-  const sigText  = function(s){ return ({'买入':'买入','卖出':'卖出','持有':'持有','观望':'观望'}[s] || s); };
+  const dirClass = function(d){ return ({'up':'dir-up','down':'dir-down','flat':'dir-flat'}[d] || 'dir-flat'); };
+  const dirText  = function(d){ return ({'up':'偏多','down':'偏空','flat':'震荡'}[d] || '震荡'); };
   const badge = document.getElementById('finBadge');
-  if(badge) badge.innerHTML = '<span class="fin-badge">🗓️ 更新：'+FIN.date+' · 每日 6:00 自动刷新</span>' + (FIN.focus?('<span class="fin-badge focus">焦点：'+FIN.focus+'</span>'):'');
+  if(badge) badge.innerHTML = '<span class="fin-badge">🗓️ 更新：'+FIN.date+' · 每日 6:00 / 14:00 / 20:00 三段刷新</span>';
   const sm = document.getElementById('finSummary');
   if(sm) sm.innerHTML = FIN.summary ? ('📌 '+FIN.summary) : '';
-  const g = FIN.gold || {};
-  const gb = document.getElementById('goldBox');
-  if(gb) gb.innerHTML =
-    '<div class="gold-grid">'+
-      '<div class="gk"><div class="gk-l">现货黄金</div><div class="gk-v">'+(g.spot||'—')+'</div></div>'+
-      '<div class="gk"><div class="gk-l">上金所AU9999</div><div class="gk-v">'+(g.au9999||'—')+'</div></div>'+
-      '<div class="gk"><div class="gk-l">美元指数</div><div class="gk-v">'+(g.dxy||'—')+'</div></div>'+
-      '<div class="gk"><div class="gk-l">综合信号</div><div class="gk-v"><span class="sig '+sigClass(g.signal)+'">'+sigText(g.signal)+'</span></div></div>'+
-    '</div>'+
-    '<div class="gold-trend">📈 走势：'+(g.trend||'—')+'</div>'+
-    '<div class="gold-ana"><b>研判：</b>'+(g.analysis||'—')+'</div>'+
-    (g.event?('<div class="gold-event">⏰ 重磅事件：'+g.event+'</div>'):'')+
-    (g.levels?('<div class="gold-lvl">关键位 ｜ 支撑：<b>'+(g.levels.support||'—')+'</b> ｜ 阻力：<b>'+(g.levels.resistance||'—')+'</b></div>'):'')+
-    '<div class="factor-row">'+
-      '<div class="factor bull"><div class="f-h">✅ 利好因素</div><ul>'+((g.bullish||[]).map(function(x){return '<li>'+x+'</li>';}).join('')||'<li>—</li>')+'</ul></div>'+
-      '<div class="factor bear"><div class="f-h">⚠️ 利空因素</div><ul>'+((g.bearish||[]).map(function(x){return '<li>'+x+'</li>';}).join('')||'<li>—</li>')+'</ul></div>'+
-    '</div>';
+
+  // 重点：黄金 / 恒指 / 纳指
+  const fb = document.getElementById('focusBox');
+  const focus = FIN.focus || {};
+  const focusList = [focus.gold, focus.hsi, focus.ixic].filter(Boolean);
+  if(fb){
+    if(focusList.length===0){ fb.innerHTML = '<div class="fin-empty">重点标的缺失。</div>'; }
+    else {
+      fb.innerHTML = focusList.map(function(f){
+        const w = f.windows || {};
+        const winHtml = [['早 7-10', w.morning],['午 14:30-16', w.afternoon],['夜 20:30-23', w.evening]].map(function(p){
+          const d = p[1] || {}; const dir = d.dir || 'flat';
+          return '<div class="fw"><div class="fw-l">'+p[0]+'</div><span class="fw-d '+dirClass(dir)+'">'+dirText(dir)+'</span><div class="fw-n">'+(d.note||'—')+'</div></div>';
+        }).join('');
+        return '<div class="focus-item">'+
+          '<div class="focus-head"><span class="focus-name">'+f.name+'</span> <span class="sig '+sigClass(f.signal)+'">'+(f.signal||'—')+'</span> <span class="focus-val">'+(f.value||'—')+'</span></div>'+
+          (f.trend?('<div class="focus-trend">📈 '+(f.trend||'')+'</div>'):'')+
+          '<div class="focus-win">'+winHtml+'</div>'+
+          (f.analysis?('<div class="focus-trend">'+f.analysis+'</div>'):'')+
+        '</div>';
+      }).join('');
+    }
+  }
+
+  // 三段趋势预测
+  const wb = document.getElementById('windowBox');
+  const wins = FIN.windows || {};
+  const winOrder = [['morning','🌅 早盘 07:00–10:00'],['afternoon','☀️ 午盘 14:30–16:00'],['evening','🌙 夜盘 20:30–23:00']];
+  if(wb){
+    const has = winOrder.some(function(p){ return wins[p[0]]; });
+    if(!has){ wb.innerHTML = '<div class="fin-empty">三段预测缺失。</div>'; }
+    else {
+      wb.innerHTML = '<div class="win-row">'+winOrder.map(function(p){
+        const w = wins[p[0]]; if(!w) return '';
+        const buys = (w.buy||[]).map(function(x){ return '<span class="chip">'+x+'</span>'; }).join('') || '—';
+        return '<div class="win-card"><div class="win-h">'+p[1]+'</div>'+
+          '<div class="win-sum">'+(w.summary||'—')+'</div>'+
+          '<div class="win-buy"><b>买什么：</b><br>'+buys+'</div>'+
+          (w.note?('<div class="win-sum" style="margin-top:8px;color:#b45309">⚠️ '+(w.note||'')+'</div>'):'')+
+        '</div>';
+      }).join('')+'</div>';
+    }
+  }
+
+  // 四块分类（子导航切换）
+  const cats = FIN.categories || {};
   const order = ['stocks','futures','funds','forex'];
   const catTitle = {stocks:'📈 股票（A股）',futures:'📊 期货',funds:'📦 基金（ETF/公募）',forex:'💱 外汇'};
-  const cats = FIN.categories || {};
-  const cb = document.getElementById('catBox');
-  if(cb){
-    if(Object.keys(cats).length===0){
-      cb.innerHTML = '<div class="card"><div class="fin-empty">分类数据缺失。</div></div>';
-    } else {
-      cb.innerHTML = order.map(function(key){
-        const c = cats[key]; if(!c) return '';
-        const hotHtml = (c.hot||[]).map(function(h){
-          return '<div class="hot-card"><div class="hot-name">'+h.name+' <span class="hot-code">'+(h.code||'')+'</span></div><div class="hot-reason">'+(h.reason||'')+'</div></div>';
-        }).join('') || '<div class="fin-empty">—</div>';
-        const picksHtml = (c.picks||[]).map(function(p,i){
-          const r = p.rating||3;
-          return '<div class="pick-card">'+
-            '<div class="pick-head"><div class="pick-name"><span class="pick-rank">'+(i+1)+'</span> '+p.name+' <span class="pick-code">'+(p.code||'')+'</span> <span class="pick-type">'+(p.type||'')+'</span></div>'+
-            '<span class="sig '+sigClass(p.signal)+'">'+sigText(p.signal)+'</span></div>'+
-            '<div class="pick-meta">看好几率：'+('★'.repeat(r))+('☆'.repeat(5-r))+' ｜ '+(p.probability||'—')+'</div>'+
-            '<div class="pick-thesis"><b>分析：</b>'+(p.thesis||'—')+'</div>'+
-            (p.catalysts&&p.catalysts.length?('<div class="pick-cat"><b>催化/看点：</b>'+p.catalysts.map(function(x){return '<span class="chip">'+x+'</span>';}).join('')+'</div>'):'')+
-            (p.risks&&p.risks.length?('<div class="pick-risk"><b>风险：</b>'+p.risks.join('；')+'</div>'):'')+
-          '</div>';
-        }).join('') || '<div class="fin-empty">暂无可推荐标的。</div>';
-        return '<div class="card cat-card">'+
+  const pb = document.getElementById('finPaneBox');
+  if(pb){
+    pb.innerHTML = order.map(function(key){
+      const c = cats[key]; if(!c) return '';
+      const hotHtml = (c.hot||[]).map(function(h){
+        return '<div class="hot-card"><div class="hot-name">'+h.name+' <span class="hot-code">'+(h.code||'')+'</span></div><div class="hot-reason">'+(h.reason||'')+'</div></div>';
+      }).join('') || '<div class="fin-empty">—</div>';
+      const picksHtml = (c.picks||[]).map(function(p,i){
+        const r = p.rating||3;
+        return '<div class="pick-card">'+
+          '<div class="pick-head"><div class="pick-name"><span class="pick-rank">'+(i+1)+'</span> '+p.name+' <span class="pick-code">'+(p.code||'')+'</span> <span class="pick-type">'+(p.type||'')+'</span></div>'+
+          '<span class="sig '+sigClass(p.signal)+'">'+p.signal+'</span></div>'+
+          '<div class="pick-meta">看好几率：'+('★'.repeat(r))+('☆'.repeat(5-r))+' ｜ '+(p.probability||'—')+'</div>'+
+          '<div class="pick-thesis"><b>分析：</b>'+(p.thesis||'—')+'</div>'+
+          (p.catalysts&&p.catalysts.length?('<div class="pick-cat"><b>催化/看点：</b>'+p.catalysts.map(function(x){return '<span class="chip">'+x+'</span>';}).join('')+'</div>'):'')+
+          (p.risks&&p.risks.length?('<div class="pick-risk"><b>风险：</b>'+p.risks.join('；')+'</div>'):'')+
+        '</div>';
+      }).join('') || '<div class="fin-empty">暂无可推荐标的。</div>';
+      const of = c.orderflow || {};
+      const ofHtml = of && (of.summary || (of.metrics&&of.metrics.length)) ? (
+        '<div class="of-card">'+
+          (of.summary?('<div class="of-sum"><b>订单流 / 成交量总述：</b>'+of.summary+'</div>'):'')+
+          (of.metrics&&of.metrics.length?('<div class="of-grid">'+of.metrics.map(function(m){
+            return '<div class="of-m"><div class="of-k">'+m.k+'</div><div class="of-v">'+m.v+'</div><span class="of-tag '+dirClass(m.dir)+'">'+dirText(m.dir)+'</span></div>';
+          }).join('')+'</div>'):'')+
+          (of.flow?('<div class="of-flow">🧭 '+of.flow+'</div>'):'')+
+        '</div>'
+      ) : '';
+      return '<div class="fin-pane" id="fin-pane-'+key+'">'+
+        '<div class="card">'+
           '<h2>'+catTitle[key]+' · 详细分析</h2>'+
           '<div class="cat-ana">'+((c.analysis||'—').replace(/\n/g,'<br>'))+'</div>'+
           '<div class="sub-h">🔥 最火标的（市场关注度最高）</div>'+
           '<div class="hot-list">'+hotHtml+'</div>'+
           '<div class="sub-h">⭐ 重点推荐 5 只（按几率与看好程度排序）</div>'+
           '<div class="pick-list">'+picksHtml+'</div>'+
-        '</div>';
-      }).join('');
-    }
+          (ofHtml?('<div class="sub-h">📊 订单流 / 成交量分析</div>'+ofHtml):'')+
+        '</div>'+
+      '</div>';
+    }).join('');
+    // 应用当前 tab
+    document.querySelectorAll('#finSubnav .subnav-item').forEach(function(e){ e.classList.toggle('active', e.dataset.fin===finTab); });
+    document.querySelectorAll('.fin-pane').forEach(function(p){ p.classList.remove('show'); });
+    const activePane = document.getElementById('fin-pane-'+finTab);
+    if(activePane) activePane.classList.add('show');
   }
+
   const sb = document.getElementById('srcBox');
   if(sb) sb.innerHTML = (FIN.sources||[]).map(function(x){ return '<span class="src-chip">'+x.type+'：'+x.name+'</span>'; }).join('') || '—';
   const db = document.getElementById('finDisc');
