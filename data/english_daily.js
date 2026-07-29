@@ -1,125 +1,137 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-07-28",
-  topic: "Urban Green Spaces（城市绿地）",
+  date: "2026-07-29",
+  topic: "Space Exploration（太空探索）",
   article: {
-    title: "Why Cities Are Turning Green",
-    titleCn: "为什么城市正在变绿",
+    title: "The New Race Beyond Earth",
+    titleCn: "地球之外的新竞赛",
     paras: [
       {
-        en: "Across the world, municipal governments are investing heavily in parks, rooftop gardens and tree-lined streets. This is not merely a matter of aesthetics: a growing body of research suggests that urban green spaces deliver measurable benefits for public health, the environment and even the economy.",
-        cn: "在世界各地，市政府正大力投资公园、屋顶花园和绿树成荫的街道。这不仅仅是美观问题：越来越多的研究表明，城市绿地对公共健康、环境乃至经济都有可衡量的益处。"
+        en: "For much of the twentieth century, space exploration was the exclusive domain of superpower governments, driven largely by political rivalry rather than scientific curiosity. Today, however, the landscape has shifted dramatically. Private corporations now design reusable rockets, launch commercial satellites and even plan tourist flights into orbit. This transformation has slashed the cost of reaching space, turning what was once an extravagant national project into a competitive global industry.",
+        cn: "在二十世纪的大部分时间里，太空探索是超级大国政府的专属领域，其驱动力主要是政治竞争而非科学好奇心。然而如今，这一格局已发生巨变。私营企业开始设计可重复使用的火箭、发射商业卫星，甚至计划开展入轨太空旅游。这一转变大幅削减了进入太空的成本，把曾经耗资巨大的国家项目变成了一个竞争激烈的全球产业。"
       },
       {
-        en: "From a health perspective, access to greenery has been linked to lower rates of respiratory disease, reduced stress and improved mental well-being. One study conducted in Barcelona found that residents living within 300 metres of a park reported significantly fewer symptoms of anxiety and depression than those in densely built districts.",
-        cn: "从健康角度看，接触绿色植物与更低的呼吸系统疾病发病率、压力减轻和心理健康改善有关。巴塞罗那的一项研究发现，居住在公园300米范围内的居民，其焦虑和抑郁症状明显少于居住在高密度建筑区的居民。"
+        en: "Advocates argue that the benefits of space technology extend far beyond the launch pad. Satellites underpin navigation, weather forecasting and disaster monitoring, while experiments conducted in microgravity have yielded advances in medicine and materials science. Furthermore, the industry stimulates employment and inspires young people to pursue careers in engineering. In this view, every dollar invested in space generates a ripple of innovation throughout the wider economy.",
+        cn: "支持者认为，太空技术的益处远远超出了发射台。卫星支撑着导航、天气预报和灾害监测，而在微重力环境下进行的实验也在医学和材料科学领域取得了进展。此外，这一产业刺激了就业，并激励年轻人投身工程事业。按照这种观点，投入太空的每一美元都会在更广泛的经济中激起创新的涟漪。"
       },
       {
-        en: "Environmentally, trees act as natural air conditioners. Their canopy provides shade, while the moisture they release cools the surrounding air, mitigating the so-called urban heat island effect. Green corridors also support biodiversity, offering habitats for birds and insects that would otherwise vanish from concrete landscapes.",
-        cn: "在环境方面，树木就像天然空调。树冠提供荫凉，同时释放的水分能冷却周围空气，缓解所谓的城市热岛效应。绿色走廊还能支持生物多样性，为鸟类和昆虫提供栖息地，否则它们会从钢筋水泥的景观中消失。"
+        en: "Sceptics, by contrast, question whether such ambitions are morally defensible while poverty and climate change remain unresolved on Earth. They point out that billions are spent propelling a privileged few beyond the atmosphere, and that mega-constellations of satellites now clutter low orbit, threatening astronomy and generating hazardous debris. If a collision cascade were ever triggered, entire orbital zones could become unusable for generations.",
+        cn: "相比之下，怀疑者质疑：当贫困和气候变化在地球上仍未解决时，这样的雄心是否在道德上站得住脚。他们指出，数十亿美元被用于把少数特权者送出大气层，而如今大规模卫星星座挤满了近地轨道，威胁天文观测并产生危险的太空碎片。一旦引发碰撞连锁反应，整个轨道区域可能在几代人的时间里都无法使用。"
       },
       {
-        en: "Critics argue that in cities where land is scarce and housing unaffordable, devoting prime sites to parks is an unjustifiable luxury. Yet the evidence indicates the opposite: properties near green spaces tend to appreciate in value, and healthier citizens place a lighter burden on public healthcare systems. In the long run, greening the city may be one of the most cost-effective investments a government can make.",
-        cn: "批评者认为，在土地稀缺、住房难以负担的城市里，把黄金地段用于公园是一种不合理的奢侈。然而证据恰恰相反：绿地附近的房产往往会升值，更健康的市民也减轻了公共医疗系统的负担。从长远来看，城市绿化可能是政府最具成本效益的投资之一。"
+        en: "A balanced assessment suggests that exploration and earthly responsibility need not be mutually exclusive. International treaties could compel companies to remove defunct satellites, while a fraction of commercial profits might be channelled into environmental programmes. History shows that frontier technologies, from aviation to the internet, eventually deliver widespread benefits. The challenge for regulators is to ensure that the conquest of space serves humanity as a whole, not merely its wealthiest members.",
+        cn: "一种平衡的评估表明，探索太空与对地球负责并非互相排斥。国际条约可以强制企业清除报废卫星，而商业利润的一部分也可以被引导到环保项目中。历史表明，从航空到互联网，前沿技术最终会带来广泛的益处。监管者面临的挑战，是确保对太空的开拓服务于全人类，而不仅仅是最富有的群体。"
       }
     ],
     glossary: [
-      { w: "municipal", pos: "adj.", p: "/mjuːˈnɪsɪpl/", cn: "市政的，市的" },
-      { w: "aesthetics", pos: "n.", p: "/esˈθetɪks/", cn: "美学；美感" },
-      { w: "measurable", pos: "adj.", p: "/ˈmeʒərəbl/", cn: "可衡量的" },
-      { w: "greenery", pos: "n.", p: "/ˈɡriːnəri/", cn: "绿色植物，草木" },
-      { w: "respiratory", pos: "adj.", p: "/rəˈspɪrətri/", cn: "呼吸的" },
-      { w: "well-being", pos: "n.", p: "/ˌwel ˈbiːɪŋ/", cn: "幸福，安康" },
-      { w: "conducted", pos: "v.", p: "/kənˈdʌktɪd/", cn: "进行，实施（conduct的过去式）" },
-      { w: "residents", pos: "n.", p: "/ˈrezɪdənts/", cn: "居民" },
-      { w: "significantly", pos: "adv.", p: "/sɪɡˈnɪfɪkəntli/", cn: "显著地" },
-      { w: "symptoms", pos: "n.", p: "/ˈsɪmptəmz/", cn: "症状" },
-      { w: "anxiety", pos: "n.", p: "/æŋˈzaɪəti/", cn: "焦虑" },
-      { w: "depression", pos: "n.", p: "/dɪˈpreʃn/", cn: "抑郁" },
-      { w: "densely", pos: "adv.", p: "/ˈdensli/", cn: "密集地" },
-      { w: "canopy", pos: "n.", p: "/ˈkænəpi/", cn: "树冠；顶篷" },
-      { w: "moisture", pos: "n.", p: "/ˈmɔɪstʃə(r)/", cn: "水分，湿气" },
-      { w: "mitigating", pos: "v.", p: "/ˈmɪtɪɡeɪtɪŋ/", cn: "缓解，减轻（mitigate）" },
-      { w: "corridors", pos: "n.", p: "/ˈkɒrɪdɔːz/", cn: "走廊；通道" },
-      { w: "biodiversity", pos: "n.", p: "/ˌbaɪəʊdaɪˈvɜːsəti/", cn: "生物多样性" },
-      { w: "habitats", pos: "n.", p: "/ˈhæbɪtæts/", cn: "栖息地" },
-      { w: "vanish", pos: "v.", p: "/ˈvænɪʃ/", cn: "消失" },
-      { w: "scarce", pos: "adj.", p: "/skeəs/", cn: "稀缺的" },
-      { w: "unaffordable", pos: "adj.", p: "/ˌʌnəˈfɔːdəbl/", cn: "负担不起的" },
-      { w: "unjustifiable", pos: "adj.", p: "/ʌnˈdʒʌstɪfaɪəbl/", cn: "无正当理由的" },
-      { w: "luxury", pos: "n.", p: "/ˈlʌkʃəri/", cn: "奢侈（品）" },
-      { w: "properties", pos: "n.", p: "/ˈprɒpətiz/", cn: "房产；财产" },
-      { w: "appreciate", pos: "v.", p: "/əˈpriːʃieɪt/", cn: "升值；感激；欣赏" },
-      { w: "burden", pos: "n.", p: "/ˈbɜːdn/", cn: "负担" },
-      { w: "cost-effective", pos: "adj.", p: "/ˌkɒst ɪˈfektɪv/", cn: "有成本效益的，划算的" }
+      { w: "exclusive", pos: "adj.", p: "/ɪkˈskluːsɪv/", cn: "专属的，独有的" },
+      { w: "domain", pos: "n.", p: "/dəˈmeɪn/", cn: "领域，范围" },
+      { w: "rivalry", pos: "n.", p: "/ˈraɪvlri/", cn: "竞争，对抗" },
+      { w: "reusable", pos: "adj.", p: "/ˌriːˈjuːzəbl/", cn: "可重复使用的" },
+      { w: "orbit", pos: "n.", p: "/ˈɔːbɪt/", cn: "轨道" },
+      { w: "slashed", pos: "v.", p: "/slæʃt/", cn: "大幅削减（slash的过去式）" },
+      { w: "extravagant", pos: "adj.", p: "/ɪkˈstrævəɡənt/", cn: "奢侈的，铺张的" },
+      { w: "advocates", pos: "n.", p: "/ˈædvəkəts/", cn: "拥护者，支持者" },
+      { w: "underpin", pos: "v.", p: "/ˌʌndəˈpɪn/", cn: "支撑，构成…的基础" },
+      { w: "navigation", pos: "n.", p: "/ˌnævɪˈɡeɪʃn/", cn: "导航" },
+      { w: "microgravity", pos: "n.", p: "/ˌmaɪkrəʊˈɡrævəti/", cn: "微重力" },
+      { w: "yielded", pos: "v.", p: "/ˈjiːldɪd/", cn: "产生，带来（yield的过去式）" },
+      { w: "stimulates", pos: "v.", p: "/ˈstɪmjuleɪts/", cn: "刺激，促进（stimulate）" },
+      { w: "ripple", pos: "n.", p: "/ˈrɪpl/", cn: "涟漪；连锁反应" },
+      { w: "sceptics", pos: "n.", p: "/ˈskeptɪks/", cn: "怀疑论者" },
+      { w: "defensible", pos: "adj.", p: "/dɪˈfensəbl/", cn: "可辩护的，站得住脚的" },
+      { w: "unresolved", pos: "adj.", p: "/ˌʌnrɪˈzɒlvd/", cn: "未解决的" },
+      { w: "propelling", pos: "v.", p: "/prəˈpelɪŋ/", cn: "推进，推动（propel）" },
+      { w: "privileged", pos: "adj.", p: "/ˈprɪvəlɪdʒd/", cn: "享有特权的" },
+      { w: "constellations", pos: "n.", p: "/ˌkɒnstəˈleɪʃnz/", cn: "星座；卫星星座" },
+      { w: "clutter", pos: "v.", p: "/ˈklʌtə(r)/", cn: "塞满，使凌乱" },
+      { w: "hazardous", pos: "adj.", p: "/ˈhæzədəs/", cn: "危险的，有害的" },
+      { w: "debris", pos: "n.", p: "/ˈdebriː/", cn: "碎片，残骸" },
+      { w: "cascade", pos: "n.", p: "/kæˈskeɪd/", cn: "级联，连锁反应；瀑布" },
+      { w: "treaties", pos: "n.", p: "/ˈtriːtiz/", cn: "条约（treaty的复数）" },
+      { w: "compel", pos: "v.", p: "/kəmˈpel/", cn: "强迫，迫使" },
+      { w: "defunct", pos: "adj.", p: "/dɪˈfʌŋkt/", cn: "报废的，不再使用的" },
+      { w: "channelled", pos: "v.", p: "/ˈtʃænld/", cn: "引导，输送（channel的过去式）" },
+      { w: "aviation", pos: "n.", p: "/ˌeɪviˈeɪʃn/", cn: "航空" },
+      { w: "conquest", pos: "n.", p: "/ˈkɒŋkwest/", cn: "征服，攻克" }
     ]
   },
   words: [
-    { w: "abundant", pos: "adj.", p: "/əˈbʌndənt/", cn: "丰富的，充裕的", ex: "The region has abundant natural resources.", exCn: "该地区自然资源丰富。" },
-    { w: "adverse", pos: "adj.", p: "/ˈædvɜːs/", cn: "不利的，有害的", ex: "The drug has no adverse side effects.", exCn: "这种药没有不良副作用。" },
-    { w: "allocate", pos: "v.", p: "/ˈæləkeɪt/", cn: "分配，拨给", ex: "The government allocated funds to education.", exCn: "政府为教育拨款。" },
-    { w: "ambiguous", pos: "adj.", p: "/æmˈbɪɡjuəs/", cn: "模棱两可的", ex: "His answer was deliberately ambiguous.", exCn: "他的回答故意含糊其辞。" },
-    { w: "anticipate", pos: "v.", p: "/ænˈtɪsɪpeɪt/", cn: "预期，预料", ex: "We anticipate a rise in demand.", exCn: "我们预计需求会上升。" },
-    { w: "compensate", pos: "v.", p: "/ˈkɒmpenseɪt/", cn: "补偿，弥补", ex: "Nothing can compensate for lost time.", exCn: "什么都无法弥补失去的时间。" },
-    { w: "comprehensive", pos: "adj.", p: "/ˌkɒmprɪˈhensɪv/", cn: "全面的，综合的", ex: "The report gives a comprehensive overview.", exCn: "这份报告给出了全面的概述。" },
-    { w: "constrain", pos: "v.", p: "/kənˈstreɪn/", cn: "限制，约束", ex: "Budget cuts constrained the project.", exCn: "预算削减限制了这个项目。" },
-    { w: "contradict", pos: "v.", p: "/ˌkɒntrəˈdɪkt/", cn: "反驳，与…矛盾", ex: "The results contradict earlier findings.", exCn: "这些结果与早先的发现相矛盾。" },
-    { w: "criterion", pos: "n.", p: "/kraɪˈtɪəriən/", cn: "标准，准则（复数criteria）", ex: "Price is the main criterion for buyers.", exCn: "价格是买家的主要标准。" },
-    { w: "deteriorate", pos: "v.", p: "/dɪˈtɪəriəreɪt/", cn: "恶化，变坏", ex: "Air quality deteriorated rapidly.", exCn: "空气质量迅速恶化。" },
-    { w: "diverse", pos: "adj.", p: "/daɪˈvɜːs/", cn: "多样的，不同的", ex: "The city has a diverse population.", exCn: "这座城市人口多元。" },
-    { w: "eliminate", pos: "v.", p: "/ɪˈlɪmɪneɪt/", cn: "消除，淘汰", ex: "The policy aims to eliminate poverty.", exCn: "该政策旨在消除贫困。" },
-    { w: "enhance", pos: "v.", p: "/ɪnˈhɑːns/", cn: "增强，提高", ex: "Training enhances employees' skills.", exCn: "培训能提高员工技能。" },
-    { w: "exaggerate", pos: "v.", p: "/ɪɡˈzædʒəreɪt/", cn: "夸大，夸张", ex: "The media exaggerated the risks.", exCn: "媒体夸大了风险。" },
-    { w: "facilitate", pos: "v.", p: "/fəˈsɪlɪteɪt/", cn: "促进，使便利", ex: "Technology facilitates communication.", exCn: "科技促进了交流。" },
-    { w: "fluctuate", pos: "v.", p: "/ˈflʌktʃueɪt/", cn: "波动，起伏", ex: "Oil prices fluctuate daily.", exCn: "油价每天波动。" },
-    { w: "implement", pos: "v.", p: "/ˈɪmplɪment/", cn: "实施，执行", ex: "The plan was implemented last year.", exCn: "该计划去年得以实施。" },
-    { w: "incentive", pos: "n.", p: "/ɪnˈsentɪv/", cn: "激励，诱因", ex: "Tax cuts are an incentive to invest.", exCn: "减税是投资的激励。" },
-    { w: "inevitable", pos: "adj.", p: "/ɪnˈevɪtəbl/", cn: "不可避免的", ex: "Change is inevitable in any industry.", exCn: "任何行业的变革都不可避免。" },
-    { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施", ex: "The country needs better infrastructure.", exCn: "这个国家需要更好的基础设施。" },
-    { w: "innovation", pos: "n.", p: "/ˌɪnəˈveɪʃn/", cn: "创新，革新", ex: "Innovation drives economic growth.", exCn: "创新推动经济增长。" },
-    { w: "legislation", pos: "n.", p: "/ˌledʒɪsˈleɪʃn/", cn: "立法，法律", ex: "New legislation protects consumers.", exCn: "新法律保护消费者。" },
-    { w: "mitigate", pos: "v.", p: "/ˈmɪtɪɡeɪt/", cn: "缓解，减轻", ex: "Trees mitigate the heat island effect.", exCn: "树木缓解热岛效应。" },
-    { w: "phenomenon", pos: "n.", p: "/fəˈnɒmɪnən/", cn: "现象（复数phenomena）", ex: "Urbanisation is a global phenomenon.", exCn: "城市化是一种全球现象。" },
-    { w: "preliminary", pos: "adj.", p: "/prɪˈlɪmɪnəri/", cn: "初步的，预备的", ex: "Preliminary results look promising.", exCn: "初步结果看起来很有希望。" },
-    { w: "prosperity", pos: "n.", p: "/prɒˈsperəti/", cn: "繁荣，兴旺", ex: "Trade brought prosperity to the port city.", exCn: "贸易给这座港口城市带来了繁荣。" },
-    { w: "scrutiny", pos: "n.", p: "/ˈskruːtəni/", cn: "仔细审查", ex: "The policy came under public scrutiny.", exCn: "该政策受到公众的严格审视。" },
-    { w: "subsidy", pos: "n.", p: "/ˈsʌbsədi/", cn: "补贴，津贴", ex: "Farmers receive government subsidies.", exCn: "农民获得政府补贴。" },
-    { w: "viable", pos: "adj.", p: "/ˈvaɪəbl/", cn: "可行的", ex: "Solar power is now a viable option.", exCn: "太阳能如今是一个可行的选择。" }
+    { w: "accumulate", pos: "v.", p: "/əˈkjuːmjəleɪt/", cn: "积累，积聚", ex: "Toxic substances accumulate in the food chain.", exCn: "有毒物质在食物链中不断积累。" },
+    { w: "assess", pos: "v.", p: "/əˈses/", cn: "评估，评定", ex: "Experts assessed the damage after the flood.", exCn: "洪水过后专家评估了损失。" },
+    { w: "coherent", pos: "adj.", p: "/kəʊˈhɪərənt/", cn: "连贯的，条理清晰的", ex: "A coherent essay needs clear paragraph links.", exCn: "一篇连贯的文章需要清晰的段落衔接。" },
+    { w: "collaborate", pos: "v.", p: "/kəˈlæbəreɪt/", cn: "合作，协作", ex: "Scientists from ten countries collaborated on the project.", exCn: "来自十个国家的科学家合作开展了这个项目。" },
+    { w: "controversy", pos: "n.", p: "/ˈkɒntrəvɜːsi/", cn: "争议，争论", ex: "The new policy sparked fierce controversy.", exCn: "新政策引发了激烈的争议。" },
+    { w: "conventional", pos: "adj.", p: "/kənˈvenʃənl/", cn: "传统的，常规的", ex: "Conventional farming relies heavily on chemicals.", exCn: "传统农业严重依赖化学品。" },
+    { w: "crucial", pos: "adj.", p: "/ˈkruːʃl/", cn: "至关重要的", ex: "Timing is crucial to the success of the mission.", exCn: "时机对任务的成功至关重要。" },
+    { w: "decline", pos: "v.", p: "/dɪˈklaɪn/", cn: "下降；衰退；婉拒", ex: "Bird populations have declined sharply.", exCn: "鸟类数量急剧下降。" },
+    { w: "derive", pos: "v.", p: "/dɪˈraɪv/", cn: "获得；源于", ex: "Many medicines are derived from plants.", exCn: "许多药物提取自植物。" },
+    { w: "dispose", pos: "v.", p: "/dɪˈspəʊz/", cn: "处理，丢弃（dispose of）", ex: "Factories must dispose of waste safely.", exCn: "工厂必须安全地处理废料。" },
+    { w: "distinct", pos: "adj.", p: "/dɪˈstɪŋkt/", cn: "明显不同的，独特的", ex: "The two dialects are quite distinct.", exCn: "这两种方言截然不同。" },
+    { w: "distribute", pos: "v.", p: "/dɪˈstrɪbjuːt/", cn: "分发，分配", ex: "Aid was distributed to the victims.", exCn: "救援物资被分发给了受灾者。" },
+    { w: "emerge", pos: "v.", p: "/ɪˈmɜːdʒ/", cn: "出现，浮现", ex: "New industries emerged after the reform.", exCn: "改革之后新兴产业不断涌现。" },
+    { w: "empirical", pos: "adj.", p: "/ɪmˈpɪrɪkl/", cn: "以实证为依据的", ex: "The theory lacks empirical evidence.", exCn: "该理论缺乏实证依据。" },
+    { w: "evaluate", pos: "v.", p: "/ɪˈvæljueɪt/", cn: "评价，评估", ex: "Students were asked to evaluate the argument.", exCn: "学生们被要求评价这一论点。" },
+    { w: "evolve", pos: "v.", p: "/ɪˈvɒlv/", cn: "演变，进化", ex: "The company evolved into a global brand.", exCn: "这家公司逐渐发展成一个全球品牌。" },
+    { w: "feasible", pos: "adj.", p: "/ˈfiːzəbl/", cn: "可行的", ex: "It is not feasible to finish the work in a week.", exCn: "一周内完成这项工作是不可行的。" },
+    { w: "fundamental", pos: "adj.", p: "/ˌfʌndəˈmentl/", cn: "根本的，基础的", ex: "Education is a fundamental human right.", exCn: "教育是一项基本人权。" },
+    { w: "hypothesis", pos: "n.", p: "/haɪˈpɒθəsɪs/", cn: "假说，假设（复数hypotheses）", ex: "The experiment confirmed their hypothesis.", exCn: "实验证实了他们的假说。" },
+    { w: "integrate", pos: "v.", p: "/ˈɪntɪɡreɪt/", cn: "整合，融合", ex: "The app integrates maps with real-time traffic.", exCn: "这款应用把地图与实时路况整合在一起。" },
+    { w: "justify", pos: "v.", p: "/ˈdʒʌstɪfaɪ/", cn: "证明…正当，为…辩护", ex: "Nothing can justify such waste.", exCn: "任何理由都无法为这种浪费开脱。" },
+    { w: "notion", pos: "n.", p: "/ˈnəʊʃn/", cn: "观念，看法", ex: "He rejected the notion that money buys happiness.", exCn: "他不认同金钱能买到幸福这一观念。" },
+    { w: "obstacle", pos: "n.", p: "/ˈɒbstəkl/", cn: "障碍，阻碍", ex: "Lack of funding is the main obstacle.", exCn: "资金不足是主要障碍。" },
+    { w: "precede", pos: "v.", p: "/prɪˈsiːd/", cn: "先于，在…之前", ex: "A short speech preceded the ceremony.", exCn: "典礼之前有一段简短的致辞。" },
+    { w: "profound", pos: "adj.", p: "/prəˈfaʊnd/", cn: "深远的，深刻的", ex: "The internet has had a profound impact on society.", exCn: "互联网对社会产生了深远影响。" },
+    { w: "retain", pos: "v.", p: "/rɪˈteɪn/", cn: "保留，保持", ex: "The town retains much of its old charm.", exCn: "这座小镇保留了许多昔日的魅力。" },
+    { w: "simulate", pos: "v.", p: "/ˈsɪmjuleɪt/", cn: "模拟，仿真", ex: "The software simulates real flight conditions.", exCn: "这款软件模拟真实的飞行条件。" },
+    { w: "substantial", pos: "adj.", p: "/səbˈstænʃl/", cn: "大量的，可观的", ex: "The project requires substantial investment.", exCn: "该项目需要大量投资。" },
+    { w: "transform", pos: "v.", p: "/trænsˈfɔːm/", cn: "使转变，改造", ex: "Technology has transformed the way we work.", exCn: "科技改变了我们的工作方式。" },
+    { w: "undergo", pos: "v.", p: "/ˌʌndəˈɡəʊ/", cn: "经历，接受", ex: "The city is undergoing rapid change.", exCn: "这座城市正在经历快速变化。" }
   ],
   vocabArticle: {
-    title: "How Governments Steer a Changing Economy",
-    titleCn: "政府如何引导变化中的经济",
+    title: "How Science Turns Ideas into Progress",
+    titleCn: "科学如何把想法变成进步",
     paras: [
       {
-        en: "When economic conditions deteriorate, governments face intense scrutiny over how they allocate public money. A comprehensive response usually combines short-term relief with long-term investment: subsidies may compensate struggling industries, while spending on infrastructure creates jobs and lays the foundation for future prosperity.",
-        cn: "当经济状况恶化时，政府在如何分配公共资金上会受到严格审视。全面的应对通常将短期救济与长期投资结合起来：补贴可以补偿陷入困境的行业，而基础设施支出则能创造就业，为未来的繁荣打下基础。"
+        en: "Every scientific breakthrough begins with a notion: a researcher observes a distinct pattern, forms a hypothesis, and then designs experiments to test it. Careful observation must precede any conclusion, because a theory without empirical support is merely speculation. Over time, evidence accumulates, and what once caused controversy may evolve into accepted knowledge.",
+        cn: "每一项科学突破都始于一个想法：研究者观察到一种独特的规律，提出假说，然后设计实验加以检验。任何结论之前都必须先有细致的观察，因为缺乏实证支持的理论只是猜测。随着时间推移，证据不断积累，曾经引发争议的观点也可能演变为公认的知识。"
       },
       {
-        en: "However, resources are never abundant, and every choice involves trade-offs. Critics contradict the official view, arguing that generous subsidies constrain innovation by protecting firms that are no longer viable. If companies anticipate a rescue whenever prices fluctuate, they have little incentive to adapt.",
-        cn: "然而，资源从来都不充裕，每一个选择都涉及取舍。批评者反驳官方观点，认为慷慨的补贴保护了不再有生存能力的企业，从而限制了创新。如果企业预计每当价格波动时都会得到救助，它们就几乎没有动力去适应变化。"
+        en: "Modern research is rarely a solo effort. Teams from different countries collaborate, share data and integrate their findings into a coherent whole. Computers can now simulate complex systems, from climate patterns to chemical reactions, which makes it feasible to evaluate ideas that conventional laboratory methods could never test directly.",
+        cn: "现代研究很少是单打独斗。来自不同国家的团队相互合作、共享数据，并把各自的发现整合成一个连贯的整体。计算机如今可以模拟从气候规律到化学反应的复杂系统，这使得评估那些传统实验室方法无法直接检验的想法成为可能。"
       },
       {
-        en: "Supporters respond that this criticism exaggerates the problem. Well-designed legislation can eliminate the most adverse effects while still supporting diverse industries. The key criterion, they argue, is whether a policy is implemented with clear goals and preliminary evaluation, rather than as a vague and ambiguous promise.",
-        cn: "支持者回应说，这种批评夸大了问题。设计良好的立法可以消除最不利的影响，同时仍然支持多元的产业。他们认为，关键的标准在于政策是否带着明确目标和初步评估去实施，而不是作为一个模糊而含糊其辞的承诺。"
+        en: "Progress, however, faces obstacles. Funding for basic science has declined in many countries, and researchers must justify every grant by pointing to practical benefits they might derive. Yet history shows that fundamental discoveries, though they may seem useless at first, often transform entire industries and bring substantial economic returns.",
+        cn: "然而，进步也面临重重障碍。许多国家的基础科学经费不断下降，研究者必须通过指出可能获得的实际收益来为每一笔拨款辩护。但历史表明，基础性发现哪怕起初看似无用，最终往往能改造整个行业并带来可观的经济回报。"
       },
       {
-        en: "In reality, some economic pain is inevitable during transitions, and no phenomenon can be fully controlled. What governments can do is facilitate change, enhance workers' skills, and mitigate the hardship of those most affected.",
-        cn: "现实中，转型期间某些经济阵痛是不可避免的，没有任何现象能被完全掌控。政府能做的，是促进变革、提升劳动者技能，并减轻受影响最大人群的困境。"
+        en: "Society, too, must undergo a change in attitude. It is crucial that governments distribute resources fairly, dispose of the idea that only profitable research matters, and retain public trust in science. When new challenges emerge, from pandemics to climate change, a scientifically literate society will always be better prepared to respond.",
+        cn: "社会同样需要经历观念上的转变。政府必须公平地分配资源，摒弃「只有能盈利的研究才重要」的想法，并保持公众对科学的信任，这一点至关重要。当新的挑战出现时——无论是流行病还是气候变化——一个具备科学素养的社会总能更从容地应对。"
       }
     ]
   },
   grammar: [
     {
-      q: "Hardly ______ the airport when the storm broke out.",
-      options: ["we had reached", "had we reached", "did we reach", "we reached"],
+      q: "If the government ______ earlier warnings about the satellite debris, the collision ______ last month.",
+      options: [
+        "heeded; would not happen",
+        "had heeded; would not have happened",
+        "has heeded; would not have happened",
+        "heeded; had not happened"
+      ],
       answer: 1,
-      explain: "考点：hardly...when... 的倒装结构。否定副词 hardly 放在句首时，主句必须部分倒装（助动词提前）。同时 hardly...when 表示「一…就…」，主句用过去完成时（had done），when 从句用一般过去时。所以选 had we reached。"
+      explain: "考点：虚拟语气（与过去事实相反）。句中 last month 表明碰撞发生在过去，是对过去事实的假设。与过去事实相反的虚拟条件句结构为：If + 主语 + had done（从句），主语 + would/could/might + have done（主句）。因此从句用 had heeded，主句用 would not have happened，选 B。A 项是与现在事实相反的结构；C 项 has heeded 是现在完成时，不能用于虚拟条件句；D 项主句形式错误。"
     },
     {
-      q: "The number of students who ______ enrolled in online courses ______ increased dramatically over the past decade.",
-      options: ["have; has", "has; have", "have; have", "has; has"],
-      answer: 0,
-      explain: "考点：主谓一致。第一空：定语从句 who 指代的是 students（复数），所以用 have enrolled。第二空：整个句子的主语是 The number of...（…的数量），the number 作主语时谓语用单数，所以用 has increased。注意区分 a number of（许多，谓语用复数）和 the number of（…的数量，谓语用单数）。"
+      q: "______ by the sharp rise in launch costs, several companies decided to postpone their satellite programmes.",
+      options: [
+        "Alarming",
+        "Alarmed",
+        "To alarm",
+        "Having alarmed"
+      ],
+      answer: 1,
+      explain: "考点：非谓语动词（分词作状语）。判断关键是分词与句子主语的逻辑关系：主语 several companies 与动词 alarm（使惊恐）之间是被动关系——公司是「被」发射成本上涨所惊动的，所以要用过去分词 Alarmed 表被动，相当于 Because they were alarmed by...。A 项 Alarming 是现在分词表主动，意为「令人担忧的」，逻辑不通；C 项不定式表目的，语义不符；D 项 Having alarmed 是现在分词完成式，表示主语主动完成了 alarm 这个动作，与逻辑相悖。"
     }
   ]
 };

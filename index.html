@@ -235,7 +235,7 @@
   <!-- ============ 玄学 ============ -->
   <div class="view" id="view-mystic">
     <div id="mysticHome">
-      <h1 class="page">阴阳 · 玄学七门</h1>
+      <h1 class="page">阴阳 · 玄学体系</h1>
       <div class="page-sub">从零开始逐章学习 · 每章配案例与测试，测试通过（≥3/4）才解锁下一章</div>
       <div class="subj-grid" id="subjGrid"></div>
     </div>
@@ -656,6 +656,7 @@ function openSubject(id, chIndex){
           ${ch.sections.map(s=>`<div class="sec"><h4>◆ ${s.h}</h4><p>${s.b}</p></div>`).join('')}
           <div class="case-box"><b>📜 ${ch.caseStudy.title}</b><p>${ch.caseStudy.b}</p></div>
         </div>
+        ${ch.tool ? `<div class="card"><h2>${ch.tool.title}</h2><div>${ch.tool.html}</div></div>` : ''}
         <div class="card">
           <h2>🎯 本章测试</h2>
           <div class="hint">${quizState!==undefined ? `上次成绩：${quizState}/4 ${quizState>=3?'（已通过 ✅）':'（未通过，可重测）'}` : '完成4题后点击「提交测试」'}</div>
@@ -716,6 +717,7 @@ function openSubject(id, chIndex){
     st.notes.push({date:TODAY, ch: hasContent?ch.title:c.syllabus[chIndex], text:t});
     saveSubj(id, st); openSubject(id, chIndex);
   };
+  if(ch && ch.tool && ch.tool.init && window[ch.tool.init]) window[ch.tool.init]();
 }
 
 /* ================= 英语分析 ================= */

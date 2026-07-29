@@ -342,5 +342,156 @@ window.MYSTIC_COURSES = [
         ]
       }
     ]
+  },
+  {
+    id: "xiaoliuren", name: "小六壬", emoji: "📿", color: "#6f42c1",
+    intro: "民间流传最广的速占法，又称「马前课」「掌中诀」。掐指三算（月、日、时），落于六神之一，立刻知吉凶。零基础、零工具，几十秒出一个结果，最适合日常随手一占。",
+    syllabus: [
+      "第1章 六神与掐指算法（含测算器）",
+      "第2章 六神断语详解",
+      "第3章 分类占断实战"
+    ],
+    chapters: [
+      {
+        title: "第1章 六神与掐指算法（含测算器）",
+        sections: [
+          { h: "什么是小六壬", b: "小六壬是相对「大六壬」而言的民间简化占法，相传为李淳风所传，所以也叫「李淳风六壬」「马前课」。它不需要任何工具，只取问事时的月、日、时三个数，在掌上（或心中）连数三步，落在六个神煞之一，据以断吉凶。" },
+          { h: "六神及其顺序", b: "六神按固定顺序循环：①大安 ②留连 ③速喜 ④赤口 ⑤小吉 ⑥空亡，再回到大安。记住这个圈，是全部算法的基础。每个神对应五行、方位与一句诗诀，落谁身上就按谁的断语来读。" },
+          { h: "三宫演算法（核心）", b: "第一步「月上起月」：从大安起，数到当月（正月落大安、二月落留连……即顺数月份）。第二步「日上起日」：从第一步落点续数日数。第三步「时上起时」：从第二步落点续数时辰（子时=1，丑=2……亥=12）。最终落点即为本次所占的六神。" },
+          { h: "举例", b: "例：农历三月初五、午时问事。月3→从大安数3落速喜；日5→从速喜顺数：初一速喜、初二赤口、初三小吉、初四空亡、初五归大安；时午(7)→从大安顺数至午时仍落大安。结果：大安（安稳吉祥，谋事可成但宜缓、失物在近）。你可以直接在下方测算器里验证，并换算自己的问题。" }
+        ],
+        caseStudy: {
+          title: "案例：用测算器占「今日能否谈成合作」",
+          b: "填入今天的农历月日与当前时辰，点「测算」。若落「速喜」「小吉」「大安」，主成；落「留连」「赤口」「空亡」，宜缓或防阻。记住：同一件事莫反复占，心静则灵。"
+        },
+        tool: {
+          title: "📿 小六壬测算器",
+          html: `<div style="display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;margin-bottom:6px">
+  <label style="font-size:13px;color:#4b5364">月份<select id="xlMonth" style="display:block;margin-top:4px;padding:8px 10px;border:1px solid #d7dce8;border-radius:9px;font-size:14px"></select></label>
+  <label style="font-size:13px;color:#4b5364">日<select id="xlDay" style="display:block;margin-top:4px;padding:8px 10px;border:1px solid #d7dce8;border-radius:9px;font-size:14px"></select></label>
+  <label style="font-size:13px;color:#4b5364">时辰<select id="xlHour" style="display:block;margin-top:4px;padding:8px 10px;border:1px solid #d7dce8;border-radius:9px;font-size:14px"></select></label>
+  <button class="btn primary" id="xlCalc">📿 测算</button>
+  <button class="btn" id="xlNow">用当前时间</button>
+</div>
+<div class="hint" style="margin:6px 0 14px">传统以农历月日推算；此处填农历或公历皆可，纯属娱乐参考，莫执着。</div>
+<div id="xlResult"></div>`,
+          init: "xlurenInit"
+        },
+        quiz: [
+          { q: "小六壬的六个神煞依次是？", options: ["大安留连速喜赤口小吉空亡", "金木水火土空", "乾坤震巽坎离", "东西南北中虚"], answer: 0, explain: "六神顺序：大安、留连、速喜、赤口、小吉、空亡，循环往复。" },
+          { q: "「月上起月」的起点是？", options: ["从赤口起", "从大安起", "随机起", "从空亡起"], answer: 1, explain: "不论月日时，都从「大安」这个数起，顺数。" },
+          { q: "小六壬需要什么工具？", options: ["三枚铜钱", "掐指/心中默数即可", "罗盘", "八字"], answer: 1, explain: "小六壬是掌中诀，零工具，取月日时三数连数三步即可。" },
+          { q: "子时在时辰排序中对应数字？", options: ["1", "6", "12", "7"], answer: 0, explain: "子时排第一（子=1，丑=2……亥=12），第三步「时上起时」按此数。" }
+        ]
+      },
+      {
+        title: "第2章 六神断语详解",
+        sections: [
+          { h: "大安 · 木 · 东方", b: "诗：大安事事昌，求谋在东方，失物去不远，宅舍保平安。行人身未动，病者主无妨。断：安稳吉祥，静守为宜。谋事可成但宜缓；失物在近处；行人未动身；疾病无大碍；婚姻可成；官事和；求财平稳。" },
+          { h: "留连 · 水 · 南方", b: "诗：留连事难成，求谋日未明。官事只宜缓，去者未回程。断：拖延纠缠、反复难决。事难速成，宜守不宜进；官非宜缓；行人未归；失物在南方迟则难寻；婚姻难合；求财未得；出行有阻。" },
+          { h: "速喜 · 火 · 南方", b: "诗：速喜喜来临，求财向南行。失物申未午，逢人路上寻。断：喜事将近、消息速至。谋事可成且快；婚姻有成；求财向南；失物在路途（申未午方）；行人将至；疾病轻；官事有贵人。" },
+          { h: "赤口 · 金 · 西方", b: "诗：赤口主口舌，官非切要防。失物急去寻，行人有惊慌。断：口舌是非、官讼凶险。宜防争吵官非；失物宜速寻（西方）；行人有惊；婚姻凶；求财有损；出行忌；疾病防凶。" },
+          { h: "小吉 · 木 · 东方", b: "诗：小吉最吉昌，路上好商量。阴人来报喜，失物在坎方。断：和合小成、顺利多助。诸事可成遇助力；婚姻成；求财有；失物在近水（坎方）；行人即至；官事和；疾病渐愈。" },
+          { h: "空亡 · 土 · 中央", b: "诗：空亡事不谐，小人怪主灾。求财无利益，行人有信乖。断：落空消散、虚无难成。谋事难成；求财无利；失物难寻；婚姻散；行人信息不准；官事有刑灾；疾病凶，宜禳解；出行空返。" }
+        ],
+        caseStudy: {
+          title: "案例：同一问题落不同神怎么读",
+          b: "若占出行落「留连」，主行程拖延、宜改期；若落「速喜」，主途中遇喜信、顺利。读神时先抓「五行生克 + 方位 + 诗诀」三把钥匙，再结合所问之事对号入座，不必逐字硬套。"
+        },
+        quiz: [
+          { q: "「失物去不远、宅舍保平安」对应哪个神？", options: ["留连", "大安", "赤口", "空亡"], answer: 1, explain: "这是大安的诗诀，主安稳、失物在近。" },
+          { q: "代表口舌、官非、宜防争吵的是？", options: ["速喜", "小吉", "赤口", "大安"], answer: 2, explain: "赤口主口舌官非，断语首防争吵争讼。" },
+          { q: "哪一神主「落空、消散、事难成」？", options: ["小吉", "空亡", "速喜", "留连"], answer: 1, explain: "空亡事不谐，主虚无为空、谋事难成。" },
+          { q: "「小吉最吉昌，路上好商量」说明小吉主？", options: ["凶险", "和合顺利", "拖延", "口舌"], answer: 1, explain: "小吉主和合、小成、多遇助力。" }
+        ]
+      },
+      {
+        title: "第3章 分类占断实战",
+        sections: [
+          { h: "求财", b: "落大安、速喜、小吉：财可求，平稳或小得。落留连：财迟、宜缓；赤口：防破财口舌；空亡：无利甚至亏。结合方位：速喜向南、大安向东更顺。" },
+          { h: "婚姻感情", b: "大安、速喜、小吉：可成。留连：纠缠难定；赤口：多争执易散；空亡：主散缘淡。问复合落空亡，多是无缘之象，宜放下。" },
+          { h: "失物", b: "大安：去不远，家中寻；速喜：在路途（申未午方）；小吉：近水坎方；留连：南方迟寻；赤口：急寻西方；空亡：难寻。总诀：先定神、再定方、速寻莫拖。" },
+          { h: "出行 / 行人", b: "大安、速喜、小吉：出行吉、行人将至。留连：行程拖延、去者未回；赤口：路上惊慌宜忌；空亡：空返、信不准。远行前占得赤口空亡，宜择日改期。" },
+          { h: "疾病", b: "大安：静养无妨；速喜小吉：渐愈；留连：缠绵反复；赤口：防凶宜禳；空亡：主凶，宜祈禳化解。占病以「安心+就医」为本，占法仅供心态参考，不可替医。" },
+          { h: "官非诉讼", b: "大安：和；速喜：有贵人助；小吉：和合；留连：宜缓不宜争；赤口：官非口舌切防；空亡：有刑灾。遇事落赤口空亡，宜忍、宜和解、宜缓。" }
+        ],
+        caseStudy: {
+          title: "案例：综合占一例",
+          b: "问「本周签约能否成」：月日时落「速喜」。读：喜事速至、谋事可成且快、官事有福德——综合判断签约可成，且比预期快。配合求财速喜向南，可主动往南边推进。此即「定神→读断→合事」的完整套路。"
+        },
+        quiz: [
+          { q: "占失物落「小吉」，应在何处寻？", options: ["西方急寻", "近水坎方", "难寻", "南方迟寻"], answer: 1, explain: "小吉诗诀「失物在坎方」，坎为水，近水处寻。" },
+          { q: "占出行落「空亡」，宜？", options: ["即刻动身", "空返、宜改期", "向南", "静守待归"], answer: 1, explain: "空亡主空返、信不准，远行落空亡宜择日。" },
+          { q: "占病落「赤口」，宜？", options: ["置之不理", "防凶、宜禳解并就医", "必愈", "只吃药"], answer: 1, explain: "赤口主凶，宜禳解化解，但仍以就医为本。" },
+          { q: "占官非落「大安/速喜/小吉」，总体？", options: ["必败", "和、有贵人、可解", "必有刑灾", "拖延无解"], answer: 1, explain: "三吉神落官非，主和、有贵人、宜和解。" }
+        ]
+      }
+    ]
   }
 ];
+
+window.xlurenInit = function(){
+  const SHEN = [
+    {name:'大安', wx:'木', fang:'东', color:'#2e7d32',
+      poem:'大安事事昌，求谋在东方，失物去不远，宅舍保平安。行人身未动，病者主无妨。',
+      desc:'安稳吉祥，静守为宜。谋事可成但宜缓；失物在近处；行人未动身；疾病无大碍；婚姻可成；官事和；求财平稳。'},
+    {name:'留连', wx:'水', fang:'南', color:'#1565c0',
+      poem:'留连事难成，求谋日未明。官事只宜缓，去者未回程。失物南方见，急讨方称心。',
+      desc:'拖延纠缠、反复难决。事难速成，宜守不宜进；官非宜缓；行人未归；失物在南方迟则难寻；婚姻难合；求财未得；出行有阻。'},
+    {name:'速喜', wx:'火', fang:'南', color:'#c62828',
+      poem:'速喜喜来临，求财向南行。失物申未午，逢人路上寻。官事有福德，病者无祸侵。',
+      desc:'喜事将近、消息速至。谋事可成且快；婚姻有成；求财向南；失物在路途；行人将至；疾病轻；官事有贵人助。'},
+    {name:'赤口', wx:'金', fang:'西', color:'#ef6c00',
+      poem:'赤口主口舌，官非切要防。失物急去寻，行人有惊慌。鸡犬多作怪，病者出西方。',
+      desc:'口舌是非、官讼凶险。宜防争吵官非；失物宜速寻（西方）；行人有惊；婚姻凶；求财有损；出行忌；疾病防凶。'},
+    {name:'小吉', wx:'木', fang:'东', color:'#2e7d32',
+      poem:'小吉最吉昌，路上好商量。阴人来报喜，失物在坎方。行人即便至，交关甚是强。',
+      desc:'和合小成、顺利多助。诸事可成遇助力；婚姻成；求财有；失物近水（坎方）；行人即至；官事和；疾病渐愈。'},
+    {name:'空亡', wx:'土', fang:'中', color:'#6d4c41',
+      poem:'空亡事不谐，小人怪主灾。求财无利益，行人有信乖。失物寻不见，官事有刑灾。',
+      desc:'落空消散、虚无难成。谋事难成；求财无利；失物难寻；婚姻散；行人信息不准；官事有刑灾；疾病凶，宜禳解；出行空返。'}
+  ];
+  const HOURS = [
+    {n:'子时',r:'23:00-01:00'},{n:'丑时',r:'01:00-03:00'},{n:'寅时',r:'03:00-05:00'},
+    {n:'卯时',r:'05:00-07:00'},{n:'辰时',r:'07:00-09:00'},{n:'巳时',r:'09:00-11:00'},
+    {n:'午时',r:'11:00-13:00'},{n:'未时',r:'13:00-15:00'},{n:'申时',r:'15:00-17:00'},
+    {n:'酉时',r:'17:00-19:00'},{n:'戌时',r:'19:00-21:00'},{n:'亥时',r:'21:00-23:00'}
+  ];
+  const HOUR_IDX=[1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,1];
+  const mSel=document.getElementById('xlMonth');
+  const dSel=document.getElementById('xlDay');
+  const hSel=document.getElementById('xlHour');
+  const res=document.getElementById('xlResult');
+  if(!mSel||!dSel||!hSel||!res) return;
+  for(let i=1;i<=12;i++){ const o=document.createElement('option'); o.value=i; o.textContent=i+'月'; mSel.appendChild(o); }
+  for(let i=1;i<=31;i++){ const o=document.createElement('option'); o.value=i; o.textContent=i+'日'; dSel.appendChild(o); }
+  HOURS.forEach((h,i)=>{ const o=document.createElement('option'); o.value=i+1; o.textContent=h.n+'（'+h.r+'）'; hSel.appendChild(o); });
+  function calc(){
+    const m=+mSel.value, d=+dSel.value, h=+hSel.value;
+    if(!m||!d||!h){ res.innerHTML='<div class="hint">请先选择月、日、时辰。</div>'; return; }
+    const p1=(m-1)%6, p2=(p1+(d-1))%6, p3=(p2+(h-1))%6;
+    const f=SHEN[p3];
+    res.innerHTML =
+      '<div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px">'+
+        '<div style="flex:1;min-width:120px;background:#f5f7fb;border-radius:12px;padding:12px;text-align:center"><div style="font-size:12px;color:#8a91a0">① 月上起月</div><div style="font-size:20px;font-weight:800;margin-top:4px">'+SHEN[p1].name+'</div></div>'+
+        '<div style="flex:1;min-width:120px;background:#f5f7fb;border-radius:12px;padding:12px;text-align:center"><div style="font-size:12px;color:#8a91a0">② 日上起日</div><div style="font-size:20px;font-weight:800;margin-top:4px">'+SHEN[p2].name+'</div></div>'+
+        '<div style="flex:1;min-width:120px;background:#f5f7fb;border-radius:12px;padding:12px;text-align:center"><div style="font-size:12px;color:#8a91a0">③ 时上起时</div><div style="font-size:20px;font-weight:800;margin-top:4px">'+SHEN[p3].name+'</div></div>'+
+      '</div>'+
+      '<div style="border:2px solid '+f.color+';border-radius:14px;overflow:hidden">'+
+        '<div style="background:'+f.color+';color:#fff;padding:12px 16px;font-size:18px;font-weight:800">'+f.name+' · 五行'+f.wx+' · 方'+f.fang+'</div>'+
+        '<div style="padding:14px 16px">'+
+          '<div style="font-style:italic;color:#5b6474;line-height:1.9;margin-bottom:10px">「'+f.poem+'」</div>'+
+          '<div style="line-height:1.9;font-size:14.5px;color:#33404f">'+f.desc+'</div>'+
+        '</div>'+
+      '</div>';
+  }
+  function fillNow(){
+    const dt=new Date();
+    mSel.value=dt.getMonth()+1;
+    dSel.value=Math.min(dt.getDate(),31);
+    hSel.value=HOUR_IDX[dt.getHours()];
+  }
+  document.getElementById('xlCalc').onclick=calc;
+  document.getElementById('xlNow').onclick=function(){ fillNow(); calc(); };
+  fillNow(); calc();
+};
