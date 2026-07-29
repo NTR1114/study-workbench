@@ -109,6 +109,14 @@
   .sec{margin-bottom:16px}
   .sec h4{font-size:15px;margin-bottom:6px;color:#2b3346}
   .sec p{font-size:14.5px;line-height:1.95;color:#3c4354}
+  .sec-b{font-size:14.5px;line-height:1.95;color:#3c4354}
+  .sec-b table{border-collapse:collapse;width:100%;margin:10px 0;font-size:13.5px}
+  .sec-b th,.sec-b td{border:1px solid #d9deea;padding:7px 9px;text-align:left;line-height:1.6;vertical-align:top}
+  .sec-b th{background:#f3f5fa;font-weight:700;color:#2b3346}
+  .sec-b ul,.sec-b ol{margin:6px 0 6px 20px;padding:0}
+  .sec-b li{margin:3px 0}
+  .sec-b b{color:#2b3346}
+  .sec-b code{background:#f1f3f8;padding:1px 5px;border-radius:5px;font-size:13px}
   .case-box{background:var(--purple-soft);border-left:3px solid var(--purple);border-radius:8px;padding:14px 16px;margin:16px 0}
   .case-box b{color:var(--purple)}
   .case-box p{font-size:13.5px;line-height:1.9;margin-top:6px;color:#4a3f68}
@@ -652,11 +660,12 @@ function openSubject(id, chIndex){
         ${hasContent ? `
         <div class="card">
           <h2>${ch.title}</h2>
-          <div class="hint">认真读完正文和案例，再做下方测试；答对 3/4 即解锁下一章</div>
-          ${ch.sections.map(s=>`<div class="sec"><h4>◆ ${s.h}</h4><p>${s.b}</p></div>`).join('')}
-          <div class="case-box"><b>📜 ${ch.caseStudy.title}</b><p>${ch.caseStudy.b}</p></div>
+          <div class="hint">${ (ch.quiz && ch.quiz.length) ? '认真读完正文和案例，再做下方测试；答对 3/4 即解锁下一章' : '本模块为参考资料，阅读并体验下方工具即算完成。' }</div>
+          ${ch.sections.map(s=>`<div class="sec"><h4>◆ ${s.h}</h4><div class="sec-b">${s.b}</div></div>`).join('')}
+          ${ch.caseStudy ? `<div class="case-box"><b>📜 ${ch.caseStudy.title}</b><p>${ch.caseStudy.b}</p></div>` : ''}
         </div>
         ${ch.tool ? `<div class="card"><h2>${ch.tool.title}</h2><div>${ch.tool.html}</div></div>` : ''}
+        ${(ch.quiz && ch.quiz.length) ? `
         <div class="card">
           <h2>🎯 本章测试</h2>
           <div class="hint">${quizState!==undefined ? `上次成绩：${quizState}/4 ${quizState>=3?'（已通过 ✅）':'（未通过，可重测）'}` : '完成4题后点击「提交测试」'}</div>
@@ -669,6 +678,10 @@ function openSubject(id, chIndex){
           <button class="btn primary" id="quizSubmit">提交测试</button>
           <div class="quiz-score" id="quizResult"></div>
         </div>` : `
+        <div class="card">
+          <h2>📖 本模块</h2>
+          <div class="hint">本模块为参考资料（含交互工具），无测试题；阅读并体验即算完成，自动解锁下一模块。</div>
+        </div>`} ` : `
         <div class="card">
           <h2>🔜 ${c.syllabus[chIndex]}</h2>
           <p style="line-height:2;font-size:14.5px;color:#4b5364;margin-top:8px">
@@ -690,7 +703,7 @@ function openSubject(id, chIndex){
   $('#backHome').onclick = ()=>{ box.style.display='none'; $('#mysticHome').style.display='block'; renderSubjects(); };
   box.querySelectorAll('.open-ch').forEach(el=>{ el.onclick = ()=>openSubject(id, +el.dataset.ch); });
 
-  if(hasContent){
+  if(hasContent && ch.quiz && ch.quiz.length){
     $('#quizSubmit').onclick = ()=>{
       let score = 0, answered = 0;
       ch.quiz.forEach((q,qi)=>{
@@ -711,6 +724,10 @@ function openSubject(id, chIndex){
         : `${score}/4 未通过（需≥3），复习正文后可重新作答提交`;
       $('#quizResult').style.color = score>=3 ? 'var(--green)' : 'var(--red)';
     };
+  } else if(hasContent){
+    // 无测试的参考模块：打开即视为完成，解锁下一模块
+    st.unlocked = Math.max(st.unlocked||1, chIndex+2);
+    saveSubj(id, st);
   }
   $('#noteSave').onclick = ()=>{
     const t = $('#noteInput').value.trim(); if(!t) return;
@@ -776,7 +793,7 @@ function renderMysAna(){
   const W=760, rowH=44, H=COURSES.length*rowH+20;
   let g = COURSES.map((c,i)=>{
     const st = subjState(c.id);
-    const passed = Object.values(st.scores).filter(v=>v>=3).length;
+    const passed = Math.max(Object.values(st.scores).filter(v=>v>=3).length, (st.unlocked||1)-1);
     const pct = passed/c.syllabus.length;
     const y = i*rowH+14, bx=150, bw=(W-260);
     return `<text x="0" y="${y+15}" font-size="13" fill="#2b3346" font-weight="700">${c.emoji} ${c.name}</text>

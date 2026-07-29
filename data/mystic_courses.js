@@ -196,55 +196,190 @@ window.MYSTIC_COURSES = [
       }
     ]
   },
-  {
+{
     id: "tarot", name: "塔罗", emoji: "🃏", color: "#e67e22",
-    intro: "源于欧洲的78张牌占卜系统，以象征图像映照潜意识，擅长探索心理状态、关系动态与事情走向。",
+    intro: "塔罗自学工作台：从世界观→牌组谱系→「数字×元素」核心解码器→单牌精解模板→实战解读SOP→每日练习日志，含可交互解码器与练习日志，照着学就能上手解牌。",
     syllabus: [
-      "第1章 塔罗概述与大阿尔卡那(上)", "第2章 大阿尔卡那(下)：愚人之旅的后半程", "第3章 小阿尔卡那：权杖与圣杯",
-      "第4章 小阿尔卡那：宝剑与星币", "第5章 宫廷牌：16种人物性格", "第6章 逆位牌的解读思路",
-      "第7章 牌阵基础：单张、三张、凯尔特十字", "第8章 问题设计与解牌逻辑", "第9章 主题占卜：感情、事业、自我成长", "第10章 综合实战与解牌伦理"
+      "模块一 · 世界观与底层逻辑", "模块二 · 牌组结构总览", "模块三 · 核心解码器（数字×元素）",
+      "模块四 · 单牌精解模板", "模块五 · 实战解读SOP", "附录 · 每日练习日志"
     ],
     chapters: [
       {
-        title: "第1章 塔罗概述与大阿尔卡那(上)",
+        title: "模块一 · 世界观与底层逻辑（学塔罗前必知）",
         sections: [
-          { h: "塔罗牌的结构", b: "一副标准塔罗共78张：22张大阿尔卡那（Major Arcana，人生重大课题与转折）+56张小阿尔卡那（Minor Arcana，日常事件细节）。小牌又分权杖（火/行动）、圣杯（水/情感）、宝剑（风/思维）、星币（土/物质）四组。入门先精通22张大牌即可开始占卜。" },
-          { h: "愚人之旅：0-5号牌", b: "0愚人：纯真、冒险、新开始，也是整段旅程的主角。1魔术师：意志与资源，「我能创造」。2女祭司：直觉、静观、潜意识的智慧。3皇后：丰盛、滋养、感官与母性。4皇帝：秩序、规则、权威与父性。5教皇：传统、导师、信仰与体制内的学习。" },
-          { h: "6-10号牌", b: "6恋人：选择与结合，价值观的抉择。7战车：意志力驱动前进、掌控方向。8力量：以柔克刚，温柔地驯服内在野兽。9隐士：独处、内省、寻找内在之光。10命运之轮：周期转动、时机变化、无常中的机遇。" },
-          { h: "如何记牌", b: "不要背关键词表！正确方法：①先看图，描述你看到的每个细节；②问自己这幅画讲了什么故事；③再对照传统牌义补充。把0-10号牌看作一个人从出发（愚人）到经历初次人生功课（命运之轮）的成长电影，牌义会自然连成线。" }
+          { h: "1.1 塔罗是什么？（定义）", b: `塔罗是一套映射人类集体潜意识的<b>原型符号系统</b>。它不是算命，而是通过随机性与潜意识的投射，将你当下的心理状态、能量卡点以「图像」的形式呈现出来，从而帮你做出更清醒的决策。` },
+          { h: "1.2 核心铁律（必须写入工作台置顶）", b: `· <b>非宿命论</b>：牌显示的是「当下的趋势」，而非「注定的结局」。改变心态，牌象即变。<br>· <b>无牌义教条</b>：没有「这张牌一定代表死亡」的说法，一切含义基于 <b>问题 + 牌面元素 + 位置</b> 三者联动。<br>· <b>提问的艺术</b>：永远问「如何（How）」和「是什么（What）」，少问「会不会 / 能不能」。` },
+          { h: "1.3 学习路径地图（里程碑）", b: `<table>
+   <tr><th>阶段</th><th>目标</th><th>预计用时</th></tr>
+   <tr><td>Lv.1</td><td>熟记22张大阿尔卡纳的「愚人之旅」故事线</td><td>1周</td></tr>
+   <tr><td>Lv.2</td><td>掌握40张小阿尔卡纳的「数字+元素」公式（无需死记硬背）</td><td>1周</td></tr>
+   <tr><td>Lv.3</td><td>区分16张宫廷牌的人物性格特质</td><td>3天</td></tr>
+   <tr><td>Lv.4</td><td>掌握3种万能牌阵（单张、三张、凯尔特十字）</td><td>1周</td></tr>
+   <tr><td>Lv.5</td><td>实战解牌与直觉流训练</td><td>长期</td></tr>
+   </table>` },
+          { h: "🜂 给本工作台 AI 助手的嵌入指令（运行准则）", b: `现在你是一个塔罗知识库助手。当用户提问时，请你优先调用【元素+数字】组合逻辑推导牌意，而非搜索网络上的碎片化答案。对于每一张牌，必须输出「核心警示（What to avoid）」和「能量指引（What to embrace）」两个维度。如果用户没有提供具体问题，禁止直接断吉凶，必须先引导用户厘清问题。` }
         ],
         caseStudy: {
-          title: "案例：单张牌解读演示",
-          b: "问题：「我该不该接受新的工作邀约？」抽到7号战车。图像：战士驾驭黑白两只斯芬克斯，坚定向前。解读：这份工作需要你主动掌控、快速行动，牌面显示前进的能量充足——倾向接受；但黑白兽拉车方向不一，提示新环境中存在需要你协调的矛盾力量（如两位风格迥异的上级）。塔罗的答案很少是简单的是/否，而是「如果做，会是什么样」。"
-        },
-        quiz: [
-          { q: "一副标准塔罗牌共有多少张？", options: ["22张", "56张", "78张", "64张"], answer: 2, explain: "22张大阿尔卡那+56张小阿尔卡那=78张。" },
-          { q: "代表「直觉与潜意识智慧」的大牌是？", options: ["魔术师", "女祭司", "皇帝", "战车"], answer: 1, explain: "2号女祭司主静观、直觉、未显化的内在知识。" },
-          { q: "小阿尔卡那中「圣杯」对应的元素与主题是？", options: ["火/行动", "水/情感", "风/思维", "土/物质"], answer: 1, explain: "权杖火、圣杯水、宝剑风、星币土。" },
-          { q: "学习塔罗牌义的推荐方法是？", options: ["死背关键词", "先观察图像讲故事，再对照牌义", "只用软件解牌", "抄写牌义一百遍"], answer: 1, explain: "塔罗是图像语言，从画面细节建立个人联结才能灵活解牌。" }
-        ]
+          title: "塔罗师的第一课：姿态比技术重要",
+          b: "塔罗不是预言机器。它像一面镜子：你带着怎样的问题与心态来，它就映出怎样的图景。记住——牌给出的是「当下的趋势与能量」，不是锁死的命运。真正的塔罗师做的是「陪问卜者看清自己」，而不是「替他下定论」。"
+        }
       },
       {
-        title: "第2章 大阿尔卡那(下)：愚人之旅的后半程",
+        title: "模块二 · 牌组结构总览（78张牌的家族谱系）",
         sections: [
-          { h: "11-15号牌", b: "11正义：因果平衡、诚实面对后果。12倒吊人：换个角度看世界、主动的牺牲与等待。13死神：结束与蜕变——旧的不去新的不来（极少指真正的死亡）。14节制：调和、耐心、恰到好处的中道。15恶魔：欲望、成瘾、自我束缚——锁链其实松松挂着，随时可以挣脱。" },
-          { h: "16-21号牌", b: "16高塔：突发巨变、假象崩塌，痛但必要。17星星：疗愈、希望、黑暗后的宁静。18月亮：迷雾、不安、潜意识的恐惧浮现。19太阳：喜悦、成功、纯粹的生命力。20审判：觉醒、召唤、对过去做总结。21世界：圆满完成、整合，一个周期的终点亦是新起点。" },
-          { h: "大牌的三段旅程", b: "22张大牌可分三行：0-7（外在世界的功课：身份、意志、秩序）；8-14（内在世界的功课：反思、转化、平衡）；15-21（灵性层面的功课：阴影、崩解、重生、圆满）。抽到哪一段的牌，往往提示问题处于哪个层面。" },
-          { h: "洗牌与抽牌规范", b: "洗牌时专注默想问题；切牌后从牌堆抽取；正逆位由洗牌时的自然翻转决定（逆位解读第6章专讲，初期可全部用正位）。占卜前明确问题、一次专注一个问题，解读后记录在工作台笔记中复盘——复盘是塔罗进步最快的方式。" }
+          { h: "2.1 大阿尔卡纳（Major Arcana）—— 共22张（编号0-21）", b: `角色：人生剧本的「主角光环」时刻。<br>内容：记录灵魂成长的22个阶段（从愚人0号到世界21号）。<br>建议细分为：<b>前7张（意识觉醒）</b>、<b>中7张（潜意识斗争）</b>、<b>后8张（超意识成就）</b>。大牌多出现时，说明问题处在「命运转折 / 人生课题」层面，而非日常琐事。` },
+          { h: "2.2 小阿尔卡纳（Minor Arcana）—— 共56张", b: `角色：日常生活、琐事、情绪、具体行为的「柴米油盐」。四大花色对应四元素，是解牌的核心骨架：<br>
+  <table>
+   <tr><th>花色（Suit）</th><th>对应元素</th><th>对应领域（问什么问题看它）</th></tr>
+   <tr><td>权杖（Wands）</td><td>火</td><td>行动力、事业、创业、竞争、激情</td></tr>
+   <tr><td>圣杯（Cups）</td><td>水</td><td>情感、人际关系、直觉、灵感、爱</td></tr>
+   <tr><td>宝剑（Swords）</td><td>风</td><td>思维、沟通、决策、冲突、压力、理智</td></tr>
+   <tr><td>星币（Pentacles）</td><td>土</td><td>物质、金钱、健康、实际成果、安全感</td></tr>
+  </table>` },
+          { h: "2.3 宫廷牌（Court Cards）—— 16张", b: `角色：人物角色卡（可以是他人、自己，或是需要你展现的某种人格面具）。<br>等级递进：<b>侍从（学童）→ 骑士（践行者）→ 皇后（管理者）→ 国王（掌控者）</b>。同一花色从侍从到国王，象征该元素能量从「学习」到「精通」的成熟过程。` }
         ],
         caseStudy: {
-          title: "案例：三张牌的故事线",
-          b: "问题：「我和搭档的合作会如何发展？」抽三张代表过去-现在-未来：高塔(16)→节制(14)→世界(21)。故事线：过去经历过一次激烈冲突或信任崩塌（高塔）；现在双方都在耐心磨合、寻找配合节奏（节制）；未来能达成成熟稳定的合作关系并完成共同目标（世界）。三张牌连读像看连环画——这就是牌阵解读的雏形。"
+          title: "怎么判断一张牌「属于哪个家族」？",
+          b: "看到牌先问三件事：①是0-21号的大牌吗（人生课题）？②是权杖/圣杯/宝剑/星币的小牌吗（日常领域，看花色定主题）？③是宫廷牌吗（人物或人格面具）？这一步「归类」能立刻告诉你这张牌在讲「大事、小事、还是人」，是解牌的第一把钥匙。"
+        }
+      },
+      {
+        title: "模块三 · 核心解码器（数字 × 元素的化学反应）",
+        sections: [
+          { h: "3.1 数字密码（小阿尔卡纳的灵魂）", b: `当数字套上元素，含义自动生成。背下这组「1-10」的底层逻辑，就掌握了40张小牌的一半：<br>
+  <table>
+   <tr><th>数字</th><th>核心关键词（无论什么花色都带有此底层逻辑）</th><th>自动联想标签</th></tr>
+   <tr><td>1 (Ace)</td><td>根源、纯粹的能量、开始、种子、核心</td><td>#开端 #本质</td></tr>
+   <tr><td>2</td><td>二元性、选择、平衡、僵局、合作</td><td>#选择 #对立</td></tr>
+   <tr><td>3</td><td>初步完成、合作、群体、创造力的初步显化</td><td>#创造 #成长</td></tr>
+   <tr><td>4</td><td>稳定、休息、停顿、基础稳固、秩序</td><td>#稳定 #框架</td></tr>
+   <tr><td>5</td><td>冲突、混乱、打破平衡、失落、竞争</td><td>#冲突 #挑战</td></tr>
+   <tr><td>6</td><td>协调、和谐、沟通、善意、传递</td><td>#和谐 #分享</td></tr>
+   <tr><td>7</td><td>内省、评估、犹豫、不要被表象迷惑</td><td>#评估 #内在</td></tr>
+   <tr><td>8</td><td>力量、行动、快速移动、成熟、耐力</td><td>#力量 #快速</td></tr>
+   <tr><td>9</td><td>独处、终极体验、临界点、极致的痛苦或喜悦</td><td>#极致 #孤独</td></tr>
+   <tr><td>10</td><td>完成、结束、转化、包袱、走向下一阶段</td><td>#完结 #转化</td></tr>
+  </table>` },
+          { h: "3.2 元素组合公式（供自动生成释义）", b: `把「数字含义」与「花色领域」叠加，即可推出一张小牌的大意。例如数字5（冲突）遇上四元素：<br>
+  · 火（权杖）+ 5 = 职位竞争、体力上的争执<br>
+  · 水（圣杯）+ 5 = 情感失落、分手、人际关系中的悲伤<br>
+  · 风（宝剑）+ 5 = 言语攻击、逻辑上的碾压、网络暴力<br>
+  · 土（星币）+ 5 = 财务危机、破产、身体健康亮红灯<br>
+  <br>只要把模块三的数字表与模块二的花色联动，就能自动算出一半的牌意。下方【核心解码器】可一键生成任意组合，并附 10×4 速查矩阵。` }
+        ],
+        caseStudy: {
+          title: "实战：权杖八 怎么读？",
+          b: "权杖=火=行动/事业；数字8=力量、快速移动、成熟。叠加：在「行动与事业」领域，正经历「快速推进、能量充沛、趋于成熟」的课题。所以权杖八常解读为：事情正在加速、momentum 很强、宜乘势而上。你看——没背牌义，只用「元素+数字」就推出来了。"
         },
-        quiz: [
-          { q: "「死神」牌在占卜中通常表示？", options: ["有生命危险", "结束旧阶段、迎来蜕变", "生病", "破财"], answer: 1, explain: "死神是转化之牌，主一个阶段的结束与新生，极少指向字面死亡。" },
-          { q: "代表「假象崩塌、突发变故」的牌是？", options: ["星星", "高塔", "太阳", "节制"], answer: 1, explain: "16号高塔：雷击塔顶、人从塔上坠落，象征旧结构瞬间瓦解。" },
-          { q: "21号世界牌的核心含义是？", options: ["世界末日", "出国旅行专用", "圆满完成与整合", "环境污染"], answer: 2, explain: "世界是大牌旅程终点，象征周期圆满、目标达成。" },
-          { q: "塔罗初学阶段对逆位牌的建议做法是？", options: ["必须精通逆位才能占卜", "初期可先全用正位，逆位后续专章学习", "逆位就是相反意思，直接反着说", "逆位牌应丢弃"], answer: 1, explain: "逆位有多种解读逻辑（能量受阻、内化、过度等），初期先打好正位基础。" }
-        ]
+        tool: {
+          title: "🔮 核心解码器：数字 × 元素（一键生成牌意）",
+          html: `<div style="display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;margin-bottom:6px">
+  <label style="font-size:13px;color:#4b5364">数字（1-10）
+    <select id="tdNum" style="display:block;margin-top:4px;padding:8px 10px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+      <option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+    </select></label>
+  <label style="font-size:13px;color:#4b5364">花色 / 元素
+    <select id="tdSuit" style="display:block;margin-top:4px;padding:8px 10px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+      <option value="0">权杖 · 火</option>
+      <option value="1">圣杯 · 水</option>
+      <option value="2">宝剑 · 风</option>
+      <option value="3">星币 · 土</option>
+    </select></label>
+  <button class="btn primary" id="tdCalc">🔮 生成牌意</button>
+</div>
+<div class="hint" style="margin:6px 0 14px">数字来自模块三的 1-10 密码，花色来自模块二的四元素。组合即生成一张小阿尔卡纳的「自动释义」。</div>
+<div id="tdResult"></div>
+<div id="tdMatrix" style="margin-top:18px"></div>`,
+          init: "tarotDecoderInit"
+        }
+      },
+      {
+        title: "模块四 · 单牌精解模板（每张牌的固定拆解维度）",
+        sections: [
+          { h: "为什么要统一模板？", b: `78张牌如果用各自为政的笔记，复盘时会很乱。给每张牌建立「统一字段」，方便检索、对比、迭代。下面是以【愚人】为例的标准模板，所有牌都按这个结构录入。` },
+          { h: "单牌标准字段（以 0号 愚人 为例）", b: `<table>
+   <tr><th>字段</th><th>愚人 示例</th></tr>
+   <tr><td>牌名</td><td>0号 愚人 (The Fool)</td></tr>
+   <tr><td>元素属性</td><td>风元素（轻浮、飘忽不定）</td></tr>
+   <tr><td>核心神谕</td><td>「相信本能，纵身一跃，哪怕前路是悬崖。」</td></tr>
+   <tr><td>正位关键词（3个）</td><td>天真、冒险、无限可能</td></tr>
+   <tr><td>逆位关键词（3个）</td><td>鲁莽、逃避责任、盲目</td></tr>
+   <tr><td>工作/学业建议</td><td>适合新的创业项目，但务必签好法律合同（风元素易忽略细节）</td></tr>
+   <tr><td>感情/人际建议</td><td>享受当下，不承诺未来</td></tr>
+   <tr><td>塔罗师心理提示</td><td>抽到此牌时，问卜者内心真正渴望的是「解脱束缚」，而非「真的去流浪」</td></tr>
+  </table>` }
+        ],
+        caseStudy: {
+          title: "录入时的进阶心法",
+          b: "「塔罗师心理提示」是最值钱的字段——它回答「问卜者真正想要什么」，而不只是「牌面说什么」。每次解牌后补一句心理提示，半年后你会拥有一套属于自己的、有温度的解读库。"
+        },
+        tool: {
+          title: "🗂️ 单牌精解卡片生成器",
+          html: `<div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:8px">
+  <input id="cgName" placeholder="牌名（如 0号 愚人）" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="cgElem" placeholder="元素属性（如 风元素）" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="cgOracle" placeholder="核心神谕（一句话）" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="cgUp" placeholder="正位关键词（逗号分隔3个）" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="cgRev" placeholder="逆位关键词（逗号分隔3个）" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="cgWork" placeholder="工作/学业建议" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="cgLove" placeholder="感情/人际建议" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="cgPsy" placeholder="塔罗师心理提示" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+</div>
+<button class="btn primary" id="cgGen">🗂️ 生成精解卡片</button>
+<div id="cgOut" style="margin-top:14px"></div>`,
+          init: "tarotCardGenInit"
+        }
+      },
+      {
+        title: "模块五 · 实战解读SOP（从新手到实战的工作流）",
+        sections: [
+          { h: "Step 1：定基调（前3分钟）", b: `问："请用一个词形容你现在的状态？"<br>指导语：请闭上眼睛，深呼吸3次，把问题在心里默念一遍，然后点击切牌。` },
+          { h: "Step 2：牌阵建议（根据问题类型选择）", b: `· 单一答案（是/非/建议）→ <b>单张牌</b>（即时直觉）<br>· 发展脉络（过去/现在/未来）→ <b>三张牌</b>（时空之流）<br>· 复杂困境（身心灵/阻碍/环境）→ <b>凯尔特十字</b>（需掌握10个位置的固定释义）` },
+          { h: "Step 3：解牌逻辑（严禁抽一张讲一张）", b: `必须遵循「整体画面联动法」：<br>① 先看所有牌的<b>元素占比</b>（火多？水多？缺土？）<br>② 再看<b>大牌多还是小牌多</b>（大牌多=命运转折，小牌多=琐事困扰）<br>③ 最后才逐一解释每张牌在当前特定位置的含义。` },
+          { h: "Step 4：收尾（关键一步）", b: `必须给出一句「下周可执行的最小行动（Minimal Action）」。比如抽到宝剑八（束缚），行动就是"明天写下三个你害怕说出口的实话"。` }
+        ],
+        caseStudy: {
+          title: "反例：新手常犯的错",
+          b: "抽到一张就急着说吉凶，是新手最大的坑。牌阵是一幅「整体画」，单独拎出一张就像只看拼图一角。先俯瞰元素配比与牌型结构，再落到单张，结论才会稳。"
+        },
+        tool: {
+          title: "🧭 解牌 SOP 引导器",
+          html: `<div id="sopSteps" style="display:flex;flex-direction:column;gap:10px"></div>
+<div style="margin-top:14px;border-top:1px dashed #d7dce8;padding-top:12px">
+  <div style="font-weight:700;font-size:14px;margin-bottom:6px">✍️ 本次解读记录（可存入练习日志）</div>
+  <textarea id="sopNote" placeholder="写下你抽到的牌、问题与一句话解读…" style="width:100%;min-height:64px;padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px;resize:vertical"></textarea>
+  <button class="btn" id="sopSave" style="margin-top:8px">保存到练习日志</button>
+  <span id="sopSaved" style="color:#2e7d32;font-size:13px;margin-left:8px"></span>
+</div>`,
+          init: "tarotSopInit"
+        }
+      },
+      {
+        title: "附录 · 每日练习日志模板（用于迭代反馈）",
+        sections: [
+          { h: "为什么每天都要记？", b: `塔罗的进步来自「复盘复利」。每天抽1-3张牌、记下问题与直觉、过几天回看结果，你的直觉与解牌准确度会肉眼可见地提升。下方工具自动保存在本机浏览器，换设备可用工作台右上角「🗄️ 数据备份 → 导出」带走。` }
+        ],
+        tool: {
+          title: "📓 每日练习日志",
+          html: `<div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:8px">
+  <input id="tlDate" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="tlQ" placeholder="今天的问题 / 关注点" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="tlCards" placeholder="抽到的牌（如 战车 / 圣杯六）" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+  <input id="tlFeel" placeholder="第一直觉 / 感受" style="padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px">
+</div>
+<textarea id="tlNote" placeholder="复盘：结果如何？牌意对应上了吗？下次怎么调？" style="width:100%;min-height:64px;padding:9px 11px;border:1px solid #d7dce8;border-radius:9px;font-size:14px;resize:vertical;margin-bottom:8px"></textarea>
+<div style="display:flex;gap:10px;align-items:center">
+  <button class="btn primary" id="tlAdd">➕ 记录今天</button>
+  <button class="btn" id="tlClear">清空全部</button>
+  <span id="tlMsg" style="color:#2e7d32;font-size:13px"></span>
+</div>
+<div id="tlList" style="margin-top:14px"></div>`,
+          init: "tarotLogInit"
+        }
       }
     ]
   },
+
   {
     id: "ziwei", name: "紫微斗数", emoji: "✨", color: "#20c997",
     intro: "以紫微星为首的百余颗星曜分布十二宫，推演命运的「东方星象命理」，格局细腻，与八字并称双璧。",
@@ -494,4 +629,136 @@ window.xlurenInit = function(){
   document.getElementById('xlCalc').onclick=calc;
   document.getElementById('xlNow').onclick=function(){ fillNow(); calc(); };
   fillNow(); calc();
+};
+
+/* ================= 塔罗模块交互 ================= */
+function tarotSaveLog(entry){
+  try{
+    const key='tarot_daily_log';
+    const arr=JSON.parse(localStorage.getItem(key)||'[]');
+    arr.push(entry);
+    localStorage.setItem(key, JSON.stringify(arr));
+    return arr.length;
+  }catch(e){ return -1; }
+}
+function tarotLoadLog(){
+  try{ return JSON.parse(localStorage.getItem('tarot_daily_log')||'[]'); }catch(e){ return []; }
+}
+
+window.tarotDecoderInit = function(){
+  const NUM=[
+    {n:1,kw:'根源、纯粹的能量、开始、种子、核心',tag:'#开端 #本质'},
+    {n:2,kw:'二元性、选择、平衡、僵局、合作',tag:'#选择 #对立'},
+    {n:3,kw:'初步完成、合作、群体、创造力的初步显化',tag:'#创造 #成长'},
+    {n:4,kw:'稳定、休息、停顿、基础稳固、秩序',tag:'#稳定 #框架'},
+    {n:5,kw:'冲突、混乱、打破平衡、失落、竞争',tag:'#冲突 #挑战'},
+    {n:6,kw:'协调、和谐、沟通、善意、传递',tag:'#和谐 #分享'},
+    {n:7,kw:'内省、评估、犹豫、不要被表象迷惑',tag:'#评估 #内在'},
+    {n:8,kw:'力量、行动、快速移动、成熟、耐力',tag:'#力量 #快速'},
+    {n:9,kw:'独处、终极体验、临界点、极致的痛苦或喜悦',tag:'#极致 #孤独'},
+    {n:10,kw:'完成、结束、转化、包袱、走向下一阶段',tag:'#完结 #转化'}
+  ];
+  const SUIT=[
+    {name:'权杖',el:'火',dom:'行动力、事业、创业、竞争、激情'},
+    {name:'圣杯',el:'水',dom:'情感、人际关系、直觉、灵感、爱'},
+    {name:'宝剑',el:'风',dom:'思维、沟通、决策、冲突、压力、理智'},
+    {name:'星币',el:'土',dom:'物质、金钱、健康、实际成果、安全感'}
+  ];
+  const numSel=document.getElementById('tdNum');
+  const suitSel=document.getElementById('tdSuit');
+  const res=document.getElementById('tdResult');
+  const matrix=document.getElementById('tdMatrix');
+  if(!numSel||!suitSel||!res||!matrix) return;
+  function combine(n,s){
+    return '数字'+n.n+'（'+n.kw+'）落在'+s.name+'（'+s.el+'，主'+s.dom+'）领域 → 在「'+s.dom+'」上，你正经历「'+n.kw+'」的课题。';
+  }
+  function render(){
+    const n=NUM[(+numSel.value)-1];
+    const s=SUIT[+suitSel.value];
+    res.innerHTML='<div style="border:2px solid #e67e22;border-radius:14px;overflow:hidden">'+
+      '<div style="background:#e67e22;color:#fff;padding:12px 16px;font-size:17px;font-weight:800">'+s.name+' '+n.n+' 号 · '+s.el+'元素</div>'+
+      '<div style="padding:14px 16px;line-height:1.9;font-size:14.5px;color:#33404f">'+combine(n,s)+
+      '<div style="margin-top:10px;color:#e67e22;font-weight:700">'+n.tag+'</div></div></div>';
+  }
+  let html='<div style="font-weight:700;font-size:14px;margin-bottom:8px">📊 数字 × 花色 速查矩阵（10×4，共40组）</div><table style="border-collapse:collapse;width:100%;font-size:12.5px">';
+  html+='<tr><th style="border:1px solid #d9deea;padding:6px;background:#f3f5fa">数字＼花色</th>'+SUIT.map(s=>'<th style="border:1px solid #d9deea;padding:6px;background:#f3f5fa">'+s.name+'·'+s.el+'</th>').join('')+'</tr>';
+  NUM.forEach(n=>{
+    html+='<tr><td style="border:1px solid #d9deea;padding:6px;font-weight:700">'+n.n+'</td>';
+    SUIT.forEach(s=>{ html+='<td style="border:1px solid #d9deea;padding:6px;vertical-align:top">'+combine(n,s)+'</td>'; });
+    html+='</tr>';
+  });
+  html+='</table>';
+  matrix.innerHTML=html;
+  document.getElementById('tdCalc').onclick=render;
+  render();
+};
+
+window.tarotCardGenInit = function(){
+  const out=document.getElementById('cgOut');
+  if(!out) return;
+  document.getElementById('cgGen').onclick=function(){
+    const v=id=>document.getElementById(id).value.trim();
+    const name=v('cgName')||'（未填牌名）';
+    out.innerHTML='<div style="border:2px solid #e67e22;border-radius:14px;overflow:hidden;max-width:520px">'+
+      '<div style="background:#e67e22;color:#fff;padding:12px 16px;font-size:17px;font-weight:800">🃏 '+name+'</div>'+
+      '<div style="padding:14px 16px;line-height:1.85;font-size:14px;color:#33404f">'+
+      '<div><b>元素属性：</b>'+(v('cgElem')||'—')+'</div>'+
+      '<div><b>核心神谕：</b><i>'+(v('cgOracle')||'—')+'</i></div>'+
+      '<div><b>正位关键词：</b>'+(v('cgUp')||'—')+'</div>'+
+      '<div><b>逆位关键词：</b>'+(v('cgRev')||'—')+'</div>'+
+      '<div><b>工作/学业：</b>'+(v('cgWork')||'—')+'</div>'+
+      '<div><b>感情/人际：</b>'+(v('cgLove')||'—')+'</div>'+
+      '<div><b>塔罗师心理提示：</b>'+(v('cgPsy')||'—')+'</div>'+
+      '</div></div>';
+  };
+};
+
+window.tarotSopInit = function(){
+  const wrap=document.getElementById('sopSteps');
+  if(!wrap) return;
+  const steps=[
+    {t:'Step 1 · 定基调',b:'请对方用一个词形容现在的状态；引导闭眼、深呼吸3次、默念问题，再切牌。'},
+    {t:'Step 2 · 选牌阵',b:'单一答案→单张；发展脉络→三张（过去/现在/未来）；复杂困境→凯尔特十字（10位）。'},
+    {t:'Step 3 · 整体画面联动',b:'①看元素占比（火多？水多？缺土？）②看大牌多还是小牌多（命运转折 vs 琐事）③再落单张。'},
+    {t:'Step 4 · 收尾最小行动',b:'必须给一句「下周可执行的最小行动」。如宝剑八→「明天写下三个你害怕说出口的实话」。'}
+  ];
+  wrap.innerHTML=steps.map((s,i)=>'<div style="border:1px solid #d7dce8;border-radius:12px;padding:12px 14px"><div style="font-weight:800;color:#e67e22;margin-bottom:4px">'+s.t+'</div><div style="font-size:14px;line-height:1.8;color:#3c4354">'+s.b+'</div></div>').join('');
+  const save=document.getElementById('sopSave');
+  const msg=document.getElementById('sopSaved');
+  if(save) save.onclick=function(){
+    const note=document.getElementById('sopNote').value.trim();
+    if(!note){ msg.textContent='先写点解读再保存'; msg.style.color='#c0392b'; return; }
+    const n=tarotSaveLog({date:new Date().toISOString().slice(0,10), q:'(SOP 解读)', cards:'(见记录)', feel:'', note:note, src:'SOP'});
+    msg.textContent = n>0 ? ('已存 '+n+' 条 ✓') : '保存失败（浏览器存储不可用）';
+    msg.style.color='#2e7d32';
+  };
+};
+
+window.tarotLogInit = function(){
+  const dateEl=document.getElementById('tlDate');
+  const list=document.getElementById('tlList');
+  if(!dateEl||!list) return;
+  dateEl.value=new Date().toISOString().slice(0,10);
+  function render(){
+    const arr=tarotLoadLog().slice().reverse();
+    if(!arr.length){ list.innerHTML='<div style="color:#9aa1af;font-size:13px">还没有记录，今天抽完牌来记一笔吧～</div>'; return; }
+    list.innerHTML=arr.map(e=>'<div style="border:1px solid #e4e8f2;border-radius:11px;padding:11px 13px;margin-bottom:10px">'+
+      '<div style="font-size:12px;color:#8a91a0;margin-bottom:4px">'+e.date+(e.src?(' · '+e.src):'')+'</div>'+
+      '<div style="font-size:14px;line-height:1.7;color:#33404f"><b>问题：</b>'+(e.q||'—')+'<br><b>牌：</b>'+(e.cards||'—')+'<br><b>直觉：</b>'+(e.feel||'—')+'<br>'+(e.note?('<b>复盘：</b>'+e.note):'')+'</div></div>').join('');
+  }
+  document.getElementById('tlAdd').onclick=function(){
+    const get=id=>document.getElementById(id).value.trim();
+    const q=get('tlQ'), cards=get('tlCards'), feel=get('tlFeel'), note=get('tlNote');
+    if(!q && !cards && !feel && !note){ const m=document.getElementById('tlMsg'); m.textContent='至少填一项再记录'; m.style.color='#c0392b'; return; }
+    const n=tarotSaveLog({date:dateEl.value||new Date().toISOString().slice(0,10), q:q, cards:cards, feel:feel, note:note, src:'日志'});
+    const m=document.getElementById('tlMsg');
+    m.textContent = n>0 ? ('已记录 ✓ 共'+n+'条') : '保存失败';
+    m.style.color = n>0 ? '#2e7d32' : '#c0392b';
+    ['tlQ','tlCards','tlFeel','tlNote'].forEach(id=>document.getElementById(id).value='');
+    render();
+  };
+  document.getElementById('tlClear').onclick=function(){
+    if(confirm('确定清空全部练习日志？此操作不可恢复。')){ try{localStorage.removeItem('tarot_daily_log');}catch(e){} render(); }
+  };
+  render();
 };
