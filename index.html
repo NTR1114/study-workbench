@@ -194,7 +194,17 @@
   .mkt-c{font-size:13.5px;line-height:1.8;color:#3c4354}
   .src-chip{display:inline-block;background:#f1f3f8;color:#4b5364;border-radius:12px;padding:3px 10px;margin:3px 5px 0 0;font-size:12px}
   .fin-disc{margin-top:14px;background:#fff7ed;border:1px solid #ffd8a8;color:#9a5800;border-radius:10px;padding:10px 14px;font-size:12.5px;line-height:1.7}
-  @media(max-width:680px){.gold-grid{grid-template-columns:repeat(2,1fr)}}
+  .cat-card{margin-top:14px}
+  .cat-ana{font-size:14px;line-height:1.9;color:#3c4354;background:#f7f9fc;border:1px solid #e6ebf3;border-radius:10px;padding:11px 14px;margin:8px 0 12px}
+  .cat-ana b{color:#2b3346}
+  .sub-h{font-size:15px;font-weight:800;color:#2b3346;margin:14px 0 8px;padding-left:10px;border-left:4px solid #2f6fed}
+  .hot-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
+  .hot-card{border:1px solid #ffe0b0;background:#fff9f0;border-radius:10px;padding:10px 12px}
+  .hot-name{font-size:14px;font-weight:800;color:#2b3346}
+  .hot-code{font-size:12px;color:#6b7384;font-weight:600;margin-left:4px}
+  .hot-reason{font-size:12.5px;color:#7a6350;line-height:1.6;margin-top:4px}
+  .pick-list{margin-top:2px}
+  @media(max-width:680px){.gold-grid{grid-template-columns:repeat(2,1fr)}.hot-list{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -295,25 +305,18 @@
   <!-- ============ 金融分析 ============ -->
   <div class="view" id="view-finAna">
     <h1 class="page">💰 金融分析 · 每日早报</h1>
-    <div class="page-sub">综合国内外新闻 · 宏观微观 · 专家与学术报告 · 博主研判，每日 6:00 自动更新 · 仅供参考，非投资建议</div>
+    <div class="page-sub">股票 / 期货 / 基金 / 外汇 分别详细分析 · 含「最火标的」与「重点推荐 5 只」（买/卖/持有/观望）· 综合新浪新闻、通达信、同花顺等公开信息 · 每日 6:00 自动更新 · 仅供参考，非投资建议</div>
     <div id="finBadge"></div>
     <div class="fin-summary" id="finSummary"></div>
     <div class="card" id="goldCard">
       <h2>🌟 本期焦点：黄金</h2>
-      <div class="hint">每日详细研判（价格、信号、关键位、多空因素、重磅事件）</div>
+      <div class="hint">每日详细研判（价格、信号、关键位、多空因素、重磅事件），为本报重点关注对象</div>
       <div id="goldBox"></div>
     </div>
-    <div class="card">
-      <h2>🎯 重点关注的 5 只（按几率与看好程度排序）</h2>
-      <div class="hint">覆盖 股票 / 期货 / 基金 / 外汇，以黄金为主线；每只给出「买 / 卖 / 持有 / 观望」信号与详细分析</div>
-      <div id="pickList"></div>
-    </div>
-    <div class="card">
-      <h2>🗺️ 四大市场速览</h2>
-      <div id="mktBox"></div>
-    </div>
+    <div id="catBox"></div>
     <div class="card">
       <h2>📚 信息来源</h2>
+      <div class="hint">含 新浪新闻、通达信、同花顺、金投网、世界黄金协会(WGC)、中信证券/期货、中金外汇、新华财经等公开渠道</div>
       <div id="srcBox"></div>
     </div>
     <div class="fin-disc" id="finDisc"></div>
@@ -778,9 +781,7 @@ function renderFinAna(){
   const FIN = window.FINANCE_DAILY;
   if(!FIN){
     const b = document.getElementById('finBadge'); if(b) b.outerHTML = '';
-    const set = function(id){ const e=document.getElementById(id); if(e) e.innerHTML='<div class="fin-empty">今日金融数据尚未生成（每日 6:00 自动更新）。请稍后再看，或手动运行「金融早报」更新任务。</div>'; };
-    set('goldBox'); set('pickList'); set('mktBox'); set('srcBox'); set('finDisc');
-    const sm = document.getElementById('finSummary'); if(sm) sm.innerHTML='';
+    ['finSummary','goldBox','catBox','srcBox','finDisc'].forEach(function(id){ var e=document.getElementById(id); if(e) e.innerHTML='<div class="fin-empty">今日金融数据尚未生成（每日 6:00 自动更新）。请稍后再看，或手动运行「金融早报」更新任务。</div>'; });
     return;
   }
   const sigClass = function(s){ return ({'买入':'sig-buy','卖出':'sig-sell','持有':'sig-hold','观望':'sig-watch'}[s] || 'sig-watch'); };
@@ -806,22 +807,41 @@ function renderFinAna(){
       '<div class="factor bull"><div class="f-h">✅ 利好因素</div><ul>'+((g.bullish||[]).map(function(x){return '<li>'+x+'</li>';}).join('')||'<li>—</li>')+'</ul></div>'+
       '<div class="factor bear"><div class="f-h">⚠️ 利空因素</div><ul>'+((g.bearish||[]).map(function(x){return '<li>'+x+'</li>';}).join('')||'<li>—</li>')+'</ul></div>'+
     '</div>';
-  const pl = document.getElementById('pickList');
-  if(pl) pl.innerHTML = (FIN.picks||[]).map(function(p,i){
-    const r = p.rating||3;
-    return '<div class="pick-card">'+
-      '<div class="pick-head"><div class="pick-name"><span class="pick-rank">'+(i+1)+'</span> '+p.name+' <span class="pick-code">'+(p.code||'')+'</span> <span class="pick-type">'+(p.type||'')+'</span></div>'+
-      '<span class="sig '+sigClass(p.signal)+'">'+sigText(p.signal)+'</span></div>'+
-      '<div class="pick-meta">看好几率：'+('★'.repeat(r))+('☆'.repeat(5-r))+' ｜ '+(p.probability||'—')+'</div>'+
-      '<div class="pick-thesis"><b>分析：</b>'+(p.thesis||'—')+'</div>'+
-      (p.catalysts&&p.catalysts.length?('<div class="pick-cat"><b>催化/看点：</b>'+p.catalysts.map(function(c){return '<span class="chip">'+c+'</span>';}).join('')+'</div>'):'')+
-      (p.risks&&p.risks.length?('<div class="pick-risk"><b>风险：</b>'+p.risks.join('；')+'</div>'):'')+
-    '</div>';
-  }).join('') || '<div class="fin-empty">暂无可推荐标的。</div>';
-  const m = FIN.markets||{};
-  const mk = [['📈 股票',m.stocks],['📊 期货',m.futures],['📦 基金',m.funds],['💱 外汇',m.forex]];
-  const mb = document.getElementById('mktBox');
-  if(mb) mb.innerHTML = mk.map(function(a){ return a[1]?('<div class="mkt-item"><div class="mkt-t">'+a[0]+'</div><div class="mkt-c">'+a[1]+'</div></div>'):''; }).join('');
+  const order = ['stocks','futures','funds','forex'];
+  const catTitle = {stocks:'📈 股票（A股）',futures:'📊 期货',funds:'📦 基金（ETF/公募）',forex:'💱 外汇'};
+  const cats = FIN.categories || {};
+  const cb = document.getElementById('catBox');
+  if(cb){
+    if(Object.keys(cats).length===0){
+      cb.innerHTML = '<div class="card"><div class="fin-empty">分类数据缺失。</div></div>';
+    } else {
+      cb.innerHTML = order.map(function(key){
+        const c = cats[key]; if(!c) return '';
+        const hotHtml = (c.hot||[]).map(function(h){
+          return '<div class="hot-card"><div class="hot-name">'+h.name+' <span class="hot-code">'+(h.code||'')+'</span></div><div class="hot-reason">'+(h.reason||'')+'</div></div>';
+        }).join('') || '<div class="fin-empty">—</div>';
+        const picksHtml = (c.picks||[]).map(function(p,i){
+          const r = p.rating||3;
+          return '<div class="pick-card">'+
+            '<div class="pick-head"><div class="pick-name"><span class="pick-rank">'+(i+1)+'</span> '+p.name+' <span class="pick-code">'+(p.code||'')+'</span> <span class="pick-type">'+(p.type||'')+'</span></div>'+
+            '<span class="sig '+sigClass(p.signal)+'">'+sigText(p.signal)+'</span></div>'+
+            '<div class="pick-meta">看好几率：'+('★'.repeat(r))+('☆'.repeat(5-r))+' ｜ '+(p.probability||'—')+'</div>'+
+            '<div class="pick-thesis"><b>分析：</b>'+(p.thesis||'—')+'</div>'+
+            (p.catalysts&&p.catalysts.length?('<div class="pick-cat"><b>催化/看点：</b>'+p.catalysts.map(function(x){return '<span class="chip">'+x+'</span>';}).join('')+'</div>'):'')+
+            (p.risks&&p.risks.length?('<div class="pick-risk"><b>风险：</b>'+p.risks.join('；')+'</div>'):'')+
+          '</div>';
+        }).join('') || '<div class="fin-empty">暂无可推荐标的。</div>';
+        return '<div class="card cat-card">'+
+          '<h2>'+catTitle[key]+' · 详细分析</h2>'+
+          '<div class="cat-ana">'+((c.analysis||'—').replace(/\n/g,'<br>'))+'</div>'+
+          '<div class="sub-h">🔥 最火标的（市场关注度最高）</div>'+
+          '<div class="hot-list">'+hotHtml+'</div>'+
+          '<div class="sub-h">⭐ 重点推荐 5 只（按几率与看好程度排序）</div>'+
+          '<div class="pick-list">'+picksHtml+'</div>'+
+        '</div>';
+      }).join('');
+    }
+  }
   const sb = document.getElementById('srcBox');
   if(sb) sb.innerHTML = (FIN.sources||[]).map(function(x){ return '<span class="src-chip">'+x.type+'：'+x.name+'</span>'; }).join('') || '—';
   const db = document.getElementById('finDisc');
