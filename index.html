@@ -152,6 +152,49 @@
   .eng-pane{display:none}
   .eng-pane.show{display:block;animation:fade .25s ease}
   @media(max-width:860px){aside{display:none}main{padding:18px}}
+.fin-summary{background:#f0f6ff;border:1px solid #d4e6ff;color:#1b4f9c;border-radius:10px;padding:9px 13px;font-size:13.5px;line-height:1.7;margin:6px 0 10px}
+  .fin-badge{display:inline-block;background:#eef6ff;color:#1f6feb;border:1px solid #cfe3ff;padding:4px 12px;border-radius:20px;font-size:12.5px;font-weight:700;margin:4px 8px 4px 0}
+  .fin-badge.focus{background:#fff4e6;color:#c5780a;border-color:#ffe0b0}
+  .fin-empty{color:var(--sub);font-size:13.5px;padding:10px 0}
+  .gold-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:10px 0}
+  .gold-grid .gk{background:#f7f9fc;border:1px solid #e6ebf3;border-radius:10px;padding:10px 12px}
+  .gold-grid .gk-l{font-size:12px;color:#6b7384}
+  .gold-grid .gk-v{font-size:15px;font-weight:800;color:#2b3346;margin-top:3px}
+  .gold-trend{font-size:14px;color:#3c4354;margin:6px 0}
+  .gold-ana{font-size:14px;line-height:1.9;color:#3c4354}
+  .gold-event{margin-top:8px;background:#fff7ed;border:1px solid #ffd8a8;color:#b45309;border-radius:10px;padding:8px 12px;font-size:13.5px}
+  .gold-lvl{margin-top:8px;font-size:13.5px;color:#3c4354}
+  .factor-row{display:flex;gap:12px;margin-top:12px;flex-wrap:wrap}
+  .factor{flex:1;min-width:240px;border-radius:10px;padding:10px 12px}
+  .factor.bull{background:#eefcf3;border:1px solid #c5ecd3}
+  .factor.bear{background:#fdeeee;border:1px solid #f3cccc}
+  .factor .f-h{font-weight:800;font-size:13.5px;margin-bottom:6px}
+  .factor.bull .f-h{color:#1a8a4f}
+  .factor.bear .f-h{color:#c0392b}
+  .factor ul{margin:0;padding-left:18px}
+  .factor li{font-size:13px;line-height:1.7}
+  .sig{display:inline-block;padding:3px 12px;border-radius:16px;font-size:13px;font-weight:800;color:#fff}
+  .sig-buy{background:#1a9d54}
+  .sig-sell{background:#d23b3b}
+  .sig-hold{background:#2f6fed}
+  .sig-watch{background:#9aa1af}
+  .pick-card{border:1px solid #e3e8f0;border-radius:12px;padding:14px 16px;margin:12px 0;background:#fff}
+  .pick-head{display:flex;justify-content:space-between;align-items:center;gap:10px}
+  .pick-name{font-size:15px;font-weight:800;color:#2b3346}
+  .pick-rank{display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;background:#2f6fed;color:#fff;border-radius:50%;font-size:12px;margin-right:6px}
+  .pick-code{font-size:12px;color:#6b7384;font-weight:600;margin-left:4px}
+  .pick-type{font-size:11.5px;background:#eef0f6;color:#5b6474;border-radius:6px;padding:1px 7px;margin-left:4px}
+  .pick-meta{font-size:13px;color:#c5780a;font-weight:700;margin:6px 0}
+  .pick-thesis{font-size:14px;line-height:1.85;color:#3c4354}
+  .pick-cat{margin-top:8px;font-size:13px;color:#3c4354}
+  .pick-risk{margin-top:6px;font-size:13px;color:#b45309;line-height:1.7}
+  .chip{display:inline-block;background:#eef6ff;color:#1f6feb;border:1px solid #cfe3ff;border-radius:12px;padding:2px 9px;margin:3px 5px 0 0;font-size:12px}
+  .mkt-item{margin:10px 0;padding:10px 12px;background:#f7f9fc;border:1px solid #e6ebf3;border-radius:10px}
+  .mkt-t{font-weight:800;font-size:13.5px;color:#2b3346;margin-bottom:4px}
+  .mkt-c{font-size:13.5px;line-height:1.8;color:#3c4354}
+  .src-chip{display:inline-block;background:#f1f3f8;color:#4b5364;border-radius:12px;padding:3px 10px;margin:3px 5px 0 0;font-size:12px}
+  .fin-disc{margin-top:14px;background:#fff7ed;border:1px solid #ffd8a8;color:#9a5800;border-radius:10px;padding:10px 14px;font-size:12.5px;line-height:1.7}
+  @media(max-width:680px){.gold-grid{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
 <body>
@@ -164,8 +207,7 @@
   </div>
   <div class="nav-group">
     <div class="nav-title">记 录</div>
-    <div class="nav-item" data-v="engAna">📈 英语分析</div>
-    <div class="nav-item" data-v="mysAna">📊 阴阳分析</div>
+    <div class="nav-item" data-v="finAna">💰 金融分析</div>
     <div class="nav-item" data-v="data">🗄️ 数据备份</div>
   </div>
   <div class="today-chip" id="todayChip"></div>
@@ -237,49 +279,44 @@
       </div>
       <div id="grammarDetail" style="display:none"></div>
     </div>
-    <div class="footer-tip">四个模块各自独立 · 完成学习后数据自动记入「英语分析」· 内容每日清晨自动更新</div>
+    <div class="footer-tip">四个模块各自独立 · 内容每日清晨 6:00 自动更新</div>
   </div>
 
   <!-- ============ 玄学 ============ -->
   <div class="view" id="view-mystic">
     <div id="mysticHome">
       <h1 class="page">阴阳 · 玄学体系</h1>
-      <div class="page-sub">从零开始逐章学习 · 每章配案例与测试，测试通过（≥3/4）才解锁下一章</div>
+      <div class="page-sub">零基础到大师 · 每章自由阅读，章末「巩固练习」自学自查，全程不卡关</div>
       <div class="subj-grid" id="subjGrid"></div>
     </div>
     <div id="mysticDetail" style="display:none"></div>
   </div>
 
-  <!-- ============ 英语分析 ============ -->
-  <div class="view" id="view-engAna">
-    <h1 class="page">英语分析</h1>
-    <div class="page-sub">我的雅思学习记录，每天自动汇总</div>
-    <div class="stat-row" id="engStats"></div>
-    <div class="card">
-      <h2>📊 近14天 · 单词背诵量</h2>
-      <div class="hint">每根柱子 = 当天标记「已背」的单词数（满分30）</div>
-      <div id="chartWords"></div>
+  <!-- ============ 金融分析 ============ -->
+  <div class="view" id="view-finAna">
+    <h1 class="page">💰 金融分析 · 每日早报</h1>
+    <div class="page-sub">综合国内外新闻 · 宏观微观 · 专家与学术报告 · 博主研判，每日 6:00 自动更新 · 仅供参考，非投资建议</div>
+    <div id="finBadge"></div>
+    <div class="fin-summary" id="finSummary"></div>
+    <div class="card" id="goldCard">
+      <h2>🌟 本期焦点：黄金</h2>
+      <div class="hint">每日详细研判（价格、信号、关键位、多空因素、重磅事件）</div>
+      <div id="goldBox"></div>
     </div>
     <div class="card">
-      <h2>📋 每日明细</h2>
-      <div id="recTable"></div>
-    </div>
-  </div>
-
-  <!-- ============ 阴阳分析 ============ -->
-  <div class="view" id="view-mysAna">
-    <h1 class="page">阴阳分析</h1>
-    <div class="page-sub">七门功课各学到哪里、测试成绩、以及记下的疑问</div>
-    <div class="card">
-      <h2>📊 学习进度总览</h2>
-      <div class="hint">进度 = 已通过测试的章节 / 大纲总章节</div>
-      <div id="chartMystic"></div>
+      <h2>🎯 重点关注的 5 只（按几率与看好程度排序）</h2>
+      <div class="hint">覆盖 股票 / 期货 / 基金 / 外汇，以黄金为主线；每只给出「买 / 卖 / 持有 / 观望」信号与详细分析</div>
+      <div id="pickList"></div>
     </div>
     <div class="card">
-      <h2>❓ 我的疑问记录</h2>
-      <div class="hint">在每章学习页写下的「没明白」都会汇总到这里，下次问我即可逐个击破</div>
-      <div id="noteList"></div>
+      <h2>🗺️ 四大市场速览</h2>
+      <div id="mktBox"></div>
     </div>
+    <div class="card">
+      <h2>📚 信息来源</h2>
+      <div id="srcBox"></div>
+    </div>
+    <div class="fin-disc" id="finDisc"></div>
   </div>
 
   <!-- ============ 数据备份 ============ -->
@@ -313,6 +350,7 @@
 <script src="data/english_history.js"></script>
 <script src="data/mystic_courses.js"></script>
 <script src="data/grammar_course.js"></script>
+<script src="data/finance_daily.js"></script>
 <script>
 /* ================= 通用 ================= */
 const D = window.ENGLISH_DAILY, COURSES = window.MYSTIC_COURSES;
@@ -361,8 +399,7 @@ function show(v){
   document.querySelectorAll('.nav-item').forEach(e=>e.classList.toggle('active', e.dataset.v===v));
   document.querySelectorAll('.view').forEach(e=>e.classList.remove('show'));
   $('#view-'+v).classList.add('show');
-  if(v==='engAna') renderEngAna();
-  if(v==='mysAna') renderMysAna();
+  if(v==='finAna') renderFinAna();
   if(v==='data') renderDataView();
 }
 
@@ -608,7 +645,8 @@ function startGrammarQuiz(id){
 function mysState(){ return LS.get('wb_mystic', {}) }
 function subjState(id){
   const s = mysState();
-  if(!s[id]) s[id] = {unlocked:1, scores:{}, notes:[]};
+  if(!s[id]) s[id] = {unlocked:999, practice:{}, notes:[]};
+  if(!s[id].practice) s[id].practice = {};
   return s[id];
 }
 function saveSubj(id, st){ const s = mysState(); s[id]=st; LS.set('wb_mystic', s); }
@@ -616,14 +654,14 @@ function saveSubj(id, st){ const s = mysState(); s[id]=st; LS.set('wb_mystic', s
 function renderSubjects(){
   $('#subjGrid').innerHTML = COURSES.map(c=>{
     const st = subjState(c.id);
-    const passed = Object.values(st.scores).filter(v=>v>=3).length;
-    const pct = Math.round(passed / c.syllabus.length * 100);
+    const done = Object.keys(st.practice||{}).length;
+    const pct = Math.round(done / c.syllabus.length * 100);
     return `<div class="subj-card" data-id="${c.id}">
       <div style="font-size:26px">${c.emoji}</div>
       <div class="s-name">${c.name}</div>
       <div class="s-intro">${c.intro}</div>
       <div class="pbar"><i style="width:${pct}%;background:${c.color}"></i></div>
-      <div class="p-label">已通过 ${passed}/${c.syllabus.length} 章 · 当前解锁到第 ${st.unlocked} 章</div>
+      <div class="p-label">已巩固 ${done}/${c.syllabus.length} 章 · 全章开放，自由学习</div>
     </div>`;
   }).join('');
   document.querySelectorAll('#subjGrid .subj-card').forEach(el=>{
@@ -633,13 +671,14 @@ function renderSubjects(){
 function openSubject(id, chIndex){
   const c = COURSES.find(x=>x.id===id);
   const st = subjState(id);
-  if(chIndex===null || chIndex===undefined) chIndex = Math.min(st.unlocked, c.chapters.length) - 1;
+  if(chIndex===null || chIndex===undefined) chIndex = 0;
   if(chIndex < 0) chIndex = 0;
+  if(chIndex >= c.chapters.length) chIndex = c.chapters.length - 1;
   $('#mysticHome').style.display='none';
   const box = $('#mysticDetail'); box.style.display='block';
   const hasContent = chIndex < c.chapters.length;
   const ch = hasContent ? c.chapters[chIndex] : null;
-  const quizState = st.scores['ch'+chIndex];
+  const pracState = st.practice && st.practice['ch'+chIndex];
 
   box.innerHTML = `
     <div class="crumb" id="backHome">← 返回全部课程</div>
@@ -649,45 +688,43 @@ function openSubject(id, chIndex){
       <div class="card" style="padding:14px">
         <h2 style="font-size:14px;margin-bottom:10px">📑 课程大纲</h2>
         ${c.syllabus.map((t,i)=>{
-          const passed = st.scores['ch'+i]>=3;
-          const unlocked = i < st.unlocked;
-          const cls = i===chIndex?'current':(passed?'passed':(unlocked?'':'locked'));
-          const icon = passed?'✅':(unlocked?'📖':'🔒');
-          return `<div class="chap-item ${cls} ${unlocked?'open-ch':''}" data-ch="${i}">${icon} ${t}</div>`;
+          const done = st.practice && st.practice['ch'+i];
+          const cls = i===chIndex?'current':(done?'passed':'');
+          const icon = done?'✅':(i===chIndex?'📖':'○');
+          return `<div class="chap-item ${cls} open-ch" data-ch="${i}">${icon} ${t}</div>`;
         }).join('')}
       </div>
       <div>
         ${hasContent ? `
         <div class="card">
           <h2>${ch.title}</h2>
-          <div class="hint">${ (ch.quiz && ch.quiz.length) ? '认真读完正文和案例，再做下方测试；答对 3/4 即解锁下一章' : '本模块为参考资料，阅读并体验下方工具即算完成。' }</div>
+          <div class="hint">${ (ch.practice && ch.practice.length) ? '认真读完正文和案例，再做下方「巩固练习」自查；不卡关、不限次数，做错可看解析' : '本模块为参考资料，阅读并体验下方工具即算完成。' }</div>
           ${ch.sections.map(s=>`<div class="sec"><h4>◆ ${s.h}</h4><div class="sec-b">${s.b}</div></div>`).join('')}
           ${ch.caseStudy ? `<div class="case-box"><b>📜 ${ch.caseStudy.title}</b><p>${ch.caseStudy.b}</p></div>` : ''}
         </div>
         ${ch.tool ? `<div class="card"><h2>${ch.tool.title}</h2><div>${ch.tool.html}</div></div>` : ''}
-        ${(ch.quiz && ch.quiz.length) ? `
+        ${(ch.practice && ch.practice.length) ? `
         <div class="card">
-          <h2>🎯 本章测试</h2>
-          <div class="hint">${quizState!==undefined ? `上次成绩：${quizState}/4 ${quizState>=3?'（已通过 ✅）':'（未通过，可重测）'}` : '完成4题后点击「提交测试」'}</div>
-          <div id="quizBox">${ch.quiz.map((q,qi)=>`
+          <h2>📝 本章巩固练习</h2>
+          <div class="hint">${pracState ? `上次练习：${pracState.score}/4 ${pracState.score>=3?'（已巩固 ✅）':'（已自查，可重做）'}` : '读完本章后，做下面 4 题自查；点「对答案」看解析，做错没关系'}</div>
+          <div id="quizBox">${ch.practice.map((q,qi)=>`
             <div class="gq"><div class="q">${qi+1}. ${q.q}</div>
             ${q.options.map((o,oi)=>`<label style="display:block;padding:7px 10px;font-size:14px;cursor:pointer">
               <input type="radio" name="qz${qi}" value="${oi}"> ${String.fromCharCode(65+oi)}. ${o}</label>`).join('')}
             <div class="explain" id="qex-${qi}"></div></div>`).join('')}
           </div>
-          <button class="btn primary" id="quizSubmit">提交测试</button>
+          <button class="btn primary" id="quizSubmit">对答案 / 交练习</button>
           <div class="quiz-score" id="quizResult"></div>
         </div>` : `
         <div class="card">
           <h2>📖 本模块</h2>
-          <div class="hint">本模块为参考资料（含交互工具），无测试题；阅读并体验即算完成，自动解锁下一模块。</div>
+          <div class="hint">本模块为参考资料（含交互工具），无练习题；阅读并体验即算「已巩固」，章节始终开放。</div>
         </div>`} ` : `
         <div class="card">
           <h2>🔜 ${c.syllabus[chIndex]}</h2>
           <p style="line-height:2;font-size:14.5px;color:#4b5364;margin-top:8px">
-          这一章的内容还没有生成。你已经完成了前面的学习，非常棒！<br><br>
-          👉 <b>回到 WorkBuddy 对话里告诉我：「我通过了${c.name}第${chIndex}章的测试，请生成第${chIndex+1}章」</b>，
-          我会搜索整理这一章的知识，写好正文、案例和测试题放进工作台，你刷新页面就能继续学习。</p>
+          这一章的内容还在补充中。你可以先复习前面的章节，或回到 WorkBuddy 对话里告诉我：
+          「把${c.name}第${chIndex+1}章也写详细」，我会尽快补齐。</p>
         </div>`}
         <div class="card">
           <h2>📝 学习笔记 / 哪里没明白</h2>
@@ -703,10 +740,10 @@ function openSubject(id, chIndex){
   $('#backHome').onclick = ()=>{ box.style.display='none'; $('#mysticHome').style.display='block'; renderSubjects(); };
   box.querySelectorAll('.open-ch').forEach(el=>{ el.onclick = ()=>openSubject(id, +el.dataset.ch); });
 
-  if(hasContent && ch.quiz && ch.quiz.length){
+  if(hasContent && ch.practice && ch.practice.length){
     $('#quizSubmit').onclick = ()=>{
       let score = 0, answered = 0;
-      ch.quiz.forEach((q,qi)=>{
+      ch.practice.forEach((q,qi)=>{
         const sel = box.querySelector(`input[name=qz${qi}]:checked`);
         const exEl = $('#qex-'+qi);
         if(sel){ answered++;
@@ -715,18 +752,17 @@ function openSubject(id, chIndex){
           exEl.innerHTML = (ok?'✅ 回答正确！':'❌ 回答错误。正确答案：'+String.fromCharCode(65+q.answer))+'<br>'+q.explain;
         }
       });
-      if(answered < ch.quiz.length){ $('#quizResult').textContent='还有题目没做完哦'; $('#quizResult').style.color='var(--red)'; return; }
-      st.scores['ch'+chIndex] = score;
-      if(score>=3 && st.unlocked === chIndex+1) st.unlocked = chIndex+2;
+      if(answered < ch.practice.length){ $('#quizResult').textContent='还有题目没做完哦'; $('#quizResult').style.color='var(--red)'; return; }
+      st.practice['ch'+chIndex] = {score:score, date:TODAY};
       saveSubj(id, st);
       $('#quizResult').innerHTML = score>=3
-        ? `🎉 ${score}/4 通过！${chIndex+1 < c.syllabus.length ? '已解锁下一章（若显示待生成，请在对话里让我生成）' : '本课程大纲已全部完成！'}`
-        : `${score}/4 未通过（需≥3），复习正文后可重新作答提交`;
-      $('#quizResult').style.color = score>=3 ? 'var(--green)' : 'var(--red)';
+        ? `🎉 练习完成！得分 ${score}/4，已标记「已巩固」✅ 错的可看解析，回头想再练也随时能重做。`
+        : `✅ 已自查完成，得分 ${score}/4。做错的看上面的解析搞懂即可——练习不卡关，想重做点按钮再来一遍。`;
+      $('#quizResult').style.color = 'var(--green)';
     };
   } else if(hasContent){
-    // 无测试的参考模块：打开即视为完成，解锁下一模块
-    st.unlocked = Math.max(st.unlocked||1, chIndex+2);
+    // 无练习的参考模块：打开即视为已巩固
+    st.practice['ch'+chIndex] = {score:-1, date:TODAY};
     saveSubj(id, st);
   }
   $('#noteSave').onclick = ()=>{
@@ -737,80 +773,59 @@ function openSubject(id, chIndex){
   if(ch && ch.tool && ch.tool.init && window[ch.tool.init]) window[ch.tool.init]();
 }
 
-/* ================= 英语分析 ================= */
-function renderEngAna(){
-  const r = records();
-  const dates = Object.keys(r).sort();
-  let streak = 0;
-  for(let i=0;;i++){
-    const d = new Date(); d.setDate(d.getDate()-i);
-    const k = d.toISOString().slice(0,10);
-    const v = r[k];
-    if(v && (v.words>0 || v.read || v.grammar>0)) streak++;
-    else if(i===0) continue; else break;
+/* ================= 金融分析 ================= */
+function renderFinAna(){
+  const FIN = window.FINANCE_DAILY;
+  if(!FIN){
+    const b = document.getElementById('finBadge'); if(b) b.outerHTML = '';
+    const set = function(id){ const e=document.getElementById(id); if(e) e.innerHTML='<div class="fin-empty">今日金融数据尚未生成（每日 6:00 自动更新）。请稍后再看，或手动运行「金融早报」更新任务。</div>'; };
+    set('goldBox'); set('pickList'); set('mktBox'); set('srcBox'); set('finDisc');
+    const sm = document.getElementById('finSummary'); if(sm) sm.innerHTML='';
+    return;
   }
-  const totalWords = dates.reduce((n,k)=>n+(r[k].words||0),0);
-  const readDays = dates.filter(k=>r[k].read).length;
-  const gTotal = dates.reduce((n,k)=>n+((r[k]&&r[k].gramAnswered)||0),0);
-  const gRight = dates.reduce((n,k)=>n+((r[k]&&r[k].gramCorrect)||0),0);
-  $('#engStats').innerHTML = `
-    <div class="stat"><div class="num">${streak}</div><div class="lbl">连续学习天数 🔥</div></div>
-    <div class="stat"><div class="num">${totalWords}</div><div class="lbl">累计已背单词</div></div>
-    <div class="stat"><div class="num">${readDays}</div><div class="lbl">累计精读文章</div></div>
-    <div class="stat"><div class="num">${gTotal? Math.round(gRight/gTotal*100):0}%</div><div class="lbl">语法正确率</div></div>`;
-
-  /* 近14天柱状图 */
-  const days=[];
-  for(let i=13;i>=0;i--){ const d=new Date(); d.setDate(d.getDate()-i); days.push(d.toISOString().slice(0,10)); }
-  const W=760,H=210,bw=W/14;
-  let bars = days.map((k,i)=>{
-    const v=(r[k]&&r[k].words)||0, h=v/30*140;
-    const x=i*bw+10, y=170-h;
-    return `<rect x="${x}" y="${y}" width="${bw-18}" height="${Math.max(h,2)}" rx="5" fill="${v>0?'#2f6fed':'#e4e8f2'}"/>
-      <text x="${x+(bw-18)/2}" y="${y-6}" font-size="11" fill="#5b6474" text-anchor="middle">${v||''}</text>
-      <text x="${x+(bw-18)/2}" y="${188}" font-size="10" fill="#9aa1af" text-anchor="middle">${k.slice(5)}</text>`;
-  }).join('');
-  $('#chartWords').innerHTML = `<svg viewBox="0 0 ${W} ${H}" style="width:100%">
-    <line x1="8" y1="170" x2="${W-4}" y2="170" stroke="#e6e8ef"/>
-    <line x1="8" y1="30" x2="${W-4}" y2="30" stroke="#f0f2f8" stroke-dasharray="4 4"/>
-    <text x="10" y="24" font-size="10" fill="#b9bfcc">30词</text>${bars}</svg>`;
-
-  /* 明细表 */
-  const rows = dates.slice(-30).reverse().map(k=>{
-    const v=r[k];
-    return `<tr><td>${k}</td>
-      <td>${v.read?'<span class="ok">✔ 已读</span>':'<span class="no">未读</span>'}</td>
-      <td>${v.words||0} / 30</td>
-      <td>${v.gramSessions?(v.gramSessions+' 次 · 最佳 '+(v.gramBest||0)+'/10'):'<span class="no">未练</span>'}</td></tr>`;
-  }).join('');
-  $('#recTable').innerHTML = dates.length
-    ? `<table class="rec"><tr><th>日期</th><th>精读文章</th><th>已背单词</th><th>语法练习</th></tr>${rows}</table>`
-    : '<div style="color:var(--sub);font-size:13.5px">还没有记录，去「英语」页开始今天的学习吧！';
-}
-
-/* ================= 阴阳分析 ================= */
-function renderMysAna(){
-  const W=760, rowH=44, H=COURSES.length*rowH+20;
-  let g = COURSES.map((c,i)=>{
-    const st = subjState(c.id);
-    const passed = Math.max(Object.values(st.scores).filter(v=>v>=3).length, (st.unlocked||1)-1);
-    const pct = passed/c.syllabus.length;
-    const y = i*rowH+14, bx=150, bw=(W-260);
-    return `<text x="0" y="${y+15}" font-size="13" fill="#2b3346" font-weight="700">${c.emoji} ${c.name}</text>
-      <rect x="${bx}" y="${y}" width="${bw}" height="20" rx="10" fill="#eef0f6"/>
-      <rect x="${bx}" y="${y}" width="${Math.max(bw*pct, pct>0?14:0)}" height="20" rx="10" fill="${c.color}"/>
-      <text x="${bx+bw+12}" y="${y+15}" font-size="12" fill="#5b6474">${passed}/${c.syllabus.length} 章 · 解锁至第${st.unlocked}章</text>`;
-  }).join('');
-  $('#chartMystic').innerHTML = `<svg viewBox="0 0 ${W} ${H}" style="width:100%">${g}</svg>`;
-
-  const notes = [];
-  COURSES.forEach(c=>{
-    (subjState(c.id).notes||[]).forEach(n=>notes.push({subj:c.name, emoji:c.emoji, ...n}));
-  });
-  notes.sort((a,b)=>b.date.localeCompare(a.date));
-  $('#noteList').innerHTML = notes.length
-    ? notes.map(n=>`<div class="note-item"><div class="n-meta">${n.date} · ${n.emoji} ${n.subj} · ${n.ch}</div>${n.text}</div>`).join('')
-    : '<div style="color:var(--sub);font-size:13.5px">暂无疑问记录。学习中有不明白的地方，在章节页写下来就会出现在这里。</div>';
+  const sigClass = function(s){ return ({'买入':'sig-buy','卖出':'sig-sell','持有':'sig-hold','观望':'sig-watch'}[s] || 'sig-watch'); };
+  const sigText  = function(s){ return ({'买入':'买入','卖出':'卖出','持有':'持有','观望':'观望'}[s] || s); };
+  const badge = document.getElementById('finBadge');
+  if(badge) badge.innerHTML = '<span class="fin-badge">🗓️ 更新：'+FIN.date+' · 每日 6:00 自动刷新</span>' + (FIN.focus?('<span class="fin-badge focus">焦点：'+FIN.focus+'</span>'):'');
+  const sm = document.getElementById('finSummary');
+  if(sm) sm.innerHTML = FIN.summary ? ('📌 '+FIN.summary) : '';
+  const g = FIN.gold || {};
+  const gb = document.getElementById('goldBox');
+  if(gb) gb.innerHTML =
+    '<div class="gold-grid">'+
+      '<div class="gk"><div class="gk-l">现货黄金</div><div class="gk-v">'+(g.spot||'—')+'</div></div>'+
+      '<div class="gk"><div class="gk-l">上金所AU9999</div><div class="gk-v">'+(g.au9999||'—')+'</div></div>'+
+      '<div class="gk"><div class="gk-l">美元指数</div><div class="gk-v">'+(g.dxy||'—')+'</div></div>'+
+      '<div class="gk"><div class="gk-l">综合信号</div><div class="gk-v"><span class="sig '+sigClass(g.signal)+'">'+sigText(g.signal)+'</span></div></div>'+
+    '</div>'+
+    '<div class="gold-trend">📈 走势：'+(g.trend||'—')+'</div>'+
+    '<div class="gold-ana"><b>研判：</b>'+(g.analysis||'—')+'</div>'+
+    (g.event?('<div class="gold-event">⏰ 重磅事件：'+g.event+'</div>'):'')+
+    (g.levels?('<div class="gold-lvl">关键位 ｜ 支撑：<b>'+(g.levels.support||'—')+'</b> ｜ 阻力：<b>'+(g.levels.resistance||'—')+'</b></div>'):'')+
+    '<div class="factor-row">'+
+      '<div class="factor bull"><div class="f-h">✅ 利好因素</div><ul>'+((g.bullish||[]).map(function(x){return '<li>'+x+'</li>';}).join('')||'<li>—</li>')+'</ul></div>'+
+      '<div class="factor bear"><div class="f-h">⚠️ 利空因素</div><ul>'+((g.bearish||[]).map(function(x){return '<li>'+x+'</li>';}).join('')||'<li>—</li>')+'</ul></div>'+
+    '</div>';
+  const pl = document.getElementById('pickList');
+  if(pl) pl.innerHTML = (FIN.picks||[]).map(function(p,i){
+    const r = p.rating||3;
+    return '<div class="pick-card">'+
+      '<div class="pick-head"><div class="pick-name"><span class="pick-rank">'+(i+1)+'</span> '+p.name+' <span class="pick-code">'+(p.code||'')+'</span> <span class="pick-type">'+(p.type||'')+'</span></div>'+
+      '<span class="sig '+sigClass(p.signal)+'">'+sigText(p.signal)+'</span></div>'+
+      '<div class="pick-meta">看好几率：'+('★'.repeat(r))+('☆'.repeat(5-r))+' ｜ '+(p.probability||'—')+'</div>'+
+      '<div class="pick-thesis"><b>分析：</b>'+(p.thesis||'—')+'</div>'+
+      (p.catalysts&&p.catalysts.length?('<div class="pick-cat"><b>催化/看点：</b>'+p.catalysts.map(function(c){return '<span class="chip">'+c+'</span>';}).join('')+'</div>'):'')+
+      (p.risks&&p.risks.length?('<div class="pick-risk"><b>风险：</b>'+p.risks.join('；')+'</div>'):'')+
+    '</div>';
+  }).join('') || '<div class="fin-empty">暂无可推荐标的。</div>';
+  const m = FIN.markets||{};
+  const mk = [['📈 股票',m.stocks],['📊 期货',m.futures],['📦 基金',m.funds],['💱 外汇',m.forex]];
+  const mb = document.getElementById('mktBox');
+  if(mb) mb.innerHTML = mk.map(function(a){ return a[1]?('<div class="mkt-item"><div class="mkt-t">'+a[0]+'</div><div class="mkt-c">'+a[1]+'</div></div>'):''; }).join('');
+  const sb = document.getElementById('srcBox');
+  if(sb) sb.innerHTML = (FIN.sources||[]).map(function(x){ return '<span class="src-chip">'+x.type+'：'+x.name+'</span>'; }).join('') || '—';
+  const db = document.getElementById('finDisc');
+  if(db) db.innerHTML = FIN.disclaimer ? ('⚠️ '+FIN.disclaimer) : '';
 }
 
 /* ================= 数据备份 / 导入导出 ================= */
@@ -831,8 +846,8 @@ function renderDataView(){
   const gramStates = LS.get('wb_grammar_states', {});
   const gramTopics = Object.keys(gramStates).length;
   const mys = LS.get('wb_mystic', {});
-  let mysPassed = 0, mysNotes = 0;
-  Object.values(mys).forEach(s=>{ if(s&&s.scores) mysPassed += Object.values(s.scores).filter(v=>v>=3).length; if(s&&s.notes) mysNotes += s.notes.length; });
+  let mysDone = 0, mysNotes = 0;
+  Object.values(mys).forEach(s=>{ if(s&&s.practice) mysDone += Object.keys(s.practice).length; if(s&&s.notes) mysNotes += s.notes.length; });
   const allKeys = LS.entries(WB_BACKUP_PREFIX);
   const dataItems = Object.keys(allKeys).length;
   $('#dataOverview').innerHTML = `
@@ -842,7 +857,7 @@ function renderDataView(){
     <div class="ov-row"><span>累计背诵单词</span><b>${totalWords} 个</b></div>
     <div class="ov-row"><span>语法练习次数</span><b>${totalGram} 次</b></div>
     <div class="ov-row"><span>语法专题已练</span><b>${gramTopics} 个</b></div>
-    <div class="ov-row"><span>玄学通过章节</span><b>${mysPassed} 章</b></div>
+    <div class="ov-row"><span>玄学已巩固章节</span><b>${mysDone} 章</b></div>
     <div class="ov-row"><span>玄学疑问笔记</span><b>${mysNotes} 条</b></div>`;
 }
 
@@ -879,7 +894,7 @@ function importData(file){
         else skip++;
       });
       // 全量刷新（renderDataView 会重算概览，不要提前写状态，避免被刷新清空）
-      initEnglish(); renderSubjects(); renderEngAna(); renderMysAna(); renderDataView();
+      initEnglish(); renderSubjects(); renderFinAna(); renderDataView();
       status.className = 'status ok';
       status.textContent = `✅ 已导入 ${n} 项数据（${skip>0?('跳过 '+skip+' 个非本应用键，'):''}已自动备份更新前的数据，键名 bak_${stamp}）`;
     }catch(err){
