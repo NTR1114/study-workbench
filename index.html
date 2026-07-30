@@ -504,8 +504,21 @@
 <script src="data/finance_daily.js"></script>
 <script src="data/info_gap.js"></script>
 <script>
+/* 开发源文件需要 data/ 目录同行；若直接双击 index.html 而 data 脚本未加载，提示用户用 dist/index.html */
+(function(){
+  const required = {ENGLISH_DAILY:'英语数据', ENGLISH_HISTORY:'英语历史', MYSTIC_COURSES:'玄学课程', DRAW_COURSES:'绘画课程', GRAMMAR_COURSE:'语法课程', FINANCE_DAILY:'金融数据', INFO_GAPS:'信息差数据'};
+  const missing = Object.keys(required).filter(k=>typeof window[k]==='undefined');
+  if(missing.length){
+    window.__DATA_MISSING = missing.map(k=>required[k]).join('、');
+    document.addEventListener('DOMContentLoaded', function(){
+      document.body.innerHTML = '<div style="padding:40px;font-family:sans-serif;line-height:1.8;max-width:640px;margin:auto;color:#1f2430;"><h1 style="font-size:24px;margin-bottom:16px;">⚠️ 数据未加载，页面显示为空白</h1><p>你当前打开的是开发源文件 <b>index.html</b>，它需要同级 <b>data/</b> 文件夹内的 7 个数据脚本才能正常渲染。</p><p><b>缺失的数据：</b>'+window.__DATA_MISSING+'</p><p style="margin-top:20px;"><a href="dist/index.html" style="display:inline-block;padding:12px 20px;background:#2f6fed;color:#fff;border-radius:10px;text-decoration:none;font-weight:700;">👉 点击打开已构建好的 dist/index.html</a></p><p style="color:#6b7280;font-size:13px;">dist/index.html 是单文件版本，所有数据已内联，部署到 GitHub Pages 和手机端都用它。</p></div>';
+    });
+  }
+})();
+</script>
+<script>
 /* ================= 通用 ================= */
-const D = window.ENGLISH_DAILY, COURSES = window.MYSTIC_COURSES;
+const D = window.ENGLISH_DAILY || {}, COURSES = window.MYSTIC_COURSES || [];
 const TODAY = new Date().toISOString().slice(0,10);
 const $ = s => document.querySelector(s);
 /* localStorage 访问：file:// 或隐私模式下可能不可用，加内存兜底，保证页面始终可用 */
@@ -879,8 +892,8 @@ function startGrammarQuiz(id){
 }
 
 /* ================= 课程播放器（玄学 / 画画 共用） ================= */
-const DEF_CTX = { courses: window.MYSTIC_COURSES, storeKey:'wb_mystic', noteCtx:'阴阳分析', grid:'subjGrid', home:'mysticHome', detail:'mysticDetail' };
-const DRAW_CTX = { courses: window.DRAW_COURSES, storeKey:'wb_draw', noteCtx:'画画', grid:'subjGridDraw', home:'mysticHomeDraw', detail:'mysticDetailDraw' };
+const DEF_CTX = { courses: window.MYSTIC_COURSES || [], storeKey:'wb_mystic', noteCtx:'阴阳分析', grid:'subjGrid', home:'mysticHome', detail:'mysticDetail' };
+const DRAW_CTX = { courses: window.DRAW_COURSES || [], storeKey:'wb_draw', noteCtx:'画画', grid:'subjGridDraw', home:'mysticHomeDraw', detail:'mysticDetailDraw' };
 let CUR_CTX = DEF_CTX;
 
 function mysState(){ return LS.get(CUR_CTX.storeKey, {}) }
@@ -1029,7 +1042,7 @@ function openSubject(ctx, id, chIndex){
 
 /* ================= 金融分析 ================= */
 function renderFinAna(){
-  const FIN = window.FINANCE_DAILY;
+  const FIN = window.FINANCE_DAILY || {};
   if(!FIN){
     const b = document.getElementById('finBadge'); if(b) b.outerHTML = '';
     ['finSummary','focusBox','windowBox','finPaneBox','srcBox','finDisc'].forEach(function(id){ var e=document.getElementById(id); if(e) e.innerHTML='<div class="fin-empty">今日金融数据尚未生成（每日 6:00 / 14:00 / 20:00 自动更新）。请稍后再看，或手动运行「金融早报」更新任务。</div>'; });
@@ -1309,9 +1322,13 @@ function renderScript(){
 }
 
 /* ================= 启动 ================= */
-initEnglish();
-renderSubjects();
-show('english');
+if(window.__DATA_MISSING){
+  console.warn('[workbench] 数据脚本未加载，已显示提示页面。请使用 dist/index.html。');
+} else {
+  initEnglish();
+  renderSubjects();
+  show('english');
+}
 </script>
 </body>
 </html>
