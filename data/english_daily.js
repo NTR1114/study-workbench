@@ -1,137 +1,137 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-07-29",
-  topic: "Space Exploration（太空探索）",
+  date: "2026-07-30",
+  topic: "Health: Sleep Deprivation（健康：睡眠不足）",
   article: {
-    title: "The New Race Beyond Earth",
-    titleCn: "地球之外的新竞赛",
+    title: "The Silent Epidemic of Sleep Loss",
+    titleCn: "睡眠缺失：一场无声的流行病",
     paras: [
       {
-        en: "For much of the twentieth century, space exploration was the exclusive domain of superpower governments, driven largely by political rivalry rather than scientific curiosity. Today, however, the landscape has shifted dramatically. Private corporations now design reusable rockets, launch commercial satellites and even plan tourist flights into orbit. This transformation has slashed the cost of reaching space, turning what was once an extravagant national project into a competitive global industry.",
-        cn: "在二十世纪的大部分时间里，太空探索是超级大国政府的专属领域，其驱动力主要是政治竞争而非科学好奇心。然而如今，这一格局已发生巨变。私营企业开始设计可重复使用的火箭、发射商业卫星，甚至计划开展入轨太空旅游。这一转变大幅削减了进入太空的成本，把曾经耗资巨大的国家项目变成了一个竞争激烈的全球产业。"
+        en: "Across the industrialised world, sleep is quietly becoming a scarce commodity. Surveys indicate that adults in many countries now rest for barely six and a half hours a night, well below the amount physicians recommend. Researchers describe this trend as a silent epidemic, because its symptoms—irritability, poor concentration and chronic fatigue—are so widespread that many people mistakenly regard them as an ordinary, even unavoidable, feature of modern life.",
+        cn: "在整个工业化世界，睡眠正悄然变成一种稀缺资源。调查显示，许多国家的成年人如今每晚只睡六个半小时左右，远低于医生建议的时长。研究者将这一趋势称为一场无声的流行病，因为它的症状——易怒、注意力不集中和慢性疲劳——如此普遍，以至于许多人误以为这只是现代生活中寻常甚至无法避免的一部分。"
       },
       {
-        en: "Advocates argue that the benefits of space technology extend far beyond the launch pad. Satellites underpin navigation, weather forecasting and disaster monitoring, while experiments conducted in microgravity have yielded advances in medicine and materials science. Furthermore, the industry stimulates employment and inspires young people to pursue careers in engineering. In this view, every dollar invested in space generates a ripple of innovation throughout the wider economy.",
-        cn: "支持者认为，太空技术的益处远远超出了发射台。卫星支撑着导航、天气预报和灾害监测，而在微重力环境下进行的实验也在医学和材料科学领域取得了进展。此外，这一产业刺激了就业，并激励年轻人投身工程事业。按照这种观点，投入太空的每一美元都会在更广泛的经济中激起创新的涟漪。"
+        en: "The physiological toll of insufficient sleep is well documented. Laboratory studies show that even moderate deprivation impairs memory, weakens the immune system and disturbs the hormones that regulate appetite, thereby raising the risk of obesity and diabetes. Economists have also quantified the damage: drowsy employees make costlier errors, and traffic accidents caused by fatigued drivers claim thousands of lives annually. One influential report estimated that sleep loss drains hundreds of billions of dollars from major economies each year.",
+        cn: "睡眠不足对生理的损害已有充分记录。实验室研究表明，即便是中度的睡眠剥夺也会损害记忆、削弱免疫系统，并扰乱调节食欲的激素，从而增加肥胖和糖尿病的风险。经济学家也对损失进行了量化：昏昏欲睡的员工会犯下代价更高的错误，疲劳驾驶导致的交通事故每年夺走数千条生命。一份颇具影响力的报告估计，睡眠缺失每年从主要经济体中榨走数千亿美元。"
       },
       {
-        en: "Sceptics, by contrast, question whether such ambitions are morally defensible while poverty and climate change remain unresolved on Earth. They point out that billions are spent propelling a privileged few beyond the atmosphere, and that mega-constellations of satellites now clutter low orbit, threatening astronomy and generating hazardous debris. If a collision cascade were ever triggered, entire orbital zones could become unusable for generations.",
-        cn: "相比之下，怀疑者质疑：当贫困和气候变化在地球上仍未解决时，这样的雄心是否在道德上站得住脚。他们指出，数十亿美元被用于把少数特权者送出大气层，而如今大规模卫星星座挤满了近地轨道，威胁天文观测并产生危险的太空碎片。一旦引发碰撞连锁反应，整个轨道区域可能在几代人的时间里都无法使用。"
+        en: "Why, then, do people sleep so little? Electric lighting first blurred the boundary between day and night, but digital devices have accelerated the trend dramatically. The blue light emitted by screens suppresses melatonin, the hormone that signals bedtime, while addictive applications tempt users to scroll long past midnight. Corporate culture compounds the problem: in many workplaces, functioning on minimal rest is still celebrated as a badge of dedication rather than condemned as a hazard.",
+        cn: "那么，人们为什么睡得这么少？电灯最早模糊了昼夜的界限，而数字设备则急剧加速了这一趋势。屏幕发出的蓝光会抑制褪黑素——这种激素本该发出就寝信号——而令人上瘾的应用程序则诱使用户刷屏到深夜。企业文化更是雪上加霜：在许多职场中，靠极少的休息硬撑仍被当作敬业的勋章加以颂扬，而不是被谴责为一种健康隐患。"
       },
       {
-        en: "A balanced assessment suggests that exploration and earthly responsibility need not be mutually exclusive. International treaties could compel companies to remove defunct satellites, while a fraction of commercial profits might be channelled into environmental programmes. History shows that frontier technologies, from aviation to the internet, eventually deliver widespread benefits. The challenge for regulators is to ensure that the conquest of space serves humanity as a whole, not merely its wealthiest members.",
-        cn: "一种平衡的评估表明，探索太空与对地球负责并非互相排斥。国际条约可以强制企业清除报废卫星，而商业利润的一部分也可以被引导到环保项目中。历史表明，从航空到互联网，前沿技术最终会带来广泛的益处。监管者面临的挑战，是确保对太空的开拓服务于全人类，而不仅仅是最富有的群体。"
+        en: "Encouragingly, attitudes are beginning to shift. Several school districts that delayed their morning start times recorded measurable gains in attendance and academic performance, and some corporations now offer nap facilities or flexible schedules. Public health experts argue that sleep deserves the same official attention as diet and exercise. If governments launched campaigns promoting consistent bedtimes and restricted late-night shift patterns, they could avert enormous medical costs and improve the wellbeing of millions.",
+        cn: "令人鼓舞的是，社会态度正开始转变。几个推迟早晨上课时间的学区在出勤率和学业成绩上都取得了可衡量的进步，一些企业如今也提供午睡设施或弹性工作时间。公共卫生专家认为，睡眠应当获得与饮食和运动同等的官方重视。如果各国政府发起倡导规律就寝的宣传活动，并限制深夜轮班模式，就能避免巨额医疗开支，并改善数百万人的健康福祉。"
       }
     ],
     glossary: [
-      { w: "exclusive", pos: "adj.", p: "/ɪkˈskluːsɪv/", cn: "专属的，独有的" },
-      { w: "domain", pos: "n.", p: "/dəˈmeɪn/", cn: "领域，范围" },
-      { w: "rivalry", pos: "n.", p: "/ˈraɪvlri/", cn: "竞争，对抗" },
-      { w: "reusable", pos: "adj.", p: "/ˌriːˈjuːzəbl/", cn: "可重复使用的" },
-      { w: "orbit", pos: "n.", p: "/ˈɔːbɪt/", cn: "轨道" },
-      { w: "slashed", pos: "v.", p: "/slæʃt/", cn: "大幅削减（slash的过去式）" },
-      { w: "extravagant", pos: "adj.", p: "/ɪkˈstrævəɡənt/", cn: "奢侈的，铺张的" },
-      { w: "advocates", pos: "n.", p: "/ˈædvəkəts/", cn: "拥护者，支持者" },
-      { w: "underpin", pos: "v.", p: "/ˌʌndəˈpɪn/", cn: "支撑，构成…的基础" },
-      { w: "navigation", pos: "n.", p: "/ˌnævɪˈɡeɪʃn/", cn: "导航" },
-      { w: "microgravity", pos: "n.", p: "/ˌmaɪkrəʊˈɡrævəti/", cn: "微重力" },
-      { w: "yielded", pos: "v.", p: "/ˈjiːldɪd/", cn: "产生，带来（yield的过去式）" },
-      { w: "stimulates", pos: "v.", p: "/ˈstɪmjuleɪts/", cn: "刺激，促进（stimulate）" },
-      { w: "ripple", pos: "n.", p: "/ˈrɪpl/", cn: "涟漪；连锁反应" },
-      { w: "sceptics", pos: "n.", p: "/ˈskeptɪks/", cn: "怀疑论者" },
-      { w: "defensible", pos: "adj.", p: "/dɪˈfensəbl/", cn: "可辩护的，站得住脚的" },
-      { w: "unresolved", pos: "adj.", p: "/ˌʌnrɪˈzɒlvd/", cn: "未解决的" },
-      { w: "propelling", pos: "v.", p: "/prəˈpelɪŋ/", cn: "推进，推动（propel）" },
-      { w: "privileged", pos: "adj.", p: "/ˈprɪvəlɪdʒd/", cn: "享有特权的" },
-      { w: "constellations", pos: "n.", p: "/ˌkɒnstəˈleɪʃnz/", cn: "星座；卫星星座" },
-      { w: "clutter", pos: "v.", p: "/ˈklʌtə(r)/", cn: "塞满，使凌乱" },
-      { w: "hazardous", pos: "adj.", p: "/ˈhæzədəs/", cn: "危险的，有害的" },
-      { w: "debris", pos: "n.", p: "/ˈdebriː/", cn: "碎片，残骸" },
-      { w: "cascade", pos: "n.", p: "/kæˈskeɪd/", cn: "级联，连锁反应；瀑布" },
-      { w: "treaties", pos: "n.", p: "/ˈtriːtiz/", cn: "条约（treaty的复数）" },
-      { w: "compel", pos: "v.", p: "/kəmˈpel/", cn: "强迫，迫使" },
-      { w: "defunct", pos: "adj.", p: "/dɪˈfʌŋkt/", cn: "报废的，不再使用的" },
-      { w: "channelled", pos: "v.", p: "/ˈtʃænld/", cn: "引导，输送（channel的过去式）" },
-      { w: "aviation", pos: "n.", p: "/ˌeɪviˈeɪʃn/", cn: "航空" },
-      { w: "conquest", pos: "n.", p: "/ˈkɒŋkwest/", cn: "征服，攻克" }
+      { w: "commodity", pos: "n.", p: "/kəˈmɒdəti/", cn: "商品；有价值之物" },
+      { w: "physician", pos: "n.", p: "/fɪˈzɪʃn/", cn: "医生，内科医生" },
+      { w: "epidemic", pos: "n.", p: "/ˌepɪˈdemɪk/", cn: "流行病；（坏事的）盛行" },
+      { w: "irritability", pos: "n.", p: "/ˌɪrɪtəˈbɪləti/", cn: "易怒，烦躁" },
+      { w: "chronic", pos: "adj.", p: "/ˈkrɒnɪk/", cn: "慢性的，长期的" },
+      { w: "fatigue", pos: "n.", p: "/fəˈtiːɡ/", cn: "疲劳，疲乏" },
+      { w: "widespread", pos: "adj.", p: "/ˈwaɪdspred/", cn: "普遍的，广泛的" },
+      { w: "unavoidable", pos: "adj.", p: "/ˌʌnəˈvɔɪdəbl/", cn: "不可避免的" },
+      { w: "physiological", pos: "adj.", p: "/ˌfɪziəˈlɒdʒɪkl/", cn: "生理的" },
+      { w: "toll", pos: "n.", p: "/təʊl/", cn: "代价，损害；通行费" },
+      { w: "deprivation", pos: "n.", p: "/ˌdeprɪˈveɪʃn/", cn: "剥夺，匮乏" },
+      { w: "impair", pos: "v.", p: "/ɪmˈpeə(r)/", cn: "损害，削弱" },
+      { w: "immune", pos: "adj.", p: "/ɪˈmjuːn/", cn: "免疫的；不受影响的" },
+      { w: "hormone", pos: "n.", p: "/ˈhɔːməʊn/", cn: "激素，荷尔蒙" },
+      { w: "regulate", pos: "v.", p: "/ˈreɡjuleɪt/", cn: "调节；监管" },
+      { w: "appetite", pos: "n.", p: "/ˈæpɪtaɪt/", cn: "食欲；欲望" },
+      { w: "obesity", pos: "n.", p: "/əʊˈbiːsəti/", cn: "肥胖症" },
+      { w: "quantify", pos: "v.", p: "/ˈkwɒntɪfaɪ/", cn: "量化，以数量表示" },
+      { w: "drowsy", pos: "adj.", p: "/ˈdraʊzi/", cn: "昏昏欲睡的" },
+      { w: "drain", pos: "v.", p: "/dreɪn/", cn: "耗尽，使流失" },
+      { w: "blur", pos: "v.", p: "/blɜː(r)/", cn: "使模糊" },
+      { w: "emit", pos: "v.", p: "/ɪˈmɪt/", cn: "发出，散发（光、热等）" },
+      { w: "suppress", pos: "v.", p: "/səˈpres/", cn: "抑制，压制" },
+      { w: "addictive", pos: "adj.", p: "/əˈdɪktɪv/", cn: "使人上瘾的" },
+      { w: "compound", pos: "v.", p: "/kəmˈpaʊnd/", cn: "使恶化，使加重" },
+      { w: "dedication", pos: "n.", p: "/ˌdedɪˈkeɪʃn/", cn: "奉献，敬业" },
+      { w: "condemn", pos: "v.", p: "/kənˈdem/", cn: "谴责" },
+      { w: "measurable", pos: "adj.", p: "/ˈmeʒərəbl/", cn: "可测量的，显著的" },
+      { w: "avert", pos: "v.", p: "/əˈvɜːt/", cn: "避免，防止" },
+      { w: "wellbeing", pos: "n.", p: "/ˌwelˈbiːɪŋ/", cn: "健康，幸福" }
     ]
   },
   words: [
-    { w: "accumulate", pos: "v.", p: "/əˈkjuːmjəleɪt/", cn: "积累，积聚", ex: "Toxic substances accumulate in the food chain.", exCn: "有毒物质在食物链中不断积累。" },
-    { w: "assess", pos: "v.", p: "/əˈses/", cn: "评估，评定", ex: "Experts assessed the damage after the flood.", exCn: "洪水过后专家评估了损失。" },
-    { w: "coherent", pos: "adj.", p: "/kəʊˈhɪərənt/", cn: "连贯的，条理清晰的", ex: "A coherent essay needs clear paragraph links.", exCn: "一篇连贯的文章需要清晰的段落衔接。" },
-    { w: "collaborate", pos: "v.", p: "/kəˈlæbəreɪt/", cn: "合作，协作", ex: "Scientists from ten countries collaborated on the project.", exCn: "来自十个国家的科学家合作开展了这个项目。" },
-    { w: "controversy", pos: "n.", p: "/ˈkɒntrəvɜːsi/", cn: "争议，争论", ex: "The new policy sparked fierce controversy.", exCn: "新政策引发了激烈的争议。" },
-    { w: "conventional", pos: "adj.", p: "/kənˈvenʃənl/", cn: "传统的，常规的", ex: "Conventional farming relies heavily on chemicals.", exCn: "传统农业严重依赖化学品。" },
-    { w: "crucial", pos: "adj.", p: "/ˈkruːʃl/", cn: "至关重要的", ex: "Timing is crucial to the success of the mission.", exCn: "时机对任务的成功至关重要。" },
-    { w: "decline", pos: "v.", p: "/dɪˈklaɪn/", cn: "下降；衰退；婉拒", ex: "Bird populations have declined sharply.", exCn: "鸟类数量急剧下降。" },
-    { w: "derive", pos: "v.", p: "/dɪˈraɪv/", cn: "获得；源于", ex: "Many medicines are derived from plants.", exCn: "许多药物提取自植物。" },
-    { w: "dispose", pos: "v.", p: "/dɪˈspəʊz/", cn: "处理，丢弃（dispose of）", ex: "Factories must dispose of waste safely.", exCn: "工厂必须安全地处理废料。" },
-    { w: "distinct", pos: "adj.", p: "/dɪˈstɪŋkt/", cn: "明显不同的，独特的", ex: "The two dialects are quite distinct.", exCn: "这两种方言截然不同。" },
-    { w: "distribute", pos: "v.", p: "/dɪˈstrɪbjuːt/", cn: "分发，分配", ex: "Aid was distributed to the victims.", exCn: "救援物资被分发给了受灾者。" },
-    { w: "emerge", pos: "v.", p: "/ɪˈmɜːdʒ/", cn: "出现，浮现", ex: "New industries emerged after the reform.", exCn: "改革之后新兴产业不断涌现。" },
-    { w: "empirical", pos: "adj.", p: "/ɪmˈpɪrɪkl/", cn: "以实证为依据的", ex: "The theory lacks empirical evidence.", exCn: "该理论缺乏实证依据。" },
-    { w: "evaluate", pos: "v.", p: "/ɪˈvæljueɪt/", cn: "评价，评估", ex: "Students were asked to evaluate the argument.", exCn: "学生们被要求评价这一论点。" },
-    { w: "evolve", pos: "v.", p: "/ɪˈvɒlv/", cn: "演变，进化", ex: "The company evolved into a global brand.", exCn: "这家公司逐渐发展成一个全球品牌。" },
-    { w: "feasible", pos: "adj.", p: "/ˈfiːzəbl/", cn: "可行的", ex: "It is not feasible to finish the work in a week.", exCn: "一周内完成这项工作是不可行的。" },
-    { w: "fundamental", pos: "adj.", p: "/ˌfʌndəˈmentl/", cn: "根本的，基础的", ex: "Education is a fundamental human right.", exCn: "教育是一项基本人权。" },
-    { w: "hypothesis", pos: "n.", p: "/haɪˈpɒθəsɪs/", cn: "假说，假设（复数hypotheses）", ex: "The experiment confirmed their hypothesis.", exCn: "实验证实了他们的假说。" },
-    { w: "integrate", pos: "v.", p: "/ˈɪntɪɡreɪt/", cn: "整合，融合", ex: "The app integrates maps with real-time traffic.", exCn: "这款应用把地图与实时路况整合在一起。" },
-    { w: "justify", pos: "v.", p: "/ˈdʒʌstɪfaɪ/", cn: "证明…正当，为…辩护", ex: "Nothing can justify such waste.", exCn: "任何理由都无法为这种浪费开脱。" },
-    { w: "notion", pos: "n.", p: "/ˈnəʊʃn/", cn: "观念，看法", ex: "He rejected the notion that money buys happiness.", exCn: "他不认同金钱能买到幸福这一观念。" },
-    { w: "obstacle", pos: "n.", p: "/ˈɒbstəkl/", cn: "障碍，阻碍", ex: "Lack of funding is the main obstacle.", exCn: "资金不足是主要障碍。" },
-    { w: "precede", pos: "v.", p: "/prɪˈsiːd/", cn: "先于，在…之前", ex: "A short speech preceded the ceremony.", exCn: "典礼之前有一段简短的致辞。" },
-    { w: "profound", pos: "adj.", p: "/prəˈfaʊnd/", cn: "深远的，深刻的", ex: "The internet has had a profound impact on society.", exCn: "互联网对社会产生了深远影响。" },
-    { w: "retain", pos: "v.", p: "/rɪˈteɪn/", cn: "保留，保持", ex: "The town retains much of its old charm.", exCn: "这座小镇保留了许多昔日的魅力。" },
-    { w: "simulate", pos: "v.", p: "/ˈsɪmjuleɪt/", cn: "模拟，仿真", ex: "The software simulates real flight conditions.", exCn: "这款软件模拟真实的飞行条件。" },
-    { w: "substantial", pos: "adj.", p: "/səbˈstænʃl/", cn: "大量的，可观的", ex: "The project requires substantial investment.", exCn: "该项目需要大量投资。" },
-    { w: "transform", pos: "v.", p: "/trænsˈfɔːm/", cn: "使转变，改造", ex: "Technology has transformed the way we work.", exCn: "科技改变了我们的工作方式。" },
-    { w: "undergo", pos: "v.", p: "/ˌʌndəˈɡəʊ/", cn: "经历，接受", ex: "The city is undergoing rapid change.", exCn: "这座城市正在经历快速变化。" }
+    { w: "adapt", pos: "v.", p: "/əˈdæpt/", cn: "适应；改编", ex: "Animals must adapt quickly to survive in a changing climate.", exCn: "动物必须迅速适应才能在变化的气候中生存。" },
+    { w: "adequate", pos: "adj.", p: "/ˈædɪkwət/", cn: "足够的，适当的", ex: "Few students get adequate sleep during exam season.", exCn: "考试季很少有学生能获得充足的睡眠。" },
+    { w: "alleviate", pos: "v.", p: "/əˈliːvieɪt/", cn: "减轻，缓解", ex: "Regular exercise can alleviate symptoms of anxiety.", exCn: "规律运动可以缓解焦虑症状。" },
+    { w: "attribute", pos: "v.", p: "/əˈtrɪbjuːt/", cn: "把…归因于（attribute A to B）", ex: "Doctors attribute the rise in obesity to poor diet.", exCn: "医生把肥胖率上升归因于不良饮食。" },
+    { w: "cognitive", pos: "adj.", p: "/ˈkɒɡnətɪv/", cn: "认知的", ex: "Sleep loss impairs cognitive functions such as memory.", exCn: "睡眠不足会损害记忆等认知功能。" },
+    { w: "commence", pos: "v.", p: "/kəˈmens/", cn: "开始，着手", ex: "The clinical trial will commence next month.", exCn: "临床试验将于下个月开始。" },
+    { w: "compulsory", pos: "adj.", p: "/kəmˈpʌlsəri/", cn: "强制的，义务的", ex: "Physical education is compulsory in most schools.", exCn: "体育课在大多数学校是必修的。" },
+    { w: "consecutive", pos: "adj.", p: "/kənˈsekjətɪv/", cn: "连续的", ex: "He worked for twelve consecutive hours without a break.", exCn: "他连续工作了十二个小时没有休息。" },
+    { w: "contemporary", pos: "adj.", p: "/kənˈtemprəri/", cn: "当代的；同时代的", ex: "Contemporary lifestyles leave little time for rest.", exCn: "当代的生活方式几乎不给休息留时间。" },
+    { w: "cultivate", pos: "v.", p: "/ˈkʌltɪveɪt/", cn: "培养；耕作", ex: "Parents should cultivate healthy habits in children early.", exCn: "父母应尽早培养孩子的健康习惯。" },
+    { w: "deficiency", pos: "n.", p: "/dɪˈfɪʃnsi/", cn: "缺乏，不足", ex: "A vitamin D deficiency is common in northern countries.", exCn: "维生素D缺乏在北方国家很常见。" },
+    { w: "deprive", pos: "v.", p: "/dɪˈpraɪv/", cn: "剥夺（deprive sb of sth）", ex: "Noise pollution deprives residents of restful nights.", exCn: "噪音污染剥夺了居民安宁的夜晚。" },
+    { w: "diminish", pos: "v.", p: "/dɪˈmɪnɪʃ/", cn: "减少，降低", ex: "Concentration diminishes rapidly after midnight.", exCn: "午夜之后注意力会迅速下降。" },
+    { w: "disrupt", pos: "v.", p: "/dɪsˈrʌpt/", cn: "扰乱，打断", ex: "Jet lag disrupts the body's internal clock.", exCn: "时差会扰乱人体的生物钟。" },
+    { w: "durable", pos: "adj.", p: "/ˈdjʊərəbl/", cn: "耐用的，持久的", ex: "Good habits bring durable benefits to health.", exCn: "好习惯能给健康带来持久的益处。" },
+    { w: "exceed", pos: "v.", p: "/ɪkˈsiːd/", cn: "超过，超出", ex: "Working hours should not exceed legal limits.", exCn: "工作时间不应超过法定上限。" },
+    { w: "imply", pos: "v.", p: "/ɪmˈplaɪ/", cn: "暗示，意味着", ex: "The findings imply a link between screens and insomnia.", exCn: "研究结果暗示屏幕与失眠之间存在关联。" },
+    { w: "inherent", pos: "adj.", p: "/ɪnˈhɪərənt/", cn: "固有的，内在的", ex: "Risk is inherent in any medical procedure.", exCn: "任何医疗程序都存在固有的风险。" },
+    { w: "intervene", pos: "v.", p: "/ˌɪntəˈviːn/", cn: "干预，介入", ex: "The government intervened to regulate night shifts.", exCn: "政府出面干预以规范夜班制度。" },
+    { w: "lucrative", pos: "adj.", p: "/ˈluːkrətɪv/", cn: "获利丰厚的", ex: "The wellness industry has become highly lucrative.", exCn: "健康养生产业已变得利润丰厚。" },
+    { w: "moderate", pos: "adj.", p: "/ˈmɒdərət/", cn: "适度的，中等的", ex: "Even moderate exercise improves sleep quality.", exCn: "即使是适度运动也能改善睡眠质量。" },
+    { w: "negligible", pos: "adj.", p: "/ˈneɡlɪdʒəbl/", cn: "微不足道的", ex: "The side effects of the drug were negligible.", exCn: "这种药物的副作用微乎其微。" },
+    { w: "offset", pos: "v.", p: "/ˈɒfset/", cn: "抵消，补偿", ex: "A short nap can offset the effects of a poor night.", exCn: "小睡片刻可以抵消一夜没睡好的影响。" },
+    { w: "persist", pos: "v.", p: "/pəˈsɪst/", cn: "持续存在；坚持", ex: "If the symptoms persist, consult a doctor.", exCn: "如果症状持续，请咨询医生。" },
+    { w: "prone", pos: "adj.", p: "/prəʊn/", cn: "易于…的（prone to）", ex: "Tired drivers are prone to serious errors.", exCn: "疲劳的司机容易犯严重的错误。" },
+    { w: "restore", pos: "v.", p: "/rɪˈstɔː(r)/", cn: "恢复，修复", ex: "Deep sleep helps restore the immune system.", exCn: "深度睡眠有助于恢复免疫系统。" },
+    { w: "sedentary", pos: "adj.", p: "/ˈsedntri/", cn: "久坐的，缺乏运动的", ex: "A sedentary lifestyle raises the risk of heart disease.", exCn: "久坐的生活方式会增加心脏病风险。" },
+    { w: "susceptible", pos: "adj.", p: "/səˈseptəbl/", cn: "易受影响的（susceptible to）", ex: "Sleep-deprived people are susceptible to colds.", exCn: "睡眠不足的人容易感冒。" },
+    { w: "trigger", pos: "v.", p: "/ˈtrɪɡə(r)/", cn: "引发，触发", ex: "Stress can trigger severe headaches.", exCn: "压力可能引发严重的头痛。" },
+    { w: "vulnerable", pos: "adj.", p: "/ˈvʌlnərəbl/", cn: "脆弱的，易受伤害的", ex: "The elderly are especially vulnerable to heat waves.", exCn: "老年人尤其容易受到热浪的伤害。" }
   ],
   vocabArticle: {
-    title: "How Science Turns Ideas into Progress",
-    titleCn: "科学如何把想法变成进步",
+    title: "Small Habits, Lasting Health",
+    titleCn: "小习惯，大健康",
     paras: [
       {
-        en: "Every scientific breakthrough begins with a notion: a researcher observes a distinct pattern, forms a hypothesis, and then designs experiments to test it. Careful observation must precede any conclusion, because a theory without empirical support is merely speculation. Over time, evidence accumulates, and what once caused controversy may evolve into accepted knowledge.",
-        cn: "每一项科学突破都始于一个想法：研究者观察到一种独特的规律，提出假说，然后设计实验加以检验。任何结论之前都必须先有细致的观察，因为缺乏实证支持的理论只是猜测。随着时间推移，证据不断积累，曾经引发争议的观点也可能演变为公认的知识。"
+        en: "Contemporary lifestyles have changed far faster than our bodies can adapt. Millions of office workers now remain sedentary for eight consecutive hours a day, and researchers attribute a growing list of illnesses to this inherent mismatch between ancient biology and modern routine. Poor habits gradually diminish our energy, disrupt our natural rhythms and deprive the brain of the rest it needs, leaving us prone to injury and vulnerable to stress.",
+        cn: "当代的生活方式变化之快，远超我们身体的适应能力。如今数以百万计的上班族每天连续久坐八小时，研究者把越来越多的疾病归因于古老生理机制与现代作息之间这种固有的错位。不良习惯会逐渐消耗我们的精力、扰乱自然节律，并剥夺大脑所需的休息，使我们容易受伤，也更难抵御压力。"
       },
       {
-        en: "Modern research is rarely a solo effort. Teams from different countries collaborate, share data and integrate their findings into a coherent whole. Computers can now simulate complex systems, from climate patterns to chemical reactions, which makes it feasible to evaluate ideas that conventional laboratory methods could never test directly.",
-        cn: "现代研究很少是单打独斗。来自不同国家的团队相互合作、共享数据，并把各自的发现整合成一个连贯的整体。计算机如今可以模拟从气候规律到化学反应的复杂系统，这使得评估那些传统实验室方法无法直接检验的想法成为可能。"
+        en: "The damage rarely commences overnight. At first the warning signs seem negligible: mild fatigue, a slight deficiency of attention, small cognitive lapses that are easy to dismiss. Yet when working hours exceed healthy limits and stress persists for months, these minor costs quietly pile up. What they imply is sobering—an exhausted body becomes far more susceptible to infection, and even moderate pressure can trigger anxiety in people who once coped with ease.",
+        cn: "这种损害很少在一夜之间开始。起初，警示信号似乎微不足道：轻微的疲劳、注意力稍有欠缺、容易被忽视的小小认知失误。然而，当工作时长超出健康界限、压力持续数月时，这些微小的代价便悄然累积。它们所暗示的事实发人深省——疲惫不堪的身体更容易受到感染，即便是中等程度的压力，也可能让曾经从容应对的人产生焦虑。"
       },
       {
-        en: "Progress, however, faces obstacles. Funding for basic science has declined in many countries, and researchers must justify every grant by pointing to practical benefits they might derive. Yet history shows that fundamental discoveries, though they may seem useless at first, often transform entire industries and bring substantial economic returns.",
-        cn: "然而，进步也面临重重障碍。许多国家的基础科学经费不断下降，研究者必须通过指出可能获得的实际收益来为每一笔拨款辩护。但历史表明，基础性发现哪怕起初看似无用，最终往往能改造整个行业并带来可观的经济回报。"
+        en: "Fortunately, sensible routines can offset much of this harm. Doctors intervene most effectively when they cultivate prevention rather than merely treat disease: adequate sleep, regular movement and a balanced diet restore energy and alleviate chronic tension. The benefits are remarkably durable, and none of them depends on the lucrative supplements and gadgets that the wellness industry is so eager to sell.",
+        cn: "幸运的是，合理的日常安排可以抵消大部分伤害。医生最有效的干预方式，是培养预防意识而不仅仅是治病：充足的睡眠、规律的运动和均衡的饮食能够恢复精力、缓解长期紧张。这些益处相当持久，而且没有一项依赖于健康产业热衷兜售的高利润补品和小玩意。"
       },
       {
-        en: "Society, too, must undergo a change in attitude. It is crucial that governments distribute resources fairly, dispose of the idea that only profitable research matters, and retain public trust in science. When new challenges emerge, from pandemics to climate change, a scientifically literate society will always be better prepared to respond.",
-        cn: "社会同样需要经历观念上的转变。政府必须公平地分配资源，摒弃「只有能盈利的研究才重要」的想法，并保持公众对科学的信任，这一点至关重要。当新的挑战出现时——无论是流行病还是气候变化——一个具备科学素养的社会总能更从容地应对。"
+        en: "Some governments have even made health education compulsory in schools, hoping that citizens will adapt their routines step by step instead of chasing dramatic transformations. The lesson of contemporary medicine is modest but powerful: lasting health is never built in one heroic effort. It grows from small, repeated choices that restore balance, protect the vulnerable, and keep both body and mind durable enough for the demands of modern life.",
+        cn: "一些国家的政府甚至把健康教育设为学校的必修内容，希望公民能一步一步地调整自己的生活习惯，而不是追求戏剧性的彻底改变。当代医学给我们的启示朴素却有力：持久的健康从来不是靠一次英雄式的努力建成的，它源于一次次微小而重复的选择——恢复平衡、保护脆弱之处，让身心都足够坚韧，以应对现代生活的种种要求。"
       }
     ]
   },
   grammar: [
     {
-      q: "If the government ______ earlier warnings about the satellite debris, the collision ______ last month.",
+      q: "The study followed 2,000 office workers, ______ reported sleeping fewer than six hours a night.",
       options: [
-        "heeded; would not happen",
-        "had heeded; would not have happened",
-        "has heeded; would not have happened",
-        "heeded; had not happened"
+        "most of them",
+        "most of whom",
+        "whom most of",
+        "most of which"
       ],
       answer: 1,
-      explain: "考点：虚拟语气（与过去事实相反）。句中 last month 表明碰撞发生在过去，是对过去事实的假设。与过去事实相反的虚拟条件句结构为：If + 主语 + had done（从句），主语 + would/could/might + have done（主句）。因此从句用 had heeded，主句用 would not have happened，选 B。A 项是与现在事实相反的结构；C 项 has heeded 是现在完成时，不能用于虚拟条件句；D 项主句形式错误。"
+      explain: "考点：非限制性定语从句（介词 + 关系代词）。逗号后面的部分含有谓语动词 reported，说明它是一个从句而不是独立短语，因此必须由关系代词来连接两个分句。先行词是 2,000 office workers（人），所以关系代词要用 whom，构成「数量词 + of + whom」结构，即 most of whom，选 B。A 项 most of them 中 them 是人称代词，不能起连接作用，只能用于两个独立句子之间（如用 and 连接或分号隔开）；C 项语序错误，of 后必须紧跟 whom；D 项 which 只能指代物，不能指人。"
     },
     {
-      q: "______ by the sharp rise in launch costs, several companies decided to postpone their satellite programmes.",
+      q: "According to the report, the amount of deep sleep an average adult gets today is ______ it was fifty years ago.",
       options: [
-        "Alarming",
-        "Alarmed",
-        "To alarm",
-        "Having alarmed"
+        "less than half what",
+        "less half than what",
+        "less than half of which",
+        "half less than that"
       ],
-      answer: 1,
-      explain: "考点：非谓语动词（分词作状语）。判断关键是分词与句子主语的逻辑关系：主语 several companies 与动词 alarm（使惊恐）之间是被动关系——公司是「被」发射成本上涨所惊动的，所以要用过去分词 Alarmed 表被动，相当于 Because they were alarmed by...。A 项 Alarming 是现在分词表主动，意为「令人担忧的」，逻辑不通；C 项不定式表目的，语义不符；D 项 Having alarmed 是现在分词完成式，表示主语主动完成了 alarm 这个动作，与逻辑相悖。"
+      answer: 0,
+      explain: "考点：比较结构 + 名词性从句。本句比较的是「今天的深睡眠量」与「五十年前的深睡眠量」。正确结构是 less than half + what 从句：less than half（不到一半）作比较基准，what it was fifty years ago 是 what 引导的名词性从句（相当于 the amount that it was），整体意为「不到五十年前的一半」，选 A。B 项 less half than 语序混乱，不是英语中存在的结构；C 项 which 引导定语从句需要先行词，此处没有可修饰的先行词，且 half of which 会使句子缺少比较对象；D 项 half less than that 表达不地道，且 that 指代不明。类似高频表达还有：twice what it was（是过去的两倍）、three times what it cost（是原价的三倍）。"
     }
   ]
 };

@@ -11,5 +11,11 @@ window.ENGLISH_HISTORY = [
     topic: "Space Exploration（太空探索）",
     articleTitle: "The New Race Beyond Earth",
     words: ["accumulate","assess","coherent","collaborate","controversy","conventional","crucial","decline","derive","dispose","distinct","distribute","emerge","empirical","evaluate","evolve","feasible","fundamental","hypothesis","integrate","justify","notion","obstacle","precede","profound","retain","simulate","substantial","transform","undergo"]
+  },
+  {
+    date: "2026-07-30",
+    topic: "Health: Sleep Deprivation（健康：睡眠不足）",
+    articleTitle: "The Silent Epidemic of Sleep Loss",
+    words: ["adapt","adequate","alleviate","attribute","cognitive","commence","compulsory","consecutive","contemporary","cultivate","deficiency","deprive","diminish","disrupt","durable","exceed","imply","inherent","intervene","lucrative","moderate","negligible","offset","persist","prone","restore","sedentary","susceptible","trigger","vulnerable"]
   }
 ];

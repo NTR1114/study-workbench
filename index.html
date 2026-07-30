@@ -117,6 +117,9 @@
   .chap-item.locked{color:#b6bcc9}
   .chap-item.current{background:var(--blue-soft);color:var(--blue);font-weight:700}
   .chap-item.passed{color:var(--green)}
+  .lv-mini{margin-left:auto;font-size:10px;padding:1px 7px;border-radius:10px;background:#eef1f6;color:#8a93a6;font-weight:600}
+  .lv{font-size:12px;padding:2px 10px;border-radius:11px;margin-left:8px;vertical-align:middle;font-weight:700;color:#fff}
+  .lv-小白{background:#90a4ae}.lv-进阶{background:#42a5f5}.lv-专业{background:#7e57c2}.lv-大师{background:#ef5350}
   .sec{margin-bottom:16px}
   .sec h4{font-size:15px;margin-bottom:6px;color:#2b3346}
   .sec p{font-size:14.5px;line-height:1.95;color:#3c4354}
@@ -286,7 +289,7 @@
     <div class="nav-title">学 习</div>
     <div class="nav-item" data-v="english">🇬🇧 英语 · 雅思</div>
     <div class="nav-item" data-v="mystic">☯️ 阴阳 · 玄学</div>
-    <div class="nav-item" data-v="draw">🎨 画画</div>
+    <div class="nav-item" data-v="draw">🎨 绘画学院</div>
   </div>
   <div class="nav-group">
     <div class="nav-title">记 录</div>
@@ -886,13 +889,13 @@ function openSubject(ctx, id, chIndex){
           const done = st.practice && st.practice['ch'+i];
           const cls = i===chIndex?'current':(done?'passed':'');
           const icon = done?'✅':(i===chIndex?'📖':'○');
-          return `<div class="chap-item ${cls} open-ch" data-ch="${i}">${icon} ${t}</div>`;
+          return `<div class="chap-item ${cls} open-ch" data-ch="${i}">${icon} ${t} <span class="lv-mini">${c.chapters[i] && c.chapters[i].lv || ''}</span></div>`;
         }).join('')}
       </div>
       <div>
         ${hasContent ? `
         <div class="card">
-          <h2>${ch.title}</h2>
+          <h2>${ch.title}${ch.lv?` <span class="lv lv-${ch.lv}">${ch.lv}</span>`:''}</h2>
           <div class="hint">${ (ch.practice && ch.practice.length) ? '认真读完正文和案例，再做下方「巩固练习」自查；不卡关、不限次数，做错可看解析' : '本模块为参考资料，阅读并体验下方工具即算完成。' }</div>
           ${ch.sections.map(s=>`<div class="sec"><h4>◆ ${s.h}</h4><div class="sec-b">${s.b}</div></div>`).join('')}
           ${ch.caseStudy ? `<div class="case-box"><b>📜 ${ch.caseStudy.title}</b><p>${ch.caseStudy.b}</p></div>` : ''}
@@ -1129,8 +1132,8 @@ function renderDataView(){
     <div class="ov-row"><span>语法专题已练</span><b>${gramTopics} 个</b></div>
     <div class="ov-row"><span>玄学已巩固章节</span><b>${mysDone} 章</b></div>
     <div class="ov-row"><span>玄学疑问笔记</span><b>${mysNotes} 条</b></div>
-    <div class="ov-row"><span>画画已巩固章节</span><b>${drwDone} 章</b></div>
-    <div class="ov-row"><span>画画疑问笔记</span><b>${drwNotes} 条</b></div>`;
+    <div class="ov-row"><span>绘画学院已巩固章节</span><b>${drwDone} 章</b></div>
+    <div class="ov-row"><span>绘画学院疑问笔记</span><b>${drwNotes} 条</b></div>`;
 }
 
 function exportData(){
