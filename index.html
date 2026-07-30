@@ -236,6 +236,19 @@
   .of-tag{display:inline-block;font-size:11.5px;font-weight:800;padding:1px 8px;border-radius:10px}
   .of-flow{margin-top:9px;font-size:13px;line-height:1.8;color:#3c4354;background:#fff7ed;border:1px solid #ffe0b0;border-radius:8px;padding:7px 10px}
   @media(max-width:680px){.focus-win,.win-row{grid-template-columns:1fr}}
+  /* 英语学习分析 */
+  .ana-stat-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(132px,1fr));gap:12px;margin-bottom:18px}
+  .ana-stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 10px;box-shadow:var(--shadow);text-align:center}
+  .ana-stat .num{font-size:23px;font-weight:800;color:var(--blue)}
+  .ana-stat .lbl{font-size:12px;color:var(--sub);margin-top:3px}
+  .ana-h{font-size:15px;font-weight:800;color:#2b3346;margin:18px 0 8px;padding-left:10px;border-left:4px solid #2f6fed}
+  .bar-chart{display:flex;align-items:flex-end;gap:10px;height:100px;padding:8px 4px 0;border-bottom:1px solid var(--line);margin:4px 0 2px}
+  .bar-col{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%}
+  .bar-col .bar{width:62%;max-width:30px;background:linear-gradient(180deg,#6aa3ff,#2f6fed);border-radius:5px 5px 0 0;min-height:2px;transition:height .3s}
+  .bar-col .bar-d{font-size:11px;color:var(--sub);margin-top:5px}
+  .pbar-inline{display:inline-block;width:88px;height:7px;background:#eef0f6;border-radius:6px;overflow:hidden;vertical-align:middle;margin-right:6px}
+  .pbar-inline i{display:block;height:100%;background:var(--green);border-radius:6px}
+  .ana-tip{background:#f0f6ff;border:1px solid #d4e6ff;color:#1b4f9c;border-radius:10px;padding:11px 14px;font-size:13.5px;line-height:1.7}
 </style>
 </head>
 <body>
@@ -265,6 +278,7 @@
       <div class="subnav-item" data-eng="words">🔤 每日单词 <span class="s-badge" id="bWords">0/30</span></div>
       <div class="subnav-item" data-eng="vocab">📚 词汇阅读</div>
       <div class="subnav-item" data-eng="grammar">✏️ 语法自学 <span class="s-badge" id="bGram">0次</span></div>
+      <div class="subnav-item" data-eng="analysis">📊 学习分析</div>
     </div>
 
     <!-- 模块 1：雅思文章（独立） -->
@@ -320,7 +334,17 @@
       </div>
       <div id="grammarDetail" style="display:none"></div>
     </div>
-    <div class="footer-tip">四个模块各自独立 · 内容每日清晨 6:00 自动更新</div>
+
+    <!-- 模块 5：学习分析（独立） -->
+    <div class="eng-pane" id="eng-analysis">
+      <div class="card">
+        <h2>📊 学习分析 · 我的英语成长</h2>
+        <div class="hint">基于本地学习记录自动统计（打卡 / 单词 / 语法 / 阅读）；数据只保存在你的浏览器，不联网上传</div>
+        <div id="engAnaBox"></div>
+      </div>
+    </div>
+
+    <div class="footer-tip">五大模块各自独立 · 内容每日清晨 6:00 自动更新</div>
   </div>
 
   <!-- ============ 玄学 ============ -->
@@ -336,7 +360,13 @@
   <!-- ============ 金融分析 ============ -->
   <div class="view" id="view-finAna">
     <h1 class="page">💰 金融分析 · 每日三段</h1>
-    <div class="page-sub">重点：黄金 · 恒指 · 纳指 ｜ 股票/期货/基金/外汇 点开分看 ｜ 含「三段趋势预测 + 买什么」与订单流/成交量分析 ｜ 综合新浪新闻、通达信、同花顺等 ｜ 每日 6:00 / 14:00 / 20:00 更新 ｜ 仅供参考，非投资建议</div>
+    <div class="page-sub">重点：黄金 · 恒指 · 纳指 ｜ 点上方「股票 / 期货 / 基金 / 外汇」切换查看 ｜ 含「三段趋势预测 + 买什么」与订单流/成交量分析 ｜ 综合新浪新闻、通达信、同花顺等 ｜ 每日 6:00 / 14:00 / 20:00 更新 ｜ 仅供参考，非投资建议</div>
+    <div class="subnav" id="finSubnav">
+      <div class="subnav-item active" data-fin="stocks">📈 股票</div>
+      <div class="subnav-item" data-fin="futures">📊 期货</div>
+      <div class="subnav-item" data-fin="funds">📦 基金</div>
+      <div class="subnav-item" data-fin="forex">💱 外汇</div>
+    </div>
     <div id="finBadge"></div>
     <div class="fin-summary" id="finSummary"></div>
     <div class="card" id="focusCard">
@@ -348,12 +378,6 @@
       <h2>⏱️ 三段趋势预测 · 买什么</h2>
       <div class="hint">分别对应 A股/港股/美股 三个活跃时段，给出该时段的方向与可关注标的</div>
       <div id="windowBox"></div>
-    </div>
-    <div class="subnav" id="finSubnav">
-      <div class="subnav-item active" data-fin="stocks">📈 股票</div>
-      <div class="subnav-item" data-fin="futures">📊 期货</div>
-      <div class="subnav-item" data-fin="funds">📦 基金</div>
-      <div class="subnav-item" data-fin="forex">💱 外汇</div>
     </div>
     <div id="finPaneBox"></div>
     <div class="card">
@@ -555,8 +579,60 @@ function initEnglish(){
   };
   readBtn.onclick = ()=>{ saveRec({read:true}); refreshRead(); };
   refreshRead();
-  renderWords(); renderGrammarHome();
+  renderWords(); renderGrammarHome(); renderEngAnalysis();
   const bg0=$('#bGram'); if(bg0){ const r=records()[TODAY]; bg0.textContent=((r&&r.gramSessions)||0)+'次'; }
+}
+/* ================= 英语学习分析 ================= */
+function renderEngAnalysis(){
+  const box = document.getElementById('engAnaBox');
+  if(!box) return;
+  const rec = LS.get('wb_eng_records', {});
+  const dates = Object.keys(rec).sort();
+  const active = d => { const r = rec[d]; return r && ((r.words||0)+(r.gramSessions||0)+(r.read?1:0) > 0); };
+  const totalWords = dates.reduce((n,d)=>n+((rec[d]&&rec[d].words)||0),0);
+  const totalGram  = dates.reduce((n,d)=>n+((rec[d]&&rec[d].gramSessions)||0),0);
+  const readDays   = dates.filter(d=>rec[d]&&rec[d].read).length;
+  // 连续打卡（今天未学不算断）
+  let streak = 0, cur = new Date();
+  for(let i=0;i<400;i++){
+    const ds = cur.toISOString().slice(0,10);
+    if(active(ds)) streak++;
+    else if(i>0) break;
+    cur.setDate(cur.getDate()-1);
+  }
+  // 近 7 天单词
+  const last7 = []; let c2 = new Date();
+  for(let i=6;i>=0;i--){ const d=new Date(c2); d.setDate(c2.getDate()-i); const ds=d.toISOString().slice(0,10); last7.push({date:ds.slice(5), words:(rec[ds]&&rec[ds].words)||0}); }
+  const maxV = Math.max(1, ...last7.map(x=>x.words));
+  const bars = last7.map(x=>`<div class="bar-col"><div class="bar" title="${x.words} 个" style="height:${Math.round(x.words/maxV*72)}px"></div><div class="bar-d">${x.date}</div></div>`).join('');
+  // 语法专题掌握度
+  const gs = LS.get('wb_grammar_states', {});
+  const tlist = (window.GRAMMAR_COURSE.topics||[]).map(t=>{
+    const s = gs[t.id]||{sessions:0,best:0};
+    const pct = s.sessions ? Math.round(s.best/GCPER*100) : 0;
+    return `<div class="ov-row"><span>${t.emoji} ${t.name}</span><span><span class="pbar-inline"><i style="width:${pct}%"></i></span><b>${pct}%</b> · 练${s.sessions}次</span></div>`;
+  }).join('');
+  let advice;
+  if(dates.length===0) advice='还没开始记录哦～ 去背 30 个单词或读一篇雅思文章，这里就会出现你的成长曲线 🌱';
+  else if(streak===0) advice='今天还没学，趁现在背 30 词或读一篇文章，开启新的连续打卡吧 🔥';
+  else if(totalWords<90) advice='每天 30 词是雅思地基，已经坚持 '+streak+' 天，继续保持节奏 💪';
+  else advice='连续打卡 '+streak+' 天，累计背词 '+totalWords+' 个，离目标越来越近 🎯 别松劲！';
+
+  box.innerHTML =
+    '<div class="ana-stat-row">'+
+      '<div class="ana-stat"><div class="num">'+streak+'</div><div class="lbl">🔥 连续打卡(天)</div></div>'+
+      '<div class="ana-stat"><div class="num">'+dates.length+'</div><div class="lbl">📅 累计打卡(天)</div></div>'+
+      '<div class="ana-stat"><div class="num">'+totalWords+'</div><div class="lbl">📚 累计背词(个)</div></div>'+
+      '<div class="ana-stat"><div class="num">'+totalGram+'</div><div class="lbl">✏️ 语法练习(次)</div></div>'+
+      '<div class="ana-stat"><div class="num">'+readDays+'</div><div class="lbl">📰 读完文章(天)</div></div>'+
+    '</div>'+
+    '<div class="ana-h">📈 近 7 天单词背诵</div>'+
+    '<div class="bar-chart">'+bars+'</div>'+
+    '<div class="hint" style="margin-bottom:4px">单位：每日背诵单词数（点击单词卡上的 ⭕ 即记一次）</div>'+
+    '<div class="ana-h">🧠 语法专题掌握度</div>'+
+    '<div class="card" style="padding:12px 16px">'+(tlist || '<div class="fin-empty">还没练过语法，去「语法自学」做一套吧。</div>')+'</div>'+
+    '<div class="ana-h">💡 小建议</div>'+
+    '<div class="ana-tip">'+advice+'</div>';
 }
 function renderWords(){
   const done = new Set(LS.get('wb_words_'+TODAY, []));
