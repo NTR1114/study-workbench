@@ -271,6 +271,12 @@
   .pbar-inline{display:inline-block;width:88px;height:7px;background:#eef0f6;border-radius:6px;overflow:hidden;vertical-align:middle;margin-right:6px}
   .pbar-inline i{display:block;height:100%;background:var(--green);border-radius:6px}
   .ana-tip{background:#f0f6ff;border:1px solid #d4e6ff;color:#1b4f9c;border-radius:10px;padding:11px 14px;font-size:13.5px;line-height:1.7}
+  /* 画画模块 */
+  .dv-svg{display:block;max-width:100%;height:auto;margin:10px auto;background:#fff;border:1px solid #eef0f4;border-radius:10px;padding:6px}
+  .video-card{background:linear-gradient(180deg,#fff,#fff6ef);border:1px solid #ffd9c2}
+  .video-box{text-align:center;padding:6px 0}
+  .video-title{font-size:15px;font-weight:800;color:#b34700;margin:6px 0 12px}
+  .video-note{font-size:12.5px;color:#8a8f9c;margin-top:10px}
 </style>
 </head>
 <body>
@@ -280,6 +286,7 @@
     <div class="nav-title">学 习</div>
     <div class="nav-item" data-v="english">🇬🇧 英语 · 雅思</div>
     <div class="nav-item" data-v="mystic">☯️ 阴阳 · 玄学</div>
+    <div class="nav-item" data-v="draw">🎨 画画</div>
   </div>
   <div class="nav-group">
     <div class="nav-title">记 录</div>
@@ -381,6 +388,16 @@
     <div id="mysticDetail" style="display:none"></div>
   </div>
 
+  <!-- ============ 画画 ============ -->
+  <div class="view" id="view-draw">
+    <div id="mysticHomeDraw">
+      <h1 class="page">🎨 画画 · 从零到高手</h1>
+      <div class="page-sub">图文 + 分步图解，手把手教你画身体部位、画种类型与配色；每章章末有巩固练习，最后附可观看的绘画视频教程</div>
+      <div class="subj-grid" id="subjGridDraw"></div>
+    </div>
+    <div id="mysticDetailDraw" style="display:none"></div>
+  </div>
+
   <!-- ============ 金融分析 ============ -->
   <div class="view" id="view-finAna">
     <h1 class="page">💰 金融分析 · 每日三段</h1>
@@ -436,6 +453,7 @@
 <script src="data/english_daily.js"></script>
 <script src="data/english_history.js"></script>
 <script src="data/mystic_courses.js"></script>
+<script src="data/draw_courses.js"></script>
 <script src="data/grammar_course.js"></script>
 <script src="data/finance_daily.js"></script>
 <script>
@@ -518,6 +536,8 @@ function show(v){
   $('#view-'+v).classList.add('show');
   if(v==='finAna') renderFinAna();
   if(v==='data') renderDataView();
+  if(v==='mystic') renderSubjects(DEF_CTX);
+  if(v==='draw') renderSubjects(DRAW_CTX);
 }
 
 /* ================= 语音 ================= */
@@ -810,18 +830,23 @@ function startGrammarQuiz(id){
   };
 }
 
-/* ================= 玄学 ================= */
-function mysState(){ return LS.get('wb_mystic', {}) }
+/* ================= 课程播放器（玄学 / 画画 共用） ================= */
+const DEF_CTX = { courses: window.MYSTIC_COURSES, storeKey:'wb_mystic', noteCtx:'阴阳分析', grid:'subjGrid', home:'mysticHome', detail:'mysticDetail' };
+const DRAW_CTX = { courses: window.DRAW_COURSES, storeKey:'wb_draw', noteCtx:'画画', grid:'subjGridDraw', home:'mysticHomeDraw', detail:'mysticDetailDraw' };
+let CUR_CTX = DEF_CTX;
+
+function mysState(){ return LS.get(CUR_CTX.storeKey, {}) }
 function subjState(id){
   const s = mysState();
   if(!s[id]) s[id] = {unlocked:999, practice:{}, notes:[]};
   if(!s[id].practice) s[id].practice = {};
   return s[id];
 }
-function saveSubj(id, st){ const s = mysState(); s[id]=st; LS.set('wb_mystic', s); }
+function saveSubj(id, st){ const s = mysState(); s[id]=st; LS.set(CUR_CTX.storeKey, s); }
 
-function renderSubjects(){
-  $('#subjGrid').innerHTML = COURSES.map(c=>{
+function renderSubjects(ctx){
+  ctx = ctx || CUR_CTX; CUR_CTX = ctx;
+  $('#'+ctx.grid).innerHTML = ctx.courses.map(c=>{
     const st = subjState(c.id);
     const done = Object.keys(st.practice||{}).length;
     const pct = Math.round(done / c.syllabus.length * 100);
@@ -833,18 +858,19 @@ function renderSubjects(){
       <div class="p-label">已巩固 ${done}/${c.syllabus.length} 章 · 全章开放，自由学习</div>
     </div>`;
   }).join('');
-  document.querySelectorAll('#subjGrid .subj-card').forEach(el=>{
-    el.onclick = ()=>openSubject(el.dataset.id, null);
+  document.querySelectorAll('#'+ctx.grid+' .subj-card').forEach(el=>{
+    el.onclick = ()=>openSubject(ctx, el.dataset.id, null);
   });
 }
-function openSubject(id, chIndex){
-  const c = COURSES.find(x=>x.id===id);
+function openSubject(ctx, id, chIndex){
+  ctx = ctx || CUR_CTX; CUR_CTX = ctx;
+  const c = ctx.courses.find(x=>x.id===id);
   const st = subjState(id);
   if(chIndex===null || chIndex===undefined) chIndex = 0;
   if(chIndex < 0) chIndex = 0;
   if(chIndex >= c.chapters.length) chIndex = c.chapters.length - 1;
-  $('#mysticHome').style.display='none';
-  const box = $('#mysticDetail'); box.style.display='block';
+  $('#'+ctx.home).style.display='none';
+  const box = $('#'+ctx.detail); box.style.display='block';
   const hasContent = chIndex < c.chapters.length;
   const ch = hasContent ? c.chapters[chIndex] : null;
   const pracState = st.practice && st.practice['ch'+chIndex];
@@ -895,10 +921,20 @@ function openSubject(id, chIndex){
           这一章的内容还在补充中。你可以先复习前面的章节，或回到 WorkBuddy 对话里告诉我：
           「把${c.name}第${chIndex+1}章也写详细」，我会尽快补齐。</p>
         </div>`}
+        ${ch.video ? `
+        <div class="card video-card">
+          <h2>🎬 本章绘画视频教程</h2>
+          <div class="hint">点击下方按钮，在新标签观看精选的真实绘画教学视频（${ch.video.platform}）</div>
+          <div class="video-box">
+            <div class="video-title">${ch.video.title}</div>
+            <a class="btn primary" href="${ch.video.url}" target="_blank" rel="noopener">▶ 观看视频绘画教程</a>
+            <div class="video-note">提示：移动端可直接在视频平台内观看，跟着练画。</div>
+          </div>
+        </div>` : ''}
         <div class="card">
           <h2>📝 学习笔记 / 哪里没明白</h2>
-          <div class="hint">记下疑问，会汇总到「阴阳分析」，下次直接问我</div>
-          <textarea class="note-area" id="noteInput" placeholder="例如：老阴老阳为什么会变？三背为什么是阳动？"></textarea>
+          <div class="hint">记下疑问，会汇总到「${ctx.noteCtx}」，下次直接问我</div>
+          <textarea class="note-area" id="noteInput" placeholder="例如：这一章哪里没看懂？想让我再讲细一点？"></textarea>
           <button class="btn" id="noteSave" style="margin-top:8px">保存笔记</button>
           <div id="subjNotes">${(st.notes||[]).slice().reverse().map(n=>`
             <div class="note-item"><div class="n-meta">${n.date} · ${n.ch}</div>${n.text}</div>`).join('')}</div>
@@ -906,38 +942,39 @@ function openSubject(id, chIndex){
       </div>
     </div>`;
 
-  $('#backHome').onclick = ()=>{ box.style.display='none'; $('#mysticHome').style.display='block'; renderSubjects(); };
-  box.querySelectorAll('.open-ch').forEach(el=>{ el.onclick = ()=>openSubject(id, +el.dataset.ch); });
+  box.querySelector('#backHome').onclick = ()=>{ box.style.display='none'; $('#'+ctx.home).style.display='block'; renderSubjects(ctx); };
+  box.querySelectorAll('.open-ch').forEach(el=>{ el.onclick = ()=>openSubject(ctx, id, +el.dataset.ch); });
 
   if(hasContent && ch.practice && ch.practice.length){
-    $('#quizSubmit').onclick = ()=>{
+    box.querySelector('#quizSubmit').onclick = ()=>{
       let score = 0, answered = 0;
       ch.practice.forEach((q,qi)=>{
         const sel = box.querySelector(`input[name=qz${qi}]:checked`);
-        const exEl = $('#qex-'+qi);
+        const exEl = box.querySelector('#qex-'+qi);
         if(sel){ answered++;
           const ok = +sel.value===q.answer; if(ok) score++;
           exEl.classList.add('show');
           exEl.innerHTML = (ok?'✅ 回答正确！':'❌ 回答错误。正确答案：'+String.fromCharCode(65+q.answer))+'<br>'+q.explain;
         }
       });
-      if(answered < ch.practice.length){ $('#quizResult').textContent='还有题目没做完哦'; $('#quizResult').style.color='var(--red)'; return; }
+      if(answered < ch.practice.length){ box.querySelector('#quizResult').textContent='还有题目没做完哦'; box.querySelector('#quizResult').style.color='var(--red)'; return; }
       st.practice['ch'+chIndex] = {score:score, date:TODAY};
       saveSubj(id, st);
-      $('#quizResult').innerHTML = score>=3
+      box.querySelector('#quizResult').innerHTML = score>=3
         ? `🎉 练习完成！得分 ${score}/4，已标记「已巩固」✅ 错的可看解析，回头想再练也随时能重做。`
         : `✅ 已自查完成，得分 ${score}/4。做错的看上面的解析搞懂即可——练习不卡关，想重做点按钮再来一遍。`;
-      $('#quizResult').style.color = 'var(--green)';
+      box.querySelector('#quizResult').style.color = 'var(--green)';
     };
   } else if(hasContent){
     // 无练习的参考模块：打开即视为已巩固
     st.practice['ch'+chIndex] = {score:-1, date:TODAY};
     saveSubj(id, st);
   }
-  $('#noteSave').onclick = ()=>{
-    const t = $('#noteInput').value.trim(); if(!t) return;
+  const noteSaveEl = box.querySelector('#noteSave');
+  if(noteSaveEl) noteSaveEl.onclick = ()=>{
+    const t = box.querySelector('#noteInput').value.trim(); if(!t) return;
     st.notes.push({date:TODAY, ch: hasContent?ch.title:c.syllabus[chIndex], text:t});
-    saveSubj(id, st); openSubject(id, chIndex);
+    saveSubj(id, st); openSubject(ctx, id, chIndex);
   };
   if(ch && ch.tool && ch.tool.init && window[ch.tool.init]) window[ch.tool.init]();
 }
@@ -1078,6 +1115,9 @@ function renderDataView(){
   const mys = LS.get('wb_mystic', {});
   let mysDone = 0, mysNotes = 0;
   Object.values(mys).forEach(s=>{ if(s&&s.practice) mysDone += Object.keys(s.practice).length; if(s&&s.notes) mysNotes += s.notes.length; });
+  const drw = LS.get('wb_draw', {});
+  let drwDone = 0, drwNotes = 0;
+  Object.values(drw).forEach(s=>{ if(s&&s.practice) drwDone += Object.keys(s.practice).length; if(s&&s.notes) drwNotes += s.notes.length; });
   const allKeys = LS.entries(WB_BACKUP_PREFIX);
   const dataItems = Object.keys(allKeys).length;
   $('#dataOverview').innerHTML = `
@@ -1088,7 +1128,9 @@ function renderDataView(){
     <div class="ov-row"><span>语法练习次数</span><b>${totalGram} 次</b></div>
     <div class="ov-row"><span>语法专题已练</span><b>${gramTopics} 个</b></div>
     <div class="ov-row"><span>玄学已巩固章节</span><b>${mysDone} 章</b></div>
-    <div class="ov-row"><span>玄学疑问笔记</span><b>${mysNotes} 条</b></div>`;
+    <div class="ov-row"><span>玄学疑问笔记</span><b>${mysNotes} 条</b></div>
+    <div class="ov-row"><span>画画已巩固章节</span><b>${drwDone} 章</b></div>
+    <div class="ov-row"><span>画画疑问笔记</span><b>${drwNotes} 条</b></div>`;
 }
 
 function exportData(){
