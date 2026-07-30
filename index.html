@@ -208,25 +208,27 @@
   /* 金融分析：重点 / 三段 / 订单流 */
   .fin-pane{display:none}
   .fin-pane.show{display:block;animation:fade .25s ease}
-  .focus-item{border:1px solid #e6ebf3;border-radius:12px;padding:14px 16px;margin:12px 0;background:#fff}
-  .focus-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-  .focus-name{font-size:17px;font-weight:800;color:#2b3346}
-  .focus-val{font-size:15px;font-weight:800;color:#1f6feb;margin-left:auto}
-  .focus-trend{font-size:13.5px;line-height:1.8;color:#3c4354;margin:8px 0}
-  .focus-win{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:6px}
-  .fw{border:1px dashed #d9deea;border-radius:10px;padding:9px 11px;background:#f9fbfe}
-  .fw-l{font-size:12px;color:#6b7384;font-weight:700}
-  .fw-d{display:inline-block;font-size:12.5px;font-weight:800;padding:1px 9px;border-radius:12px;margin:3px 0}
-  .fw-n{font-size:12.5px;color:#3c4354;line-height:1.6;margin-top:4px}
+  .fin-ov-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:6px 0}
+  .fin-ov{padding:14px 16px}
+  .ov-tt{font-size:14.5px;font-weight:800;color:#2b3346;margin-bottom:10px;padding-left:9px;border-left:4px solid #2f6fed}
+  .ov-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .ov-mini{border:1px solid #e6ebf3;border-radius:11px;padding:11px 12px;background:#fff}
+  .ov-m-head{display:flex;align-items:center;gap:6px}
+  .ov-m-name{font-size:13.5px;font-weight:800;color:#2b3346}
+  .ov-m-val{font-size:13px;font-weight:800;color:#1f6feb;margin:5px 0 7px}
+  .ov-m-win{display:flex;flex-wrap:wrap;gap:5px}
+  .fw-tag{font-size:11px;font-weight:800;padding:1px 7px;border-radius:10px}
+  .ov-m-note{font-size:11.5px;line-height:1.6;color:#5b6474;margin-top:7px}
+  .win-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .win-mini{border:1px solid #e3e8f0;border-radius:11px;padding:11px 12px;background:#fff}
+  .win-m-h{font-size:13px;font-weight:800;color:#2b3346;margin-bottom:5px}
+  .win-sum{font-size:12px;line-height:1.7;color:#3c4354}
+  .win-buy{margin-top:7px;font-size:12px;color:#1a8a4f;line-height:1.6;background:#eefcf3;border:1px solid #c5ecd3;border-radius:8px;padding:6px 8px}
+  .win-buy b{color:#1a8a4f}
+  .win-note{margin-top:6px;font-size:11.5px;line-height:1.6;color:#b45309}
   .dir-up{background:#e8f7ef;color:#1a8a4f}
   .dir-down{background:#fdecec;color:#c0392b}
   .dir-flat{background:#eef0f6;color:#5b6474}
-  .win-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
-  .win-card{border:1px solid #e3e8f0;border-radius:12px;padding:13px 15px;background:#fff}
-  .win-h{font-size:14.5px;font-weight:800;color:#2b3346;margin-bottom:6px}
-  .win-sum{font-size:13px;line-height:1.8;color:#3c4354}
-  .win-buy{margin-top:8px;font-size:13px;color:#1a8a4f;line-height:1.7;background:#eefcf3;border:1px solid #c5ecd3;border-radius:8px;padding:7px 10px}
-  .win-buy b{color:#1a8a4f}
   .of-card{background:#f7f9fc;border:1px solid #e6ebf3;border-radius:10px;padding:12px 14px;margin-top:6px}
   .of-sum{font-size:13.5px;line-height:1.85;color:#3c4354;margin-bottom:8px}
   .of-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:9px}
@@ -235,7 +237,7 @@
   .of-v{font-size:13.5px;font-weight:700;color:#2b3346;margin:3px 0}
   .of-tag{display:inline-block;font-size:11.5px;font-weight:800;padding:1px 8px;border-radius:10px}
   .of-flow{margin-top:9px;font-size:13px;line-height:1.8;color:#3c4354;background:#fff7ed;border:1px solid #ffe0b0;border-radius:8px;padding:7px 10px}
-  @media(max-width:680px){.focus-win,.win-row{grid-template-columns:1fr}}
+  @media(max-width:680px){.fin-ov-grid{grid-template-columns:1fr}.ov-strip,.win-strip{grid-template-columns:1fr}.gold-grid{grid-template-columns:repeat(2,1fr)}.hot-list{grid-template-columns:1fr}}
   /* 英语学习分析 */
   .ana-stat-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(132px,1fr));gap:12px;margin-bottom:18px}
   .ana-stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 10px;box-shadow:var(--shadow);text-align:center}
@@ -249,6 +251,13 @@
   .pbar-inline{display:inline-block;width:88px;height:7px;background:#eef0f6;border-radius:6px;overflow:hidden;vertical-align:middle;margin-right:6px}
   .pbar-inline i{display:block;height:100%;background:var(--green);border-radius:6px}
   .ana-tip{background:#f0f6ff;border:1px solid #d4e6ff;color:#1b4f9c;border-radius:10px;padding:11px 14px;font-size:13.5px;line-height:1.7}
+  /* 英语顶部今日分析 */
+  .eng-top-ana{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:10px 0 2px}
+  .eta-item{background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 6px;text-align:center;box-shadow:var(--shadow)}
+  .eta-ic{font-size:21px;display:block;line-height:1.1}
+  .eta-l{font-size:11.5px;color:var(--sub);display:block;margin:4px 0 3px}
+  .eta-v{font-size:15px;font-weight:800;color:var(--blue)}
+  @media(max-width:680px){.eng-top-ana{grid-template-columns:repeat(3,1fr)}}
 </style>
 </head>
 <body>
@@ -272,6 +281,8 @@
   <div class="view" id="view-english">
     <h1 class="page">英语 · 雅思每日学习</h1>
     <div class="page-sub" id="engSub"></div>
+
+    <div class="eng-top-ana" id="engTopAna"></div>
 
     <div class="subnav" id="engSubnav">
       <div class="subnav-item active" data-eng="article">📰 雅思文章</div>
@@ -360,7 +371,7 @@
   <!-- ============ 金融分析 ============ -->
   <div class="view" id="view-finAna">
     <h1 class="page">💰 金融分析 · 每日三段</h1>
-    <div class="page-sub">重点：黄金 · 恒指 · 纳指 ｜ 点上方「股票 / 期货 / 基金 / 外汇」切换查看 ｜ 含「三段趋势预测 + 买什么」与订单流/成交量分析 ｜ 综合新浪新闻、通达信、同花顺等 ｜ 每日 6:00 / 14:00 / 20:00 更新 ｜ 仅供参考，非投资建议</div>
+    <div class="page-sub">点上方「股票 / 期货 / 基金 / 外汇」切换查看详细内容 ｜ 上方重点：黄金 · 恒指 · 纳指 + 三段趋势预测「买什么」+ 订单流/成交量 ｜ 综合新浪/通达信/同花顺 ｜ 每日 6:00 / 14:00 / 20:00 更新 ｜ 仅供参考，非投资建议</div>
     <div class="subnav" id="finSubnav">
       <div class="subnav-item active" data-fin="stocks">📈 股票</div>
       <div class="subnav-item" data-fin="futures">📊 期货</div>
@@ -369,20 +380,19 @@
     </div>
     <div id="finBadge"></div>
     <div class="fin-summary" id="finSummary"></div>
-    <div class="card" id="focusCard">
-      <h2>🌟 今日重点：黄金 · 恒指 · 纳指</h2>
-      <div class="hint">三个核心标的当前价位、综合信号，以及「早 7-10 / 午 14:30-16 / 夜 20:30-23」三段的方向研判</div>
-      <div id="focusBox"></div>
-    </div>
-    <div class="card">
-      <h2>⏱️ 三段趋势预测 · 买什么</h2>
-      <div class="hint">分别对应 A股/港股/美股 三个活跃时段，给出该时段的方向与可关注标的</div>
-      <div id="windowBox"></div>
+    <div class="fin-ov-grid">
+      <div class="card fin-ov">
+        <div class="ov-tt">🌟 今日重点 · 黄金 / 恒指 / 纳指</div>
+        <div class="ov-strip" id="focusBox"></div>
+      </div>
+      <div class="card fin-ov">
+        <div class="ov-tt">⏱️ 三段趋势预测 · 买什么</div>
+        <div class="win-strip" id="windowBox"></div>
+      </div>
     </div>
     <div id="finPaneBox"></div>
-    <div class="card">
-      <h2>📚 信息来源</h2>
-      <div class="hint">含 新浪新闻、通达信、同花顺、金投网、世界黄金协会(WGC)、中信证券/期货、中金外汇、新华财经等公开渠道</div>
+    <div class="card" style="padding:12px 16px">
+      <div class="ov-tt" style="margin-bottom:6px">📚 信息来源</div>
       <div id="srcBox"></div>
     </div>
     <div class="fin-disc" id="finDisc"></div>
@@ -480,6 +490,7 @@ function show(v){
   document.querySelectorAll('.view').forEach(e=>e.classList.remove('show'));
   $('#view-'+v).classList.add('show');
   if(v==='finAna') renderFinAna();
+  if(v==='english') renderEngTopAna();
   if(v==='data') renderDataView();
 }
 
@@ -579,7 +590,7 @@ function initEnglish(){
   };
   readBtn.onclick = ()=>{ saveRec({read:true}); refreshRead(); };
   refreshRead();
-  renderWords(); renderGrammarHome(); renderEngAnalysis();
+  renderWords(); renderGrammarHome(); renderEngAnalysis(); renderEngTopAna();
   const bg0=$('#bGram'); if(bg0){ const r=records()[TODAY]; bg0.textContent=((r&&r.gramSessions)||0)+'次'; }
 }
 /* ================= 英语学习分析 ================= */
@@ -633,6 +644,25 @@ function renderEngAnalysis(){
     '<div class="card" style="padding:12px 16px">'+(tlist || '<div class="fin-empty">还没练过语法，去「语法自学」做一套吧。</div>')+'</div>'+
     '<div class="ana-h">💡 小建议</div>'+
     '<div class="ana-tip">'+advice+'</div>';
+}
+/* 英语顶部：带图标的今日学习分析概览 */
+function renderEngTopAna(){
+  const el = document.getElementById('engTopAna'); if(!el) return;
+  const rec = LS.get('wb_eng_records', {});
+  const today = rec[TODAY] || {};
+  const dates = Object.keys(rec).sort();
+  const active = d => { const r=rec[d]; return r && ((r.words||0)+(r.gramSessions||0)+(r.read?1:0)>0); };
+  let streak=0, cur=new Date();
+  for(let i=0;i<400;i++){ const ds=cur.toISOString().slice(0,10); if(active(ds)) streak++; else if(i>0) break; cur.setDate(cur.getDate()-1); }
+  const totalW = dates.reduce((n,d)=>n+((rec[d]&&rec[d].words)||0),0);
+  const items = [
+    ['🔥','连续打卡', streak+' 天'],
+    ['🔤','今日单词', (today.words||0)+' / 30'],
+    ['📰','今日阅读', today.read?'已读 ✓':'未读'],
+    ['✏️','语法练习', (today.gramSessions||0)+' 次'],
+    ['📚','累计背词', totalW+' 个'],
+  ];
+  el.innerHTML = items.map(function(it){ return '<div class="eta-item"><span class="eta-ic">'+it[0]+'</span><span class="eta-l">'+it[1]+'</span><b class="eta-v">'+it[2]+'</b></div>'; }).join('');
 }
 function renderWords(){
   const done = new Set(LS.get('wb_words_'+TODAY, []));
@@ -921,7 +951,7 @@ function renderFinAna(){
   const sm = document.getElementById('finSummary');
   if(sm) sm.innerHTML = FIN.summary ? ('📌 '+FIN.summary) : '';
 
-  // 重点：黄金 / 恒指 / 纳指
+  // 重点：黄金 / 恒指 / 纳指（紧凑）
   const fb = document.getElementById('focusBox');
   const focus = FIN.focus || {};
   const focusList = [focus.gold, focus.hsi, focus.ixic].filter(Boolean);
@@ -930,37 +960,37 @@ function renderFinAna(){
     else {
       fb.innerHTML = focusList.map(function(f){
         const w = f.windows || {};
-        const winHtml = [['早 7-10', w.morning],['午 14:30-16', w.afternoon],['夜 20:30-23', w.evening]].map(function(p){
+        const winTags = [['早', w.morning],['午', w.afternoon],['夜', w.evening]].map(function(p){
           const d = p[1] || {}; const dir = d.dir || 'flat';
-          return '<div class="fw"><div class="fw-l">'+p[0]+'</div><span class="fw-d '+dirClass(dir)+'">'+dirText(dir)+'</span><div class="fw-n">'+(d.note||'—')+'</div></div>';
+          return '<span class="fw-tag '+dirClass(dir)+'">'+p[0]+' '+dirText(dir)+'</span>';
         }).join('');
-        return '<div class="focus-item">'+
-          '<div class="focus-head"><span class="focus-name">'+f.name+'</span> <span class="sig '+sigClass(f.signal)+'">'+(f.signal||'—')+'</span> <span class="focus-val">'+(f.value||'—')+'</span></div>'+
-          (f.trend?('<div class="focus-trend">📈 '+(f.trend||'')+'</div>'):'')+
-          '<div class="focus-win">'+winHtml+'</div>'+
-          (f.analysis?('<div class="focus-trend">'+f.analysis+'</div>'):'')+
+        return '<div class="ov-mini">'+
+          '<div class="ov-m-head"><span class="ov-m-name">'+f.name+'</span> <span class="sig '+sigClass(f.signal)+'">'+f.signal+'</span></div>'+
+          '<div class="ov-m-val">'+(f.value||'—')+'</div>'+
+          '<div class="ov-m-win">'+winTags+'</div>'+
+          (f.analysis?('<div class="ov-m-note">'+f.analysis+'</div>'):'')+
         '</div>';
       }).join('');
     }
   }
 
-  // 三段趋势预测
+  // 三段趋势预测（紧凑）
   const wb = document.getElementById('windowBox');
   const wins = FIN.windows || {};
-  const winOrder = [['morning','🌅 早盘 07:00–10:00'],['afternoon','☀️ 午盘 14:30–16:00'],['evening','🌙 夜盘 20:30–23:00']];
+  const winOrder = [['morning','🌅 早盘 07–10'],['afternoon','☀️ 午盘 14:30–16'],['evening','🌙 夜盘 20:30–23']];
   if(wb){
     const has = winOrder.some(function(p){ return wins[p[0]]; });
     if(!has){ wb.innerHTML = '<div class="fin-empty">三段预测缺失。</div>'; }
     else {
-      wb.innerHTML = '<div class="win-row">'+winOrder.map(function(p){
+      wb.innerHTML = winOrder.map(function(p){
         const w = wins[p[0]]; if(!w) return '';
         const buys = (w.buy||[]).map(function(x){ return '<span class="chip">'+x+'</span>'; }).join('') || '—';
-        return '<div class="win-card"><div class="win-h">'+p[1]+'</div>'+
+        return '<div class="win-mini"><div class="win-m-h">'+p[1]+'</div>'+
           '<div class="win-sum">'+(w.summary||'—')+'</div>'+
-          '<div class="win-buy"><b>买什么：</b><br>'+buys+'</div>'+
-          (w.note?('<div class="win-sum" style="margin-top:8px;color:#b45309">⚠️ '+(w.note||'')+'</div>'):'')+
+          '<div class="win-buy"><b>买什么：</b>'+buys+'</div>'+
+          (w.note?('<div class="win-note">⚠️ '+(w.note||'')+'</div>'):'')+
         '</div>';
-      }).join('')+'</div>';
+      }).join('');
     }
   }
 
