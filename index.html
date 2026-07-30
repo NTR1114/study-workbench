@@ -280,6 +280,32 @@
   .video-box{text-align:center;padding:6px 0}
   .video-title{font-size:15px;font-weight:800;color:#b34700;margin:6px 0 12px}
   .video-note{font-size:12.5px;color:#8a8f9c;margin-top:10px}
+  /* 信息差脚本 */
+  .gap-featured{background:linear-gradient(135deg,#fff7ed,#fff);border:1.5px solid #ffb877;border-radius:14px;padding:16px 18px;margin:6px 0 18px;box-shadow:0 4px 14px rgba(255,150,60,.12)}
+  .gf-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:8px}
+  .gf-badge{background:#ff7a18;color:#fff;font-weight:800;font-size:12.5px;padding:3px 11px;border-radius:20px}
+  .gf-type{font-size:13px;font-weight:700;color:#c0560a;background:#ffe9d6;padding:2px 10px;border-radius:20px}
+  .gf-date{font-size:12px;color:#9aa1b0;margin-left:auto}
+  .gf-title{font-size:18px;font-weight:800;color:#2b3346;line-height:1.4;margin-bottom:8px}
+  .gf-gap{font-size:14px;line-height:1.85;color:#3c4354}
+  .gf-details{margin-top:10px}
+  .gf-details summary{cursor:pointer;font-size:13.5px;font-weight:700;color:#d2630c;padding:6px 0;user-select:none}
+  .gf-script{background:#f3f7ff;border:1px solid #d8e6ff;border-radius:9px;padding:10px 12px;font-size:13.5px;line-height:1.9;color:#34415c;margin-bottom:10px}
+  .gf-steps{font-size:13.5px;line-height:1.8;color:#3c4354;margin-bottom:8px}
+  .gf-steps ol{margin:6px 0 0;padding-left:22px}
+  .gf-src{font-size:12.5px;color:#8a8f9c;margin-top:4px}
+  .gap-card{border:1px solid #e7ebf3;border-radius:12px;margin-bottom:12px;overflow:hidden;background:#fff}
+  .gc-head{display:flex;align-items:center;gap:10px;padding:13px 15px;cursor:pointer;transition:.15s}
+  .gc-head:hover{background:#f6f9ff}
+  .gc-type{flex:0 0 auto;font-size:12.5px;font-weight:700;color:#fff;background:var(--blue);padding:2px 9px;border-radius:20px;white-space:nowrap}
+  .gc-title{flex:1 1 auto;font-size:14.5px;font-weight:700;color:#2b3346;line-height:1.4}
+  .gc-date{flex:0 0 auto;font-size:12px;color:#9aa1b0}
+  .gc-body{padding:4px 15px 15px;border-top:1px dashed #e7ebf3}
+  .gc-gap,.gc-script,.gc-steps,.gc-src{font-size:13.5px;line-height:1.85;color:#3c4354;margin-top:10px}
+  .gc-script{background:#f3f7ff;border:1px solid #d8e6ff;border-radius:9px;padding:10px 12px;color:#34415c}
+  .gc-steps ol{margin:6px 0 0;padding-left:22px}
+  .gc-src{color:#8a8f9c;font-size:12.5px}
+  @media(max-width:680px){.gc-title{font-size:13.5px}.gf-title{font-size:16px}}
 </style>
 </head>
 <body>
@@ -290,6 +316,7 @@
     <div class="nav-item" data-v="english">🇬🇧 英语 · 雅思</div>
     <div class="nav-item" data-v="mystic">☯️ 阴阳 · 玄学</div>
     <div class="nav-item" data-v="draw">🎨 绘画学院</div>
+    <div class="nav-item" data-v="script">📢 信息差脚本</div>
   </div>
   <div class="nav-group">
     <div class="nav-title">记 录</div>
@@ -401,6 +428,22 @@
     <div id="mysticDetailDraw" style="display:none"></div>
   </div>
 
+  <!-- ============ 信息差脚本 ============ -->
+  <div class="view" id="view-script">
+    <h1 class="page">📢 信息差脚本 · 每日一条</h1>
+    <div class="page-sub">帮你做信息差博主：每天一条「可实操」的信息差 + 口播话术，按类型归档成合集 · 每天早上自动新增，已发布可标记</div>
+
+    <div id="gapFeatured"></div>
+
+    <div class="subnav" id="gapFilter" style="flex-wrap:wrap"></div>
+
+    <div class="card">
+      <h2>📚 信息差合集 <span class="tag" id="gapCountTag"></span></h2>
+      <div class="hint">点击卡片展开：信息差正文 → 口播话术 → 实操步骤 → 来源；右下角可标记「已发布」</div>
+      <div id="gapList"></div>
+    </div>
+  </div>
+
   <!-- ============ 金融分析 ============ -->
   <div class="view" id="view-finAna">
     <h1 class="page">💰 金融分析 · 每日三段</h1>
@@ -459,6 +502,7 @@
 <script src="data/draw_courses.js"></script>
 <script src="data/grammar_course.js"></script>
 <script src="data/finance_daily.js"></script>
+<script src="data/info_gap.js"></script>
 <script>
 /* ================= 通用 ================= */
 const D = window.ENGLISH_DAILY, COURSES = window.MYSTIC_COURSES;
@@ -541,6 +585,7 @@ function show(v){
   if(v==='data') renderDataView();
   if(v==='mystic') renderSubjects(DEF_CTX);
   if(v==='draw') renderSubjects(DRAW_CTX);
+  if(v==='script') renderScript();
 }
 
 /* ================= 语音 ================= */
@@ -1121,6 +1166,9 @@ function renderDataView(){
   const drw = LS.get('wb_draw', {});
   let drwDone = 0, drwNotes = 0;
   Object.values(drw).forEach(s=>{ if(s&&s.practice) drwDone += Object.keys(s.practice).length; if(s&&s.notes) drwNotes += s.notes.length; });
+  const gapAll = (window.INFO_GAPS||[]);
+  const gapPubMap = LS.get('wb_gap_pub', {});
+  const gapPubN = Object.values(gapPubMap).filter(Boolean).length;
   const allKeys = LS.entries(WB_BACKUP_PREFIX);
   const dataItems = Object.keys(allKeys).length;
   $('#dataOverview').innerHTML = `
@@ -1133,7 +1181,8 @@ function renderDataView(){
     <div class="ov-row"><span>玄学已巩固章节</span><b>${mysDone} 章</b></div>
     <div class="ov-row"><span>玄学疑问笔记</span><b>${mysNotes} 条</b></div>
     <div class="ov-row"><span>绘画学院已巩固章节</span><b>${drwDone} 章</b></div>
-    <div class="ov-row"><span>绘画学院疑问笔记</span><b>${drwNotes} 条</b></div>`;
+    <div class="ov-row"><span>绘画学院疑问笔记</span><b>${drwNotes} 条</b></div>
+    <div class="ov-row"><span>信息差合集</span><b>${gapAll.length} 条（已发布 ${gapPubN}）</b></div>`;
 }
 
 function exportData(){
@@ -1184,6 +1233,80 @@ function importData(file){
 $('#btnExport').onclick = exportData;
 $('#btnImportPick').onclick = ()=> $('#fileImport').click();
 $('#fileImport').onchange = ev=>{ const f = ev.target.files[0]; if(f) importData(f); ev.target.value=''; };
+
+/* ================= 信息差脚本 ================= */
+const GAP_TYPES = ["副业搞钱","省钱羊毛","工具神器","规则流量","政策补贴","冷门资源","认知思维","健康生活"];
+const GAP_EMOJI = {"副业搞钱":"💰","省钱羊毛":"🧧","工具神器":"🛠️","规则流量":"📡","政策补贴":"🏛️","冷门资源":"📚","认知思维":"🧠","健康生活":"💊"};
+let gapFilter = "全部";
+const GAP_PUB = 'wb_gap_pub';
+function gapPublished(){ return LS.get(GAP_PUB, {}); }
+function toggleGapPub(id){
+  const m = gapPublished(); m[id] = !m[id]; LS.set(GAP_PUB, m); renderScript();
+}
+function toggleGapOpen(id){
+  const el = document.getElementById('gc-'+id);
+  if(el) el.style.display = el.style.display==='none' ? 'block' : 'none';
+}
+function renderScript(){
+  const all = (window.INFO_GAPS||[]).slice();
+  const pub = gapPublished();
+  const counts = {};
+  all.forEach(g=> counts[g.type] = (counts[g.type]||0)+1);
+  const types = GAP_TYPES.filter(t=>counts[t]);
+  const chips = ['全部'].concat(types);
+  $('#gapFilter').innerHTML = chips.map(t=>{
+    const n = t==='全部' ? all.length : counts[t];
+    const label = t==='全部' ? '全部' : (GAP_EMOJI[t]+' '+t);
+    return `<div class="subnav-item ${gapFilter===t?'active':''}" data-gt="${t}">${label} <span class="s-badge">${n}</span></div>`;
+  }).join('');
+  $('#gapFilter').querySelectorAll('.subnav-item').forEach(el=>{
+    el.onclick = ()=>{ gapFilter = el.dataset.gt; renderScript(); };
+  });
+  const list = gapFilter==='全部' ? all : all.filter(g=>g.type===gapFilter);
+  const pubN = Object.values(pub).filter(Boolean).length;
+  $('#gapCountTag').textContent = '共 '+all.length+' 条 · 已发布 '+pubN+' 条';
+
+  // 今日信息差（仅「全部」时显示，避免与列表重复）
+  if(gapFilter==='全部' && all[0]){
+    const f = all[0];
+    $('#gapFeatured').innerHTML = `
+      <div class="gap-featured">
+        <div class="gf-head">
+          <span class="gf-badge">🌟 今日信息差</span>
+          <span class="gf-type">${GAP_EMOJI[f.type]} ${f.type}</span>
+          <span class="gf-date">${f.date}</span>
+        </div>
+        <div class="gf-title">${f.title}</div>
+        <div class="gf-gap">${f.gap}</div>
+        <details class="gf-details"><summary>🎤 口播话术 / 实操步骤 / 来源</summary>
+          <div class="gf-script">${f.script}</div>
+          <div class="gf-steps"><b>实操步骤：</b><ol>${f.steps.map(s=>`<li>${s}</li>`).join('')}</ol></div>
+          <div class="gf-src">📎 来源：${f.source}</div>
+        </details>
+      </div>`;
+  } else {
+    $('#gapFeatured').innerHTML = '';
+  }
+
+  $('#gapList').innerHTML = list.map(g=>{
+    const isPub = !!pub[g.id];
+    return `
+    <div class="gap-card">
+      <div class="gc-head" onclick="toggleGapOpen('${g.id}')">
+        <span class="gc-type">${GAP_EMOJI[g.type]} ${g.type}</span>
+        <span class="gc-title">${g.title}</span>
+        <span class="gc-date">${g.date}</span>
+      </div>
+      <div class="gc-body" id="gc-${g.id}" style="display:none">
+        <div class="gc-gap"><b>💡 信息差：</b>${g.gap}</div>
+        <div class="gc-script"><b>🎤 口播话术：</b>${g.script}</div>
+        <div class="gc-steps"><b>✅ 实操步骤：</b><ol>${g.steps.map(s=>`<li>${s}</li>`).join('')}</ol></div>
+        <div class="gc-src">📎 来源：${g.source}</div>
+        <button class="btn ${isPub?'primary':''}" onclick="toggleGapPub('${g.id}')">${isPub?'✓ 已发布（点取消）':'标记已发布'}</button>
+      </div>
+    </div>`;
+  }).join('');
+}
 
 /* ================= 启动 ================= */
 initEnglish();
