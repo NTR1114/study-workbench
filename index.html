@@ -251,13 +251,6 @@
   .pbar-inline{display:inline-block;width:88px;height:7px;background:#eef0f6;border-radius:6px;overflow:hidden;vertical-align:middle;margin-right:6px}
   .pbar-inline i{display:block;height:100%;background:var(--green);border-radius:6px}
   .ana-tip{background:#f0f6ff;border:1px solid #d4e6ff;color:#1b4f9c;border-radius:10px;padding:11px 14px;font-size:13.5px;line-height:1.7}
-  /* 英语顶部今日分析 */
-  .eng-top-ana{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:10px 0 2px}
-  .eta-item{background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 6px;text-align:center;box-shadow:var(--shadow)}
-  .eta-ic{font-size:21px;display:block;line-height:1.1}
-  .eta-l{font-size:11.5px;color:var(--sub);display:block;margin:4px 0 3px}
-  .eta-v{font-size:15px;font-weight:800;color:var(--blue)}
-  @media(max-width:680px){.eng-top-ana{grid-template-columns:repeat(3,1fr)}}
 </style>
 </head>
 <body>
@@ -281,8 +274,6 @@
   <div class="view" id="view-english">
     <h1 class="page">英语 · 雅思每日学习</h1>
     <div class="page-sub" id="engSub"></div>
-
-    <div class="eng-top-ana" id="engTopAna"></div>
 
     <div class="subnav" id="engSubnav">
       <div class="subnav-item active" data-eng="article">📰 雅思文章</div>
@@ -371,24 +362,19 @@
   <!-- ============ 金融分析 ============ -->
   <div class="view" id="view-finAna">
     <h1 class="page">💰 金融分析 · 每日三段</h1>
-    <div class="page-sub">点上方「股票 / 期货 / 基金 / 外汇」切换查看详细内容 ｜ 上方重点：黄金 · 恒指 · 纳指 + 三段趋势预测「买什么」+ 订单流/成交量 ｜ 综合新浪/通达信/同花顺 ｜ 每日 6:00 / 14:00 / 20:00 更新 ｜ 仅供参考，非投资建议</div>
+    <div class="page-sub">点上方按钮切换查看：🌟 黄金·恒指·纳指（重点+三段预测「买什么」）｜ 股票 / 期货 / 基金 / 外汇 各自详细分析（含最火标的、重点推荐 5 只、订单流/成交量）｜ 综合新浪/通达信/同花顺 ｜ 每日 6:00 / 14:00 / 20:00 更新 ｜ 仅供参考，非投资建议</div>
     <div class="subnav" id="finSubnav">
-      <div class="subnav-item active" data-fin="stocks">📈 股票</div>
+      <div class="subnav-item active" data-fin="focus">🌟 黄金·恒指·纳指</div>
+      <div class="subnav-item" data-fin="stocks">📈 股票</div>
       <div class="subnav-item" data-fin="futures">📊 期货</div>
       <div class="subnav-item" data-fin="funds">📦 基金</div>
       <div class="subnav-item" data-fin="forex">💱 外汇</div>
     </div>
     <div id="finBadge"></div>
     <div class="fin-summary" id="finSummary"></div>
-    <div class="fin-ov-grid">
-      <div class="card fin-ov">
-        <div class="ov-tt">🌟 今日重点 · 黄金 / 恒指 / 纳指</div>
-        <div class="ov-strip" id="focusBox"></div>
-      </div>
-      <div class="card fin-ov">
-        <div class="ov-tt">⏱️ 三段趋势预测 · 买什么</div>
-        <div class="win-strip" id="windowBox"></div>
-      </div>
+    <div class="fin-pane" id="fin-pane-focus">
+      <div class="card fin-ov"><div class="ov-tt">🌟 今日重点 · 黄金 / 恒指 / 纳指</div><div class="ov-strip" id="focusBox"></div></div>
+      <div class="card fin-ov"><div class="ov-tt">⏱️ 三段趋势预测 · 买什么</div><div class="win-strip" id="windowBox"></div></div>
     </div>
     <div id="finPaneBox"></div>
     <div class="card" style="padding:12px 16px">
@@ -474,8 +460,8 @@ document.querySelectorAll('#engSubnav .subnav-item').forEach(el=>{
     $('#eng-'+el.dataset.eng).classList.add('show');
   };
 });
-/* 金融分析四块子导航：点击切换显示，不一次性铺开 */
-let finTab = 'stocks';
+/* 金融分析子导航：点哪个按钮只显示对应内容（重点黄金·恒指·纳指 + 股/期/基/汇） */
+let finTab = 'focus';
 document.querySelectorAll('#finSubnav .subnav-item').forEach(el=>{
   el.onclick = ()=>{
     finTab = el.dataset.fin;
@@ -490,7 +476,6 @@ function show(v){
   document.querySelectorAll('.view').forEach(e=>e.classList.remove('show'));
   $('#view-'+v).classList.add('show');
   if(v==='finAna') renderFinAna();
-  if(v==='english') renderEngTopAna();
   if(v==='data') renderDataView();
 }
 
@@ -590,7 +575,7 @@ function initEnglish(){
   };
   readBtn.onclick = ()=>{ saveRec({read:true}); refreshRead(); };
   refreshRead();
-  renderWords(); renderGrammarHome(); renderEngAnalysis(); renderEngTopAna();
+  renderWords(); renderGrammarHome(); renderEngAnalysis();
   const bg0=$('#bGram'); if(bg0){ const r=records()[TODAY]; bg0.textContent=((r&&r.gramSessions)||0)+'次'; }
 }
 /* ================= 英语学习分析 ================= */
@@ -644,25 +629,6 @@ function renderEngAnalysis(){
     '<div class="card" style="padding:12px 16px">'+(tlist || '<div class="fin-empty">还没练过语法，去「语法自学」做一套吧。</div>')+'</div>'+
     '<div class="ana-h">💡 小建议</div>'+
     '<div class="ana-tip">'+advice+'</div>';
-}
-/* 英语顶部：带图标的今日学习分析概览 */
-function renderEngTopAna(){
-  const el = document.getElementById('engTopAna'); if(!el) return;
-  const rec = LS.get('wb_eng_records', {});
-  const today = rec[TODAY] || {};
-  const dates = Object.keys(rec).sort();
-  const active = d => { const r=rec[d]; return r && ((r.words||0)+(r.gramSessions||0)+(r.read?1:0)>0); };
-  let streak=0, cur=new Date();
-  for(let i=0;i<400;i++){ const ds=cur.toISOString().slice(0,10); if(active(ds)) streak++; else if(i>0) break; cur.setDate(cur.getDate()-1); }
-  const totalW = dates.reduce((n,d)=>n+((rec[d]&&rec[d].words)||0),0);
-  const items = [
-    ['🔥','连续打卡', streak+' 天'],
-    ['🔤','今日单词', (today.words||0)+' / 30'],
-    ['📰','今日阅读', today.read?'已读 ✓':'未读'],
-    ['✏️','语法练习', (today.gramSessions||0)+' 次'],
-    ['📚','累计背词', totalW+' 个'],
-  ];
-  el.innerHTML = items.map(function(it){ return '<div class="eta-item"><span class="eta-ic">'+it[0]+'</span><span class="eta-l">'+it[1]+'</span><b class="eta-v">'+it[2]+'</b></div>'; }).join('');
 }
 function renderWords(){
   const done = new Set(LS.get('wb_words_'+TODAY, []));
