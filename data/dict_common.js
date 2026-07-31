@@ -2863,5 +2863,1100 @@ window.DICT_COMMON = [
 "w": "astronomy",
 "pos": "n.",
 "cn": "天文学"
+},
+{
+"w": "before",
+"pos": "prep./adv.",
+"cn": "在…之前；以前"
+},
+{
+"w": "claim",
+"pos": "n./v.",
+"cn": "说法；声称，宣称"
+},
+{
+"w": "never",
+"pos": "adv.",
+"cn": "从不，从未"
+},
+{
+"w": "platforms",
+"pos": "n.",
+"cn": "平台（platform 的复数）"
+},
+{
+"w": "public",
+"pos": "adj./n.",
+"cn": "公众的；公众"
+},
+{
+"w": "readers",
+"pos": "n.",
+"cn": "读者（reader 的复数）"
+},
+{
+"w": "several",
+"pos": "adj.",
+"cn": "几个，若干"
+},
+{
+"w": "accept",
+"pos": "v.",
+"cn": "接受，认可"
+},
+{
+"w": "accounts",
+"pos": "n.",
+"cn": "账户，账号（account 的复数）"
+},
+{
+"w": "acted",
+"pos": "v.",
+"cn": "行动；充当（act 的过去式）"
+},
+{
+"w": "afterwards",
+"pos": "adv.",
+"cn": "之后，后来"
+},
+{
+"w": "agree",
+"pos": "v.",
+"cn": "同意；达成一致"
+},
+{
+"w": "almost",
+"pos": "adv.",
+"cn": "几乎，差不多"
+},
+{
+"w": "amplified",
+"pos": "v.",
+"cn": "放大，增强（amplify 的过去式）"
+},
+{
+"w": "announcements",
+"pos": "n.",
+"cn": "公告，宣告（announcement 的复数）"
+},
+{
+"w": "audience",
+"pos": "n.",
+"cn": "受众，观众"
+},
+{
+"w": "available",
+"pos": "adj.",
+"cn": "可获得的，可用的"
+},
+{
+"w": "back",
+"pos": "adv./n.",
+"cn": "回来；背部"
+},
+{
+"w": "basic",
+"pos": "adj.",
+"cn": "基本的，基础的"
+},
+{
+"w": "becomes",
+"pos": "v.",
+"cn": "变得，成为（become 的三单）"
+},
+{
+"w": "begun",
+"pos": "v.",
+"cn": "开始（begin 的过去分词）"
+},
+{
+"w": "beliefs",
+"pos": "n.",
+"cn": "信念，信仰（belief 的复数）"
+},
+{
+"w": "beyond",
+"pos": "prep.",
+"cn": "超出，在…之外"
+},
+{
+"w": "breakfast",
+"pos": "n.",
+"cn": "早餐"
+},
+{
+"w": "burden",
+"pos": "n.",
+"cn": "负担"
+},
+{
+"w": "campaigns",
+"pos": "n.",
+"cn": "运动，活动（campaign 的复数）"
+},
+{
+"w": "cases",
+"pos": "n.",
+"cn": "案例，情况（case 的复数）"
+},
+{
+"w": "charged",
+"pos": "adj./v.",
+"cn": "充满情绪的；充电（charge 的过去式）"
+},
+{
+"w": "cheapest",
+"pos": "adj.",
+"cn": "最便宜的（cheap 的最高级）"
+},
+{
+"w": "citizens",
+"pos": "n.",
+"cn": "公民（citizen 的复数）"
+},
+{
+"w": "claims",
+"pos": "n./v.",
+"cn": "说法；声称（claim 的复数/三单）"
+},
+{
+"w": "compete",
+"pos": "v.",
+"cn": "竞争，较量"
+},
+{
+"w": "complete",
+"pos": "adj./v.",
+"cn": "完整的；完成"
+},
+{
+"w": "confidence",
+"pos": "n.",
+"cn": "信心，信任"
+},
+{
+"w": "confirmation",
+"pos": "n.",
+"cn": "确认，证实"
+},
+{
+"w": "consequences",
+"pos": "n.",
+"cn": "后果，结果（consequence 的复数）"
+},
+{
+"w": "content",
+"pos": "n./adj.",
+"cn": "内容；满意的"
+},
+{
+"w": "correction",
+"pos": "n.",
+"cn": "更正，纠正"
+},
+{
+"w": "corrections",
+"pos": "n.",
+"cn": "更正（correction 的复数）"
+},
+{
+"w": "cost",
+"pos": "v./n.",
+"cn": "花费；代价"
+},
+{
+"w": "countries",
+"pos": "n.",
+"cn": "国家（country 的复数）"
+},
+{
+"w": "crises",
+"pos": "n.",
+"cn": "危机（crisis 的复数）"
+},
+{
+"w": "debate",
+"pos": "n./v.",
+"cn": "辩论，讨论"
+},
+{
+"w": "democratic",
+"pos": "adj.",
+"cn": "民主的"
+},
+{
+"w": "deserves",
+"pos": "v.",
+"cn": "值得（deserve 的三单）"
+},
+{
+"w": "difficult",
+"pos": "adj.",
+"cn": "困难的"
+},
+{
+"w": "discouraged",
+"pos": "v./adj.",
+"cn": "使泄气；气馁的（discourage 的过去式）"
+},
+{
+"w": "during",
+"pos": "prep.",
+"cn": "在…期间"
+},
+{
+"w": "elections",
+"pos": "n.",
+"cn": "选举（election 的复数）"
+},
+{
+"w": "emerging",
+"pos": "v./adj.",
+"cn": "浮现；新兴的（emerge 的现在分词）"
+},
+{
+"w": "emotionally",
+"pos": "adv.",
+"cn": "在情绪上，情感上"
+},
+{
+"w": "evidence",
+"pos": "n.",
+"cn": "证据"
+},
+{
+"w": "existing",
+"pos": "adj.",
+"cn": "现有的，已存在的"
+},
+{
+"w": "extend",
+"pos": "v.",
+"cn": "延伸，扩展"
+},
+{
+"w": "fact-checking",
+"pos": "n.",
+"cn": "事实核查"
+},
+{
+"w": "facts",
+"pos": "n.",
+"cn": "事实（fact 的复数）"
+},
+{
+"w": "fake",
+"pos": "adj./n.",
+"cn": "假的；赝品"
+},
+{
+"w": "falls",
+"pos": "v.",
+"cn": "落下；降临（fall 的三单）"
+},
+{
+"w": "false",
+"pos": "adj.",
+"cn": "错误的，假的"
+},
+{
+"w": "far",
+"pos": "adv./adj.",
+"cn": "远；远的"
+},
+{
+"w": "faster",
+"pos": "adv./adj.",
+"cn": "更快地（fast 的比较级）"
+},
+{
+"w": "financial",
+"pos": "adj.",
+"cn": "金融的，财政的"
+},
+{
+"w": "gradually",
+"pos": "adv.",
+"cn": "逐渐地"
+},
+{
+"w": "habit",
+"pos": "n.",
+"cn": "习惯"
+},
+{
+"w": "health",
+"pos": "n.",
+"cn": "健康"
+},
+{
+"w": "however",
+"pos": "adv./conj.",
+"cn": "然而，不过"
+},
+{
+"w": "identified",
+"pos": "v.",
+"cn": "识别，确认（identify 的过去式）"
+},
+{
+"w": "impossible",
+"pos": "adj.",
+"cn": "不可能的"
+},
+{
+"w": "impression",
+"pos": "n.",
+"cn": "印象"
+},
+{
+"w": "increasingly",
+"pos": "adv.",
+"cn": "日益，越来越多地"
+},
+{
+"w": "independent",
+"pos": "adj.",
+"cn": "独立的"
+},
+{
+"w": "information",
+"pos": "n.",
+"cn": "信息"
+},
+{
+"w": "introduced",
+"pos": "v.",
+"cn": "引入，提出（introduce 的过去式）"
+},
+{
+"w": "journalists",
+"pos": "n.",
+"cn": "记者（journalist 的复数）"
+},
+{
+"w": "judge",
+"pos": "v./n.",
+"cn": "判断；法官"
+},
+{
+"w": "labelling",
+"pos": "v.",
+"cn": "贴标签；标注（label 的现在分词）"
+},
+{
+"w": "lives",
+"pos": "n./v.",
+"cn": "生命（life 的复数）；居住（live 的三单）"
+},
+{
+"w": "long",
+"pos": "adj./adv.",
+"cn": "长的；长久地"
+},
+{
+"w": "longer",
+"pos": "adj./adv.",
+"cn": "更长的；更久地"
+},
+{
+"w": "lose",
+"pos": "v.",
+"cn": "失去，丢失"
+},
+{
+"w": "lunch",
+"pos": "n.",
+"cn": "午餐"
+},
+{
+"w": "makes",
+"pos": "v.",
+"cn": "使得，制作（make 的三单）"
+},
+{
+"w": "markets",
+"pos": "n.",
+"cn": "市场（market 的复数）"
+},
+{
+"w": "media",
+"pos": "n.",
+"cn": "媒体"
+},
+{
+"w": "memory",
+"pos": "n.",
+"cn": "记忆"
+},
+{
+"w": "millions",
+"pos": "n.",
+"cn": "数百万（million 的复数）"
+},
+{
+"w": "none",
+"pos": "pron.",
+"cn": "没有一个，毫无"
+},
+{
+"w": "operate",
+"pos": "v.",
+"cn": "运作，运营"
+},
+{
+"w": "ordinary",
+"pos": "adj.",
+"cn": "普通的，平凡的"
+},
+{
+"w": "organisations",
+"pos": "n.",
+"cn": "组织（organisation 的复数）"
+},
+{
+"w": "original",
+"pos": "adj./n.",
+"cn": "原来的；原件"
+},
+{
+"w": "pausing",
+"pos": "v.",
+"cn": "暂停（pause 的现在分词）"
+},
+{
+"w": "people",
+"pos": "n.",
+"cn": "人们，人民"
+},
+{
+"w": "perhaps",
+"pos": "adv.",
+"cn": "也许，可能"
+},
+{
+"w": "persists",
+"pos": "v.",
+"cn": "持续，存留（persist 的三单）"
+},
+{
+"w": "posted",
+"pos": "v.",
+"cn": "发布，张贴（post 的过去式）"
+},
+{
+"w": "posts",
+"pos": "n./v.",
+"cn": "帖子；发布（post 的复数/三单）"
+},
+{
+"w": "powerful",
+"pos": "adj.",
+"cn": "强大的，有力的"
+},
+{
+"w": "questioning",
+"pos": "v.",
+"cn": "质疑，提问（question 的现在分词）"
+},
+{
+"w": "quickly",
+"pos": "adv.",
+"cn": "快速地"
+},
+{
+"w": "quietly",
+"pos": "adv.",
+"cn": "安静地，悄然地"
+},
+{
+"w": "rarely",
+"pos": "adv.",
+"cn": "很少，难得"
+},
+{
+"w": "rather",
+"pos": "adv.",
+"cn": "宁可；相当"
+},
+{
+"w": "reach",
+"pos": "v./n.",
+"cn": "到达；影响范围"
+},
+{
+"w": "reaches",
+"pos": "v.",
+"cn": "到达（reach 的三单）"
+},
+{
+"w": "readily",
+"pos": "adv.",
+"cn": "乐意地，容易地"
+},
+{
+"w": "reality",
+"pos": "n.",
+"cn": "现实"
+},
+{
+"w": "reasons",
+"pos": "n.",
+"cn": "原因（reason 的复数）"
+},
+{
+"w": "recent",
+"pos": "adj.",
+"cn": "最近的，近来的"
+},
+{
+"w": "regions",
+"pos": "n.",
+"cn": "地区（region 的复数）"
+},
+{
+"w": "remains",
+"pos": "v.",
+"cn": "保持，仍然是（remain 的三单）"
+},
+{
+"w": "repeat",
+"pos": "v./n.",
+"cn": "重复"
+},
+{
+"w": "researchers",
+"pos": "n.",
+"cn": "研究者（researcher 的复数）"
+},
+{
+"w": "rest",
+"pos": "n./v.",
+"cn": "其余；休息"
+},
+{
+"w": "reward",
+"pos": "v./n.",
+"cn": "奖励，回报"
+},
+{
+"w": "same",
+"pos": "adj./pron.",
+"cn": "相同的，同样的"
+},
+{
+"w": "shaken",
+"pos": "v.",
+"cn": "震动，动摇（shake 的过去分词）"
+},
+{
+"w": "shareable",
+"pos": "adj.",
+"cn": "可分享的"
+},
+{
+"w": "shared",
+"pos": "v./adj.",
+"cn": "分享的（share 的过去式/分词）"
+},
+{
+"w": "sharing",
+"pos": "v.",
+"cn": "分享（share 的现在分词）"
+},
+{
+"w": "single",
+"pos": "adj.",
+"cn": "单一的，单个的"
+},
+{
+"w": "social",
+"pos": "adj.",
+"cn": "社会的，社交的"
+},
+{
+"w": "solutions",
+"pos": "n.",
+"cn": "解决方案（solution 的复数）"
+},
+{
+"w": "source",
+"pos": "n.",
+"cn": "来源，源头"
+},
+{
+"w": "spread",
+"pos": "v./n.",
+"cn": "传播，扩散"
+},
+{
+"w": "stories",
+"pos": "n.",
+"cn": "故事，报道（story 的复数）"
+},
+{
+"w": "struggle",
+"pos": "v./n.",
+"cn": "挣扎，努力"
+},
+{
+"w": "teaching",
+"pos": "v.",
+"cn": "教学（teach 的现在分词）"
+},
+{
+"w": "teenagers",
+"pos": "n.",
+"cn": "青少年（teenager 的复数）"
+},
+{
+"w": "tell",
+"pos": "v.",
+"cn": "辨别；告诉"
+},
+{
+"w": "though",
+"pos": "conj./adv.",
+"cn": "尽管；然而"
+},
+{
+"w": "travelled",
+"pos": "v.",
+"cn": "旅行（travel 的过去式）"
+},
+{
+"w": "treatments",
+"pos": "n.",
+"cn": "治疗，处理（treatment 的复数）"
+},
+{
+"w": "troubling",
+"pos": "adj.",
+"cn": "令人不安的（trouble 的现在分词）"
+},
+{
+"w": "trust",
+"pos": "n./v.",
+"cn": "信任"
+},
+{
+"w": "truth",
+"pos": "n.",
+"cn": "真相，事实"
+},
+{
+"w": "typically",
+"pos": "adv.",
+"cn": "通常，典型地"
+},
+{
+"w": "ultimately",
+"pos": "adv.",
+"cn": "最终，归根结底"
+},
+{
+"w": "unites",
+"pos": "v.",
+"cn": "团结，联合（unite 的三单）"
+},
+{
+"w": "used",
+"pos": "v./adj.",
+"cn": "使用（use 的过去式）；用过的"
+},
+{
+"w": "volume",
+"pos": "n.",
+"cn": "量，体积；音量"
+},
+{
+"w": "deception",
+"pos": "n.",
+"cn": "欺骗"
+},
+{
+"w": "made",
+"pos": "v.",
+"cn": "制作；使得（make 的过去式）"
+},
+{
+"w": "often",
+"pos": "adv.",
+"cn": "经常"
+},
+{
+"w": "account",
+"pos": "n.",
+"cn": "账户；描述，叙述"
+},
+{
+"w": "act",
+"pos": "v./n.",
+"cn": "行动；行为"
+},
+{
+"w": "advertising",
+"pos": "n.",
+"cn": "广告（advertise 的名词/现在分词）"
+},
+{
+"w": "alike",
+"pos": "adj./adv.",
+"cn": "相似的（地）"
+},
+{
+"w": "alone",
+"pos": "adj./adv.",
+"cn": "单独的（地）"
+},
+{
+"w": "already",
+"pos": "adv.",
+"cn": "已经"
+},
+{
+"w": "appears",
+"pos": "v.",
+"cn": "出现；显得（appear 的三单）"
+},
+{
+"w": "ask",
+"pos": "v.",
+"cn": "问，询问"
+},
+{
+"w": "attractive",
+"pos": "adj.",
+"cn": "吸引人的"
+},
+{
+"w": "becoming",
+"pos": "v./adj.",
+"cn": "变得（become 的现在分词）"
+},
+{
+"w": "believe",
+"pos": "v.",
+"cn": "相信"
+},
+{
+"w": "believing",
+"pos": "v.",
+"cn": "相信（believe 的现在分词）"
+},
+{
+"w": "careful",
+"pos": "adj.",
+"cn": "小心的，仔细的"
+},
+{
+"w": "censorship",
+"pos": "n.",
+"cn": "审查（制度）"
+},
+{
+"w": "constant",
+"pos": "adj.",
+"cn": "持续的，不断的"
+},
+{
+"w": "context",
+"pos": "n.",
+"cn": "背景，语境"
+},
+{
+"w": "conversation",
+"pos": "n.",
+"cn": "对话，话题"
+},
+{
+"w": "cynical",
+"pos": "adj.",
+"cn": "愤世嫉俗的"
+},
+{
+"w": "despair",
+"pos": "n./v.",
+"cn": "绝望"
+},
+{
+"w": "easier",
+"pos": "adj./adv.",
+"cn": "更容易的（easy 的比较级）"
+},
+{
+"w": "educators",
+"pos": "n.",
+"cn": "教育者（educator 的复数）"
+},
+{
+"w": "emotional",
+"pos": "adj.",
+"cn": "情绪的，情感的"
+},
+{
+"w": "even",
+"pos": "adv.",
+"cn": "甚至；平的"
+},
+{
+"w": "everything",
+"pos": "pron.",
+"cn": "一切，所有事物"
+},
+{
+"w": "expert",
+"pos": "n./adj.",
+"cn": "专家；专业的"
+},
+{
+"w": "feels",
+"pos": "v.",
+"cn": "感觉（feel 的三单）"
+},
+{
+"w": "few",
+"pos": "adj./pron.",
+"cn": "很少的，几个"
+},
+{
+"w": "figures",
+"pos": "n./v.",
+"cn": "数字；人物（figure 的复数）"
+},
+{
+"w": "friends",
+"pos": "n.",
+"cn": "朋友（friend 的复数）"
+},
+{
+"w": "growing",
+"pos": "adj./v.",
+"cn": "增长的（grow 的现在分词）"
+},
+{
+"w": "harder",
+"pos": "adj./adv.",
+"cn": "更难的（hard 的比较级）"
+},
+{
+"w": "headlines",
+"pos": "n.",
+"cn": "头条新闻（headline 的复数）"
+},
+{
+"w": "inform",
+"pos": "v.",
+"cn": "告知，通知"
+},
+{
+"w": "lie",
+"pos": "n./v.",
+"cn": "谎言；说谎"
+},
+{
+"w": "lies",
+"pos": "n./v.",
+"cn": "谎言（lie 的复数）"
+},
+{
+"w": "matching",
+"pos": "adj./v.",
+"cn": "匹配的（match 的现在分词）"
+},
+{
+"w": "messages",
+"pos": "n.",
+"cn": "信息，讯息（message 的复数）"
+},
+{
+"w": "mistaken",
+"pos": "adj./v.",
+"cn": "错误的（mistake 的过去分词）"
+},
+{
+"w": "national",
+"pos": "adj.",
+"cn": "全国的，国家的"
+},
+{
+"w": "nor",
+"pos": "conj.",
+"cn": "也不"
+},
+{
+"w": "omitting",
+"pos": "v.",
+"cn": "省略，遗漏（omit 的现在分词）"
+},
+{
+"w": "part",
+"pos": "n./v.",
+"cn": "部分；参与"
+},
+{
+"w": "pause",
+"pos": "v./n.",
+"cn": "暂停"
+},
+{
+"w": "point",
+"pos": "n./v.",
+"cn": "要点；指向"
+},
+{
+"w": "politics",
+"pos": "n.",
+"cn": "政治"
+},
+{
+"w": "pressure",
+"pos": "n./v.",
+"cn": "压力"
+},
+{
+"w": "propagandists",
+"pos": "n.",
+"cn": "宣传者（propagandist 的复数）"
+},
+{
+"w": "question",
+"pos": "n./v.",
+"cn": "问题；质疑"
+},
+{
+"w": "quoting",
+"pos": "v.",
+"cn": "引用（quote 的现在分词）"
+},
+{
+"w": "rank",
+"pos": "v./n.",
+"cn": "排名；等级"
+},
+{
+"w": "real",
+"pos": "adj.",
+"cn": "真实的"
+},
+{
+"w": "remedy",
+"pos": "n./v.",
+"cn": "补救（办法）"
+},
+{
+"w": "repetition",
+"pos": "n.",
+"cn": "重复"
+},
+{
+"w": "report",
+"pos": "n./v.",
+"cn": "报道；报告"
+},
+{
+"w": "seconds",
+"pos": "n.",
+"cn": "秒（second 的复数）"
+},
+{
+"w": "seldom",
+"pos": "adv.",
+"cn": "很少，不常"
+},
+{
+"w": "sound",
+"pos": "adj./n./v.",
+"cn": "合理的；声音"
+},
+{
+"w": "statistic",
+"pos": "n.",
+"cn": "统计数据"
+},
+{
+"w": "story",
+"pos": "n.",
+"cn": "故事，报道"
+},
+{
+"w": "striking",
+"pos": "adj.",
+"cn": "惊人的，引人注目的（strike 的现在分词）"
+},
+{
+"w": "study",
+"pos": "v./n.",
+"cn": "研究；学习"
+},
+{
+"w": "techniques",
+"pos": "n.",
+"cn": "技巧，手法（technique 的复数）"
+},
+{
+"w": "think",
+"pos": "v.",
+"cn": "思考，认为"
+},
+{
+"w": "true",
+"pos": "adj.",
+"cn": "真实的"
+},
+{
+"w": "twice",
+"pos": "adv.",
+"cn": "两次，两倍"
+},
+{
+"w": "until",
+"pos": "prep./conj.",
+"cn": "直到…为止"
+},
+{
+"w": "visibility",
+"pos": "n.",
+"cn": "能见度，曝光度"
+},
+{
+"w": "warn",
+"pos": "v.",
+"cn": "警告"
+},
+{
+"w": "way",
+"pos": "n.",
+"cn": "方式，方法"
+},
+{
+"w": "whatever",
+"pos": "pron.",
+"cn": "无论什么"
+},
+{
+"w": "whether",
+"pos": "conj.",
+"cn": "是否"
+},
+{
+"w": "within",
+"pos": "prep.",
+"cn": "在…之内"
+},
+{
+"w": "without",
+"pos": "prep.",
+"cn": "没有，无"
+},
+{
+"w": "words",
+"pos": "n.",
+"cn": "词语，话语（word 的复数）"
+},
+{
+"w": "yet",
+"pos": "adv./conj.",
+"cn": "然而；还"
 }
 ];

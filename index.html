@@ -426,7 +426,7 @@
     <div class="eng-pane" id="eng-dict">
       <div class="card">
         <h2>📕 单词词典</h2>
-        <div class="hint">输入任意英文单词查询翻译（内置 500+ 常用学术词库 + 今日单词 + 文章生词）；查不到也会给你有道词典链接</div>
+        <div class="hint">输入任意英文单词查询翻译（内置 700+ 常用学术词库 + 今日单词 + 文章生词）；查不到时提供朗读，不跳转外部网站</div>
         <div class="dict-bar">
           <input id="dictInput" class="dict-input" placeholder="输入英文单词，如 economy / analyze / significant …" />
           <button class="btn primary" id="btnDictSearch">🔍 查词</button>
@@ -675,9 +675,12 @@ const tip = $('#tip');
 function showTip(ev, word){
   const g = lookup(word);
   speak(word.replace(/[^a-zA-Z'-]/g,''), 0.85);
-  tip.innerHTML = g
-    ? `<div class="t-w">${g.w}</div><div class="t-p">${g.p||''} ${g.pos||''}</div><div>${g.cn}</div>`
-    : `<div class="t-w">${word}</div><div style="color:#aab3c5">本地词库未收录</div><div class="t-link" onclick="window.open('https://dict.youdao.com/result?word=${encodeURIComponent(word)}&lang=en')">去有道词典查看 →</div>`;
+  if(g){
+    tip.innerHTML = `<div class="t-w">${g.w}</div><div class="t-p">${g.p||''} ${g.pos||''}</div><div>${g.cn}</div>`;
+  }else{
+    const clean = word.replace(/[^a-zA-Z'-]/g,'');
+    tip.innerHTML = `<div class="t-w">${word}</div><div style="color:#aab3c5">本地词库暂未收录（可点下面朗读）</div><div class="t-link" onclick="event.stopPropagation();speak('${clean}',0.9)">🔊 朗读这个单词</div>`;
+  }
   tip.style.display='block';
   const x = Math.min(ev.clientX+12, innerWidth-280), y = Math.min(ev.clientY+14, innerHeight-120);
   tip.style.left=x+'px'; tip.style.top=y+'px';
@@ -831,8 +834,8 @@ function dictCard(g, word){
   const clean = word.replace(/[^a-zA-Z'-]/g,'');
   return `<div class="dict-res">
     <div class="dr-w">${word}</div>
-    <div class="dr-miss">本地词库未收录该词</div>
-    <div class="t-link" onclick="window.open('https://dict.youdao.com/result?word=${encodeURIComponent(clean)}&lang=en')">去有道词典查看 →</div>
+    <div class="dr-miss">本地词库暂未收录该词（可点下面朗读）</div>
+    <div class="t-link" onclick="speak('${clean}',0.9)">🔊 朗读这个单词</div>
   </div>`;
 }
 function dictSearch(){
