@@ -5,7 +5,7 @@ const path = require('path');
 const root = __dirname;
 
 let html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
-const files = ['english_daily.js', 'english_history.js', 'mystic_courses.js', 'draw_courses.js', 'grammar_course.js', 'finance_daily.js', 'info_gap.js'];
+const files = ['english_daily.js', 'english_history.js', 'mystic_courses.js', 'draw_courses.js', 'grammar_course.js', 'finance_daily.js', 'info_gap.js', 'info_gap_pool.js'];
 
 for (const f of files) {
   const content = fs.readFileSync(path.join(root, 'data', f), 'utf8');
