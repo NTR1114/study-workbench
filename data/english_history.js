@@ -17,5 +17,11 @@ window.ENGLISH_HISTORY = [
     topic: "Health: Sleep Deprivation（健康：睡眠不足）",
     articleTitle: "The Silent Epidemic of Sleep Loss",
     words: ["adapt","adequate","alleviate","attribute","cognitive","commence","compulsory","consecutive","contemporary","cultivate","deficiency","deprive","diminish","disrupt","durable","exceed","imply","inherent","intervene","lucrative","moderate","negligible","offset","persist","prone","restore","sedentary","susceptible","trigger","vulnerable"]
+  },
+  {
+    date: "2026-07-31",
+    topic: "Media & Misinformation（媒体与虚假信息）",
+    articleTitle: "Truth in the Age of Noise",
+    words: ["accessible","advocate","amplify","anonymous","authentic","bias","circulate","compelling","conform","credibility","deceive","deliberate","discern","distort","dominate","endorse","exposure","fabricate","inclined","manipulate","perceive","plausible","prevalent","prompt","refute","reinforce","reliable","skeptical","transparency","verify"]
   }
 ];

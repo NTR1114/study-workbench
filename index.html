@@ -309,7 +309,19 @@
   .gap-grp{margin-top:18px}
   .gap-grp-h{font-size:14.5px;font-weight:800;color:#2b3346;margin:6px 0 8px;display:flex;align-items:center;gap:8px}
   .gap-grp-h .s-badge{background:var(--blue);color:#fff;font-size:11px;padding:1px 8px;border-radius:10px;font-weight:700}
-  @media(max-width:680px){.gc-title{font-size:13.5px}.gf-title{font-size:16px}}
+  /* 单词词典 */
+  .dict-bar{display:flex;gap:8px;margin:6px 0 14px}
+  .dict-input{flex:1;padding:9px 12px;border:1.5px solid var(--border);border-radius:10px;font-size:14px;background:var(--card);color:var(--text)}
+  .dict-input:focus{outline:none;border-color:var(--blue)}
+  .dict-res{background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin-top:6px}
+  .dr-w{font-size:20px;font-weight:800;color:var(--text)}
+  .dr-meta{color:#9fb4e8;font-size:13px;margin:2px 0 6px}
+  .dr-cn{font-size:15px;line-height:1.6;margin-bottom:10px}
+  .dr-miss{color:#8a8f9c;font-size:14px;margin-bottom:6px}
+  .dict-chips{display:flex;flex-wrap:wrap;gap:8px}
+  .dict-chip{cursor:pointer;background:var(--bg2);border:1px solid var(--border);border-radius:20px;padding:6px 13px;font-size:13.5px;color:var(--text);transition:.15s}
+  .dict-chip:hover{border-color:var(--blue);color:var(--blue);transform:translateY(-2px)}
+  @media(max-width:680px){.gc-title{font-size:13.5px}.gf-title{font-size:16px}.dr-w{font-size:18px}}
 </style>
 </head>
 <body>
@@ -344,6 +356,7 @@
       <div class="subnav-item" data-eng="vocab">📚 词汇阅读</div>
       <div class="subnav-item" data-eng="grammar">✏️ 语法自学 <span class="s-badge" id="bGram">0次</span></div>
       <div class="subnav-item" data-eng="analysis">📊 学习分析</div>
+      <div class="subnav-item" data-eng="dict">📕 词典</div>
     </div>
 
     <!-- 模块 1：雅思文章（独立） -->
@@ -406,6 +419,24 @@
         <h2>📊 学习分析 · 我的英语成长</h2>
         <div class="hint">基于本地学习记录自动统计（打卡 / 单词 / 语法 / 阅读）；数据只保存在你的浏览器，不联网上传</div>
         <div id="engAnaBox"></div>
+      </div>
+    </div>
+
+    <!-- 模块 6：单词词典（独立） -->
+    <div class="eng-pane" id="eng-dict">
+      <div class="card">
+        <h2>📕 单词词典</h2>
+        <div class="hint">输入任意英文单词查询翻译（内置 500+ 常用学术词库 + 今日单词 + 文章生词）；查不到也会给你有道词典链接</div>
+        <div class="dict-bar">
+          <input id="dictInput" class="dict-input" placeholder="输入英文单词，如 economy / analyze / significant …" />
+          <button class="btn primary" id="btnDictSearch">🔍 查词</button>
+        </div>
+        <div id="dictResult"></div>
+      </div>
+      <div class="card">
+        <h2>🔤 今日 30 词速查</h2>
+        <div class="hint">点击任意单词查看释义（与「每日单词」同步，已背的标注 ✅）</div>
+        <div class="dict-chips" id="dictWordGrid"></div>
       </div>
     </div>
 
@@ -507,6 +538,7 @@
 <script src="data/mystic_courses.js"></script>
 <script src="data/draw_courses.js"></script>
 <script src="data/grammar_course.js"></script>
+<script src="data/dict_common.js"></script>
 <script src="data/finance_daily.js"></script>
 <script src="data/info_gap.js"></script>
 <script src="data/info_gap_pool.js"></script>
@@ -622,6 +654,7 @@ speechSynthesis.onvoiceschanged = ()=>{};
 
 /* ================= 词典 ================= */
 const GLOSS = {};
+(window.DICT_COMMON||[]).forEach(w=>{ const k=w.w.toLowerCase(); if(!GLOSS[k]) GLOSS[k]={w:w.w,pos:w.pos,cn:w.cn}; });
 (D.article.glossary||[]).forEach(g=>GLOSS[g.w.toLowerCase()]=g);
 D.words.forEach(w=>GLOSS[w.w.toLowerCase()] = {w:w.w,pos:w.pos,p:w.p,cn:w.cn});
 function lookup(raw){
@@ -704,7 +737,7 @@ function initEnglish(){
   };
   readBtn.onclick = ()=>{ saveRec({read:true}); refreshRead(); };
   refreshRead();
-  renderWords(); renderGrammarHome(); renderEngAnalysis();
+  renderWords(); renderGrammarHome(); renderEngAnalysis(); renderDict();
   const bg0=$('#bGram'); if(bg0){ const r=records()[TODAY]; bg0.textContent=((r&&r.gramSessions)||0)+'次'; }
 }
 /* ================= 英语学习分析 ================= */
@@ -784,6 +817,45 @@ function renderWords(){
     };
   });
 }
+/* ================= 单词词典 ================= */
+function dictCard(g, word){
+  if(g){
+    const w = (g.w||word).replace(/'/g, "\\'");
+    return `<div class="dict-res">
+      <div class="dr-w">${g.w||word}</div>
+      <div class="dr-meta">${g.p||''} ${g.pos||''}</div>
+      <div class="dr-cn">${g.cn}</div>
+      <button class="btn" onclick="speak('${w}',0.85)">🔊 朗读单词</button>
+    </div>`;
+  }
+  const clean = word.replace(/[^a-zA-Z'-]/g,'');
+  return `<div class="dict-res">
+    <div class="dr-w">${word}</div>
+    <div class="dr-miss">本地词库未收录该词</div>
+    <div class="t-link" onclick="window.open('https://dict.youdao.com/result?word=${encodeURIComponent(clean)}&lang=en')">去有道词典查看 →</div>
+  </div>`;
+}
+function dictSearch(){
+  const v = ($('#dictInput').value||'').trim();
+  if(!v){ $('#dictResult').innerHTML='<div class="dr-miss">请输入要查询的英文单词</div>'; return; }
+  const g = lookup(v);
+  $('#dictResult').innerHTML = dictCard(g, v);
+  if(g) speak(g.w||v, 0.85);
+}
+function dictShow(word){
+  const g = lookup(word);
+  $('#dictResult').innerHTML = dictCard(g, word);
+  if(g) speak(g.w||word, 0.85);
+  $('#dictInput').value = word;
+}
+function renderDict(){
+  const done = new Set(LS.get('wb_words_'+TODAY, []));
+  $('#dictWordGrid').innerHTML = D.words.map((w,i)=>
+    `<span class="dict-chip" onclick="dictShow('${w.w.replace(/'/g,"\\'")}')">${w.w}${done.has(i)?' ✅':''}</span>`
+  ).join('');
+}
+$('#btnDictSearch').onclick = dictSearch;
+$('#dictInput').addEventListener('keydown', e=>{ if(e.key==='Enter') dictSearch(); });
 /* ================= 语法自学课程 ================= */
 const GCTOPICS = window.GRAMMAR_COURSE.topics;
 const GCPER = window.GRAMMAR_COURSE.perSession;
