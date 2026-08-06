@@ -23,5 +23,11 @@ window.ENGLISH_HISTORY = [
     topic: "Media & Misinformation（媒体与虚假信息）",
     articleTitle: "Truth in the Age of Noise",
     words: ["accessible","advocate","amplify","anonymous","authentic","bias","circulate","compelling","conform","credibility","deceive","deliberate","discern","distort","dominate","endorse","exposure","fabricate","inclined","manipulate","perceive","plausible","prevalent","prompt","refute","reinforce","reliable","skeptical","transparency","verify"]
+  },
+  {
+    date: "2026-08-06",
+    topic: "Education（教育）",
+    articleTitle: "Reimagining Education for a Changing World",
+    words: ["acquire","attain","beneficial","comprehend","discipline","disseminate","enroll","foster","illustrate","impart","methodology","pedagogy","pupil","rigorous","stimulate","tuition","learner","novice","proficient","academic","theoretical","practical","competency","enable","equip","initiative","mentor","paradigm","autonomy","thesis"]
   }
 ];

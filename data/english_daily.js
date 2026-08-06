@@ -1,137 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-07-31",
-  topic: "Media & Misinformation（媒体与虚假信息）",
+  date: "2026-08-06",
+  topic: "Education（教育）",
   article: {
-    title: "Truth in the Age of Noise",
-    titleCn: "喧嚣时代的真相",
+    title: "Reimagining Education for a Changing World",
+    titleCn: "为变革世界重塑教育",
     paras: [
       {
-        en: "Never before has information travelled so quickly, and never before has it been so difficult to tell truth from fabrication. A single misleading claim posted at breakfast can reach millions before lunch, amplified by algorithms that reward outrage rather than accuracy. Journalists who once acted as gatekeepers now compete with anonymous accounts, and readers, overwhelmed by the sheer volume of content, increasingly struggle to judge what deserves their trust.",
-        cn: "信息从未传播得如此之快，而分辨真相与捏造也从未如此困难。早餐时发布的一条误导性言论，可能在午饭前就触达数百万人——推波助澜的是那些奖励愤怒而非准确的算法。曾经充当把关人的记者，如今要与匿名账号竞争；而被海量内容淹没的读者，也越来越难以判断什么才值得信任。"
+        en: "For most of the past century, schools measured success chiefly by how much factual knowledge a pupil could recall in an exam. Yet the world that today's learners are entering no longer rewards mere memory. Employers increasingly value the ability to solve unfamiliar problems, work with people from different backgrounds, and keep learning long after leaving the classroom. This shift has forced educators to question assumptions that went unchallenged for generations.",
+        cn: "在过去的大半个世纪里，学校衡量成功的主要标准，是学生在考试中能回忆起多少事实性知识。然而，如今的学子所面对的世界，已不再嘉奖单纯的记忆。雇主越来越看重解决陌生问题、与不同背景的人协作、以及在离开课堂后仍能持续学习的能力。这种转变迫使教育者去质疑那些曾历经数代都未被挑战的假定。"
       },
       {
-        en: "Researchers have identified several reasons why falsehoods spread faster than corrections. Fabricated stories are typically more novel and emotionally charged, which makes them irresistibly shareable. Confirmation bias then does the rest: people readily accept claims that flatter their existing beliefs and dismiss evidence that unsettles them. Perhaps most troubling, a correction rarely reaches the same audience as the original rumour, so the false impression quietly persists in public memory long afterwards.",
-        cn: "研究者已找出谎言比更正传播得更快的若干原因。捏造的故事通常更新奇、更具情绪煽动性，因而让人忍不住转发。随后，确认偏误完成了剩下的工作：人们乐于接受迎合自身既有信念的说法，却把令自己不安的证据弃之不顾。或许最令人担忧的是，更正往往触达不到最初看到谣言的那批受众，于是错误印象在公众记忆中悄然留存许久。"
+        en: "Technology has become the most visible driver of change. Online platforms now disseminate lectures from leading universities to anyone with an internet connection, while simulation tools let students experiment safely with complex systems. Such resources do not replace teachers, but they do equip classrooms with material that once reached only a privileged few. Critics warn, however, that unequal access may widen the gap between those who can benefit and those left behind.",
+        cn: "技术已成为这场变革中最显眼的推动因素。在线平台如今把顶尖大学的课程传播给任何有网络连接的人，而模拟工具让学生能够安全地试验复杂系统。这些资源不会取代教师，却确实为课堂配备了曾经只惠及少数特权群体的材料。然而批评者警告说，不均衡的获取机会可能会拉大受益者与落后者之间的差距。"
       },
       {
-        en: "The consequences extend far beyond embarrassment. During recent public health crises, rumours about treatments discouraged vaccination and cost lives, while coordinated campaigns have been used to undermine confidence in elections. Financial markets, too, have been shaken by fake announcements circulated on social platforms. What unites these cases is an erosion of shared reality: when citizens can no longer agree on basic facts, rational debate becomes almost impossible and democratic institutions gradually lose their authority.",
-        cn: "其后果远不止于尴尬。在近来的公共卫生危机中，关于治疗方法的谣言曾使人们不愿接种疫苗，并因此付出生命代价；与此同时，有组织的舆论行动被用来动摇人们对选举的信心。金融市场同样曾因社交平台上流传的虚假公告而剧烈震荡。这些案例的共同点在于共享现实的瓦解：当公民无法就基本事实达成一致时，理性辩论几乎变得不可能，民主制度也会逐渐丧失权威。"
+        en: "Attention has also turned to assessment itself. Traditional exams, taken once and graded anonymously, capture only a narrow slice of what a learner can do. Many systems are therefore piloting continuous evaluation, where pupils build portfolios that illustrate their progress over time. This approach aims to foster deeper comprehension rather than last-minute cramming, and it gives teachers clearer signals about which concepts a student has yet to master.",
+        cn: "人们的注意力也转向了考核本身。传统考试只考一次、匿名评分，只能捕捉到学习者能力中很窄的一片。因此，许多体系正在试行持续性评价，让学生建立能展现其长期进步的作品集。这种做法旨在培养更深层的理解力，而非临考前的填鸭突击，也为教师提供了更清晰的信号，知道学生还有哪些概念尚未掌握。"
       },
       {
-        en: "Solutions are emerging, though none is complete. Several countries have introduced media literacy into the curriculum, teaching teenagers to trace a claim back to its source before sharing it. Platforms have begun labelling disputed posts and demoting repeat offenders, and independent fact-checking organisations now operate in most regions. Ultimately, however, the burden falls on ordinary readers: a habit of pausing, questioning and verifying remains the cheapest and most powerful defence available.",
-        cn: "解决方案正在出现，尽管没有一种是完备的。若干国家已把媒介素养纳入课程，教青少年在转发之前先将一条说法追溯到源头。各大平台开始给有争议的帖子加上标签，并降低惯犯的推荐权重，独立的事实核查机构如今也遍布多数地区。然而归根结底，责任落在普通读者身上：养成停一停、问一问、核实一下的习惯，仍是最廉价也最有力的防线。"
+        en: "Perhaps the deepest change is the move from education as a stage to education as a habit. As careers fragment and industries evolve, workers must repeatedly acquire new competencies just to remain relevant. Governments and firms alike are funding retraining schemes that blend academic study with practical mentoring. Whether this reimagined model reaches every pupil remains uncertain, but the direction is clear: learning, once confined to youth, has become a lifelong pursuit.",
+        cn: "或许最深刻的变化，是把教育从人生的一个阶段转变为一种习惯。随着职业的碎片化与行业的演变，劳动者必须反复习得新的能力，才能不被淘汰。政府与企业的共同做法是资助再培训计划，把学术学习与实际指导结合起来。这种被重新构想的模式能否惠及每个学生尚不确定，但方向是明确的：学习曾经局限于青年时期，如今已成为终身的追求。"
       }
     ],
     glossary: [
-      { w: "fabrication", pos: "n.", p: "/ˌfæbrɪˈkeɪʃn/", cn: "捏造，编造之物" },
-      { w: "misleading", pos: "adj.", p: "/ˌmɪsˈliːdɪŋ/", cn: "误导性的" },
-      { w: "algorithm", pos: "n.", p: "/ˈælɡərɪðəm/", cn: "算法" },
-      { w: "outrage", pos: "n.", p: "/ˈaʊtreɪdʒ/", cn: "义愤，公愤" },
-      { w: "accuracy", pos: "n.", p: "/ˈækjərəsi/", cn: "准确性" },
-      { w: "gatekeeper", pos: "n.", p: "/ˈɡeɪtkiːpə(r)/", cn: "把关人，守门人" },
-      { w: "overwhelm", pos: "v.", p: "/ˌəʊvəˈwelm/", cn: "淹没；使不知所措" },
-      { w: "sheer", pos: "adj.", p: "/ʃɪə(r)/", cn: "纯粹的；（数量）巨大的" },
-      { w: "falsehood", pos: "n.", p: "/ˈfɔːlshʊd/", cn: "谎言，虚假之说" },
-      { w: "novel", pos: "adj.", p: "/ˈnɒvl/", cn: "新奇的，新颖的" },
-      { w: "irresistibly", pos: "adv.", p: "/ˌɪrɪˈzɪstəbli/", cn: "令人无法抗拒地" },
-      { w: "flatter", pos: "v.", p: "/ˈflætə(r)/", cn: "迎合，讨好；奉承" },
-      { w: "dismiss", pos: "v.", p: "/dɪsˈmɪs/", cn: "摒弃，不予考虑" },
-      { w: "unsettle", pos: "v.", p: "/ʌnˈsetl/", cn: "使不安，动摇" },
-      { w: "rumour", pos: "n.", p: "/ˈruːmə(r)/", cn: "谣言，传闻" },
-      { w: "embarrassment", pos: "n.", p: "/ɪmˈbærəsmənt/", cn: "尴尬，难堪" },
-      { w: "vaccination", pos: "n.", p: "/ˌvæksɪˈneɪʃn/", cn: "疫苗接种" },
-      { w: "coordinated", pos: "adj.", p: "/kəʊˈɔːdɪneɪtɪd/", cn: "协同的，有组织的" },
-      { w: "undermine", pos: "v.", p: "/ˌʌndəˈmaɪn/", cn: "削弱，暗中破坏" },
-      { w: "erosion", pos: "n.", p: "/ɪˈrəʊʒn/", cn: "侵蚀；（逐渐的）瓦解" },
-      { w: "rational", pos: "adj.", p: "/ˈræʃnəl/", cn: "理性的，合理的" },
-      { w: "institution", pos: "n.", p: "/ˌɪnstɪˈtjuːʃn/", cn: "机构；制度" },
-      { w: "authority", pos: "n.", p: "/ɔːˈθɒrəti/", cn: "权威；当局" },
-      { w: "literacy", pos: "n.", p: "/ˈlɪtərəsi/", cn: "素养；读写能力" },
-      { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程体系" },
-      { w: "trace", pos: "v.", p: "/treɪs/", cn: "追溯，追查" },
-      { w: "disputed", pos: "adj.", p: "/dɪˈspjuːtɪd/", cn: "有争议的" },
-      { w: "demote", pos: "v.", p: "/dɪˈməʊt/", cn: "降级；（算法上）降权" },
-      { w: "offender", pos: "n.", p: "/əˈfendə(r)/", cn: "违规者，冒犯者" },
-      { w: "defence", pos: "n.", p: "/dɪˈfens/", cn: "防御，防线" }
+      { w: "recall", pos: "v.", p: "/rɪˈkɔːl/", cn: "回忆，回想" },
+      { w: "assumption", pos: "n.", p: "/əˈsʌmpʃn/", cn: "假设，假定" },
+      { w: "unchallenged", pos: "adj.", p: "/ʌnˈtʃælɪndʒd/", cn: "未受质疑的" },
+      { w: "merely", pos: "adv.", p: "/ˈmɪəli/", cn: "仅仅，只不过" },
+      { w: "driver", pos: "n.", p: "/ˈdraɪvə(r)/", cn: "推动因素，驱动力" },
+      { w: "disseminate", pos: "v.", p: "/dɪˈsemɪneɪt/", cn: "传播，散布" },
+      { w: "simulation", pos: "n.", p: "/ˌsɪmjuˈleɪʃn/", cn: "模拟，仿真" },
+      { w: "privileged", pos: "adj.", p: "/ˈprɪvəlɪdʒd/", cn: "享有特权的" },
+      { w: "unequal", pos: "adj.", p: "/ʌnˈiːkwəl/", cn: "不平等的" },
+      { w: "assessment", pos: "n.", p: "/əˈsesmənt/", cn: "评估，考评" },
+      { w: "portfolio", pos: "n.", p: "/pɔːtˈfəʊliəʊ/", cn: "作品集，学习档案" },
+      { w: "illustrate", pos: "v.", p: "/ˈɪləstreɪt/", cn: "说明，阐明" },
+      { w: "comprehension", pos: "n.", p: "/ˌkɒmprɪˈhenʃn/", cn: "理解，领悟" },
+      { w: "foster", pos: "v.", p: "/ˈfɒstə(r)/", cn: "培养，促进" },
+      { w: "cramming", pos: "n.", p: "/ˈkræmɪŋ/", cn: "填鸭式突击学习" },
+      { w: "acquire", pos: "v.", p: "/əˈkwaɪə(r)/", cn: "获得，习得" },
+      { w: "competency", pos: "n.", p: "/ˈkɒmpɪtənsi/", cn: "能力，胜任力" },
+      { w: "relevant", pos: "adj.", p: "/ˈreləvənt/", cn: "相关的，切题的" },
+      { w: "fragment", pos: "v.", p: "/ˈfræɡment/", cn: "分裂，碎片化" },
+      { w: "academic", pos: "adj.", p: "/ˌækəˈdemɪk/", cn: "学术的，学业的" },
+      { w: "practical", pos: "adj.", p: "/ˈpræktɪkl/", cn: "实用的，实际的" },
+      { w: "mentoring", pos: "n.", p: "/ˈmentɔːrɪŋ/", cn: "指导，导师制" },
+      { w: "confined", pos: "adj.", p: "/kənˈfaɪnd/", cn: "受限的，被限制的" },
+      { w: "lifelong", pos: "adj.", p: "/ˈlaɪflɒŋ/", cn: "终身的" },
+      { w: "pursuit", pos: "n.", p: "/pəˈsjuːt/", cn: "追求，从事" },
+      { w: "pupil", pos: "n.", p: "/ˈpjuːpl/", cn: "学生，小学生" },
+      { w: "learner", pos: "n.", p: "/ˈlɜːnə(r)/", cn: "学习者" },
+      { w: "continuous", pos: "adj.", p: "/kənˈtɪnjuəs/", cn: "持续的，连续的" }
     ]
   },
   words: [
-    { w: "accessible", pos: "adj.", p: "/əkˈsesəbl/", cn: "可获取的；易接近的", ex: "Online archives have made rare documents accessible to everyone.", exCn: "在线档案库让珍稀文献人人可查。" },
-    { w: "advocate", pos: "v.", p: "/ˈædvəkeɪt/", cn: "提倡，主张", ex: "Many teachers advocate introducing media literacy at primary level.", exCn: "许多教师主张在小学阶段就引入媒介素养教育。" },
-    { w: "amplify", pos: "v.", p: "/ˈæmplɪfaɪ/", cn: "放大，增强", ex: "Social networks amplify whatever provokes the strongest reaction.", exCn: "社交网络会放大一切引发最强烈反应的内容。" },
-    { w: "anonymous", pos: "adj.", p: "/əˈnɒnɪməs/", cn: "匿名的", ex: "The allegations came from an anonymous online account.", exCn: "这些指控来自一个匿名的网络账号。" },
-    { w: "authentic", pos: "adj.", p: "/ɔːˈθentɪk/", cn: "真实的，真正的", ex: "Editors could not confirm that the photograph was authentic.", exCn: "编辑无法确认这张照片是真实的。" },
-    { w: "bias", pos: "n.", p: "/ˈbaɪəs/", cn: "偏见，偏向", ex: "Readers tend to notice bias only in newspapers they dislike.", exCn: "读者往往只看得见自己不喜欢的报纸中的偏见。" },
-    { w: "circulate", pos: "v.", p: "/ˈsɜːkjəleɪt/", cn: "流传，传播", ex: "Rumours circulated widely before officials issued a statement.", exCn: "在官方发表声明之前，谣言已广泛流传。" },
-    { w: "compelling", pos: "adj.", p: "/kəmˈpelɪŋ/", cn: "有说服力的；引人入胜的", ex: "She presented compelling evidence that the video had been edited.", exCn: "她提出了令人信服的证据，证明这段视频经过剪辑。" },
-    { w: "conform", pos: "v.", p: "/kənˈfɔːm/", cn: "符合；遵从（conform to）", ex: "News reports must conform to strict ethical standards.", exCn: "新闻报道必须符合严格的伦理标准。" },
-    { w: "credibility", pos: "n.", p: "/ˌkredəˈbɪləti/", cn: "可信度，公信力", ex: "The newspaper lost credibility after publishing the false story.", exCn: "这家报纸在刊登假消息后失去了公信力。" },
-    { w: "deceive", pos: "v.", p: "/dɪˈsiːv/", cn: "欺骗，蒙蔽", ex: "Doctored images are designed to deceive casual viewers.", exCn: "篡改过的图片就是为了欺骗随意浏览的观众。" },
-    { w: "deliberate", pos: "adj.", p: "/dɪˈlɪbərət/", cn: "蓄意的，故意的", ex: "The omission of key figures was clearly deliberate.", exCn: "对关键数据的省略显然是故意的。" },
-    { w: "discern", pos: "v.", p: "/dɪˈsɜːn/", cn: "辨别，看出", ex: "It is hard to discern fact from opinion in that article.", exCn: "在那篇文章中很难分辨事实与观点。" },
-    { w: "distort", pos: "v.", p: "/dɪˈstɔːt/", cn: "歪曲，扭曲", ex: "Selective quotation can badly distort a speaker's meaning.", exCn: "断章取义会严重歪曲说话者的本意。" },
-    { w: "dominate", pos: "v.", p: "/ˈdɒmɪneɪt/", cn: "主导，支配", ex: "The scandal dominated the headlines for a fortnight.", exCn: "这桩丑闻主导了两周的头条新闻。" },
-    { w: "endorse", pos: "v.", p: "/ɪnˈdɔːs/", cn: "认可，支持；代言", ex: "No reputable scientist has endorsed the claim.", exCn: "没有一位有声望的科学家认可这一说法。" },
-    { w: "exposure", pos: "n.", p: "/ɪkˈspəʊʒə(r)/", cn: "接触；曝光", ex: "Repeated exposure to false claims makes them feel familiar.", exCn: "反复接触虚假说法会让人觉得它们很熟悉。" },
-    { w: "fabricate", pos: "v.", p: "/ˈfæbrɪkeɪt/", cn: "捏造，编造", ex: "The journalist admitted that he had fabricated the interview.", exCn: "这名记者承认他捏造了那次采访。" },
-    { w: "inclined", pos: "adj.", p: "/ɪnˈklaɪnd/", cn: "倾向于…的（be inclined to）", ex: "People are inclined to believe headlines that confirm their views.", exCn: "人们倾向于相信那些印证自己观点的标题。" },
-    { w: "manipulate", pos: "v.", p: "/məˈnɪpjuleɪt/", cn: "操纵，操控", ex: "Advertisers manipulate emotions in order to sell products.", exCn: "广告商操纵情绪以推销产品。" },
-    { w: "perceive", pos: "v.", p: "/pəˈsiːv/", cn: "察觉；认为，看待", ex: "Younger audiences perceive social media as their main news source.", exCn: "年轻受众把社交媒体视为主要的新闻来源。" },
-    { w: "plausible", pos: "adj.", p: "/ˈplɔːzəbl/", cn: "看似合理的，貌似可信的", ex: "The explanation sounded plausible but proved to be false.", exCn: "这个解释听起来合情合理，结果却是假的。" },
-    { w: "prevalent", pos: "adj.", p: "/ˈprevələnt/", cn: "普遍的，盛行的", ex: "Misinformation is especially prevalent during elections.", exCn: "虚假信息在选举期间尤其泛滥。" },
-    { w: "prompt", pos: "v.", p: "/prɒmpt/", cn: "促使，激起", ex: "The report prompted regulators to tighten the rules.", exCn: "这份报告促使监管机构收紧了规则。" },
-    { w: "refute", pos: "v.", p: "/rɪˈfjuːt/", cn: "反驳，驳斥", ex: "Scientists quickly refuted the claim with new data.", exCn: "科学家很快用新数据驳斥了这一说法。" },
-    { w: "reinforce", pos: "v.", p: "/ˌriːɪnˈfɔːs/", cn: "强化，加强", ex: "Algorithms reinforce the opinions that users already hold.", exCn: "算法会强化用户本来就持有的观点。" },
-    { w: "reliable", pos: "adj.", p: "/rɪˈlaɪəbl/", cn: "可靠的，可信赖的", ex: "Always check whether the website is a reliable source.", exCn: "务必核查这个网站是否是可靠的信息来源。" },
-    { w: "skeptical", pos: "adj.", p: "/ˈskeptɪkl/", cn: "怀疑的（英式拼写 sceptical）", ex: "Readers should remain skeptical of dramatic statistics.", exCn: "读者应对耸人听闻的统计数据保持怀疑。" },
-    { w: "transparency", pos: "n.", p: "/trænsˈpærənsi/", cn: "透明度，公开性", ex: "Users are demanding greater transparency from technology firms.", exCn: "用户正要求科技公司提高透明度。" },
-    { w: "verify", pos: "v.", p: "/ˈverɪfaɪ/", cn: "核实，验证", ex: "It takes only a minute to verify a quotation online.", exCn: "在网上核实一句引语只需要一分钟。" }
+    { w: "acquire", pos: "v.", p: "/əˈkwaɪə(r)/", cn: "获得，习得", ex: "Children acquire language naturally through daily interaction.", exCn: "儿童通过日常互动自然地习得语言。" },
+    { w: "attain", pos: "v.", p: "/əˈteɪn/", cn: "达到，获得（目标）", ex: "Few students attain perfect scores without consistent effort.", exCn: "很少有学生不付出持续努力就能拿到满分。" },
+    { w: "beneficial", pos: "adj.", p: "/ˌbenɪˈfɪʃl/", cn: "有益的，有利的", ex: "Group discussion is beneficial to critical thinking.", exCn: "小组讨论对批判性思维有益。" },
+    { w: "comprehend", pos: "v.", p: "/ˌkɒmprɪˈhend/", cn: "理解，领会", ex: "It took her weeks to comprehend the theory fully.", exCn: "她花了数周才完全理解这个理论。" },
+    { w: "discipline", pos: "n.", p: "/ˈdɪsəplɪn/", cn: "学科；纪律", ex: "Each academic discipline has its own research methods.", exCn: "每一门学科都有其自身的研究方法。" },
+    { w: "disseminate", pos: "v.", p: "/dɪˈsemɪneɪt/", cn: "传播，散布", ex: "Universities disseminate knowledge through both teaching and publication.", exCn: "大学通过教学与出版两种方式传播知识。" },
+    { w: "enroll", pos: "v.", p: "/ɪnˈrəʊl/", cn: "招收；注册入学", ex: "The college enrolled a record number of international pupils.", exCn: "这所学院招收了创纪录数量的国际学生。" },
+    { w: "foster", pos: "v.", p: "/ˈfɒstə(r)/", cn: "培养，促进", ex: "Good teachers foster curiosity rather than fear of failure.", exCn: "好老师培养好奇心，而不是对失败的恐惧。" },
+    { w: "illustrate", pos: "v.", p: "/ˈɪləstreɪt/", cn: "说明，阐明", ex: "The case study illustrates how poverty affects learning.", exCn: "这个案例研究说明了贫困如何影响学习。" },
+    { w: "impart", pos: "v.", p: "/ɪmˈpɑːt/", cn: "传授，告知", ex: "A great lecture imparts both facts and perspective.", exCn: "一场精彩的讲座既传授事实，也传递视角。" },
+    { w: "methodology", pos: "n.", p: "/ˌmeθəˈdɒlədʒi/", cn: "方法学，方法论", ex: "The study's methodology was praised by independent reviewers.", exCn: "这项研究的方法论受到独立评审者的称赞。" },
+    { w: "pedagogy", pos: "n.", p: "/ˈpedəɡɒdʒi/", cn: "教学法，教育学", ex: "Modern pedagogy favours active participation over passive listening.", exCn: "现代教学法偏好主动参与，而非被动听讲。" },
+    { w: "pupil", pos: "n.", p: "/ˈpjuːpl/", cn: "学生，小学生", ex: "The teacher knew every pupil's strengths and weaknesses.", exCn: "这位老师了解每个学生的长处与短处。" },
+    { w: "rigorous", pos: "adj.", p: "/ˈrɪɡərəs/", cn: "严谨的，严格的", ex: "Scientific training demands rigorous observation and testing.", exCn: "科学训练要求严谨的观察与检验。" },
+    { w: "stimulate", pos: "v.", p: "/ˈstɪmjuleɪt/", cn: "刺激，激发", ex: "Open questions stimulate deeper classroom debate.", exCn: "开放式问题能激发更深的课堂讨论。" },
+    { w: "tuition", pos: "n.", p: "/tjuˈɪʃn/", cn: "学费；教学", ex: "Rising tuition has made higher education a heavy burden.", exCn: "不断上涨的学费让高等教育成为沉重负担。" },
+    { w: "learner", pos: "n.", p: "/ˈlɜːnə(r)/", cn: "学习者", ex: "Every learner progresses at a slightly different pace.", exCn: "每个学习者进步的节奏都略有不同。" },
+    { w: "novice", pos: "n.", p: "/ˈnɒvɪs/", cn: "新手，初学者", ex: "Even a novice can master the basics within a month.", exCn: "即便是新手，也能在一个月内掌握基础知识。" },
+    { w: "proficient", pos: "adj.", p: "/prəˈfɪʃnt/", cn: "熟练的，精通的", ex: "She became proficient in three languages by age twelve.", exCn: "她十二岁时已精通三门语言。" },
+    { w: "academic", pos: "adj.", p: "/ˌækəˈdemɪk/", cn: "学术的，学业的", ex: "His academic record earned him a place at a top university.", exCn: "他的学业成绩让他进入了顶尖大学。" },
+    { w: "theoretical", pos: "adj.", p: "/ˌθɪəˈretɪkl/", cn: "理论的", ex: "The course balances theoretical study with hands-on practice.", exCn: "这门课将理论学习与动手实践相结合。" },
+    { w: "practical", pos: "adj.", p: "/ˈpræktɪkl/", cn: "实用的，实际的", ex: "Practical skills often matter more than grades in the workplace.", exCn: "在职场上，实用技能往往比分数更重要。" },
+    { w: "competency", pos: "n.", p: "/ˈkɒmpɪtənsi/", cn: "能力，胜任力", ex: "Communication is a core competency for future leaders.", exCn: "沟通是未来领导者的核心能力。" },
+    { w: "enable", pos: "v.", p: "/ɪˈneɪbl/", cn: "使能够，使成为可能", ex: "Scholarships enable talented pupils from poor families to study.", exCn: "奖学金让贫困家庭的优秀学生得以求学。" },
+    { w: "equip", pos: "v.", p: "/ɪˈkwɪp/", cn: "装备；使具备（equip with）", ex: "Schools should equip students with digital literacy.", exCn: "学校应当让学生具备数字素养。" },
+    { w: "initiative", pos: "n.", p: "/ɪˈnɪʃətɪv/", cn: "主动性；倡议", ex: "The government launched an initiative to cut dropout rates.", exCn: "政府发起了一项降低辍学率的倡议。" },
+    { w: "mentor", pos: "n./v.", p: "/ˈmentɔː(r)/", cn: "导师；指导", ex: "A senior researcher mentored her through the first year.", exCn: "一位资深研究者在第一年指导了她。" },
+    { w: "paradigm", pos: "n.", p: "/ˈpærədaɪm/", cn: "范式，模式", ex: "Online learning shifted the paradigm of traditional schooling.", exCn: "在线学习改变了传统学校的范式。" },
+    { w: "autonomy", pos: "n.", p: "/ɔːˈtɒnəmi/", cn: "自主权，自主性", ex: "Older pupils deserve more autonomy in choosing subjects.", exCn: "高年级学生理应在选课上拥有更多自主权。" },
+    { w: "thesis", pos: "n.", p: "/ˈθiːsɪs/", cn: "论文；论点", ex: "Her thesis argues that play improves early learning.", exCn: "她的论文主张游戏能促进早期学习。" }
   ],
   vocabArticle: {
-    title: "Who Decides What You Believe?",
-    titleCn: "是谁在决定你相信什么？",
+    title: "Building a School That Travels With You",
+    titleCn: "随身而行的学校",
     paras: [
       {
-        en: "The internet has made knowledge more accessible than at any point in history, yet it has also made deception easier. Stories circulate within seconds, and a single anonymous account can amplify a rumour until it dominates the national conversation. Because most people perceive whatever appears frequently as true, repetition alone can reinforce a claim that no expert would endorse. Sheer visibility, in other words, is often mistaken for credibility.",
-        cn: "互联网让知识比历史上任何时期都更容易获取，但同时也让欺骗变得更加轻松。消息在几秒钟内四处流传，一个匿名账号就能把一则谣言放大，直至它主导全国的话题。由于大多数人会把反复出现的东西当作真的，仅凭重复就足以强化一个没有任何专家愿意背书的说法。换句话说，单纯的曝光度常常被误当成可信度。"
+        en: "Maria, a lifelong learner, enrolled in an online programme that disseminates knowledge far beyond any single campus. A patient mentor imparts not only facts but also the discipline to study alone. Through short daily lessons, every pupil can acquire the basics at their own pace, and the method proves especially beneficial for those who once feared formal classrooms.",
+        cn: "玛丽亚是一名终身学习者，她报名了一个在线课程，这个课程传播的知识远超任何单一校园。一位耐心的导师不仅传授事实，也传授独自学习的自律。通过每天简短的课程，每个学生都能按照自己的节奏习得基础知识，而这种方法对那些曾经害怕正规课堂的人尤其有益。"
       },
       {
-        en: "Those who fabricate false content rarely act by accident: the deception is deliberate. They study what audiences already believe and design messages that conform to those beliefs, because a story matching our bias feels compelling long before we examine it. Skilled propagandists seldom invent everything; more often they distort real facts, quoting figures that sound plausible while omitting the context that would refute them. In this way they deceive even careful readers.",
-        cn: "那些编造虚假内容的人很少是无心之失——这种欺骗是蓄意的。他们研究受众原本就相信什么，再设计出与这些信念相符的信息，因为一个迎合我们偏见的故事，早在我们审视它之前就已显得很有说服力。老练的宣传者很少全盘虚构；他们更常做的是扭曲真实事实，援引听上去合情合理的数字，同时略去那些足以反驳它们的背景信息。就这样，连谨慎的读者也会被蒙骗。"
+        en: "The platform's pedagogy favours active tasks over long lectures, and its methodology blends theoretical reading with practical projects. To stimulate deeper thought, tutors use real cases to illustrate abstract ideas, helping even a novice comprehend concepts that once seemed distant. Over months, repeated practice turns the hesitant beginner into a proficient user of the language.",
+        cn: "该平台的教学法偏爱主动任务而非长篇讲座，其方法论将理论阅读与实操项目相结合。为激发更深层的思考，辅导老师用真实案例来阐明抽象概念，帮助即便是新手也能理解那些曾显得遥远的理念。几个月后，反复练习让这名犹豫的初学者变成了熟练的语言使用者。"
       },
       {
-        en: "Such techniques are now prevalent in advertising and politics alike, and constant exposure makes them harder to discern. Ordinary users are inclined to trust content shared by friends, and few pause to verify a striking statistic. Researchers warn that emotional headlines are designed to manipulate attention rather than inform it, and that audiences who never question their sources gradually lose the ability to tell a reliable report from an attractive lie.",
-        cn: "这类手法如今在广告和政治领域都很盛行，而持续不断的接触又让人更难辨别。普通用户倾向于信任朋友转发的内容，很少有人会停下来核实一个惊人的数据。研究者警告说，煽情的标题旨在操纵注意力而非传递信息；那些从不质疑消息来源的受众，会逐渐丧失区分可靠报道与漂亮谎言的能力。"
+        en: "Assessment stays rigorous: learners must write an academic essay and defend a short thesis before advancing. Such tasks enable the school to measure real competency rather than memory alone. The goal is to equip young people with autonomy and the initiative to keep learning, so that leaving the course does not mean the end of education.",
+        cn: "考核依旧严格：学习者必须写一篇学术论文，并为简短的论点答辩才能晋级。这类任务让学校能够衡量真实的能力，而非仅仅是记忆力。目标是让年轻人具备自主性与持续学习的主动性，从而让课程结束并不意味着教育的终止。"
       },
       {
-        en: "The remedy is neither censorship nor despair. Educators advocate teaching students to be skeptical without becoming cynical: to ask who produced a claim, what evidence supports it, and whether the source is authentic. Platforms, for their part, are under growing pressure to increase transparency about how their algorithms rank content. Such habits will not eliminate lies, but they can prompt millions of readers to think twice before believing them.",
-        cn: "解药既不是审查，也不是绝望。教育者主张教学生做到怀疑而不愤世嫉俗：追问是谁发布了这个说法、有什么证据支持它、来源是否真实可靠。平台方面则面临越来越大的压力，被要求提高算法内容排序机制的透明度。这些习惯无法消灭谎言，但足以促使数以百万计的读者在相信之前多想一遍。"
+        en: "By the end, most attain a level they never expected, and the low tuition removes the barrier that once excluded them. This new paradigm does not replace teachers but fosters a different kind of relationship between guide and learner. Education, in short, is no longer a place you visit but a companion you carry.",
+        cn: "到课程结束时，大多数人达到了自己从未预料的水平，而低廉的学费消除了曾经将他们排斥在外的障碍。这种新范式并非取代教师，而是培养指导者与学习者之间一种不同的关系。简言之，教育不再是你去拜访的一个场所，而是你随身携带的伙伴。"
       }
     ]
   },
   grammar: [
     {
-      q: "Media scholars have long been troubled by the fact ______ a correction seldom reaches the audience that saw the original rumour.",
+      q: "All things ______, the redesigned curriculum was finally judged a success by the review panel.",
       options: [
-        "which",
-        "that",
-        "what",
-        "why"
-      ],
-      answer: 1,
-      explain: "考点：同位语从句（名词性从句）与定语从句的区分。判断方法看两点：①从句本身是否完整；②从句与前面名词的逻辑关系。这里 a correction seldom reaches the audience... 是一个成分齐全的句子（主语 a correction、谓语 reaches、宾语 the audience 都不缺），而且它是在解释 the fact 的具体内容（这个「事实」就是「更正很少触达最初的受众」），所以它是同位语从句，必须用只起连接作用、不充当任何成分的 that，选 B。A 项 which 引导定语从句时必须在从句中作主语或宾语，而本句从句不缺成分，故排除；C 项 what 引导名词性从句时自身要作主语或宾语（相当于 the thing which），此处同样没有空位留给它；D 项 why 表原因，与 the fact 不构成同位关系（要用 why 得说 the reason why）。对比记忆：the fact that he lied（同位语从句，that 不作成分，去掉后从句仍完整）vs the lie that he told（定语从句，that 作 told 的宾语，去掉后从句缺宾语）。"
-    },
-    {
-      q: "By the time fact-checkers published their report, the fabricated story ______ more than two million times.",
-      options: [
-        "was shared",
-        "has been shared",
-        "had been shared",
-        "would share"
+        "consider",
+        "considering",
+        "considered",
+        "to consider"
       ],
       answer: 2,
-      explain: "考点：过去完成时 + 被动语态。本题需要两步判断。①时态：by the time 引导时间状语从句，从句谓语 published 用一般过去时，确立了一个「过去的时间点」；而主句动作（被转发两百多万次）发生在这个过去时间点之前，属于典型的「过去的过去」，必须用过去完成时 had done。②语态：主语 the fabricated story 是动作的承受者（故事是「被转发」的），与 share 构成被动关系，因此要用被动式，合起来即 had been shared，选 C。A 项 was shared 只是一般过去时被动，无法体现该动作先于 published 完成；B 项 has been shared 是现在完成时，与句中明确的过去时间框架冲突（现在完成时不能与明确的过去时间状语连用）；D 项 would share 既错在语态（主动），也不符合时间逻辑。记忆口诀：by the time + 一般过去时 → 主句用过去完成时；by the time + 一般现在时 → 主句用将来完成时（如 By the time you arrive, we will have finished）。"
+      explain: "考点：非谓语动词——独立主格结构中的过去分词。句子的主语是 the redesigned curriculum，而 consider 的逻辑主语是 all things（「所有情况被考虑之后」），二者并不一致，于是构成名词 + 非谓语的独立主格，作全句状语。all things 与 consider 之间是被动关系（情况是被考虑的），因此必须用过去分词 considered，构成固定搭配 All things considered（总而言之 / 全盘考虑之后）。A 项 consider 是动词原形，不能充当状语；B 项 considering 是现在分词，表主动，但「情况」自己无法去「考虑」，逻辑不通；D 项 to consider 是不定式，通常表示将来或目的，而此处动作显然已经完成，故不选。记忆：All things considered、All being well、Weather permitting 都是「名词 + 非谓语」构成的独立主格，常置于句首作状语。"
+    },
+    {
+      q: "______ distinguishes a good school from a great one is not its facilities but the quality of its teaching.",
+      options: [
+        "What",
+        "That",
+        "Which",
+        "It"
+      ],
+      answer: 0,
+      explain: "考点：名词性从句——主语从句。谓语动词是 distinguishes，它前面需要一个能充当主语的成分；这里前面是一个从句，因此是主语从句。what 引导主语从句时，在从句中充当主语或宾语（相当于 the thing that / 那些……的东西），本句中 what distinguishes a good school from a great one 意为「把好学校与顶尖学校区分开来的东西」，在句中作主语，选 A。B 项 that 引导主语从句时只起连接作用、不在从句中充当任何成分，而本句从句明显缺主语（distinguishes 前没有主语），所以 that 不行；C 项 which 意为「哪一个」，需要在给定范围内做出选择，此处并无范围，排除；D 项 It 若填入会成为 It distinguishes... is not...，造成句式杂糅——要么用 It is teaching that matters 这种强调句，要么用 what 引导的主语从句，不能混用。对比记忆：What matters is teaching（主语从句，what 作主语）vs It is teaching that matters（强调句，that 不作成分）。"
     }
   ]
 };
