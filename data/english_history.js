@@ -29,5 +29,11 @@ window.ENGLISH_HISTORY = [
     topic: "Education（教育）",
     articleTitle: "Reimagining Education for a Changing World",
     words: ["acquire","attain","beneficial","comprehend","discipline","disseminate","enroll","foster","illustrate","impart","methodology","pedagogy","pupil","rigorous","stimulate","tuition","learner","novice","proficient","academic","theoretical","practical","competency","enable","equip","initiative","mentor","paradigm","autonomy","thesis"]
+  },
+  {
+    date: "2026-08-10",
+    topic: "Wildlife Conservation（野生动物保护）",
+    articleTitle: "Saving What Remains of the Wild",
+    words: ["habitat","biodiversity","ecosystem","species","endangered","extinction","conservation","sanctuary","poach","predator","prey","migrate","captivity","breed","thrive","dwindle","deforestation","encroach","depletion","scarcity","sustainable","resilience","fragile","jeopardize","exploit","eradicate","relocate","curb","enforce","surveillance"]
   }
 ];

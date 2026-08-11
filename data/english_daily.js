@@ -1,135 +1,137 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-08-06",
-  topic: "Education（教育）",
+  date: "2026-08-10",
+  topic: "Wildlife Conservation（野生动物保护）",
   article: {
-    title: "Reimagining Education for a Changing World",
-    titleCn: "为变革世界重塑教育",
+    title: "Saving What Remains of the Wild",
+    titleCn: "拯救荒野最后的余存",
     paras: [
       {
-        en: "For most of the past century, schools measured success chiefly by how much factual knowledge a pupil could recall in an exam. Yet the world that today's learners are entering no longer rewards mere memory. Employers increasingly value the ability to solve unfamiliar problems, work with people from different backgrounds, and keep learning long after leaving the classroom. This shift has forced educators to question assumptions that went unchallenged for generations.",
-        cn: "在过去的大半个世纪里，学校衡量成功的主要标准，是学生在考试中能回忆起多少事实性知识。然而，如今的学子所面对的世界，已不再嘉奖单纯的记忆。雇主越来越看重解决陌生问题、与不同背景的人协作、以及在离开课堂后仍能持续学习的能力。这种转变迫使教育者去质疑那些曾历经数代都未被挑战的假定。"
+        en: "Across the planet, wild animals are disappearing at a rate that alarms even cautious scientists. Roads, farms and cities steadily encroach on land that once belonged to elephants, tigers and countless smaller species. As habitat shrinks, populations become isolated, and small isolated groups struggle to breed successfully. What begins as a local loss can end in extinction, quietly removing a strand from an ecosystem that took millions of years to weave.",
+        cn: "在全球各地，野生动物正以一种连谨慎的科学家都感到警觉的速度消失。道路、农场和城市不断蚕食着那些曾属于大象、老虎以及无数更小物种的土地。随着栖息地萎缩，种群变得彼此隔绝，而小而孤立的族群很难成功繁殖。起初只是局部的损失，最终却可能演变为灭绝，悄无声息地从一个耗费数百万年才编织成形的生态系统中抽走一缕丝线。"
       },
       {
-        en: "Technology has become the most visible driver of change. Online platforms now disseminate lectures from leading universities to anyone with an internet connection, while simulation tools let students experiment safely with complex systems. Such resources do not replace teachers, but they do equip classrooms with material that once reached only a privileged few. Critics warn, however, that unequal access may widen the gap between those who can benefit and those left behind.",
-        cn: "技术已成为这场变革中最显眼的推动因素。在线平台如今把顶尖大学的课程传播给任何有网络连接的人，而模拟工具让学生能够安全地试验复杂系统。这些资源不会取代教师，却确实为课堂配备了曾经只惠及少数特权群体的材料。然而批评者警告说，不均衡的获取机会可能会拉大受益者与落后者之间的差距。"
+        en: "Hunting remains the most visible threat. Criminal networks poach rhinos and pangolins for markets thousands of miles away, and profits are large enough to tempt communities with few alternatives. Governments have responded by arming rangers and installing surveillance cameras in remote reserves. Yet enforcement alone rarely works. Unless local people gain a genuine share of the benefits, they have little reason to protect animals that damage their crops.",
+        cn: "捕猎仍是最显而易见的威胁。犯罪网络为了数千英里之外的市场而偷猎犀牛和穿山甲，其利润之丰厚，足以引诱那些别无出路的社区参与其中。各国政府的应对之策是为巡护员配备武器，并在偏远保护区安装监控摄像头。然而，仅靠执法很少奏效。除非当地民众能真正分享到保护带来的收益，否则他们几乎没有理由去保护那些糟蹋自家庄稼的动物。"
       },
       {
-        en: "Attention has also turned to assessment itself. Traditional exams, taken once and graded anonymously, capture only a narrow slice of what a learner can do. Many systems are therefore piloting continuous evaluation, where pupils build portfolios that illustrate their progress over time. This approach aims to foster deeper comprehension rather than last-minute cramming, and it gives teachers clearer signals about which concepts a student has yet to master.",
-        cn: "人们的注意力也转向了考核本身。传统考试只考一次、匿名评分，只能捕捉到学习者能力中很窄的一片。因此，许多体系正在试行持续性评价，让学生建立能展现其长期进步的作品集。这种做法旨在培养更深层的理解力，而非临考前的填鸭突击，也为教师提供了更清晰的信号，知道学生还有哪些概念尚未掌握。"
+        en: "Conservation science has therefore shifted its focus from single species to whole landscapes. Corridors of forest now link fragmented reserves, allowing herds to migrate between feeding grounds and reducing the genetic risks of isolation. Where numbers have dwindled dangerously, captive breeding offers a temporary refuge, though animals raised in captivity often lack the skills to survive once released. The safest strategy is still to keep wild populations wild.",
+        cn: "因此，保护科学已把重心从单一物种转向了整片地景。一条条森林走廊如今把碎片化的保护区连接起来，让兽群得以在各处觅食地之间迁徙，同时降低隔离带来的基因风险。在数量已危险地锐减之处，人工圈养繁育提供了一个临时的避难所，尽管在圈养环境中长大的动物往往缺乏放归后赖以生存的技能。最稳妥的策略，依然是让野外种群保持野性。"
       },
       {
-        en: "Perhaps the deepest change is the move from education as a stage to education as a habit. As careers fragment and industries evolve, workers must repeatedly acquire new competencies just to remain relevant. Governments and firms alike are funding retraining schemes that blend academic study with practical mentoring. Whether this reimagined model reaches every pupil remains uncertain, but the direction is clear: learning, once confined to youth, has become a lifelong pursuit.",
-        cn: "或许最深刻的变化，是把教育从人生的一个阶段转变为一种习惯。随着职业的碎片化与行业的演变，劳动者必须反复习得新的能力，才能不被淘汰。政府与企业的共同做法是资助再培训计划，把学术学习与实际指导结合起来。这种被重新构想的模式能否惠及每个学生尚不确定，但方向是明确的：学习曾经局限于青年时期，如今已成为终身的追求。"
+        en: "Success stories do exist. Mountain gorillas, once written off as doomed, have slowly recovered because tourism gave villagers a stake in their survival. Such examples suggest that biodiversity is not a luxury for wealthy nations but a shared foundation of food, medicine and climate stability. Protecting it demands patience, funding and honesty about trade-offs. The alternative is a poorer world, and one we cannot rebuild once it is gone.",
+        cn: "成功的案例确实存在。山地大猩猩一度被判定注定灭绝，如今却缓慢地恢复了，因为旅游业让村民在它们的存续中拥有了切身利益。这类例子表明，生物多样性并非富裕国家的奢侈品，而是食物、药物与气候稳定的共同基石。守护它需要耐心、资金，以及对取舍代价的坦诚。另一种结局，则是一个更加贫瘠的世界——而它一旦消失，我们便再也无法重建。"
       }
     ],
     glossary: [
-      { w: "recall", pos: "v.", p: "/rɪˈkɔːl/", cn: "回忆，回想" },
-      { w: "assumption", pos: "n.", p: "/əˈsʌmpʃn/", cn: "假设，假定" },
-      { w: "unchallenged", pos: "adj.", p: "/ʌnˈtʃælɪndʒd/", cn: "未受质疑的" },
-      { w: "merely", pos: "adv.", p: "/ˈmɪəli/", cn: "仅仅，只不过" },
-      { w: "driver", pos: "n.", p: "/ˈdraɪvə(r)/", cn: "推动因素，驱动力" },
-      { w: "disseminate", pos: "v.", p: "/dɪˈsemɪneɪt/", cn: "传播，散布" },
-      { w: "simulation", pos: "n.", p: "/ˌsɪmjuˈleɪʃn/", cn: "模拟，仿真" },
-      { w: "privileged", pos: "adj.", p: "/ˈprɪvəlɪdʒd/", cn: "享有特权的" },
-      { w: "unequal", pos: "adj.", p: "/ʌnˈiːkwəl/", cn: "不平等的" },
-      { w: "assessment", pos: "n.", p: "/əˈsesmənt/", cn: "评估，考评" },
-      { w: "portfolio", pos: "n.", p: "/pɔːtˈfəʊliəʊ/", cn: "作品集，学习档案" },
-      { w: "illustrate", pos: "v.", p: "/ˈɪləstreɪt/", cn: "说明，阐明" },
-      { w: "comprehension", pos: "n.", p: "/ˌkɒmprɪˈhenʃn/", cn: "理解，领悟" },
-      { w: "foster", pos: "v.", p: "/ˈfɒstə(r)/", cn: "培养，促进" },
-      { w: "cramming", pos: "n.", p: "/ˈkræmɪŋ/", cn: "填鸭式突击学习" },
-      { w: "acquire", pos: "v.", p: "/əˈkwaɪə(r)/", cn: "获得，习得" },
-      { w: "competency", pos: "n.", p: "/ˈkɒmpɪtənsi/", cn: "能力，胜任力" },
-      { w: "relevant", pos: "adj.", p: "/ˈreləvənt/", cn: "相关的，切题的" },
-      { w: "fragment", pos: "v.", p: "/ˈfræɡment/", cn: "分裂，碎片化" },
-      { w: "academic", pos: "adj.", p: "/ˌækəˈdemɪk/", cn: "学术的，学业的" },
-      { w: "practical", pos: "adj.", p: "/ˈpræktɪkl/", cn: "实用的，实际的" },
-      { w: "mentoring", pos: "n.", p: "/ˈmentɔːrɪŋ/", cn: "指导，导师制" },
-      { w: "confined", pos: "adj.", p: "/kənˈfaɪnd/", cn: "受限的，被限制的" },
-      { w: "lifelong", pos: "adj.", p: "/ˈlaɪflɒŋ/", cn: "终身的" },
-      { w: "pursuit", pos: "n.", p: "/pəˈsjuːt/", cn: "追求，从事" },
-      { w: "pupil", pos: "n.", p: "/ˈpjuːpl/", cn: "学生，小学生" },
-      { w: "learner", pos: "n.", p: "/ˈlɜːnə(r)/", cn: "学习者" },
-      { w: "continuous", pos: "adj.", p: "/kənˈtɪnjuəs/", cn: "持续的，连续的" }
+      { w: "alarm", pos: "v.", p: "/əˈlɑːm/", cn: "使警觉，使担忧" },
+      { w: "cautious", pos: "adj.", p: "/ˈkɔːʃəs/", cn: "谨慎的，小心的" },
+      { w: "encroach", pos: "v.", p: "/ɪnˈkrəʊtʃ/", cn: "侵占，蚕食" },
+      { w: "countless", pos: "adj.", p: "/ˈkaʊntləs/", cn: "无数的" },
+      { w: "habitat", pos: "n.", p: "/ˈhæbɪtæt/", cn: "栖息地" },
+      { w: "isolated", pos: "adj.", p: "/ˈaɪsəleɪtɪd/", cn: "孤立的，隔绝的" },
+      { w: "breed", pos: "v.", p: "/briːd/", cn: "繁殖，育种" },
+      { w: "extinction", pos: "n.", p: "/ɪkˈstɪŋkʃn/", cn: "灭绝" },
+      { w: "strand", pos: "n.", p: "/strænd/", cn: "一缕，一股（此处喻生态网中的一环）" },
+      { w: "ecosystem", pos: "n.", p: "/ˈiːkəʊsɪstəm/", cn: "生态系统" },
+      { w: "weave", pos: "v.", p: "/wiːv/", cn: "编织，交织" },
+      { w: "poach", pos: "v.", p: "/pəʊtʃ/", cn: "偷猎，盗猎" },
+      { w: "pangolin", pos: "n.", p: "/ˈpæŋɡəlɪn/", cn: "穿山甲" },
+      { w: "tempt", pos: "v.", p: "/tempt/", cn: "引诱，诱使" },
+      { w: "ranger", pos: "n.", p: "/ˈreɪndʒə(r)/", cn: "巡护员，护林员" },
+      { w: "surveillance", pos: "n.", p: "/səˈveɪləns/", cn: "监控，监视" },
+      { w: "reserve", pos: "n.", p: "/rɪˈzɜːv/", cn: "自然保护区" },
+      { w: "enforcement", pos: "n.", p: "/ɪnˈfɔːsmənt/", cn: "执法，强制执行" },
+      { w: "genuine", pos: "adj.", p: "/ˈdʒenjuɪn/", cn: "真正的，名副其实的" },
+      { w: "corridor", pos: "n.", p: "/ˈkɒrɪdɔː(r)/", cn: "走廊，通道" },
+      { w: "fragmented", pos: "adj.", p: "/fræɡˈmentɪd/", cn: "碎片化的，支离破碎的" },
+      { w: "migrate", pos: "v.", p: "/maɪˈɡreɪt/", cn: "迁徙，迁移" },
+      { w: "genetic", pos: "adj.", p: "/dʒəˈnetɪk/", cn: "基因的，遗传的" },
+      { w: "dwindle", pos: "v.", p: "/ˈdwɪndl/", cn: "逐渐减少，缩减" },
+      { w: "captive", pos: "adj.", p: "/ˈkæptɪv/", cn: "圈养的，被囚的" },
+      { w: "captivity", pos: "n.", p: "/kæpˈtɪvəti/", cn: "圈养，囚禁状态" },
+      { w: "refuge", pos: "n.", p: "/ˈrefjuːdʒ/", cn: "避难所，庇护" },
+      { w: "doomed", pos: "adj.", p: "/duːmd/", cn: "注定失败的，在劫难逃的" },
+      { w: "stake", pos: "n.", p: "/steɪk/", cn: "利害关系，切身利益" },
+      { w: "trade-off", pos: "n.", p: "/ˈtreɪd ɒf/", cn: "权衡，取舍" }
     ]
   },
   words: [
-    { w: "acquire", pos: "v.", p: "/əˈkwaɪə(r)/", cn: "获得，习得", ex: "Children acquire language naturally through daily interaction.", exCn: "儿童通过日常互动自然地习得语言。" },
-    { w: "attain", pos: "v.", p: "/əˈteɪn/", cn: "达到，获得（目标）", ex: "Few students attain perfect scores without consistent effort.", exCn: "很少有学生不付出持续努力就能拿到满分。" },
-    { w: "beneficial", pos: "adj.", p: "/ˌbenɪˈfɪʃl/", cn: "有益的，有利的", ex: "Group discussion is beneficial to critical thinking.", exCn: "小组讨论对批判性思维有益。" },
-    { w: "comprehend", pos: "v.", p: "/ˌkɒmprɪˈhend/", cn: "理解，领会", ex: "It took her weeks to comprehend the theory fully.", exCn: "她花了数周才完全理解这个理论。" },
-    { w: "discipline", pos: "n.", p: "/ˈdɪsəplɪn/", cn: "学科；纪律", ex: "Each academic discipline has its own research methods.", exCn: "每一门学科都有其自身的研究方法。" },
-    { w: "disseminate", pos: "v.", p: "/dɪˈsemɪneɪt/", cn: "传播，散布", ex: "Universities disseminate knowledge through both teaching and publication.", exCn: "大学通过教学与出版两种方式传播知识。" },
-    { w: "enroll", pos: "v.", p: "/ɪnˈrəʊl/", cn: "招收；注册入学", ex: "The college enrolled a record number of international pupils.", exCn: "这所学院招收了创纪录数量的国际学生。" },
-    { w: "foster", pos: "v.", p: "/ˈfɒstə(r)/", cn: "培养，促进", ex: "Good teachers foster curiosity rather than fear of failure.", exCn: "好老师培养好奇心，而不是对失败的恐惧。" },
-    { w: "illustrate", pos: "v.", p: "/ˈɪləstreɪt/", cn: "说明，阐明", ex: "The case study illustrates how poverty affects learning.", exCn: "这个案例研究说明了贫困如何影响学习。" },
-    { w: "impart", pos: "v.", p: "/ɪmˈpɑːt/", cn: "传授，告知", ex: "A great lecture imparts both facts and perspective.", exCn: "一场精彩的讲座既传授事实，也传递视角。" },
-    { w: "methodology", pos: "n.", p: "/ˌmeθəˈdɒlədʒi/", cn: "方法学，方法论", ex: "The study's methodology was praised by independent reviewers.", exCn: "这项研究的方法论受到独立评审者的称赞。" },
-    { w: "pedagogy", pos: "n.", p: "/ˈpedəɡɒdʒi/", cn: "教学法，教育学", ex: "Modern pedagogy favours active participation over passive listening.", exCn: "现代教学法偏好主动参与，而非被动听讲。" },
-    { w: "pupil", pos: "n.", p: "/ˈpjuːpl/", cn: "学生，小学生", ex: "The teacher knew every pupil's strengths and weaknesses.", exCn: "这位老师了解每个学生的长处与短处。" },
-    { w: "rigorous", pos: "adj.", p: "/ˈrɪɡərəs/", cn: "严谨的，严格的", ex: "Scientific training demands rigorous observation and testing.", exCn: "科学训练要求严谨的观察与检验。" },
-    { w: "stimulate", pos: "v.", p: "/ˈstɪmjuleɪt/", cn: "刺激，激发", ex: "Open questions stimulate deeper classroom debate.", exCn: "开放式问题能激发更深的课堂讨论。" },
-    { w: "tuition", pos: "n.", p: "/tjuˈɪʃn/", cn: "学费；教学", ex: "Rising tuition has made higher education a heavy burden.", exCn: "不断上涨的学费让高等教育成为沉重负担。" },
-    { w: "learner", pos: "n.", p: "/ˈlɜːnə(r)/", cn: "学习者", ex: "Every learner progresses at a slightly different pace.", exCn: "每个学习者进步的节奏都略有不同。" },
-    { w: "novice", pos: "n.", p: "/ˈnɒvɪs/", cn: "新手，初学者", ex: "Even a novice can master the basics within a month.", exCn: "即便是新手，也能在一个月内掌握基础知识。" },
-    { w: "proficient", pos: "adj.", p: "/prəˈfɪʃnt/", cn: "熟练的，精通的", ex: "She became proficient in three languages by age twelve.", exCn: "她十二岁时已精通三门语言。" },
-    { w: "academic", pos: "adj.", p: "/ˌækəˈdemɪk/", cn: "学术的，学业的", ex: "His academic record earned him a place at a top university.", exCn: "他的学业成绩让他进入了顶尖大学。" },
-    { w: "theoretical", pos: "adj.", p: "/ˌθɪəˈretɪkl/", cn: "理论的", ex: "The course balances theoretical study with hands-on practice.", exCn: "这门课将理论学习与动手实践相结合。" },
-    { w: "practical", pos: "adj.", p: "/ˈpræktɪkl/", cn: "实用的，实际的", ex: "Practical skills often matter more than grades in the workplace.", exCn: "在职场上，实用技能往往比分数更重要。" },
-    { w: "competency", pos: "n.", p: "/ˈkɒmpɪtənsi/", cn: "能力，胜任力", ex: "Communication is a core competency for future leaders.", exCn: "沟通是未来领导者的核心能力。" },
-    { w: "enable", pos: "v.", p: "/ɪˈneɪbl/", cn: "使能够，使成为可能", ex: "Scholarships enable talented pupils from poor families to study.", exCn: "奖学金让贫困家庭的优秀学生得以求学。" },
-    { w: "equip", pos: "v.", p: "/ɪˈkwɪp/", cn: "装备；使具备（equip with）", ex: "Schools should equip students with digital literacy.", exCn: "学校应当让学生具备数字素养。" },
-    { w: "initiative", pos: "n.", p: "/ɪˈnɪʃətɪv/", cn: "主动性；倡议", ex: "The government launched an initiative to cut dropout rates.", exCn: "政府发起了一项降低辍学率的倡议。" },
-    { w: "mentor", pos: "n./v.", p: "/ˈmentɔː(r)/", cn: "导师；指导", ex: "A senior researcher mentored her through the first year.", exCn: "一位资深研究者在第一年指导了她。" },
-    { w: "paradigm", pos: "n.", p: "/ˈpærədaɪm/", cn: "范式，模式", ex: "Online learning shifted the paradigm of traditional schooling.", exCn: "在线学习改变了传统学校的范式。" },
-    { w: "autonomy", pos: "n.", p: "/ɔːˈtɒnəmi/", cn: "自主权，自主性", ex: "Older pupils deserve more autonomy in choosing subjects.", exCn: "高年级学生理应在选课上拥有更多自主权。" },
-    { w: "thesis", pos: "n.", p: "/ˈθiːsɪs/", cn: "论文；论点", ex: "Her thesis argues that play improves early learning.", exCn: "她的论文主张游戏能促进早期学习。" }
+    { w: "habitat", pos: "n.", p: "/ˈhæbɪtæt/", cn: "栖息地，生境", ex: "Logging has destroyed the habitat of hundreds of forest birds.", exCn: "伐木已经毁掉了数百种森林鸟类的栖息地。" },
+    { w: "biodiversity", pos: "n.", p: "/ˌbaɪəʊdaɪˈvɜːsəti/", cn: "生物多样性", ex: "Tropical reefs hold more biodiversity than any other marine zone.", exCn: "热带珊瑚礁拥有比其他任何海洋区域都丰富的生物多样性。" },
+    { w: "ecosystem", pos: "n.", p: "/ˈiːkəʊsɪstəm/", cn: "生态系统", ex: "Removing one predator can unbalance an entire ecosystem.", exCn: "移除一种捕食者就可能让整个生态系统失衡。" },
+    { w: "species", pos: "n.", p: "/ˈspiːʃiːz/", cn: "物种（单复数同形）", ex: "Over a thousand species were recorded during the survey.", exCn: "此次调查中记录到一千多个物种。" },
+    { w: "endangered", pos: "adj.", p: "/ɪnˈdeɪndʒəd/", cn: "濒危的", ex: "The snow leopard is listed as an endangered animal.", exCn: "雪豹被列为濒危动物。" },
+    { w: "extinction", pos: "n.", p: "/ɪkˈstɪŋkʃn/", cn: "灭绝，绝种", ex: "Hunting drove the bird to extinction within fifty years.", exCn: "捕猎让这种鸟在五十年内走向灭绝。" },
+    { w: "conservation", pos: "n.", p: "/ˌkɒnsəˈveɪʃn/", cn: "保护，保育", ex: "Wildlife conservation depends on stable long-term funding.", exCn: "野生动物保护依赖稳定的长期资金。" },
+    { w: "sanctuary", pos: "n.", p: "/ˈsæŋktʃuəri/", cn: "保护区，庇护所", ex: "The island became a sanctuary for nesting seabirds.", exCn: "这座岛成了筑巢海鸟的庇护所。" },
+    { w: "poach", pos: "v.", p: "/pəʊtʃ/", cn: "偷猎，盗猎", ex: "Gangs poach elephants for ivory despite heavy penalties.", exCn: "尽管刑罚严厉，犯罪团伙仍为象牙而偷猎大象。" },
+    { w: "predator", pos: "n.", p: "/ˈpredətə(r)/", cn: "捕食者，天敌", ex: "Wolves are the main predator of deer in this valley.", exCn: "狼是这个山谷中鹿的主要天敌。" },
+    { w: "prey", pos: "n./v.", p: "/preɪ/", cn: "猎物；捕食（prey on）", ex: "Owls hunt small prey such as mice at night.", exCn: "猫头鹰在夜间捕食老鼠之类的小型猎物。" },
+    { w: "migrate", pos: "v.", p: "/maɪˈɡreɪt/", cn: "迁徙，迁移", ex: "Millions of birds migrate south before winter arrives.", exCn: "数百万只鸟在冬天到来前向南迁徙。" },
+    { w: "captivity", pos: "n.", p: "/kæpˈtɪvəti/", cn: "圈养，囚禁状态", ex: "Pandas born in captivity rarely learn to find food alone.", exCn: "圈养出生的熊猫很少学会独自觅食。" },
+    { w: "breed", pos: "v./n.", p: "/briːd/", cn: "繁殖；品种", ex: "These turtles only breed on the beach where they hatched.", exCn: "这些海龟只在自己孵化的那片沙滩上繁殖。" },
+    { w: "thrive", pos: "v.", p: "/θraɪv/", cn: "兴盛，茁壮成长", ex: "Coral can thrive again if water temperatures fall.", exCn: "如果水温下降，珊瑚可以重新繁盛起来。" },
+    { w: "dwindle", pos: "v.", p: "/ˈdwɪndl/", cn: "逐渐减少，缩减", ex: "The herd has dwindled from two thousand to sixty.", exCn: "这个兽群已从两千头减少到六十头。" },
+    { w: "deforestation", pos: "n.", p: "/ˌdiːˌfɒrɪˈsteɪʃn/", cn: "森林砍伐", ex: "Deforestation releases carbon and destroys shelter at once.", exCn: "森林砍伐既释放碳，又同时摧毁了动物的庇护所。" },
+    { w: "encroach", pos: "v.", p: "/ɪnˈkrəʊtʃ/", cn: "侵占，蚕食（encroach on）", ex: "New plantations encroach on the last lowland forest.", exCn: "新的种植园正在侵占最后的低地森林。" },
+    { w: "depletion", pos: "n.", p: "/dɪˈpliːʃn/", cn: "枯竭，耗尽", ex: "Fish stocks face depletion after decades of trawling.", exCn: "经过数十年的拖网捕捞，鱼类种群面临枯竭。" },
+    { w: "scarcity", pos: "n.", p: "/ˈskeəsəti/", cn: "稀缺，短缺", ex: "Water scarcity pushes wild animals towards farmland.", exCn: "水资源短缺把野生动物逼向农田。" },
+    { w: "sustainable", pos: "adj.", p: "/səˈsteɪnəbl/", cn: "可持续的", ex: "Only sustainable fishing quotas can save the industry.", exCn: "只有可持续的捕捞配额才能拯救这个行业。" },
+    { w: "resilience", pos: "n.", p: "/rɪˈzɪliəns/", cn: "恢复力，韧性", ex: "Diverse forests show greater resilience to disease.", exCn: "多样化的森林对病害表现出更强的恢复力。" },
+    { w: "fragile", pos: "adj.", p: "/ˈfrædʒaɪl/", cn: "脆弱的，易损的", ex: "Desert ecosystems are surprisingly fragile.", exCn: "沙漠生态系统脆弱得令人意外。" },
+    { w: "jeopardize", pos: "v.", p: "/ˈdʒepədaɪz/", cn: "危及，损害", ex: "Building a dam here would jeopardize the salmon run.", exCn: "在此建坝会危及鲑鱼的洄游。" },
+    { w: "exploit", pos: "v.", p: "/ɪkˈsplɔɪt/", cn: "开发利用；剥削", ex: "Communities exploit the forest because no other income exists.", exCn: "社区之所以开发利用森林，是因为没有别的收入来源。" },
+    { w: "eradicate", pos: "v.", p: "/ɪˈrædɪkeɪt/", cn: "根除，彻底消灭", ex: "It is difficult to eradicate a trade that is so profitable.", exCn: "要根除一项如此有利可图的交易十分困难。" },
+    { w: "relocate", pos: "v.", p: "/ˌriːləʊˈkeɪt/", cn: "迁移，重新安置", ex: "Rangers relocated the rhinos to a guarded reserve.", exCn: "巡护员把犀牛迁移到了有人守卫的保护区。" },
+    { w: "curb", pos: "v./n.", p: "/kɜːb/", cn: "抑制，控制", ex: "Strict quotas helped curb illegal logging.", exCn: "严格的配额有助于抑制非法伐木。" },
+    { w: "enforce", pos: "v.", p: "/ɪnˈfɔːs/", cn: "执行，强制实施（法律）", ex: "Few countries enforce these rules consistently.", exCn: "很少有国家能持续地执行这些规定。" },
+    { w: "surveillance", pos: "n.", p: "/səˈveɪləns/", cn: "监控，监视", ex: "Drone surveillance now covers the whole national park.", exCn: "无人机监控如今覆盖了整个国家公园。" }
   ],
   vocabArticle: {
-    title: "Building a School That Travels With You",
-    titleCn: "随身而行的学校",
+    title: "The Last Corridor",
+    titleCn: "最后的通道",
     paras: [
       {
-        en: "Maria, a lifelong learner, enrolled in an online programme that disseminates knowledge far beyond any single campus. A patient mentor imparts not only facts but also the discipline to study alone. Through short daily lessons, every pupil can acquire the basics at their own pace, and the method proves especially beneficial for those who once feared formal classrooms.",
-        cn: "玛丽亚是一名终身学习者，她报名了一个在线课程，这个课程传播的知识远超任何单一校园。一位耐心的导师不仅传授事实，也传授独自学习的自律。通过每天简短的课程，每个学生都能按照自己的节奏习得基础知识，而这种方法对那些曾经害怕正规课堂的人尤其有益。"
+        en: "In the highlands of Borneo, deforestation has cut the forest into islands, and each year the remaining habitat continues to dwindle. Farms encroach on the edges, while logging roads open easy paths for anyone willing to poach. Scientists warn that the depletion of old trees threatens an entire ecosystem, and that several endangered species now face extinction within a single generation.",
+        cn: "在婆罗洲的高地上，森林砍伐把林区切割成了一座座孤岛，而剩余的栖息地每年都在继续缩减。农场从边缘不断蚕食，伐木道路则为任何想偷猎的人打开了便捷通路。科学家警告说，古树的枯竭正威胁着整个生态系统，而好几种濒危物种如今可能在一代人的时间内就走向灭绝。"
       },
       {
-        en: "The platform's pedagogy favours active tasks over long lectures, and its methodology blends theoretical reading with practical projects. To stimulate deeper thought, tutors use real cases to illustrate abstract ideas, helping even a novice comprehend concepts that once seemed distant. Over months, repeated practice turns the hesitant beginner into a proficient user of the language.",
-        cn: "该平台的教学法偏爱主动任务而非长篇讲座，其方法论将理论阅读与实操项目相结合。为激发更深层的思考，辅导老师用真实案例来阐明抽象概念，帮助即便是新手也能理解那些曾显得遥远的理念。几个月后，反复练习让这名犹豫的初学者变成了熟练的语言使用者。"
+        en: "A new conservation plan aims to reverse this. A protected sanctuary links three fragmented valleys so that elephants can migrate safely between them, and rangers use night surveillance to curb illegal hunting. Local courts have agreed to enforce tougher penalties, hoping to eradicate the ivory trade before the population becomes too fragile to recover.",
+        cn: "一项新的保护计划试图扭转这一局面。一个受保护的庇护区把三条支离破碎的山谷连接起来，使大象能够在其间安全迁徙，而巡护员则利用夜间监控来遏制非法狩猎。当地法院已同意执行更严厉的刑罚，希望在这一种群脆弱到无法恢复之前，根除象牙贸易。"
       },
       {
-        en: "Assessment stays rigorous: learners must write an academic essay and defend a short thesis before advancing. Such tasks enable the school to measure real competency rather than memory alone. The goal is to equip young people with autonomy and the initiative to keep learning, so that leaving the course does not mean the end of education.",
-        cn: "考核依旧严格：学习者必须写一篇学术论文，并为简短的论点答辩才能晋级。这类任务让学校能够衡量真实的能力，而非仅仅是记忆力。目标是让年轻人具备自主性与持续学习的主动性，从而让课程结束并不意味着教育的终止。"
+        en: "The plan also addresses food. Where prey animals have vanished, every predator struggles, and hungry cats raid villages instead. By restoring grassland, planners hope both groups will thrive again. A small number of orphaned cubs are kept in captivity and taught to hunt before teams relocate them to safer valleys, though few survive their first year in the wild.",
+        cn: "该计划还着手解决食物问题。在猎物动物消失的地方，每一种捕食者都举步维艰，饥饿的猫科动物转而袭击村庄。通过恢复草地，规划者希望这两个群体都能重新繁盛。少量失去母亲的幼崽被人工圈养并接受捕猎训练，随后由团队把它们迁移到更安全的山谷，尽管其中能熬过野外第一年的寥寥无几。"
       },
       {
-        en: "By the end, most attain a level they never expected, and the low tuition removes the barrier that once excluded them. This new paradigm does not replace teachers but fosters a different kind of relationship between guide and learner. Education, in short, is no longer a place you visit but a companion you carry.",
-        cn: "到课程结束时，大多数人达到了自己从未预料的水平，而低廉的学费消除了曾经将他们排斥在外的障碍。这种新范式并非取代教师，而是培养指导者与学习者之间一种不同的关系。简言之，教育不再是你去拜访的一个场所，而是你随身携带的伙伴。"
+        en: "None of this succeeds unless people benefit. Villagers who once had to exploit the forest now earn wages as guides, and a scarcity of jobs no longer forces them to jeopardize the animals they live beside. Protecting biodiversity in a sustainable way builds resilience for everyone, and the herds have quietly begun to breed once more.",
+        cn: "如果当地人无法受益，这一切都不会成功。曾经不得不靠开发森林为生的村民，如今做向导拿工资，就业机会的稀缺不再迫使他们去危害与自己比邻而居的动物。以可持续的方式守护生物多样性，为所有人构筑起韧性；而那些兽群，也已悄然重新开始繁衍。"
       }
     ]
   },
   grammar: [
     {
-      q: "All things ______, the redesigned curriculum was finally judged a success by the review panel.",
+      q: "Scientists are alarmed by the speed ______ tropical forests are being cleared for farmland.",
       options: [
-        "consider",
-        "considering",
-        "considered",
-        "to consider"
+        "which",
+        "at which",
+        "where",
+        "what"
       ],
-      answer: 2,
-      explain: "考点：非谓语动词——独立主格结构中的过去分词。句子的主语是 the redesigned curriculum，而 consider 的逻辑主语是 all things（「所有情况被考虑之后」），二者并不一致，于是构成名词 + 非谓语的独立主格，作全句状语。all things 与 consider 之间是被动关系（情况是被考虑的），因此必须用过去分词 considered，构成固定搭配 All things considered（总而言之 / 全盘考虑之后）。A 项 consider 是动词原形，不能充当状语；B 项 considering 是现在分词，表主动，但「情况」自己无法去「考虑」，逻辑不通；D 项 to consider 是不定式，通常表示将来或目的，而此处动作显然已经完成，故不选。记忆：All things considered、All being well、Weather permitting 都是「名词 + 非谓语」构成的独立主格，常置于句首作状语。"
+      answer: 1,
+      explain: "考点：定语从句——「介词 + 关系代词 which」。先行词是 the speed（速度），后面是一个修饰它的定语从句。判断是否需要加介词，最简单的办法是把从句还原成独立句子：tropical forests are being cleared for farmland at that speed（热带雨林正以那样的速度被清除为农田）。可以看到 speed 在从句中是介词 at 的宾语，介词不能凭空消失，所以必须写成 at which（也可写成 which ... at，但把介词提前更正式，雅思写作与阅读中极常见）。A 项 which 单独使用时只能作从句的主语或及物动词的宾语，而本句从句 are being cleared 是被动结构，主语已是 forests，不缺主语也不缺动词宾语，缺的正是那个介词短语，故不能只用 which。C 项 where 相当于 in/at + which，但它只能修饰表示地点的先行词，speed 是抽象概念而非地点，不能用 where。D 项 what 不能引导定语从句（它不能有先行词），只能引导名词性从句，直接排除。同类高频搭配还有：the extent to which（……的程度）、the way in which（……的方式）、the rate at which（……的速率）、the reason for which（……的原因），建议整组背下来。"
     },
     {
-      q: "______ distinguishes a good school from a great one is not its facilities but the quality of its teaching.",
+      q: "The committee recommended that every reserve ______ equipped with night-vision cameras before the dry season.",
       options: [
-        "What",
-        "That",
-        "Which",
-        "It"
+        "is",
+        "was",
+        "be",
+        "would be"
       ],
-      answer: 0,
-      explain: "考点：名词性从句——主语从句。谓语动词是 distinguishes，它前面需要一个能充当主语的成分；这里前面是一个从句，因此是主语从句。what 引导主语从句时，在从句中充当主语或宾语（相当于 the thing that / 那些……的东西），本句中 what distinguishes a good school from a great one 意为「把好学校与顶尖学校区分开来的东西」，在句中作主语，选 A。B 项 that 引导主语从句时只起连接作用、不在从句中充当任何成分，而本句从句明显缺主语（distinguishes 前没有主语），所以 that 不行；C 项 which 意为「哪一个」，需要在给定范围内做出选择，此处并无范围，排除；D 项 It 若填入会成为 It distinguishes... is not...，造成句式杂糅——要么用 It is teaching that matters 这种强调句，要么用 what 引导的主语从句，不能混用。对比记忆：What matters is teaching（主语从句，what 作主语）vs It is teaching that matters（强调句，that 不作成分）。"
+      answer: 2,
+      explain: "考点：虚拟语气——表示「建议、要求、命令」的动词后接的宾语从句。当主句谓语是 recommend、suggest（表建议时）、demand、require、request、insist（表坚持要求时）、propose、order、urge 等词时，其后 that 引导的宾语从句必须使用虚拟语气，形式为 should + 动词原形，而且 should 通常省略，只剩下动词原形。本句从句主语是 every reserve（每个保护区），保护区是「被配备」摄像头，所以要用被动语态，完整形式是 should be equipped，省略 should 后即为 be equipped，选 C。A 项 is 是陈述语气的一般现在时，没有体现虚拟；B 项 was 是一般过去时，虽然主句 recommended 是过去式，但虚拟语气的从句不受主句时态影响，不存在时态呼应，这正是本题最大的干扰点；D 项 would be 用于条件句的主句（如 If... , it would be...），不用于这类建议从句。扩展记忆：同源的名词和形容词后面同样适用，如 It is essential/necessary/vital that the law (should) be enforced，以及 the recommendation that every reserve (should) be protected。另需注意 insist 和 suggest 的双重含义——若表示「坚持说、暗示（某事实）」，则用陈述语气，例如 He insisted that he was innocent（他坚称自己无罪），此处不能用原形。"
     }
   ]
 };
