@@ -35,5 +35,11 @@ window.ENGLISH_HISTORY = [
     topic: "Wildlife Conservation（野生动物保护）",
     articleTitle: "Saving What Remains of the Wild",
     words: ["habitat","biodiversity","ecosystem","species","endangered","extinction","conservation","sanctuary","poach","predator","prey","migrate","captivity","breed","thrive","dwindle","deforestation","encroach","depletion","scarcity","sustainable","resilience","fragile","jeopardize","exploit","eradicate","relocate","curb","enforce","surveillance"]
+  },
+  {
+    date: "2026-08-14",
+    topic: "Urbanization（城市化）",
+    articleTitle: "The Unstoppable Rise of Megacities",
+    words: ["urbanize","congestion","commute","accommodate","influx","tenant","dwelling","disparity","periphery","revitalize","segregate","comprise","equivalent","escalate","incorporate","systematic","consequently","predominant","simultaneous","temporary","rural","affordability","gentrification","displace","unregulated","municipality","sprawl","tenure","cohesive","inhibit"]
   }
 ];
