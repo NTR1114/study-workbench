@@ -41,5 +41,11 @@ window.ENGLISH_HISTORY = [
     topic: "Urbanization（城市化）",
     articleTitle: "The Unstoppable Rise of Megacities",
     words: ["urbanize","congestion","commute","accommodate","influx","tenant","dwelling","disparity","periphery","revitalize","segregate","comprise","equivalent","escalate","incorporate","systematic","consequently","predominant","simultaneous","temporary","rural","affordability","gentrification","displace","unregulated","municipality","sprawl","tenure","cohesive","inhibit"]
+  },
+  {
+    date: "2026-08-15",
+    topic: "Technology & Artificial Intelligence（科技与人工智能）",
+    articleTitle: "When Machines Begin to Think",
+    words: ["algorithm","automation","artificial","intelligence","revolutionize","efficiency","redundant","augment","obsolete","ethical","privacy","digital","ubiquitous","optimize","intuitive","sophisticated","unprecedented","interface","parameter","replicate","discriminate","deployment","entail","imminent","liability","supplant","harness","threshold","accelerate","expertise"]
   }
 ];

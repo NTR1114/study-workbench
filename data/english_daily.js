@@ -1,137 +1,137 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-08-14",
-  topic: "Urbanization（城市化）",
+  date: "2026-08-15",
+  topic: "Technology & Artificial Intelligence（科技与人工智能）",
   article: {
-    title: "The Unstoppable Rise of Megacities",
-    titleCn: "不可阻挡的超级城市崛起",
+    title: "When Machines Begin to Think",
+    titleCn: "当机器开始思考",
     paras: [
       {
-        en: "For the first time in human history, more than half of the world's population resides in cities, and the proportion shows no sign of falling. Driven by industrial growth and the search for opportunity, vast urban agglomerations now stretch across former farmland. Megacities of over ten million inhabitants are no longer rare, and several are swelling toward twenty million. This shift has reshaped how societies organize work, shelter and daily life.",
-        cn: "人类历史上首次出现这样的情况：超过一半的全球人口居住在城市之中，而且这一比例毫无下降的迹象。在工业增长与对机会的追寻驱动下，巨大的城市群如今不断向昔日的农田延伸。人口逾千万的超大城市已不再罕见，其中数座正膨胀着逼近两千万。这种转变重塑了社会安排工作、居所与日常生活的方式。"
+        en: "Artificial intelligence has moved from the pages of science fiction into the routines of daily life. Today, intelligent systems recommend the films we watch, translate our messages, and steer the cars we may one day ride in. The technology's reach is now so broad that few aspects of modern existence remain untouched by its quiet, steady advance. What once seemed like distant fantasy is becoming ordinary infrastructure.",
+        cn: "人工智能已从科幻小说的书页走入日常生活的常规。如今，智能系统会推荐我们观看的电影、翻译我们的信息，并操控我们或许有朝一日会乘坐的汽车。这项技术的触角如今如此之广，以至于现代生活的方方面面几乎都已受到它静默而稳健推进的影响。曾经看似遥远的幻想，正变成寻常的基础设施。"
       },
       {
-        en: "The primary engine of this change is rural-to-urban movement. In the countryside, mechanized agriculture has reduced the need for farm labour, while cities promise steadier incomes and access to schools and clinics. Young people in particular are drawn to metropolitan centres, convinced that urban life offers mobility they cannot find at home. Consequently, the demographic weight of nations tilts decisively toward their capitals and coastal hubs, often leaving villages hollowed out and ageing.",
-        cn: "这一变化的根本动力，是乡村到城市的人口流动。在乡村，机械化的农业减少了对农场劳力的需求，而城市则许诺更稳定的收入，以及通向学校与诊所的机会。年轻人尤其被大都市中心所吸引，他们相信城市生活能提供在家乡找不到的流动性。其结果，各国的人口重心决定性地倒向它们的首都与沿海枢纽，常常令乡村被掏空、走向老龄化。"
+        en: "At the heart of this shift lies machine learning, a method by which computers improve through exposure to vast quantities of data rather than through explicit programming. By detecting patterns that escape human notice, these systems learn to recognise speech, predict demand, and even compose music. The result is a form of intelligence that is narrow yet remarkably capable, and it is being woven into tools we use without a second thought.",
+        cn: "这一转变的核心在于机器学习——一种让计算机通过对海量数据的接触、而非通过明确的编程来自我提升的方法。通过捕捉人类难以察觉的模式，这些系统学会了识别语音、预测需求，甚至创作音乐。其结果是一种虽狭窄却异常强大的智能，而且它正被织入我们毫不起眼便在使用的工具之中。"
       },
       {
-        en: "Such rapid expansion brings severe strain. The systems built for smaller populations buckle under the load, and affordable housing lags far behind demand. Informal settlements spread across unstable hillsides, placing residents at risk of flood and fire. At the same time, inequality deepens: gleaming towers may stand a few streets from districts where clean water is rare. Without careful planning, the benefits of density can be overwhelmed by its costs, trapping the poor in lasting disadvantage.",
-        cn: "如此迅速的扩张带来了严峻的压力。为更小规模人口建造的系统在重负下弯曲垮塌，而可负担住房的供给远远落后于需求。非正式聚居区蔓延在不稳定的山坡上，将居民置于洪水与火灾的风险之中。与此同时，不平等在加深：光鲜的高楼可能与清洁饮水稀缺的街区仅隔几条街。若缺乏审慎的规划，密度的益处便会被其代价所淹没，把穷人困在持久的劣势里。"
+        en: "Proponents argue that intelligent automation will liberate people from repetitive labour and augment human creativity in unprecedented ways. Yet anxieties persist. Critics warn that algorithms can inherit the biases of their training data, while the displacement of workers raises hard questions about fairness. Concerns over privacy and accountability grow as decisions once made by people are delegated to opaque machines that few fully understand.",
+        cn: "支持者认为，智能自动化会把人从重复性的劳动中解放出来，并以空前的方式增强人类的创造力。然而焦虑依旧存在。批评者警告，算法可能继承其训练数据中的偏见，而劳动者被取代则引发了关于公平的尖锐问题。随着曾经由人做出的决策被委托给少有人真正理解的、不透明的机器，人们对隐私与问责的担忧也在加剧。"
       },
       {
-        en: "Cities are not helpless, however. Forward-looking governments are investing in mass transit, so commuters spend less time stranded in traffic. Vertical construction makes better use of limited land, and digital systems help managers monitor utilities in real time. Some places experiment with green corridors that cool dense neighbourhoods and absorb rainwater. If density is planned with foresight rather than left to chance, the metropolis can become not a burden but a vessel of human progress.",
-        cn: "然而，城市并非无能为力。具有前瞻意识的政府正在投资建设大运量公共交通，让通勤者少花时间被困在路上。纵向的建筑更充分地利用了有限的土地，而数字系统帮助管理者实时监测公用设施。一些地方尝试建设绿色廊道，为密集的社区降温并吸纳雨水。如果密度是带着远见去规划、而非听天由命，那么这座大都市就能成为人类进步的载体，而非负担。"
+        en: "Looking ahead, the challenge is not to halt progress but to guide it wisely. Societies must invest in education that equips workers for new roles, and build rules that keep powerful tools answerable to the public. If governments, companies, and citizens collaborate with clear eyes, artificial intelligence can become a force that expands human potential rather than diminishes it. The machine age, after all, will be what we make of it.",
+        cn: "展望未来，挑战不在于叫停进步，而在于明智地引导它。社会必须投资于能让劳动者胜任新角色的教育，并建立让强大工具对公众负责的规则。如果政府、企业公民以清醒的眼光通力合作，人工智能就能成为一种拓展人类潜能、而非削弱它的力量。机器时代，终究将由我们自己的作为来定义。"
       }
     ],
     glossary: [
-      { w: "reside", pos: "v.", p: "/rɪˈzaɪd/", cn: "居住，定居" },
-      { w: "agglomeration", pos: "n.", p: "/əˌɡlɒməˈreɪʃn/", cn: "聚集（物），城市群" },
-      { w: "megacity", pos: "n.", p: "/ˈmeɡəsɪti/", cn: "超大城市（人口超千万）" },
-      { w: "swell", pos: "v.", p: "/swel/", cn: "膨胀，增长" },
-      { w: "mechanized", pos: "adj.", p: "/ˈmekənaɪzd/", cn: "机械化的" },
-      { w: "metropolitan", pos: "adj.", p: "/ˌmetrəˈpɒlɪtən/", cn: "大都市的" },
-      { w: "demographic", pos: "adj.", p: "/ˌdeməˈɡræfɪk/", cn: "人口（统计）的" },
-      { w: "decisively", pos: "adv.", p: "/dɪˈsaɪsɪvli/", cn: "决定性地，果断地" },
-      { w: "tilt", pos: "v.", p: "/tɪlt/", cn: "倾斜，偏向" },
-      { w: "hollow", pos: "v.", p: "/ˈhɒləʊ/", cn: "使变空（hollow out 掏空）" },
-      { w: "strain", pos: "n.", p: "/streɪn/", cn: "压力，负担" },
-      { w: "buckle", pos: "v.", p: "/ˈbʌkl/", cn: "弯曲，垮掉" },
-      { w: "lag", pos: "v.", p: "/læɡ/", cn: "落后，滞后" },
-      { w: "informal settlement", pos: "n.", p: "/ɪnˈfɔːml ˈsetlmənt/", cn: "非正式聚居区（贫民区）" },
-      { w: "hillside", pos: "n.", p: "/ˈhɪlsaɪd/", cn: "山坡" },
-      { w: "inequality", pos: "n.", p: "/ˌɪnkˈwɒləti/", cn: "不平等，悬殊" },
-      { w: "gleaming", pos: "adj.", p: "/ˈɡliːmɪŋ/", cn: "闪亮的，光鲜的" },
-      { w: "density", pos: "n.", p: "/ˈdensəti/", cn: "密度" },
-      { w: "overwhelm", pos: "v.", p: "/ˌəʊvəˈwelm/", cn: "压倒，淹没" },
-      { w: "vertical", pos: "adj.", p: "/ˈvɜːtɪkl/", cn: "垂直的，纵向的" },
-      { w: "transit", pos: "n.", p: "/ˈtrænzɪt/", cn: "公共交通，运输" },
-      { w: "stranded", pos: "adj.", p: "/ˈstrændɪd/", cn: "被困住的，滞留的" },
-      { w: "foresight", pos: "n.", p: "/ˈfɔːsaɪt/", cn: "远见，先见之明" },
-      { w: "commuter", pos: "n.", p: "/kəˈmjuːtə(r)/", cn: "通勤者" },
-      { w: "utilities", pos: "n.", p: "/juːˈtɪlətiz/", cn: "公用设施（水、电、气等）" },
-      { w: "neighbourhood", pos: "n.", p: "/ˈneɪbəhʊd/", cn: "社区，街坊" },
-      { w: "absorb", pos: "v.", p: "/əbˈzɔːb/", cn: "吸收，吸纳" },
-      { w: "vessel", pos: "n.", p: "/ˈvesl/", cn: "容器，载体（喻指载体）" },
-      { w: "metropolis", pos: "n.", p: "/məˈtrɒpəlɪs/", cn: "大都市，首府" },
-      { w: "corridors", pos: "n.", p: "/ˈkɒrɪdɔːz/", cn: "走廊，通道（green corridors 绿色廊道）" }
+      { w: "intelligence", pos: "n.", p: "/ɪnˈtelɪdʒəns/", cn: "智能，智力" },
+      { w: "routine", pos: "n.", p: "/ruːˈtiːn/", cn: "常规，日常事务" },
+      { w: "recommend", pos: "v.", p: "/ˌrekəˈmend/", cn: "推荐，建议" },
+      { w: "steer", pos: "v.", p: "/stɪə(r)/", cn: "驾驶，引导" },
+      { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施" },
+      { w: "explicit", pos: "adj.", p: "/ɪkˈsplɪsɪt/", cn: "明确的，清楚的" },
+      { w: "programming", pos: "n.", p: "/ˈprəʊɡræmɪŋ/", cn: "程序设计，编程" },
+      { w: "detect", pos: "v.", p: "/dɪˈtekt/", cn: "察觉，发现" },
+      { w: "pattern", pos: "n.", p: "/ˈpætn/", cn: "模式，规律" },
+      { w: "recognise", pos: "v.", p: "/ˈrekəɡnaɪz/", cn: "识别，认出" },
+      { w: "compose", pos: "v.", p: "/kəmˈpəʊz/", cn: "创作（音乐等），组成" },
+      { w: "narrow", pos: "adj.", p: "/ˈnærəʊ/", cn: "狭窄的，有限的" },
+      { w: "capable", pos: "adj.", p: "/ˈkeɪpəbl/", cn: "有能力的" },
+      { w: "proponents", pos: "n.", p: "/prəˈpəʊnənts/", cn: "支持者，倡导者" },
+      { w: "liberate", pos: "v.", p: "/ˈlɪbəreɪt/", cn: "解放，使自由" },
+      { w: "repetitive", pos: "adj.", p: "/rɪˈpetətɪv/", cn: "重复的，反复的" },
+      { w: "augment", pos: "v.", p: "/ɔːɡˈment/", cn: "增强，扩大" },
+      { w: "unprecedented", pos: "adj.", p: "/ʌnˈpresɪdentɪd/", cn: "前所未有的" },
+      { w: "anxieties", pos: "n.", p: "/æŋˈzaɪətiz/", cn: "焦虑，忧虑" },
+      { w: "inherit", pos: "v.", p: "/ɪnˈherɪt/", cn: "继承，带有" },
+      { w: "bias", pos: "n.", p: "/ˈbaɪəs/", cn: "偏见，偏差" },
+      { w: "displacement", pos: "n.", p: "/dɪsˈpleɪsmənt/", cn: "取代，流离失所" },
+      { w: "fairness", pos: "n.", p: "/ˈfeənəs/", cn: "公平，公正" },
+      { w: "accountability", pos: "n.", p: "/əˌkaʊntəˈbɪləti/", cn: "问责，责任" },
+      { w: "delegate", pos: "v.", p: "/ˈdelɪɡeɪt/", cn: "委托，委派" },
+      { w: "opaque", pos: "adj.", p: "/əʊˈpeɪk/", cn: "不透明的，难懂的" },
+      { w: "halt", pos: "v.", p: "/hɔːlt/", cn: "停止，阻止" },
+      { w: "answerable", pos: "adj.", p: "/ˈɑːnsərəbl/", cn: "负有责任的" },
+      { w: "potential", pos: "n.", p: "/pəˈtenʃl/", cn: "潜力，潜能" },
+      { w: "diminish", pos: "v.", p: "/dɪˈmɪnɪʃ/", cn: "减少，削弱" }
     ]
   },
   words: [
-    { w: "urbanize", pos: "v.", p: "/ˈɜːbənaɪz/", cn: "使城市化", ex: "Governments urbanize the coast without first building enough schools.", exCn: "「政府在没有先建够学校的情况下就把沿海地区城市化。」" },
-    { w: "congestion", pos: "n.", p: "/kənˈdʒestʃən/", cn: "拥堵，拥挤", ex: "Rush-hour congestion costs the city millions in lost working hours.", exCn: "「高峰时段的交通拥堵让这座城市在浪费的工作时间里损失数百万。」" },
-    { w: "commute", pos: "v./n.", p: "/kəˈmjuːt/", cn: "通勤", ex: "She commutes across the city for almost three hours every day.", exCn: "「她每天要跨城通勤近三个小时。」" },
-    { w: "accommodate", pos: "v.", p: "/əˈkɒmədeɪt/", cn: "容纳；为…提供住处", ex: "The new line was built to accommodate two million extra riders.", exCn: "「这条新线路是为了容纳额外两百万乘客而建的。」" },
-    { w: "influx", pos: "n.", p: "/ˈɪnflʌks/", cn: "（人或物的）大量涌入", ex: "The influx of migrants has stretched the city's hospital capacity.", exCn: "「移民的大量涌入已经使城市的医院接诊能力捉襟见肘。」" },
-    { w: "tenant", pos: "n.", p: "/ˈtenənt/", cn: "租户，房客", ex: "The law now protects every tenant from unfair sudden eviction.", exCn: "「新法律现在保护每一位租户免受不公的突然驱逐。」" },
-    { w: "dwelling", pos: "n.", p: "/ˈdwelɪŋ/", cn: "住所，住宅", ex: "Authorities counted more than ten thousand informal dwellings on the slope.", exCn: "「当局统计到坡地上有一万多处非正式住所。」" },
-    { w: "disparity", pos: "n.", p: "/dɪˈspærəti/", cn: "差距，悬殊", ex: "A widening disparity in wealth splits the city into two worlds.", exCn: "「不断拉大的财富差距把这座城市割裂成两个世界。」" },
-    { w: "periphery", pos: "n.", p: "/pəˈrɪfəri/", cn: "外围，边缘", ex: "Most factories sit on the periphery, far from the wealthy centre.", exCn: "「多数工厂坐落在远离富裕市中心的城市外围。」" },
-    { w: "revitalize", pos: "v.", p: "/ˈriːˈvaɪtəlaɪz/", cn: "使复兴，使恢复活力", ex: "The mayor promised to revitalize the abandoned docklands.", exCn: "「市长承诺让这片废弃的码头区重焕生机。」" },
-    { w: "segregate", pos: "v.", p: "/ˈseɡrɪɡeɪt/", cn: "隔离，分隔", ex: "Poor transport can segregate neighbourhoods from job centres.", exCn: "「糟糕的交通会把社区与就业中心隔离开来。」" },
-    { w: "comprise", pos: "v.", p: "/kəmˈpraɪz/", cn: "包含，由…组成", ex: "The metro area comprises twelve separate district councils.", exCn: "「这个都市区由十二个相互独立的区议会组成。」" },
-    { w: "equivalent", pos: "adj./n.", p: "/ɪˈkwɪvələnt/", cn: "相等的；等价物", ex: "The noise equals the equivalent of a jet taking off nearby.", exCn: "「那种噪音相当于一架喷气式飞机在附近起飞。」" },
-    { w: "escalate", pos: "v.", p: "/ˈeskəleɪt/", cn: "（使）升级，加剧", ex: "Housing costs escalate whenever a new office park opens.", exCn: "「每当一个新办公园区落成，住房成本就会加剧攀升。」" },
-    { w: "incorporate", pos: "v.", p: "/ɪnˈkɔːpəreɪt/", cn: "纳入，包含", ex: "Planners should incorporate green space into every new block.", exCn: "「规划者应当把绿地纳入每一个新建街区。」" },
-    { w: "systematic", pos: "adj.", p: "/ˌsɪstəˈmætɪk/", cn: "系统的，有计划的", ex: "Only a systematic response can fix decades of neglect.", exCn: "「只有系统性的应对才能弥补数十年的忽视。」" },
-    { w: "consequently", pos: "adv.", p: "/ˈkɒnsɪkwəntli/", cn: "因此，结果", ex: "Roads clogged early, and consequently commuters arrived late.", exCn: "「道路早早堵塞，因此通勤者都迟到了。」" },
-    { w: "predominant", pos: "adj.", p: "/prɪˈdɒmɪnənt/", cn: "占主导地位的", ex: "High-rise living has become the predominant urban form here.", exCn: "「高层住宅已成为这里占主导地位的城市形态。」" },
-    { w: "simultaneous", pos: "adj.", p: "/ˌsɪmlˈteɪniəs/", cn: "同时发生的", ex: "The city faced simultaneous booms in jobs and in traffic.", exCn: "「这座城市同时迎来了就业与交通的两轮暴涨。」" },
-    { w: "temporary", pos: "adj.", p: "/ˈtemprəri/", cn: "临时的，暂时的", ex: "Families displaced by the fire found only temporary housing.", exCn: "「被火灾逼离家园的家庭只找到了临时住所。」" },
-    { w: "rural", pos: "adj.", p: "/ˈrʊərəl/", cn: "农村的，乡村的", ex: "Rural towns lose young people to the pull of the city.", exCn: "「乡村小镇的年轻人被城市的吸引力夺走。」" },
-    { w: "affordability", pos: "n.", p: "/əˌfɔːdəˈbɪləti/", cn: "可负担性", ex: "Affordability, not size, is the real barrier to home ownership.", exCn: "「可负担性，而非面积，才是购房的真正障碍。」" },
-    { w: "gentrification", pos: "n.", p: "/ˌdʒentrɪfɪˈkeɪʃn/", cn: "（城区）中产化、绅士化", ex: "Gentrification pushed long-time residents out of the old quarter.", exCn: "「中产化把世代居住的居民挤出了老城区。」" },
-    { w: "displace", pos: "v.", p: "/dɪsˈpleɪs/", cn: "使流离失所；取代", ex: "Rising rents displace workers who cannot follow the market.", exCn: "「上涨的租金让跟不上市场的劳动者流离失所。」" },
-    { w: "unregulated", pos: "adj.", p: "/ʌnˈreɡjuleɪtɪd/", cn: "不受监管的，失控的", ex: "Unregulated building turned the hillside into a death trap.", exCn: "「不受监管的建设把山坡变成了死亡陷阱。」" },
-    { w: "municipality", pos: "n.", p: "/mjuːˌnɪsɪˈpæləti/", cn: "市政当局，自治市", ex: "The municipality borrowed heavily to expand the water network.", exCn: "「市政当局大举借债以扩建供水网络。」" },
-    { w: "sprawl", pos: "n./v.", p: "/sprɔːl/", cn: "（城市）无序蔓延", ex: "Cheap land encouraged sprawl far beyond the old city wall.", exCn: "「廉价的土地助长了远超旧城墙的无序城市蔓延。」" },
-    { w: "tenure", pos: "n.", p: "/ˈtenjə(r)/", cn: "占用（权），居住权", ex: "Secure tenure lets tenants invest in their own homes.", exCn: "「稳定的居住权让租户愿意投资修缮自己的家。」" },
-    { w: "cohesive", pos: "adj.", p: "/kəʊˈhiːsɪv/", cn: "有凝聚力的，紧密结合的", ex: "Parks help build a more cohesive and friendly community.", exCn: "「公园有助于构建一个更有凝聚力、更友善的社区。」" },
-    { w: "inhibit", pos: "v.", p: "/ɪnˈhɪbɪt/", cn: "抑制，阻碍", ex: "Poor transit inhibits the movement of both people and goods.", exCn: "「糟糕的交通抑制了人员与货物的流动。」" }
+    { w: "algorithm", pos: "n.", p: "/ˈælɡərɪðəm/", cn: "算法", ex: "The recommendation engine relies on an algorithm that learns from your past choices.", exCn: "「这个推荐引擎依赖一个会从你过去的选择中学习的算法。」" },
+    { w: "automation", pos: "n.", p: "/ˌɔːtəˈmeɪʃn/", cn: "自动化", ex: "Automation of the factory floor has cut production time in half.", exCn: "「工厂车间的自动化把生产时间缩短了一半。」" },
+    { w: "artificial", pos: "adj.", p: "/ˌɑːtɪˈfɪʃl/", cn: "人工的，人造的", ex: "She questioned whether artificial friendship from a chatbot could ever feel real.", exCn: "「她质疑，聊天机器人提供的人造友谊是否真的能让人觉得真实。」" },
+    { w: "intelligence", pos: "n.", p: "/ɪnˈtelɪdʒəns/", cn: "智能，智力", ex: "Human intelligence remains far more flexible than any machine we have built.", exCn: "「人类的智能仍比我们造出的任何机器都灵活得多。」" },
+    { w: "revolutionize", pos: "v.", p: "/ˌrevəˈluːʃənaɪz/", cn: "彻底改变", ex: "Smartphones revolutionized the way we access information overnight.", exCn: "「智能手机在一夜之间彻底改变了我们获取信息的方式。」" },
+    { w: "efficiency", pos: "n.", p: "/ɪˈfɪʃnsi/", cn: "效率", ex: "The new software improved the team's efficiency by roughly forty percent.", exCn: "「新软件让团队的效率提升了大约百分之四十。」" },
+    { w: "redundant", pos: "adj.", p: "/rɪˈdʌndənt/", cn: "多余的，被取代的", ex: "Many factory roles became redundant once robots took over the line.", exCn: "「一旦机器人接管了生产线，许多工厂岗位便变得多余。」" },
+    { w: "augment", pos: "v.", p: "/ɔːɡˈment/", cn: "增强，扩大", ex: "Doctors use AI to augment their judgement rather than replace it.", exCn: "「医生借助人工智能来增强而非取代自己的判断。」" },
+    { w: "obsolete", pos: "adj.", p: "/ˌɒbsəˈliːt/", cn: "过时的", ex: "Cash may become obsolete as digital payments spread worldwide.", exCn: "「随着数字支付的全球普及，现金或许会变得过时。」" },
+    { w: "ethical", pos: "adj.", p: "/ˈeθɪkl/", cn: "伦理的，道德的", ex: "We must weigh the ethical cost of letting machines make life-and-death calls.", exCn: "「我们必须权衡让机器做出生死抉择的伦理代价。」" },
+    { w: "privacy", pos: "n.", p: "/ˈprɪvəsi/", cn: "隐私", ex: "Citizens worry that smart devices erode their privacy at home.", exCn: "「市民担心智能设备在家中侵蚀他们的隐私。」" },
+    { w: "digital", pos: "adj.", p: "/ˈdɪdʒɪtl/", cn: "数字的", ex: "The digital divide leaves rural students at a clear disadvantage.", exCn: "「数字鸿沟让乡村学生处于明显的劣势。」" },
+    { w: "ubiquitous", pos: "adj.", p: "/juːˈbɪkwɪtəs/", cn: "无处不在的", ex: "Screens have become ubiquitous, following us from desk to dinner table.", exCn: "「屏幕已变得无处不在，从书桌到餐桌都紧跟着我们。」" },
+    { w: "optimize", pos: "v.", p: "/ˈɒptɪmaɪz/", cn: "优化", ex: "Engineers optimize the model to use less power and give faster answers.", exCn: "「工程师优化模型，使其更省电、回答更快。」" },
+    { w: "intuitive", pos: "adj.", p: "/ɪnˈtjuːɪtɪv/", cn: "直观的", ex: "A good interface should feel intuitive even to a first-time user.", exCn: "「优秀的界面即便对初次使用者也应感觉直观。」" },
+    { w: "sophisticated", pos: "adj.", p: "/səˈfɪstɪkeɪtɪd/", cn: "精密的，复杂的", ex: "The fraud system uses sophisticated patterns to flag suspicious activity.", exCn: "「这套防欺诈系统用精密的模式来标记可疑活动。」" },
+    { w: "unprecedented", pos: "adj.", p: "/ʌnˈpresɪdentɪd/", cn: "前所未有的", ex: "The speed of AI progress is unprecedented in the history of technology.", exCn: "「人工智能发展的速度在技术史上是前所未有的。」" },
+    { w: "interface", pos: "n.", p: "/ˈɪntəfeɪs/", cn: "界面，接口", ex: "The voice interface lets elderly users control the home without buttons.", exCn: "「语音界面让老年用户无需按键也能控制家居。」" },
+    { w: "parameter", pos: "n.", p: "/pəˈræmɪtə(r)/", cn: "参数", ex: "Tuning a single parameter can change how the model behaves entirely.", exCn: "「调整一个参数就可能彻底改变模型的行为。」" },
+    { w: "replicate", pos: "v.", p: "/ˈreplɪkeɪt/", cn: "复制，重现", ex: "It is hard to replicate a human tutor's patience with a machine.", exCn: "「用机器复制人类导师的耐心是很难的。」" },
+    { w: "discriminate", pos: "v.", p: "/dɪˈskrɪmɪneɪt/", cn: "区别，辨别；歧视", ex: "A fair system must not discriminate against any group of users.", exCn: "「公平的系统绝不可歧视任何用户群体。」" },
+    { w: "deployment", pos: "n.", p: "/dɪˈplɔɪmənt/", cn: "部署，应用", ex: "The deployment of facial recognition in schools sparked debate.", exCn: "「在学校部署人脸识别引发了争议。」" },
+    { w: "entail", pos: "v.", p: "/ɪnˈteɪl/", cn: "必然带来，需要", ex: "Adopting the tool will entail retraining the entire support team.", exCn: "「采用这一工具必然需要对整个客服团队重新培训。」" },
+    { w: "imminent", pos: "adj.", p: "/ˈɪmɪnənt/", cn: "逼近的，即将发生的", ex: "Experts disagree on whether general AI is imminent or decades away.", exCn: "「专家对通用人工智能是即将到来还是还要数十年意见不一。」" },
+    { w: "liability", pos: "n.", p: "/ˌlaɪəˈbɪləti/", cn: "责任，负担", ex: "When a self-driving car crashes, who bears the liability?", exCn: "「当自动驾驶汽车出事时，谁来承担责任？」" },
+    { w: "supplant", pos: "v.", p: "/səˈplɑːnt/", cn: "取代，替代", ex: "Some fear machines will supplant workers instead of merely assisting them.", exCn: "「有人担心机器会取代工人，而不只是协助他们。」" },
+    { w: "harness", pos: "v.", p: "/ˈhɑːnɪs/", cn: "利用，驾驭", ex: "Countries race to harness AI for medicine, farming, and climate work.", exCn: "「各国竞相将人工智能用于医疗、农业与气候工作。」" },
+    { w: "threshold", pos: "n.", p: "/ˈθreʃhəʊld/", cn: "门槛，临界", ex: "We are near the threshold of machines that can write like humans.", exCn: "「我们已接近机器能像人一样写作的临界点。」" },
+    { w: "accelerate", pos: "v.", p: "/əkˈseləreɪt/", cn: "加速", ex: "Cheap computing has accelerated the pace of scientific discovery.", exCn: "「廉价算力加速了科学发现的步伐。」" },
+    { w: "expertise", pos: "n.", p: "/ˌekspɜːˈtiːz/", cn: "专业知识，专长", ex: "The system lacks the medical expertise of a trained specialist.", exCn: "「这套系统缺乏受训专家所具备的医学专长。」" }
   ],
   vocabArticle: {
-    title: "Rebuilding the Edge City",
-    titleCn: "重整边缘之城",
+    title: "The Quiet Colleague",
+    titleCn: "安静的同事",
     paras: [
       {
-        en: "When young workers leave rural towns and an influx of newcomers arrives each month, the old centre cannot accommodate them all. Traffic congestion worsens as the city urbanizes its farmland, and low-rise housing gives way to endless sprawl. Most residents commute for two hours, and the periphery grows faster than the core can plan.",
-        cn: "当年轻劳动者离开乡村小镇、每月又有大批新移民涌入时，老城区已无法容纳所有人。随着城市吞并农田向外扩张，交通拥堵不断加剧，低层住宅也让位于无边无际的城市蔓延。多数居民要通勤两小时，而城市边缘的生长速度远超核心区能做规划的速度。"
+        en: "Artificial intelligence has begun to revolutionize the modern workplace in ways that once seemed impossible. Once a digital novelty, intelligent automation now helps firms improve efficiency and optimize routine tasks that humans found tedious. Sophisticated algorithms can scan vast datasets far faster than any analyst, and intuitive interfaces let non-experts harness powerful tools without special training. This quiet shift is already ubiquitous across offices and labs alike.",
+        cn: "人工智能已开始以曾经看似不可能的方式彻底改变现代职场。智能自动化曾只是数字领域的新奇玩意，如今却帮助企业提升效率、优化那些让人厌烦的日常工作。精密的算法能以远超任何分析师的速度扫描海量数据集，而直观的界面让非专业人士无需专门培训也能驾驭强大的工具。这种静默的转变，在办公室与实验室里都已无处不在。"
       },
       {
-        en: "Many tenants cannot afford a permanent dwelling, because affordability has collapsed in the boom. Landlords overcrowd small flats, and weak tenure laws let them evict at will. As prices escalate, poorer families are displaced from the neighbourhoods they built, forced into temporary shelter on the city's edge.",
-        cn: "许多租户买不起一套固定的住房，因为在热潮中可负担性已经崩塌。房东把小公寓塞得过度拥挤，而薄弱的居住权法律让他们可以随心所欲地驱逐房客。随着房价攀升，较贫穷的家庭被逐出了他们亲手建起的社区，被迫在城市边缘的临时庇护所栖身。"
+        en: "Yet progress does not come without cost. As machines grow more capable, some roles become redundant and others are supplanted entirely by software. A single faulty parameter can make a model discriminate against certain users, while the deployment of opaque systems raises hard ethical questions. Many fear that privacy will erode as devices learn our habits, and that accountability grows vague when no one understands the machine.",
+        cn: "然而进步并非没有代价。随着机器变得愈发强大，一些岗位变得多余，另一些则被软件彻底取代。一个错误的参数就可能让模型歧视某些用户，而不透明系统的部署则引发了棘手的伦理问题。许多人担心，随着设备学会我们的习惯，隐私将被侵蚀；而当没有人理解这台机器时，问责也会变得模糊不清。"
       },
       {
-        en: "This creates a sharp disparity between districts. Wealthier areas stay cohesive and cosmopolitan, while the poor segregate into forgotten blocks. Gentrification pushes rents even higher, and although the city comprises both extremes, the gap between them has no equivalent in the nation's recent history.",
-        cn: "这在各城区之间造成了尖锐的差距。富裕社区依旧具有凝聚力、充满世界气息，而穷人则被隔离进被人遗忘的街区。中产化把租金推得更高，尽管这座城市同时包含着两个极端，它们之间的鸿沟在该国近代史上却无先例可比。"
+        en: "The arrival of such tools is imminent, and preparing for it will entail more than buying new hardware. We must replicate the best of human judgement in our designs and accelerate the teaching of real expertise, so workers are not left behind in unprecedented times of change. To treat the technology as merely a liability would be a mistake; used well, it can augment our strengths rather than replace them.",
+        cn: "这类工具的到来已迫在眉睫，而为它做准备，远不止是购置新硬件。我们必须在设计中复刻人类判断中最优的部分，并加速传授真正的专业知识，以免劳动者在这场前所未有的变局中被抛在身后。把这项技术仅仅视为一种负担将是个错误；运用得当，它能增强我们的优势，而非取代它们。"
       },
       {
-        en: "The municipality now acts. It ends unregulated building, and a systematic plan seeks to revitalize the riverfront. Planners incorporate green space and cheap transit, and, consequently, the predominant mood is hopeful. Simultaneous reforms inhibit further decline, and the city begins to heal.",
-        cn: "市政当局如今开始行动。它叫停了不受监管的建设，一套系统化的方案力求让河畔地带重焕生机。规划者把绿地与廉价公交纳入其中，因此，主导性的情绪是充满希望的。同步推进的改革抑制了进一步的衰退，这座城市开始自我修复。"
+        en: "Looking to the future, societies stand at a threshold. If we optimize wisely and keep powerful systems answerable, artificial intelligence can enlarge human potential instead of diminishing it. The challenge is to harness innovation so that no one is made obsolete by progress they did not choose. What we build next will decide whether the machine age augments humanity or merely supplants it.",
+        cn: "展望未来，社会正站在一个临界点上。如果我们明智地优化、并让强大的系统负有责任，人工智能就能拓展人类的潜能，而非削弱它。挑战在于驾驭创新，使任何人都不因自己并未选择的进步而被淘汰。我们下一步的建造，将决定机器时代究竟是增强人性，还是仅仅取代它。"
       }
     ]
   },
   grammar: [
     {
-      q: "Not only the historic centre but also the new suburbs ______ in urgent need of repair after the flood.",
+      q: "The more data the algorithm processes, ______ it becomes at recognising patterns.",
       options: [
-        "is",
-        "are",
-        "was",
-        "has been"
-      ],
-      answer: 1,
-      explain: "考点：主谓一致——「not only...but also」的就近原则（principle of proximity）。当这一结构连接两个主语时，谓语动词的人称和数由靠近动词的第二个主语决定，而不是由第一个主语决定。本句靠近动词的第二个主语是 the new suburbs（新的郊区，复数），因此谓语要用复数 are。A 项 is 与 D 项 has been 都是单数形式，错误地把第一个主语 the historic centre（单数）当成了决定项；C 项 was 是单数过去时，同样违背了就近原则。同类遵循就近原则的结构还有 either...or、neither...nor、not...but，例如 Neither the teacher nor the students were present（老师和学生都不在场）。注意：若想强调两者都，可用 both...and，其后一律用复数谓语。"
-    },
-    {
-      q: "By 2050, it is estimated that more than two-thirds of the world's population ______ in cities.",
-      options: [
-        "will live",
-        "live",
-        "will have lived",
-        "has lived"
+        "the accurate",
+        "more accurate",
+        "the more accurate",
+        "accurate"
       ],
       answer: 2,
-      explain: "考点：时态——将来完成时（future perfect）。当句中出现「by + 将来时间」（如 by 2050、by the end of this century、by next decade）作时间状语时，谓语动词须用将来完成时 will have done，表示「到将来某一时刻之前已经完成的动作或已经达到的状态」。本句 by 2050 是将来时间点，人口在那时「已经（持续）居住在城市中」，强调到 2050 年这一状态业已完成、达到，故用 will have lived。A 项 will live 是一般将来时，只表示将来发生，无法体现「到那时之前已经……」的完成含义；B 项 live 是一般现在时，用于客观真理或常态，与此处的将来时间点不符；D 项 has lived 是现在完成时，时间基准是「现在」，不能搭配将来的 by 2050。扩展：当 by the time 后接一般现在时从句表示将来时，主句也用将来完成时，如 By the time he arrives, we will have finished（等他到达时，我们就已经完工了）。"
+      explain: "考点：比较结构——「the + 比较级…, the + 比较级…」表示「越……，越……」。当前半句用 the + 比较级 起头时，后半句必须用 the + 比较级 与之呼应，构成固定句型，且比较级前的 the 是必需的定冠词（不表指代）。本句前半句 The more data the algorithm processes 是 the + 比较级 结构，后半句须用 the more accurate 配对，意为「算法处理的数据越多，它识别模式的准确度就越高」。A 项 the accurate 缺少比较级形式；B 项 more accurate 缺少前面的 the；D 项 accurate 既无 the 也无比较级。扩展：该句型前后分句通常用一般时态，可用 much / far 修饰比较级以加强语气，如 the far more accurate（准确得多）。"
+    },
+    {
+      q: "______ the risk of bias, researchers tested the model on several independent datasets.",
+      options: [
+        "Reducing",
+        "To reduce",
+        "Having reduced",
+        "Reduce"
+      ],
+      answer: 1,
+      explain: "考点：非谓语动词——不定式作目的状语。当非谓语动词位于句首修饰整个主句、表示「为了……」的目的时，应使用不定式 to do，而不是现在分词 doing（doing 多表原因、伴随或时间）。本句意为「为了降低偏差风险，研究者用多个独立数据集测试了该模型」，表目的，故用 To reduce 引导目的状语。A 项 Reducing 为现在分词，表原因或伴随（如「由于降低了风险，……」），无法准确表达目的；C 项 Having reduced 为现在分词完成式，强调动作先于谓语发生，但「降低风险」是测试的目的而非已完成的动作，语义不符；D 项 Reduce 是动词原形，句首直接用会构成祈使句，彻底改变句子结构。扩展：表目的也可用 in order to / so as to；目的发生在谓语之后仍用不定式，不随主句时态变化。"
     }
   ]
 };
