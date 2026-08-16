@@ -1,137 +1,134 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
   date: "2026-08-15",
-  topic: "Technology & Artificial Intelligence（科技与人工智能）",
+  topic: "Economy & Global Trade（经济与全球贸易）",
   article: {
-    title: "When Machines Begin to Think",
-    titleCn: "当机器开始思考",
+    title: "The Shifting Map of the World Economy",
+    titleCn: "世界经济版图的重塑",
     paras: [
       {
-        en: "Artificial intelligence has moved from the pages of science fiction into the routines of daily life. Today, intelligent systems recommend the films we watch, translate our messages, and steer the cars we may one day ride in. The technology's reach is now so broad that few aspects of modern existence remain untouched by its quiet, steady advance. What once seemed like distant fantasy is becoming ordinary infrastructure.",
-        cn: "人工智能已从科幻小说的书页走入日常生活的常规。如今，智能系统会推荐我们观看的电影、翻译我们的信息，并操控我们或许有朝一日会乘坐的汽车。这项技术的触角如今如此之广，以至于现代生活的方方面面几乎都已受到它静默而稳健推进的影响。曾经看似遥远的幻想，正变成寻常的基础设施。"
+        en: "For centuries, the world economy rested on a simple premise: that goods, capital, and ideas would flow ever more freely across borders. Yet the past decade has unsettled that assumption. Supply chains once taken for granted have snapped under sudden shocks, and nations have grown wary of depending on distant partners. Today, the map of global commerce is being redrawn, not by markets alone but by strategy and politics.",
+        cn: "几个世纪以来，世界经济建立在一个简单的假设之上：商品、资本与思想会越来越自由地跨越国界流动。然而过去十年动摇了这一假设。曾经被视为理所当然的供应链在突如其来的冲击下断裂，各国也变得警惕对远方伙伴的依赖。如今，全球商业版图正被重新绘制——不是单凭市场，而是出于战略与政治。"
       },
       {
-        en: "At the heart of this shift lies machine learning, a method by which computers improve through exposure to vast quantities of data rather than through explicit programming. By detecting patterns that escape human notice, these systems learn to recognise speech, predict demand, and even compose music. The result is a form of intelligence that is narrow yet remarkably capable, and it is being woven into tools we use without a second thought.",
-        cn: "这一转变的核心在于机器学习——一种让计算机通过对海量数据的接触、而非通过明确的编程来自我提升的方法。通过捕捉人类难以察觉的模式，这些系统学会了识别语音、预测需求，甚至创作音乐。其结果是一种虽狭窄却异常强大的智能，而且它正被织入我们毫不起眼便在使用的工具之中。"
+        en: "New technologies have reshaped how nations produce and trade. Automation and cheap communication let firms scatter production across continents, lowering the cost of nearly everything consumers buy. At the same time, digital platforms have opened small businesses to foreign buyers they could never have reached before. The result is a more connected marketplace, yet one in which a single disruption can ripple outward with startling speed.",
+        cn: "新技术重塑了各国的生产与贸易方式。自动化与廉价通信让企业把生产分散到各大洲，降低了消费者所购几乎一切商品的成本。与此同时，数字平台让小企业也能接触到以往无法触及的海外买家。其结果是一个联系更紧密的市场，却也是一个单一中断能以惊人速度向外扩散的市场。"
       },
       {
-        en: "Proponents argue that intelligent automation will liberate people from repetitive labour and augment human creativity in unprecedented ways. Yet anxieties persist. Critics warn that algorithms can inherit the biases of their training data, while the displacement of workers raises hard questions about fairness. Concerns over privacy and accountability grow as decisions once made by people are delegated to opaque machines that few fully understand.",
-        cn: "支持者认为，智能自动化会把人从重复性的劳动中解放出来，并以空前的方式增强人类的创造力。然而焦虑依旧存在。批评者警告，算法可能继承其训练数据中的偏见，而劳动者被取代则引发了关于公平的尖锐问题。随着曾经由人做出的决策被委托给少有人真正理解的、不透明的机器，人们对隐私与问责的担忧也在加剧。"
+        en: "Not all countries gain equally from this churn. Wealthier economies, armed with capital and stable institutions, capture a disproportionate share of the rewards, while poorer nations often supply raw materials at prices they do not control. When a downturn hits, it is the vulnerable who suffer first. Growing inequality within societies has therefore fuelled demands for protection, as voters ask whether open commerce truly serves ordinary people.",
+        cn: "并非所有国家都能从这种动荡中均等获益。较富裕的经济体凭借资本与稳定的制度，攫取了不成比例的回报份额，而较贫穷的国家往往以自己无法掌控的价格供应原材料。当衰退来袭，最先受苦的正是脆弱者。因此，社会内部日益加剧的不平等助长了保护主义诉求，选民也在质问开放贸易是否真的惠及普通人。"
       },
       {
-        en: "Looking ahead, the challenge is not to halt progress but to guide it wisely. Societies must invest in education that equips workers for new roles, and build rules that keep powerful tools answerable to the public. If governments, companies, and citizens collaborate with clear eyes, artificial intelligence can become a force that expands human potential rather than diminishes it. The machine age, after all, will be what we make of it.",
-        cn: "展望未来，挑战不在于叫停进步，而在于明智地引导它。社会必须投资于能让劳动者胜任新角色的教育，并建立让强大工具对公众负责的规则。如果政府、企业公民以清醒的眼光通力合作，人工智能就能成为一种拓展人类潜能、而非削弱它的力量。机器时代，终究将由我们自己的作为来定义。"
+        en: "Looking ahead, the task is not to abandon trade but to make it fairer and more resilient. Governments can invest in education and infrastructure so workers displaced by change are not left behind, while international rules help keep competition open yet orderly. If nations pair cooperation with sensible policy, commerce can lift incomes without widening divides. The next chapter of the world economy will be written by choices made today.",
+        cn: "展望未来，任务不是抛弃贸易，而是让它更公平、更具韧性。政府可以投资于教育与基础设施，使被变局抛下的人不致掉队；而国际规则有助于在保持竞争开放的同时维持秩序。如果各国将合作与审慎政策相结合，商业便能在不扩大鸿沟的前提下提升收入。世界经济的下一章，将由今天做出的选择书写。"
       }
     ],
     glossary: [
-      { w: "intelligence", pos: "n.", p: "/ɪnˈtelɪdʒəns/", cn: "智能，智力" },
-      { w: "routine", pos: "n.", p: "/ruːˈtiːn/", cn: "常规，日常事务" },
-      { w: "recommend", pos: "v.", p: "/ˌrekəˈmend/", cn: "推荐，建议" },
-      { w: "steer", pos: "v.", p: "/stɪə(r)/", cn: "驾驶，引导" },
-      { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施" },
-      { w: "explicit", pos: "adj.", p: "/ɪkˈsplɪsɪt/", cn: "明确的，清楚的" },
-      { w: "programming", pos: "n.", p: "/ˈprəʊɡræmɪŋ/", cn: "程序设计，编程" },
-      { w: "detect", pos: "v.", p: "/dɪˈtekt/", cn: "察觉，发现" },
-      { w: "pattern", pos: "n.", p: "/ˈpætn/", cn: "模式，规律" },
-      { w: "recognise", pos: "v.", p: "/ˈrekəɡnaɪz/", cn: "识别，认出" },
-      { w: "compose", pos: "v.", p: "/kəmˈpəʊz/", cn: "创作（音乐等），组成" },
-      { w: "narrow", pos: "adj.", p: "/ˈnærəʊ/", cn: "狭窄的，有限的" },
-      { w: "capable", pos: "adj.", p: "/ˈkeɪpəbl/", cn: "有能力的" },
-      { w: "proponents", pos: "n.", p: "/prəˈpəʊnənts/", cn: "支持者，倡导者" },
-      { w: "liberate", pos: "v.", p: "/ˈlɪbəreɪt/", cn: "解放，使自由" },
-      { w: "repetitive", pos: "adj.", p: "/rɪˈpetətɪv/", cn: "重复的，反复的" },
-      { w: "augment", pos: "v.", p: "/ɔːɡˈment/", cn: "增强，扩大" },
-      { w: "unprecedented", pos: "adj.", p: "/ʌnˈpresɪdentɪd/", cn: "前所未有的" },
-      { w: "anxieties", pos: "n.", p: "/æŋˈzaɪətiz/", cn: "焦虑，忧虑" },
-      { w: "inherit", pos: "v.", p: "/ɪnˈherɪt/", cn: "继承，带有" },
-      { w: "bias", pos: "n.", p: "/ˈbaɪəs/", cn: "偏见，偏差" },
-      { w: "displacement", pos: "n.", p: "/dɪsˈpleɪsmənt/", cn: "取代，流离失所" },
-      { w: "fairness", pos: "n.", p: "/ˈfeənəs/", cn: "公平，公正" },
-      { w: "accountability", pos: "n.", p: "/əˌkaʊntəˈbɪləti/", cn: "问责，责任" },
-      { w: "delegate", pos: "v.", p: "/ˈdelɪɡeɪt/", cn: "委托，委派" },
-      { w: "opaque", pos: "adj.", p: "/əʊˈpeɪk/", cn: "不透明的，难懂的" },
-      { w: "halt", pos: "v.", p: "/hɔːlt/", cn: "停止，阻止" },
-      { w: "answerable", pos: "adj.", p: "/ˈɑːnsərəbl/", cn: "负有责任的" },
-      { w: "potential", pos: "n.", p: "/pəˈtenʃl/", cn: "潜力，潜能" },
-      { w: "diminish", pos: "v.", p: "/dɪˈmɪnɪʃ/", cn: "减少，削弱" }
+      { w: "premise", pos: "n.", p: "/ˈpremɪs/", cn: "前提，假设" },
+      { w: "capital", pos: "n.", p: "/ˈkæpɪtl/", cn: "资本" },
+      { w: "commerce", pos: "n.", p: "/ˈkɒmɜːs/", cn: "商业，贸易" },
+      { w: "reshape", pos: "v.", p: "/ˌriːˈʃeɪp/", cn: "重塑" },
+      { w: "scatter", pos: "v.", p: "/ˈskætə(r)/", cn: "分散，散布" },
+      { w: "continent", pos: "n.", p: "/ˈkɒntɪnənt/", cn: "大陆，洲" },
+      { w: "platform", pos: "n.", p: "/ˈplætfɔːm/", cn: "平台" },
+      { w: "marketplace", pos: "n.", p: "/ˈmɑːkɪtpleɪs/", cn: "市场" },
+      { w: "disruption", pos: "n.", p: "/dɪsˈrʌpʃn/", cn: "中断，扰乱" },
+      { w: "ripple", pos: "v.", p: "/ˈrɪpl/", cn: "扩散，起伏" },
+      { w: "churn", pos: "n.", p: "/tʃɜːn/", cn: "剧变，动荡" },
+      { w: "disproportionate", pos: "adj.", p: "/ˌdɪsprəˈpɔːʃənət/", cn: "不成比例的" },
+      { w: "institution", pos: "n.", p: "/ˌɪnstɪˈtjuːʃn/", cn: "机构，制度" },
+      { w: "downturn", pos: "n.", p: "/ˈdaʊntɜːn/", cn: "衰退，下滑" },
+      { w: "displaced", pos: "adj.", p: "/dɪsˈpleɪst/", cn: "被取代的，流离失所的" },
+      { w: "inequality", pos: "n.", p: "/ˌɪnɪˈkwɒləti/", cn: "不平等" },
+      { w: "protection", pos: "n.", p: "/prəˈtekʃn/", cn: "保护，贸易保护" },
+      { w: "resilient", pos: "adj.", p: "/rɪˈzɪliənt/", cn: "有韧性的，能恢复的" },
+      { w: "orderly", pos: "adj.", p: "/ˈɔːdəli/", cn: "有序的" },
+      { w: "sensible", pos: "adj.", p: "/ˈsensəbl/", cn: "明智的，审慎的" },
+      { w: "widen", pos: "v.", p: "/ˈwaɪdn/", cn: "扩大，变宽" },
+      { w: "divide", pos: "n.", p: "/dɪˈvaɪd/", cn: "分歧，鸿沟" },
+      { w: "wary", pos: "adj.", p: "/ˈweəri/", cn: "警惕的，小心的" },
+      { w: "strategy", pos: "n.", p: "/ˈstrætədʒi/", cn: "战略" },
+      { w: "redraw", pos: "v.", p: "/ˌriːˈdrɔː/", cn: "重新绘制" },
+      { w: "abandon", pos: "v.", p: "/əˈbændən/", cn: "放弃，抛弃" },
+      { w: "cooperation", pos: "n.", p: "/kəʊˌɒpəˈreɪʃn/", cn: "合作" }
     ]
   },
   words: [
-    { w: "algorithm", pos: "n.", p: "/ˈælɡərɪðəm/", cn: "算法", ex: "The recommendation engine relies on an algorithm that learns from your past choices.", exCn: "「这个推荐引擎依赖一个会从你过去的选择中学习的算法。」" },
-    { w: "automation", pos: "n.", p: "/ˌɔːtəˈmeɪʃn/", cn: "自动化", ex: "Automation of the factory floor has cut production time in half.", exCn: "「工厂车间的自动化把生产时间缩短了一半。」" },
-    { w: "artificial", pos: "adj.", p: "/ˌɑːtɪˈfɪʃl/", cn: "人工的，人造的", ex: "She questioned whether artificial friendship from a chatbot could ever feel real.", exCn: "「她质疑，聊天机器人提供的人造友谊是否真的能让人觉得真实。」" },
-    { w: "intelligence", pos: "n.", p: "/ɪnˈtelɪdʒəns/", cn: "智能，智力", ex: "Human intelligence remains far more flexible than any machine we have built.", exCn: "「人类的智能仍比我们造出的任何机器都灵活得多。」" },
-    { w: "revolutionize", pos: "v.", p: "/ˌrevəˈluːʃənaɪz/", cn: "彻底改变", ex: "Smartphones revolutionized the way we access information overnight.", exCn: "「智能手机在一夜之间彻底改变了我们获取信息的方式。」" },
-    { w: "efficiency", pos: "n.", p: "/ɪˈfɪʃnsi/", cn: "效率", ex: "The new software improved the team's efficiency by roughly forty percent.", exCn: "「新软件让团队的效率提升了大约百分之四十。」" },
-    { w: "redundant", pos: "adj.", p: "/rɪˈdʌndənt/", cn: "多余的，被取代的", ex: "Many factory roles became redundant once robots took over the line.", exCn: "「一旦机器人接管了生产线，许多工厂岗位便变得多余。」" },
-    { w: "augment", pos: "v.", p: "/ɔːɡˈment/", cn: "增强，扩大", ex: "Doctors use AI to augment their judgement rather than replace it.", exCn: "「医生借助人工智能来增强而非取代自己的判断。」" },
-    { w: "obsolete", pos: "adj.", p: "/ˌɒbsəˈliːt/", cn: "过时的", ex: "Cash may become obsolete as digital payments spread worldwide.", exCn: "「随着数字支付的全球普及，现金或许会变得过时。」" },
-    { w: "ethical", pos: "adj.", p: "/ˈeθɪkl/", cn: "伦理的，道德的", ex: "We must weigh the ethical cost of letting machines make life-and-death calls.", exCn: "「我们必须权衡让机器做出生死抉择的伦理代价。」" },
-    { w: "privacy", pos: "n.", p: "/ˈprɪvəsi/", cn: "隐私", ex: "Citizens worry that smart devices erode their privacy at home.", exCn: "「市民担心智能设备在家中侵蚀他们的隐私。」" },
-    { w: "digital", pos: "adj.", p: "/ˈdɪdʒɪtl/", cn: "数字的", ex: "The digital divide leaves rural students at a clear disadvantage.", exCn: "「数字鸿沟让乡村学生处于明显的劣势。」" },
-    { w: "ubiquitous", pos: "adj.", p: "/juːˈbɪkwɪtəs/", cn: "无处不在的", ex: "Screens have become ubiquitous, following us from desk to dinner table.", exCn: "「屏幕已变得无处不在，从书桌到餐桌都紧跟着我们。」" },
-    { w: "optimize", pos: "v.", p: "/ˈɒptɪmaɪz/", cn: "优化", ex: "Engineers optimize the model to use less power and give faster answers.", exCn: "「工程师优化模型，使其更省电、回答更快。」" },
-    { w: "intuitive", pos: "adj.", p: "/ɪnˈtjuːɪtɪv/", cn: "直观的", ex: "A good interface should feel intuitive even to a first-time user.", exCn: "「优秀的界面即便对初次使用者也应感觉直观。」" },
-    { w: "sophisticated", pos: "adj.", p: "/səˈfɪstɪkeɪtɪd/", cn: "精密的，复杂的", ex: "The fraud system uses sophisticated patterns to flag suspicious activity.", exCn: "「这套防欺诈系统用精密的模式来标记可疑活动。」" },
-    { w: "unprecedented", pos: "adj.", p: "/ʌnˈpresɪdentɪd/", cn: "前所未有的", ex: "The speed of AI progress is unprecedented in the history of technology.", exCn: "「人工智能发展的速度在技术史上是前所未有的。」" },
-    { w: "interface", pos: "n.", p: "/ˈɪntəfeɪs/", cn: "界面，接口", ex: "The voice interface lets elderly users control the home without buttons.", exCn: "「语音界面让老年用户无需按键也能控制家居。」" },
-    { w: "parameter", pos: "n.", p: "/pəˈræmɪtə(r)/", cn: "参数", ex: "Tuning a single parameter can change how the model behaves entirely.", exCn: "「调整一个参数就可能彻底改变模型的行为。」" },
-    { w: "replicate", pos: "v.", p: "/ˈreplɪkeɪt/", cn: "复制，重现", ex: "It is hard to replicate a human tutor's patience with a machine.", exCn: "「用机器复制人类导师的耐心是很难的。」" },
-    { w: "discriminate", pos: "v.", p: "/dɪˈskrɪmɪneɪt/", cn: "区别，辨别；歧视", ex: "A fair system must not discriminate against any group of users.", exCn: "「公平的系统绝不可歧视任何用户群体。」" },
-    { w: "deployment", pos: "n.", p: "/dɪˈplɔɪmənt/", cn: "部署，应用", ex: "The deployment of facial recognition in schools sparked debate.", exCn: "「在学校部署人脸识别引发了争议。」" },
-    { w: "entail", pos: "v.", p: "/ɪnˈteɪl/", cn: "必然带来，需要", ex: "Adopting the tool will entail retraining the entire support team.", exCn: "「采用这一工具必然需要对整个客服团队重新培训。」" },
-    { w: "imminent", pos: "adj.", p: "/ˈɪmɪnənt/", cn: "逼近的，即将发生的", ex: "Experts disagree on whether general AI is imminent or decades away.", exCn: "「专家对通用人工智能是即将到来还是还要数十年意见不一。」" },
-    { w: "liability", pos: "n.", p: "/ˌlaɪəˈbɪləti/", cn: "责任，负担", ex: "When a self-driving car crashes, who bears the liability?", exCn: "「当自动驾驶汽车出事时，谁来承担责任？」" },
-    { w: "supplant", pos: "v.", p: "/səˈplɑːnt/", cn: "取代，替代", ex: "Some fear machines will supplant workers instead of merely assisting them.", exCn: "「有人担心机器会取代工人，而不只是协助他们。」" },
-    { w: "harness", pos: "v.", p: "/ˈhɑːnɪs/", cn: "利用，驾驭", ex: "Countries race to harness AI for medicine, farming, and climate work.", exCn: "「各国竞相将人工智能用于医疗、农业与气候工作。」" },
-    { w: "threshold", pos: "n.", p: "/ˈθreʃhəʊld/", cn: "门槛，临界", ex: "We are near the threshold of machines that can write like humans.", exCn: "「我们已接近机器能像人一样写作的临界点。」" },
-    { w: "accelerate", pos: "v.", p: "/əkˈseləreɪt/", cn: "加速", ex: "Cheap computing has accelerated the pace of scientific discovery.", exCn: "「廉价算力加速了科学发现的步伐。」" },
-    { w: "expertise", pos: "n.", p: "/ˌekspɜːˈtiːz/", cn: "专业知识，专长", ex: "The system lacks the medical expertise of a trained specialist.", exCn: "「这套系统缺乏受训专家所具备的医学专长。」" }
+    { w: "economy", pos: "n.", p: "/ɪˈkɒnəmi/", cn: "经济", ex: "A strong local economy depends on both trade and trusted institutions.", exCn: "「强健的地方经济既依赖贸易，也依赖可信的制度。」" },
+    { w: "currency", pos: "n.", p: "/ˈkʌrənsi/", cn: "货币", ex: "The currency lost value after investors lost confidence in the government.", exCn: "「在投资者对该政府失去信心后，这种货币便贬值了。」" },
+    { w: "inflation", pos: "n.", p: "/ɪnˈfleɪʃn/", cn: "通货膨胀", ex: "High inflation erodes savings and makes everyday goods harder to afford.", exCn: "「高通胀会侵蚀储蓄，并让日常商品更难负担。」" },
+    { w: "tariff", pos: "n.", p: "/ˈtærɪf/", cn: "关税", ex: "The new tariff on steel raised costs for builders across the country.", exCn: "「对钢铁征收的新关税抬高了全国建筑商的成本。」" },
+    { w: "commodity", pos: "n.", p: "/kəˈmɒdəti/", cn: "商品，大宗商品", ex: "Oil is the commodity whose price moves the whole global market.", exCn: "「石油是这样一种商品：它的价格牵动整个全球市场。」" },
+    { w: "manufacture", pos: "v.", p: "/ˌmænjuˈfæktʃə(r)/", cn: "制造，生产", ex: "Factories manufacture components that are later assembled abroad.", exCn: "「工厂制造零部件，之后在海外进行组装。」" },
+    { w: "export", pos: "v./n.", p: "/ɪkˈspɔːt/", cn: "出口", ex: "The region exports more wine than any of its neighbours.", exCn: "「该地区出口的葡萄酒比它任何一个邻国都多。」" },
+    { w: "import", pos: "v./n.", p: "/ˈɪmpɔːt/", cn: "进口", ex: "We import most of our coffee because the climate does not suit it.", exCn: "「我们的咖啡大多依赖进口，因为本地气候不适宜种植。」" },
+    { w: "investment", pos: "n.", p: "/ɪnˈvestmənt/", cn: "投资", ex: "Foreign investment built the ports that now carry our trade.", exCn: "「外来投资建成了如今承载我们贸易的港口。」" },
+    { w: "recession", pos: "n.", p: "/rɪˈseʃn/", cn: "经济衰退", ex: "The recession forced firms to cut staff and freeze new hiring.", exCn: "「经济衰退迫使企业裁减员工并冻结新的招聘。」" },
+    { w: "stabilize", pos: "v.", p: "/ˈsteɪbəlaɪz/", cn: "使稳定，稳定", ex: "The central bank acted to stabilize prices after the shock.", exCn: "「在冲击之后，央行出手以稳定物价。」" },
+    { w: "consumption", pos: "n.", p: "/kənˈsʌmpʃn/", cn: "消费，消耗", ex: "Rising consumption usually signals that households feel secure.", exCn: "「消费的上升通常意味着家庭感到安心。」" },
+    { w: "wealth", pos: "n.", p: "/welθ/", cn: "财富", ex: "Education remains the surest path to lasting wealth.", exCn: "「教育依旧是通往持久财富最可靠的途径。」" },
+    { w: "poverty", pos: "n.", p: "/ˈpɒvəti/", cn: "贫困", ex: "Trade alone will not end poverty unless jobs are created too.", exCn: "「单靠贸易无法消除贫困，还必须创造就业岗位。」" },
+    { w: "inequality", pos: "n.", p: "/ˌɪnɪˈkwɒləti/", cn: "不平等", ex: "Rising inequality has made voters question the benefits of open markets.", exCn: "「日益加剧的不平等让选民开始质疑开放市场的好处。」" },
+    { w: "fiscal", pos: "adj.", p: "/ˈfɪskl/", cn: "财政的", ex: "The government promised a fiscal plan to narrow the budget gap.", exCn: "「政府承诺出台一项缩小预算缺口的财政计划。」" },
+    { w: "monetary", pos: "adj.", p: "/ˈmʌnɪtri/", cn: "货币的，金融的", ex: "Monetary policy aims to keep both growth and prices steady.", exCn: "「货币政策旨在让增长与物价同时保持平稳。」" },
+    { w: "liberalize", pos: "v.", p: "/ˈlɪbərəlaɪz/", cn: "使自由化", ex: "Countries that liberalize trade often see cheaper goods for consumers.", exCn: "「实行贸易自由化的国家，往往能让消费者买到更便宜的商品。」" },
+    { w: "revenue", pos: "n.", p: "/ˈrevənjuː/", cn: "收入，税收", ex: "Tourism brings the city badly needed tax revenue each summer.", exCn: "「旅游业每年夏天都为这座城市带来急需的税收。」" },
+    { w: "deficit", pos: "n.", p: "/ˈdefɪsɪt/", cn: "赤字，逆差", ex: "A trade deficit means a country buys more from abroad than it sells.", exCn: "「贸易赤字意味着一个国家的进口多于出口。」" },
+    { w: "surplus", pos: "n.", p: "/ˈsɜːpləs/", cn: "顺差，盈余", ex: "The surplus allowed the nation to lend rather than borrow abroad.", exCn: "「这笔顺差让该国得以对外放贷，而非举债。」" },
+    { w: "transaction", pos: "n.", p: "/trænˈzækʃn/", cn: "交易，事务", ex: "Each cross-border transaction carries a small fee and some risk.", exCn: "「每一笔跨境交易都附带小额费用与一定风险。」" },
+    { w: "venture", pos: "n.", p: "/ˈventʃə(r)/", cn: "风险投资，企业", ex: "The start-up was a risky venture backed by patient investors.", exCn: "「这家初创企业是一项由耐心投资者支持的高风险投资项目。」" },
+    { w: "boom", pos: "n./v.", p: "/buːm/", cn: "繁荣，激增", ex: "A housing boom lifted the economy but also raised household debt.", exCn: "「房地产的繁荣提振了经济，却也推高了家庭债务。」" },
+    { w: "contract", pos: "v.", p: "/kənˈtrækt/", cn: "收缩，萎缩（经济）", ex: "The economy began to contract after exports fell for three months.", exCn: "「在出口连续三个月下滑后，经济开始收缩。」" },
+    { w: "recovery", pos: "n.", p: "/rɪˈkʌvəri/", cn: "复苏，恢复", ex: "A slow recovery followed the deepest slump in a generation.", exCn: "「在一代人中最严重的萧条之后，迎来的是缓慢的复苏。」" },
+    { w: "debt", pos: "n.", p: "/det/", cn: "债务", ex: "Heavy public debt limits what a government can spend on schools.", exCn: "「沉重的公债限制了政府在教育上的开支能力。」" },
+    { w: "outsourcing", pos: "n.", p: "/ˈaʊtsɔːsɪŋ/", cn: "外包", ex: "Outsourcing lowered costs but shifted jobs to other countries.", exCn: "「外包降低了成本，却把工作岗位转移到了其他国家。」" },
+    { w: "productivity", pos: "n.", p: "/ˌprɒdʌkˈtɪvəti/", cn: "生产率，生产力", ex: "Better tools raised worker productivity without adding long hours.", exCn: "「更好的工具提升了工人的生产率，却无需延长工时。」" },
+    { w: "regulation", pos: "n.", p: "/ˌreɡjuˈleɪʃn/", cn: "监管，规章", ex: "Clear regulation helps markets function fairly for everyone.", exCn: "「清晰的监管有助于市场为所有人公平运转。」" }
   ],
   vocabArticle: {
-    title: "The Quiet Colleague",
-    titleCn: "安静的同事",
+    title: "The Town That Learned to Trade",
+    titleCn: "学会贸易的小镇",
     paras: [
       {
-        en: "Artificial intelligence has begun to revolutionize the modern workplace in ways that once seemed impossible. Once a digital novelty, intelligent automation now helps firms improve efficiency and optimize routine tasks that humans found tedious. Sophisticated algorithms can scan vast datasets far faster than any analyst, and intuitive interfaces let non-experts harness powerful tools without special training. This quiet shift is already ubiquitous across offices and labs alike.",
-        cn: "人工智能已开始以曾经看似不可能的方式彻底改变现代职场。智能自动化曾只是数字领域的新奇玩意，如今却帮助企业提升效率、优化那些让人厌烦的日常工作。精密的算法能以远超任何分析师的速度扫描海量数据集，而直观的界面让非专业人士无需专门培训也能驾驭强大的工具。这种静默的转变，在办公室与实验室里都已无处不在。"
+        en: "The small town's economy once relied on a single commodity grown nearby. When foreign currency grew scarce, locals began to manufacture simple goods and export them to neighbours, while they import the tools they could not build. A steady flow of investment then arrived, and the market for their products widened beyond the valley.",
+        cn: "这座小镇的经济一度只依赖当地种植的一种大宗商品。当外汇变得稀缺，当地人开始制造简易商品并出口给邻邦，同时进口自己造不出的工具。随后稳定的投资源源而来，他们产品的市场也越过了山谷，向外扩展。"
       },
       {
-        en: "Yet progress does not come without cost. As machines grow more capable, some roles become redundant and others are supplanted entirely by software. A single faulty parameter can make a model discriminate against certain users, while the deployment of opaque systems raises hard ethical questions. Many fear that privacy will erode as devices learn our habits, and that accountability grows vague when no one understands the machine.",
-        cn: "然而进步并非没有代价。随着机器变得愈发强大，一些岗位变得多余，另一些则被软件彻底取代。一个错误的参数就可能让模型歧视某些用户，而不透明系统的部署则引发了棘手的伦理问题。许多人担心，随着设备学会我们的习惯，隐私将被侵蚀；而当没有人理解这台机器时，问责也会变得模糊不清。"
+        en: "To sell abroad, the town had to face a tariff on every crossing border, yet leaders chose to liberalize local rules instead. Each transaction now adds revenue that funds schools, and rising consumption at home proves the plan works. Trade, once a distant rumour, became part of daily life.",
+        cn: "要对外销售，小镇不得不面对每一次过境都要缴纳的关税，但领导者反而选择放开本地规则。如今每一笔交易都带来充实学校的税收，而国内消费的上升证明这套方案行之有效。贸易——曾经只是遥远的传闻——成了日常生活的一部分。"
       },
       {
-        en: "The arrival of such tools is imminent, and preparing for it will entail more than buying new hardware. We must replicate the best of human judgement in our designs and accelerate the teaching of real expertise, so workers are not left behind in unprecedented times of change. To treat the technology as merely a liability would be a mistake; used well, it can augment our strengths rather than replace them.",
-        cn: "这类工具的到来已迫在眉睫，而为它做准备，远不止是购置新硬件。我们必须在设计中复刻人类判断中最优的部分，并加速传授真正的专业知识，以免劳动者在这场前所未有的变局中被抛在身后。把这项技术仅仅视为一种负担将是个错误；运用得当，它能增强我们的优势，而非取代它们。"
+        en: "Cheap imports curbed inflation, and a careful fiscal plan kept the budget in surplus rather than deficit. Sound monetary policy protected households from shock, while new debt was kept low. Still, wealth did not spread evenly; inequality and poverty lingered in the hills where few firms invested.",
+        cn: "廉价的进口抑制了通胀，审慎的财政计划让预算保持顺差而非赤字。稳健的货币政策保护家庭免受冲击，而新增债务也被控制在低位。然而财富并未均匀扩散；在不平衡与投资稀少的山乡，不平等与贫困依旧挥之不去。"
       },
       {
-        en: "Looking to the future, societies stand at a threshold. If we optimize wisely and keep powerful systems answerable, artificial intelligence can enlarge human potential instead of diminishing it. The challenge is to harness innovation so that no one is made obsolete by progress they did not choose. What we build next will decide whether the machine age augments humanity or merely supplants it.",
-        cn: "展望未来，社会正站在一个临界点上。如果我们明智地优化、并让强大的系统负有责任，人工智能就能拓展人类的潜能，而非削弱它。挑战在于驾驭创新，使任何人都不因自己并未选择的进步而被淘汰。我们下一步的建造，将决定机器时代究竟是增强人性，还是仅仅取代它。"
+        en: "When the global boom turned to recession and trade began to contract, the town worked to stabilize its own market. A local venture in green energy sped the recovery, though outsourcing cut some factory roles. Higher productivity and fair regulation helped workers adapt, leaving the town stronger than before.",
+        cn: "当全球繁荣转为衰退、贸易开始收缩，小镇努力稳住自己的市场。一项本地绿色能源的风险投资加速了复苏，尽管外包削减了部分工厂岗位。更高的生产率与公平的监管帮助工人适应变局，让小镇比以往更显强韧。"
       }
     ]
   },
   grammar: [
     {
-      q: "The more data the algorithm processes, ______ it becomes at recognising patterns.",
+      q: "______ the sudden drop in exports that forced the government to act.",
       options: [
-        "the accurate",
-        "more accurate",
-        "the more accurate",
-        "accurate"
+        "It was",
+        "It is",
+        "There was",
+        "Was it"
       ],
-      answer: 2,
-      explain: "考点：比较结构——「the + 比较级…, the + 比较级…」表示「越……，越……」。当前半句用 the + 比较级 起头时，后半句必须用 the + 比较级 与之呼应，构成固定句型，且比较级前的 the 是必需的定冠词（不表指代）。本句前半句 The more data the algorithm processes 是 the + 比较级 结构，后半句须用 the more accurate 配对，意为「算法处理的数据越多，它识别模式的准确度就越高」。A 项 the accurate 缺少比较级形式；B 项 more accurate 缺少前面的 the；D 项 accurate 既无 the 也无比较级。扩展：该句型前后分句通常用一般时态，可用 much / far 修饰比较级以加强语气，如 the far more accurate（准确得多）。"
+      answer: 0,
+      explain: "考点：强调句型「It is/was + 被强调部分 + that/who + 其余部分」。本句强调主语 the sudden drop in exports，强调过去发生的事须用 It was ... that ...，空格需填 It was（that 已置于句末与之呼应）。A 项正确。B 项 It is 为现在时，与 forced（过去式）时态不一致；C 项 There was 不构成强调句型，也无处与 that 呼应；D 项 Was it 为疑问语序，而本句是陈述句。扩展：强调人用 who/that，强调物或状语用 that（不可换为 which）；被强调部分可为主语、宾语或状语，去掉 It is/was ... that ... 后剩余部分仍应是完整句子。"
     },
     {
-      q: "______ the risk of bias, researchers tested the model on several independent datasets.",
+      q: "If the central bank ______ interest rates tomorrow, the currency might strengthen within days.",
       options: [
-        "Reducing",
-        "To reduce",
-        "Having reduced",
-        "Reduce"
+        "raises",
+        "would raise",
+        "were to raise",
+        "will raise"
       ],
-      answer: 1,
-      explain: "考点：非谓语动词——不定式作目的状语。当非谓语动词位于句首修饰整个主句、表示「为了……」的目的时，应使用不定式 to do，而不是现在分词 doing（doing 多表原因、伴随或时间）。本句意为「为了降低偏差风险，研究者用多个独立数据集测试了该模型」，表目的，故用 To reduce 引导目的状语。A 项 Reducing 为现在分词，表原因或伴随（如「由于降低了风险，……」），无法准确表达目的；C 项 Having reduced 为现在分词完成式，强调动作先于谓语发生，但「降低风险」是测试的目的而非已完成的动作，语义不符；D 项 Reduce 是动词原形，句首直接用会构成祈使句，彻底改变句子结构。扩展：表目的也可用 in order to / so as to；目的发生在谓语之后仍用不定式，不随主句时态变化。"
+      answer: 2,
+      explain: "考点：虚拟语气——与将来事实相反的条件句。表示对将来发生的事把握不大或纯属假设时，if 从句可用「if + 主语 + were to do / should do」结构，主句用「would/could/might + 动词原形」。本句谈「若央行明天加息」，属对未来的假设，应用 were to raise（或 should raise）。C 项正确。A 项 raises 是陈述语气现在时，用于真实条件句（表大概率会发生的事实），但主句 might 表明这是假设，故不符；B 项 would raise 不能用于 if 条件从句（虚拟语气中 would 不出现在条件句，只出现在主句）；D 项 will raise 为陈述语气将来时，用于真实条件，与假设的 might 矛盾。扩展：与将来相反的三种条件句写法——were to do / should do / 过去式（如 raised），主句均用 would/could/might do。"
     }
   ]
 };

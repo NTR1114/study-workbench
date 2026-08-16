@@ -47,5 +47,11 @@ window.ENGLISH_HISTORY = [
     topic: "Technology & Artificial Intelligence（科技与人工智能）",
     articleTitle: "When Machines Begin to Think",
     words: ["algorithm","automation","artificial","intelligence","revolutionize","efficiency","redundant","augment","obsolete","ethical","privacy","digital","ubiquitous","optimize","intuitive","sophisticated","unprecedented","interface","parameter","replicate","discriminate","deployment","entail","imminent","liability","supplant","harness","threshold","accelerate","expertise"]
+  },
+  {
+    date: "2026-08-15",
+    topic: "Economy & Global Trade（经济与全球贸易）",
+    articleTitle: "The Shifting Map of the World Economy",
+    words: ["economy","currency","inflation","tariff","commodity","manufacture","export","import","investment","recession","stabilize","consumption","wealth","poverty","inequality","fiscal","monetary","liberalize","revenue","deficit","surplus","transaction","venture","boom","contract","recovery","debt","outsourcing","productivity","regulation"]
   }
 ];
