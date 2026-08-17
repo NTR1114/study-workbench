@@ -35,6 +35,6 @@
 ## 2026-08-17
 - 新增条目：`ig-2026-08-17-001`｜类型：工具神器｜标题：图片里的字不用手打：Windows 自带截图工具就能一键提字，别再买 OCR 会员
 - 选题依据：上次(8-16)为「省钱羊毛」，避免连续同类；「工具神器」上次出现在 7-28，间隔够久，符合待办优先级。核实：微软官方支持文档《使用截图工具捕获截图》明确「文本操作」按钮启用 OCR、可「复制所有文本」、「快速编辑」自动修订邮箱/电话，且识别全程在本地设备执行；微软 Windows Learning Center 页说明 Text Actions / Quick Redact / QR 识别；PowerToys 为微软官方免费开源（GitHub microsoft/PowerToys、Microsoft Store），Text Extractor 快捷键 Win+Shift+T。钩子=省钱(不买OCR会员)+省时间(整理资料)。
-- 流程：add_gap.js 追加（合集 31 条）→ build.js 构建 dist/index.html(788804B) → git commit → push origin main。
+- 流程：add_gap.js 追加（合集 31 条）→ build.js 构建 dist/index.html(788804B) → 本地 commit `7e39ce7` 成功；**push 失败**（Recv failure: Connection was reset，github.com 连接被重置），按规则未重试，待下次执行时一并推送。
 - 经验固化：临时 JSON 放到系统 Temp 目录（`C:/Users/33776/AppData/Local/Temp/`）而非仓库内，再用 `node scripts/add_gap.js "$(cat <temp.json>)"` 传参，可彻底避免临时文件被 git 纳入，也不触发 safe-delete 守卫。
 - 待办：后续可优先补「认知思维」（上次 7-24）、「政策补贴」（上次 7-26）、「规则流量」。
