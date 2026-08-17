@@ -53,5 +53,11 @@ window.ENGLISH_HISTORY = [
     topic: "Economy & Global Trade（经济与全球贸易）",
     articleTitle: "The Shifting Map of the World Economy",
     words: ["economy","currency","inflation","tariff","commodity","manufacture","export","import","investment","recession","stabilize","consumption","wealth","poverty","inequality","fiscal","monetary","liberalize","revenue","deficit","surplus","transaction","venture","boom","contract","recovery","debt","outsourcing","productivity","regulation"]
+  },
+  {
+    date: "2026-08-16",
+    topic: "Culture（文化）",
+    articleTitle: "The Quiet Strength of Cultural Roots",
+    words: ["heritage","identity","tradition","indigenous","ethnic","dialect","custom","ritual","ancestor","preserve","distinctive","solidarity","mainstream","marginalize","acculturation","multiculturalism","vernacular","lineage","norm","belonging","perpetuate","homogenize","legacy","artifact","monument","oral","erode","revival","transcend","coexist"]
   }
 ];

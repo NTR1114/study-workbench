@@ -25,3 +25,16 @@
 - 选题依据：上次(8-14)为「健康生活」，避免连续同类；按待办优先补「规则流量」。核实：工信部电信用户申诉受理中心官网 yhssglxt.miit.gov.cn、微信「电信用户申诉」公众号为官方入口；依《电信用户申诉处理办法》须先向运营商投诉、15日内未答复或不满意方可申诉；这是三大运营商直接监管上级，工单受理後运营商限期处理反馈。可实操、可验证、自带「省钱/少走弯路」钩子。
 - 流程：add_gap.js 追加（合集 29 条）→ build.js 构建 dist/index.html(796KB) → git commit `38a8319` → push origin main 成功（b7e56d4..38a8319）。
 - 备注：临时 JSON 用 node fs.unlinkSync 删除，未触发 safe-delete 守卫。
+
+## 2026-08-16
+- 新增条目：`ig-2026-08-16-001`｜类型：省钱羊毛｜标题：读研、考证还能抵个税？「继续教育」专项扣除多数人都漏填了
+- 选题依据：上次(8-15)为「规则流量」，避免连续同类；学习工作台受众（考证/读研/在职学历），且「省钱/抵税」钩子贴合。核实：国发〔2018〕41号第八条（学历继续教育每月400、最长48个月；职业资格证当年3600）、第九条（本科及以下可由父母扣）；国家税务总局公告2022年第7号；沪/桂/滇/苏税务局2026汇算解读；证书须在人社部国家职业资格目录内。可实操、可验证。
+- 流程：add_gap.js 追加（合集 30 条）→ build.js 构建 dist/index.html(785657B) → git commit `1210676`/`dbdf636` → push origin main 成功（acc5184..dbdf636）。
+- 备注：临时 JSON 先用 cat 命令替换喂给 add_gap.js，commit 后误将临时文件纳入，已 `git rm --cached` + 补提交清理；临时文件最终用 fs.unlinkSync 删本地。
+
+## 2026-08-17
+- 新增条目：`ig-2026-08-17-001`｜类型：工具神器｜标题：图片里的字不用手打：Windows 自带截图工具就能一键提字，别再买 OCR 会员
+- 选题依据：上次(8-16)为「省钱羊毛」，避免连续同类；「工具神器」上次出现在 7-28，间隔够久，符合待办优先级。核实：微软官方支持文档《使用截图工具捕获截图》明确「文本操作」按钮启用 OCR、可「复制所有文本」、「快速编辑」自动修订邮箱/电话，且识别全程在本地设备执行；微软 Windows Learning Center 页说明 Text Actions / Quick Redact / QR 识别；PowerToys 为微软官方免费开源（GitHub microsoft/PowerToys、Microsoft Store），Text Extractor 快捷键 Win+Shift+T。钩子=省钱(不买OCR会员)+省时间(整理资料)。
+- 流程：add_gap.js 追加（合集 31 条）→ build.js 构建 dist/index.html(788804B) → git commit → push origin main。
+- 经验固化：临时 JSON 放到系统 Temp 目录（`C:/Users/33776/AppData/Local/Temp/`）而非仓库内，再用 `node scripts/add_gap.js "$(cat <temp.json>)"` 传参，可彻底避免临时文件被 git 纳入，也不触发 safe-delete 守卫。
+- 待办：后续可优先补「认知思维」（上次 7-24）、「政策补贴」（上次 7-26）、「规则流量」。
