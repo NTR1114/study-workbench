@@ -59,5 +59,17 @@ window.ENGLISH_HISTORY = [
     topic: "Culture（文化）",
     articleTitle: "The Quiet Strength of Cultural Roots",
     words: ["heritage","identity","tradition","indigenous","ethnic","dialect","custom","ritual","ancestor","preserve","distinctive","solidarity","mainstream","marginalize","acculturation","multiculturalism","vernacular","lineage","norm","belonging","perpetuate","homogenize","legacy","artifact","monument","oral","erode","revival","transcend","coexist"]
+  },
+  {
+    date: "2026-08-17",
+    topic: "Work & Employment（工作与就业）",
+    articleTitle: "Redefining Work for a Changing Age",
+    words: ["career","recruit","candidate","occupation","profession","freelance","internship","qualification","workforce","layoff","turnover","promotion","resign","retire","pension","welfare","flexible","remote","negotiate","appraisal","delegate","colleague","supervisor","hierarchy","corporate","entrepreneur","motivation","morale","equality","diligence"]
+  },
+  {
+    date: "2026-08-18",
+    topic: "Tourism（旅游）",
+    articleTitle: "The Rising Tide of Global Tourism",
+    words: ["tourism","destination","attraction","scenery","landscape","itinerary","hospitality","leisure","resident","lodging","pilgrimage","resort","excursion","visa","transit","metropolitan","cuisine","antique","souvenir","domestic","picturesque","allure","rejuvenate","commodify","genuine","immersive","proximity","hub","gateway","inbound"]
   }
 ];
