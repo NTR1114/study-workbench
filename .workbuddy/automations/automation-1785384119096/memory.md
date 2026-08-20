@@ -48,6 +48,6 @@
 ## 2026-08-20
 - 新增条目：`ig-2026-08-20-001`｜类型：认知思维｜标题：越想象成功越做不成？科学验证的「WOOP 四步法」，比给自己打鸡血更能达成目标
 - 选题依据：上次(8-19)为「政策补贴」，避免连续同类；按待办优先补「认知思维」（上次 7-24，间隔最久）。核实：Gabriele Oettingen（纽约大学/汉堡大学心理学教授）提出 WOOP=Wish/Outcome/Obstacle/Plan，即学术名「心理对比+执行意图(MCII)」；反直觉核心是纯正向幻想会产生「镇静效应」反而耗掉行动能量（Kappes & Oettingen 2011, J. Exp. Soc. Psychol.）；Wang/Wang/Gai 2021 元分析 21 项研究、15907 人，Hedges g=0.34；Gollwitzer & Sheeran 2006 执行意图 d=0.65；官方免费站点 woopmylife.org。钩子=提分/达成目标/戒拖延，4 步 5 分钟可实操。
-- 流程：add_gap.js 追加（合集 33 条）→ build.js 构建 dist/index.html → git commit + push origin main（详见下方提交记录）。
+- 流程：add_gap.js 追加（合集 33 条）→ build.js 构建 dist/index.html(791994B) → git commit `22bad2b` → push origin main 成功（021f3c6..22bad2b）。
 - 备注：`dist/` 未被 git 跟踪（.gitignore），故 status 只显示 data/info_gap.js 等源文件变更，属正常。
 - 待办：后续可优先补「副业搞钱」「自我提升」「学习考试」（三者均为 7-30，已 3 周未出）。
