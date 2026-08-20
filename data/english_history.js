@@ -71,5 +71,11 @@ window.ENGLISH_HISTORY = [
     topic: "Tourism（旅游）",
     articleTitle: "The Rising Tide of Global Tourism",
     words: ["tourism","destination","attraction","scenery","landscape","itinerary","hospitality","leisure","resident","lodging","pilgrimage","resort","excursion","visa","transit","metropolitan","cuisine","antique","souvenir","domestic","picturesque","allure","rejuvenate","commodify","genuine","immersive","proximity","hub","gateway","inbound"]
+  },
+  {
+    date: "2026-08-19",
+    topic: "Transportation（交通）",
+    articleTitle: "Moving Cities: The Future of Transport",
+    words: ["transport","vehicle","pedestrian","traffic","railway","highway","passenger","freight","cargo","mobility","bicycle","cyclist","pollution","gridlock","bottleneck","route","fare","toll","junction","intersection","lane","terminal","aviation","navigation","capacity","overload","streamline","modernize","upgrade","corridor"]
   }
 ];
