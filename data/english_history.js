@@ -77,5 +77,17 @@ window.ENGLISH_HISTORY = [
     topic: "Transportation（交通）",
     articleTitle: "Moving Cities: The Future of Transport",
     words: ["transport","vehicle","pedestrian","traffic","railway","highway","passenger","freight","cargo","mobility","bicycle","cyclist","pollution","gridlock","bottleneck","route","fare","toll","junction","intersection","lane","terminal","aviation","navigation","capacity","overload","streamline","modernize","upgrade","corridor"]
+  },
+  {
+    date: "2026-08-20",
+    topic: "Renewable Energy（可再生能源）",
+    articleTitle: "Powering the Future: The Quiet Rise of Renewables",
+    words: ["renewable","solar","wind","generate","turbine","photovoltaic","hydropower","geothermal","nuclear","carbon","emission","reliance","transition","alternative","grid","storage","battery","finite","reserve","quota","mandate","levy","diversify","output","intermittent","electrify","retrofit","decarbonize","footprint","phase"]
+  },
+  {
+    date: "2026-08-21",
+    topic: "Ageing Population（人口老龄化）",
+    articleTitle: "The Greying World: Societies Confront an Ageing Population",
+    words: ["demographic","longevity","elderly","dependency","fertility","proportion","ratio","shrink","swell","burden","caregiver","fund","healthcare","chronic","ailment","isolation","participate","labour","scarce","resource","reform","scheme","support","pressure","cope","provision","ageing","implication","adjust","policy"]
   }
 ];
