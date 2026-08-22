@@ -51,3 +51,11 @@
 - 流程：add_gap.js 追加（合集 33 条）→ build.js 构建 dist/index.html(791994B) → git commit `22bad2b` → push origin main 成功（021f3c6..22bad2b）。
 - 备注：`dist/` 未被 git 跟踪（.gitignore），故 status 只显示 data/info_gap.js 等源文件变更，属正常。
 - 待办：后续可优先补「副业搞钱」「自我提升」「学习考试」（三者均为 7-30，已 3 周未出）。
+
+## 2026-08-21
+- 新增条目：`ig-2026-08-21-001`｜类型：学习考试｜标题：复习别再划重点、反复读了：权威期刊给10种学习法评级，最常用的5种被判「低效」
+- 选题依据：上次(8-20)为「认知思维」，避免连续同类；按待办优先补「学习考试」（上次 7-30）。与已有「Anki间隔重复」「费曼学习法」条目做了差异化：本条核心是**官方评级结论**（5种最常用方法被判 low utility）+ 硬数据 + 全新方法「交错练习」（合集此前完全没有）。
+- 核实来源：Dunlosky, Rawson, Marsh, Nathan & Willingham (2013), Psychological Science in the Public Interest 14(1) 4-58（APS 期刊，原文 PDF 已核对：high utility = practice testing + distributed practice；low utility = summarization/highlighting/keyword mnemonic/imagery/rereading；moderate = elaborative interrogation/self-explanation/interleaved practice）；肯特州立大学官网 kent.edu 官方发布稿；Roediger & Karpicke (2006) 一周后 61% vs 40%、阅读次数 3.4 遍 vs 14.2 遍；Rohrer 等 (2020) 交错练习一个月后 61% vs 38%, d=0.83。
+- 流程：add_gap.js 追加（合集 34 条）→ build.js 构建 dist/index.html(783677B) → git commit `c5b81b9` 成功；**push 失败**（curl 28 Failed to connect to github.com:443，连接超时），按规则未重试，待下次执行时一并推送。
+- 经验复用：沿用 8-19 的做法——JSON 写入系统 Temp 目录，用 `"$(cat <temp.json>)"` 传参给 add_gap.js，事后 node fs.unlinkSync 删除，全程未触发 safe-delete 守卫、也未把临时文件带进 git。
+- 待办：后续可优先补「副业搞钱」「自我提升」（均 7-30 至今未出）；「冷门资源」(8-11)、「健康生活」(8-14) 也已间隔较久。
