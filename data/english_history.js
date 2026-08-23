@@ -89,5 +89,17 @@ window.ENGLISH_HISTORY = [
     topic: "Ageing Population（人口老龄化）",
     articleTitle: "The Greying World: Societies Confront an Ageing Population",
     words: ["demographic","longevity","elderly","dependency","fertility","proportion","ratio","shrink","swell","burden","caregiver","fund","healthcare","chronic","ailment","isolation","participate","labour","scarce","resource","reform","scheme","support","pressure","cope","provision","ageing","implication","adjust","policy"]
+  },
+  {
+    date: "2026-08-22",
+    topic: "Food Security & Sustainable Diets（粮食安全与可持续饮食）",
+    articleTitle: "Feeding the World Without Breaking the Planet",
+    words: ["nutrition","nutrient","staple","harvest","yield","fertilizer","pesticide","organic","obesity","famine","ration","malnutrition","calorie","diet","crop","irrigate","agricultural","starvation","sustenance","edible","appetite","nourishment","intake","vitamin","mineral","protein","diabetes","undernourished","hygiene","arable"]
+  },
+  {
+    date: "2026-08-23",
+    topic: "Mental Health & Psychological Wellbeing（心理健康与心理福祉）",
+    articleTitle: "Rethinking Mental Health in a Faster World",
+    words: ["anxiety","stigma","therapy","trauma","depression","wellbeing","mindfulness","psychiatrist","psychology","emotion","empathy","stress","distress","withdraw","diagnose","symptom","medication","prescribe","prejudice","compassion","tension","strain","overwhelm","succumb","awareness","subconscious","addiction","relapse","rehabilitate","counsel"]
   }
 ];
