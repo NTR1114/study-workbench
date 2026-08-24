@@ -101,5 +101,11 @@ window.ENGLISH_HISTORY = [
     topic: "Mental Health & Psychological Wellbeing（心理健康与心理福祉）",
     articleTitle: "Rethinking Mental Health in a Faster World",
     words: ["anxiety","stigma","therapy","trauma","depression","wellbeing","mindfulness","psychiatrist","psychology","emotion","empathy","stress","distress","withdraw","diagnose","symptom","medication","prescribe","prejudice","compassion","tension","strain","overwhelm","succumb","awareness","subconscious","addiction","relapse","rehabilitate","counsel"]
+  },
+  {
+    date: "2026-08-24",
+    topic: "Crime & Punishment（犯罪与惩罚）",
+    articleTitle: "Beyond Punishment: Rethinking How Societies Handle Crime",
+    words: ["offender","deter","deterrent","imprison","custody","sentence","verdict","prosecute","testify","witness","victim","juvenile","delinquency","reoffend","parole","probation","penalty","lenient","harsh","fraud","burglary","vandalism","smuggle","bribery","illicit","convict","acquit","patrol","crackdown","evidence"]
   }
 ];

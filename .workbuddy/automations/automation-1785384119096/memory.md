@@ -59,3 +59,11 @@
 - 流程：add_gap.js 追加（合集 34 条）→ build.js 构建 dist/index.html(783677B) → git commit `c5b81b9` 成功；**push 失败**（curl 28 Failed to connect to github.com:443，连接超时），按规则未重试，待下次执行时一并推送。
 - 经验复用：沿用 8-19 的做法——JSON 写入系统 Temp 目录，用 `"$(cat <temp.json>)"` 传参给 add_gap.js，事后 node fs.unlinkSync 删除，全程未触发 safe-delete 守卫、也未把临时文件带进 git。
 - 待办：后续可优先补「副业搞钱」「自我提升」（均 7-30 至今未出）；「冷门资源」(8-11)、「健康生活」(8-14) 也已间隔较久。
+
+## 2026-08-23
+- 新增条目：`ig-2026-08-23-001`｜类型：自我提升｜标题：待办清单越列越长还做不完？用「时间块」把任务写进日历，完成率翻2-3倍
+- 选题依据：上次(8-22)为「副业搞钱」，避免连续同类；按待办优先级补「自我提升」（上次出现 7-30，已近4周未出，为10类中间隔最久）。与已有自我提升条目（番茄工作法+两分钟法则、康奈尔笔记法、微习惯）做差异化：本条核心是「把任务写进日历/时间块(Time Blocking)」这一安排法，非笔记法也非习惯养成法，主题不重复。
+- 核实来源：Cal Newport《Deep Work》(2016) 时间块法；Gollwitzer 执行意图(implementation intentions)研究（指定 when/where/how 提升完成率）；Journal of Personality and Social Psychology 相关研究（排定具体时间者完成率约为仅定目标者 2-3 倍）；Aeon, Faber, Panaccio & Parker (2021) 元分析（158项研究、53,957人，时间管理与工作/学业表现及主观幸福感正相关、与困扰负相关，Applied Psychology）；APA 任务切换损耗约40%研究。钩子=省时间/少走弯路/不焦虑，可实操可验证。
+- 流程：add_gap.js 追加（合集 36 条）→ build.js 构建 dist/index.html(789685B) → git commit `325e3f3` 成功；**push 失败**（Failed to connect to github.com:443，连接超时），按规则未重试，待下次执行时一并推送。
+- 经验复用：JSON 写入系统 Temp 目录，用 `"$(cat <temp.json>)"` 传参给 add_gap.js，事后 node fs.unlinkSync 删本地，全程未触发 safe-delete 守卫、也未把临时文件带进 git。
+- 待办：后续可优先补「冷门资源」(8-11)、「健康生活」(8-14)（间隔较久）；「副业搞钱」(8-22) 刚出，短期不重复。
