@@ -107,5 +107,11 @@ window.ENGLISH_HISTORY = [
     topic: "Crime & Punishment（犯罪与惩罚）",
     articleTitle: "Beyond Punishment: Rethinking How Societies Handle Crime",
     words: ["offender","deter","deterrent","imprison","custody","sentence","verdict","prosecute","testify","witness","victim","juvenile","delinquency","reoffend","parole","probation","penalty","lenient","harsh","fraud","burglary","vandalism","smuggle","bribery","illicit","convict","acquit","patrol","crackdown","evidence"]
+  },
+  {
+    date: "2026-08-25",
+    topic: "Language & Linguistics: Endangered Languages（语言与语言濒危）",
+    articleTitle: "The Vanishing Voices: Why the World Is Losing Its Languages",
+    words: ["linguistic","vocabulary","fluency","syntax","bilingual","multilingual","phonetic","articulate","accent","transmit","documentation","archive","minority","assimilate","survive","fade","threaten","safeguard","narrative","community","scholar","uphold","advance","globalization","prevailing","recognition","tribal","unity","variation","native"]
   }
 ];

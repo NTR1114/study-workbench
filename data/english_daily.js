@@ -1,137 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-08-24",
-  topic: "Crime & Punishment（犯罪与惩罚）",
+  date: "2026-08-25",
+  topic: "Language & Linguistics: Endangered Languages（语言与语言濒危）",
   article: {
-    title: "Beyond Punishment: Rethinking How Societies Handle Crime",
-    titleCn: "超越惩罚：重新思考社会应如何应对犯罪",
+    title: "The Vanishing Voices: Why the World Is Losing Its Languages",
+    titleCn: "消逝的声音：世界为何正在失去它的语言",
     paras: [
       {
-        en: "Few social issues provoke stronger public feeling than crime. When a serious offence dominates the news, many citizens demand harsher sentences and swifter arrests, believing that fear alone will deter wrongdoing. Criminologists, however, argue that punishment is only one part of a far larger picture. Poverty, poor schooling and unstable families all shape who ends up in custody, and ignoring these roots makes lasting reductions in crime unlikely.",
-        cn: "很少有社会议题能像犯罪这样激起如此强烈的公众情绪。当一起严重罪行占据新闻头条时，许多市民要求更严厉的判罚与更迅速的逮捕，相信仅靠恐惧就能遏制不法行为。然而犯罪学家指出，惩罚只是一幅大得多的图景中的一部分。贫困、教育质量低下与家庭不稳定共同决定了谁最终被关进牢里，而忽视这些根源，就难以让犯罪率持久下降。"
+        en: "Of the roughly 7,000 languages spoken on Earth today, linguists warn that half may vanish before the end of this century. Unlike the disappearance of a plant or animal, the loss of a tongue is rarely sudden; it is a quiet process in which children stop learning the words of their grandparents. Once a language ceases to be transmitted to the next generation, its store of unique knowledge about nature, medicine and history disappears with its last fluent speakers.",
+        cn: "在地球现存的约 7000 种语言中，语言学家警告，到本世纪末可能有一半会彻底消失。与植物或动物的消失不同，一种语言的丧失很少是突然的；它是一个安静的过程——孩子们不再学习祖辈的词语。一旦某种语言不再传给下一代，它关于自然、医药与历史的独特知识，便会随最后一批流利的使用者一同消失。"
       },
       {
-        en: "Evidence from several countries suggests that long prison terms are not always the most effective deterrent. Prisons can isolate offenders from work, education and family, so many leave with fewer skills than before and soon reoffend. By contrast, schemes that combine supervision, counselling and training tend to lower repeat offending at a lower cost. Judges in these systems may impose probation rather than immediate imprisonment for less serious crimes.",
-        cn: "来自若干国家的证据表明，长期刑期并不总是最有效的威慢手段。监狱会把罪犯与工作、教育和家庭隔离开来，因此许多人出狱时技能反而比入狱前更少，很快又再次犯罪。相比之下，将监督、心理辅导与技能培训结合起来的方案，往往能以更低的成本降低重犯率。在这些制度下，法官对较轻的罪行可能判处缓刑，而不是立即监禁。"
+        en: "Several forces accelerate this decline. Globalisation, the movement of populations and the spread of a few prevailing languages have made minority tongues seem economically useless to many families. Parents who once spoke only their local language now urge children to master a global language for education and work. As younger generations shift to these larger languages, smaller ones are pushed aside, and entire systems of spoken memory begin to fade from daily life.",
+        cn: "数股力量加速了这种衰退。全球化、人口流动以及少数几种盛行语言的传播，让许多家庭觉得少数民族语言在经济上毫无用处。曾经只说本地语言的父母，如今敦促孩子为了教育和工作去掌握一门全球性语言。当年轻一代转向这些更大的语言时，较小的语言便被推到一边，整套口头记忆也随之在日常中逐渐消失。"
       },
       {
-        en: "Public confidence, however, is fragile. Victims and their families often feel that lenient penalties fail to acknowledge their suffering, and newspapers rarely report the quiet successes of rehabilitation. Where courts appear too soft, communities may take justice into their own hands, and trust in the judiciary erodes. Genuine reform therefore depends on transparency: courts must explain each verdict clearly, and police must show that patrols and investigations protect ordinary neighbourhoods.",
-        cn: "然而，公众信心是脆弱的。受害者及其家人常常觉得从轻的处罚没有正视他们所受的痛苦，而报纸也很少报道罪犯改造那些不声不响的成功案例。一旦法院显得过于宽容，社区就可能自行“执法”，对司法机构的信任随之被侵蚀。因此真正的改革取决于透明度：法院必须清楚地解释每一份裁决，警方也必须证明巡逻与侦查确实在保护普通社区。"
+        en: "The disappearance of a language is more than a cultural loss; it weakens a community's unique way of seeing the world. Each tongue encodes observations about local climate, plants and social bonds that rarely survive translation. When a tribal language vanishes, scholars lose access to centuries of traditional wisdom, and speakers lose a vital link to their roots. Recognition of this danger has grown, yet efforts to document and safeguard these languages remain badly underfunded.",
+        cn: "一种语言的消失不只是文化上的损失；它削弱了某个群体看待世界的独特方式。每一种语言都蕴含着关于当地气候、植物与社会纽带的观察，而这些几乎无法在翻译中留存。当一种部落语言消失，学者便失去通往数百年传统智慧的路径，说话者则失去与自身根源的重要连结。对此危险的认知虽已增强，但记录和保护这些语言的努力仍严重资金不足。"
       },
       {
-        en: "The most promising approach may be prevention rather than reaction. Youth clubs, mentoring and early support for troubled families cost far less than a crackdown once delinquency has become habitual. Some cities have cut burglary and vandalism sharply by combining street lighting, local policing and job schemes for teenagers. Punishment will always be necessary for grave offences, yet a society that invests early ultimately needs fewer courtrooms, fewer prisons and fewer victims.",
-        cn: "最有前景的思路或许是预防而非事后反应。青少年活动中心、导师帮扶以及对困境家庭的早期支持，其成本远低于等违法行为已成习惯后再展开的严厉整治。一些城市通过把街道照明、社区警务与面向青少年的就业计划结合起来，大幅降低了入室盗窃与故意破坏公物的案件。对于严重罪行，惩罚永远是必要的；但一个愿意及早投入的社会，最终需要的法庭更少、监狱更少，受害者也更少。"
+        en: "Hope is not lost. Across the world, communities are fighting back through archives, recordings and bilingual schools that teach children both a global and a native language. Digital tools now help small groups transmit their vocabulary and stories to scattered speakers, while some governments have begun to advance policies that protect linguistic variation. Although the task is immense, the return of even a single threatened language can restore unity and pride to a people who had been told their words were worthless.",
+        cn: "希望并未破灭。在世界各地，社群正通过档案、录音以及让孩子同时学习全球性语言与母语的双语学校奋起反击。数字工具如今帮助小群体把词汇和故事传递给散落各处的说话者，而一些政府也开始推进保护语言多样性的政策。尽管任务艰巨，哪怕只是一种受威胁语言的回归，也能为那些曾被宣告其话语毫无价值的人们，重新唤回团结与自豪。"
       }
     ],
     glossary: [
-      { w: "provoke", pos: "v.", p: "/prəˈvəʊk/", cn: "激起，引发（情绪或反应）" },
-      { w: "offence", pos: "n.", p: "/əˈfens/", cn: "罪行，违法行为" },
-      { w: "harsh", pos: "adj.", p: "/hɑːʃ/", cn: "严厉的，苛刻的" },
-      { w: "swift", pos: "adj.", p: "/swɪft/", cn: "迅速的，快捷的" },
-      { w: "deter", pos: "v.", p: "/dɪˈtɜː(r)/", cn: "阻止，遏制，使不敢" },
-      { w: "criminologist", pos: "n.", p: "/ˌkrɪmɪˈnɒlədʒɪst/", cn: "犯罪学家" },
-      { w: "custody", pos: "n.", p: "/ˈkʌstədi/", cn: "羁押，拘留；监护权" },
-      { w: "deterrent", pos: "n.", p: "/dɪˈterənt/", cn: "威慢因素，制约手段" },
-      { w: "isolate", pos: "v.", p: "/ˈaɪsəleɪt/", cn: "使隔离，使孤立" },
-      { w: "offender", pos: "n.", p: "/əˈfendə(r)/", cn: "罪犯，违法者" },
-      { w: "reoffend", pos: "v.", p: "/ˌriːəˈfend/", cn: "再次犯罪，重新违法" },
-      { w: "supervision", pos: "n.", p: "/ˌsuːpəˈvɪʒn/", cn: "监督，管教" },
-      { w: "probation", pos: "n.", p: "/prəˈbeɪʃn/", cn: "缓刑；察看期" },
-      { w: "imprisonment", pos: "n.", p: "/ɪmˈprɪznmənt/", cn: "监禁，关押" },
-      { w: "impose", pos: "v.", p: "/ɪmˈpəʊz/", cn: "判处，强加，征收" },
-      { w: "fragile", pos: "adj.", p: "/ˈfrædʒaɪl/", cn: "脆弱的，易碎的" },
-      { w: "lenient", pos: "adj.", p: "/ˈliːniənt/", cn: "宽容的，从轻的" },
-      { w: "penalty", pos: "n.", p: "/ˈpenəlti/", cn: "处罚，刑罚" },
-      { w: "acknowledge", pos: "v.", p: "/əkˈnɒlɪdʒ/", cn: "承认，正视，认可" },
-      { w: "rehabilitation", pos: "n.", p: "/ˌriːəˌbɪlɪˈteɪʃn/", cn: "（罪犯）改造；康复" },
-      { w: "judiciary", pos: "n.", p: "/dʒuːˈdɪʃəri/", cn: "司法机构，司法系统" },
-      { w: "erode", pos: "v.", p: "/ɪˈrəʊd/", cn: "侵蚀，逐渐削弱" },
-      { w: "transparency", pos: "n.", p: "/trænsˈpærənsi/", cn: "透明度，公开性" },
-      { w: "verdict", pos: "n.", p: "/ˈvɜːdɪkt/", cn: "裁决，判决" },
-      { w: "patrol", pos: "n./v.", p: "/pəˈtrəʊl/", cn: "巡逻，巡查" },
-      { w: "crackdown", pos: "n.", p: "/ˈkrækdaʊn/", cn: "严厉打击，整治行动" },
-      { w: "delinquency", pos: "n.", p: "/dɪˈlɪŋkwənsi/", cn: "（尤指青少年的）违法行为" },
-      { w: "habitual", pos: "adj.", p: "/həˈbɪtʃuəl/", cn: "习惯性的，惯常的" },
-      { w: "vandalism", pos: "n.", p: "/ˈvændəlɪzəm/", cn: "故意破坏公物（的行为）" },
-      { w: "grave", pos: "adj.", p: "/ɡreɪv/", cn: "严重的，重大的" }
+      { w: "linguist", pos: "n.", p: "/ˈlɪŋɡwɪst/", cn: "语言学家" },
+      { w: "vanish", pos: "v.", p: "/ˈvænɪʃ/", cn: "消失，绝迹" },
+      { w: "tongue", pos: "n.", p: "/tʌŋ/", cn: "语言；舌头" },
+      { w: "cease", pos: "v.", p: "/siːs/", cn: "停止，终止" },
+      { w: "transmit", pos: "v.", p: "/trænzˈmɪt/", cn: "传递，传播，传承" },
+      { w: "fluent", pos: "adj.", p: "/ˈfluːənt/", cn: "流利的，流畅的" },
+      { w: "globalisation", pos: "n.", p: "/ˌɡləʊbəlaɪˈzeɪʃn/", cn: "全球化" },
+      { w: "prevailing", pos: "adj.", p: "/prɪˈveɪlɪŋ/", cn: "盛行的，占主导的" },
+      { w: "minority", pos: "n.", p: "/maɪˈnɒrəti/", cn: "少数；少数民族" },
+      { w: "fade", pos: "v.", p: "/feɪd/", cn: "逐渐消失，衰退" },
+      { w: "community", pos: "n.", p: "/kəˈmjuːnəti/", cn: "社区，群体" },
+      { w: "encode", pos: "v.", p: "/ɪnˈkəʊd/", cn: "编码；蕴含，承载" },
+      { w: "observation", pos: "n.", p: "/ˌɒbzəˈveɪʃn/", cn: "观察（所得）" },
+      { w: "survive", pos: "v.", p: "/səˈvaɪv/", cn: "幸存，留存" },
+      { w: "tribal", pos: "adj.", p: "/ˈtraɪbl/", cn: "部落的" },
+      { w: "scholar", pos: "n.", p: "/ˈskɒlə(r)/", cn: "学者" },
+      { w: "recognition", pos: "n.", p: "/ˌrekəɡˈnɪʃn/", cn: "承认，认可；认出" },
+      { w: "document", pos: "v.", p: "/ˈdɒkjument/", cn: "记录，记载" },
+      { w: "safeguard", pos: "v.", p: "/ˈseɪfɡɑːd/", cn: "保护，维护" },
+      { w: "underfunded", pos: "adj.", p: "/ˌʌndəˈfʌndɪd/", cn: "资金不足的" },
+      { w: "archive", pos: "n.", p: "/ˈɑːkaɪv/", cn: "档案；档案馆" },
+      { w: "recording", pos: "n.", p: "/rɪˈkɔːdɪŋ/", cn: "录音，记录" },
+      { w: "bilingual", pos: "adj.", p: "/ˌbaɪˈlɪŋɡwəl/", cn: "双语的" },
+      { w: "native", pos: "adj.", p: "/ˈneɪtɪv/", cn: "母语的；本地的" },
+      { w: "vocabulary", pos: "n.", p: "/vəˈkæbjələri/", cn: "词汇（量）" },
+      { w: "scattered", pos: "adj.", p: "/ˈskætəd/", cn: "分散的，散落的" },
+      { w: "linguistic", pos: "adj.", p: "/lɪŋˈɡwɪstɪk/", cn: "语言的，语言学的" },
+      { w: "variation", pos: "n.", p: "/ˌveəriˈeɪʃn/", cn: "变体，差异，变化" }
     ]
   },
   words: [
-    { w: "offender", pos: "n.", p: "/əˈfendə(r)/", cn: "罪犯，违法者", ex: "First-time offenders are usually given community service rather than jail.", exCn: "「初犯者通常被判社区服务而非监禁。」" },
-    { w: "deter", pos: "v.", p: "/dɪˈtɜː(r)/", cn: "阻止，遏制", ex: "Better street lighting can deter thieves at night.", exCn: "「更好的街道照明能在夜间遏制窃贼。」" },
-    { w: "deterrent", pos: "n.", p: "/dɪˈterənt/", cn: "威慢因素，制约手段", ex: "Heavy fines act as a deterrent to careless drivers.", exCn: "「高额罚款对粗心的司机起到威慢作用。」" },
-    { w: "imprison", pos: "v.", p: "/ɪmˈprɪzn/", cn: "监禁，关押", ex: "The court decided to imprison him for five years.", exCn: "「法院决定将他监禁五年。」" },
-    { w: "custody", pos: "n.", p: "/ˈkʌstədi/", cn: "羁押，拘留；监护权", ex: "Two suspects remain in police custody tonight.", exCn: "「今夜仍有两名嫌疑人被警方羁押。」" },
-    { w: "sentence", pos: "v./n.", p: "/ˈsentəns/", cn: "判刑；判决", ex: "The judge may sentence her to two years in prison.", exCn: "「法官可能判处她两年监禁。」" },
-    { w: "verdict", pos: "n.", p: "/ˈvɜːdɪkt/", cn: "裁决，判决", ex: "The jury delivered a unanimous verdict of not guilty.", exCn: "「陪审团作出一致的无罪裁决。」" },
-    { w: "prosecute", pos: "v.", p: "/ˈprɒsɪkjuːt/", cn: "起诉，检控", ex: "The state decided to prosecute the company for fraud.", exCn: "「州政府决定以欺诈罪起诉该公司。」" },
-    { w: "testify", pos: "v.", p: "/ˈtestɪfaɪ/", cn: "作证，证明", ex: "Several neighbours agreed to testify in court.", exCn: "「几位邻居同意出庭作证。」" },
-    { w: "witness", pos: "n./v.", p: "/ˈwɪtnəs/", cn: "证人；目击", ex: "A witness described the car that left the scene.", exCn: "「一位证人描述了离开现场的那辆车。」" },
-    { w: "victim", pos: "n.", p: "/ˈvɪktɪm/", cn: "受害者，受害人", ex: "Support services help victims recover after a robbery.", exCn: "「援助服务帮助受害者在抢劫案后恢复。」" },
-    { w: "juvenile", pos: "adj./n.", p: "/ˈdʒuːvənaɪl/", cn: "少年的；青少年", ex: "Juvenile courts focus on education rather than punishment.", exCn: "「少年法庭侧重教育而非惩罚。」" },
-    { w: "delinquency", pos: "n.", p: "/dɪˈlɪŋkwənsi/", cn: "违法行为，失职", ex: "Youth delinquency often falls when after-school clubs open.", exCn: "「当课后活动中心开办后，青少年违法行为往往减少。」" },
-    { w: "reoffend", pos: "v.", p: "/ˌriːəˈfend/", cn: "再次犯罪", ex: "Prisoners who learn a trade are less likely to reoffend.", exCn: "「学到一门手艺的囚犯再次犯罪的可能性更低。」" },
-    { w: "parole", pos: "n.", p: "/pəˈrəʊl/", cn: "假释", ex: "He was released on parole after serving half his term.", exCn: "「他在服完一半刑期后获假释出狱。」" },
-    { w: "probation", pos: "n.", p: "/prəˈbeɪʃn/", cn: "缓刑，察看期", ex: "She received two years' probation instead of a prison term.", exCn: "「她被判两年缓刑，而非监禁。」" },
-    { w: "penalty", pos: "n.", p: "/ˈpenəlti/", cn: "处罚，刑罚", ex: "The penalty for tax evasion has risen sharply.", exCn: "「逃税的处罚已大幅加重。」" },
-    { w: "lenient", pos: "adj.", p: "/ˈliːniənt/", cn: "宽容的，从轻的", ex: "Critics called the sentence far too lenient.", exCn: "「批评者称这一判决过于宽松。」" },
-    { w: "harsh", pos: "adj.", p: "/hɑːʃ/", cn: "严厉的，苛刻的", ex: "Harsh punishment alone rarely changes behaviour.", exCn: "「仅靠严厉惩罚很少能改变行为。」" },
-    { w: "fraud", pos: "n.", p: "/frɔːd/", cn: "欺诈，骗局", ex: "Online fraud costs consumers billions each year.", exCn: "「网络欺诈每年让消费者损失数十亿。」" },
-    { w: "burglary", pos: "n.", p: "/ˈbɜːɡləri/", cn: "入室盗窃", ex: "Burglary rates fell after neighbours formed a watch group.", exCn: "「邻居们组成守望小组后，入室盗窃率下降了。」" },
-    { w: "vandalism", pos: "n.", p: "/ˈvændəlɪzəm/", cn: "故意破坏公物", ex: "Vandalism in the park was reduced by better lighting.", exCn: "「更好的照明减少了公园里的破坏行为。」" },
-    { w: "smuggle", pos: "v.", p: "/ˈsmʌɡl/", cn: "走私，偷运", ex: "Gangs try to smuggle goods across the border.", exCn: "「团伙试图将货物走私过境。」" },
-    { w: "bribery", pos: "n.", p: "/ˈbraɪbəri/", cn: "行贿，受贿", ex: "Bribery undermines trust in public institutions.", exCn: "「贿赂行为损害了公众对公共机构的信任。」" },
-    { w: "illicit", pos: "adj.", p: "/ɪˈlɪsɪt/", cn: "非法的，违禁的", ex: "Police seized a large quantity of illicit cigarettes.", exCn: "「警方查获了大量违禁香烟。」" },
-    { w: "convict", pos: "v.", p: "/kənˈvɪkt/", cn: "判定有罪，定罪", ex: "The court convicted him of dangerous driving.", exCn: "「法院判定他危险驾驶罪成立。」" },
-    { w: "acquit", pos: "v.", p: "/əˈkwɪt/", cn: "宣判无罪，开释", ex: "The jury acquitted her for lack of evidence.", exCn: "「因证据不足，陪审团宣判她无罪。」" },
-    { w: "patrol", pos: "v./n.", p: "/pəˈtrəʊl/", cn: "巡逻，巡查", ex: "Officers patrol the station during rush hour.", exCn: "「警员在高峰时段巡查车站。」" },
-    { w: "crackdown", pos: "n.", p: "/ˈkrækdaʊn/", cn: "严厉打击，整治", ex: "The government announced a crackdown on illegal parking.", exCn: "「政府宣布对违章停车展开整治。」" },
-    { w: "evidence", pos: "n.", p: "/ˈevɪdəns/", cn: "证据，证明", ex: "Without physical evidence, the case soon collapsed.", exCn: "「由于缺乏实物证据，此案很快就无法成立。」" }
+    { w: "linguistic", pos: "adj.", p: "/lɪŋˈɡwɪstɪk/", cn: "语言的，语言学的", ex: "The university offers a linguistic course on how children acquire their first language.", exCn: "「这所大学开设了一门关于儿童如何习得母语的语言学课程。」" },
+    { w: "vocabulary", pos: "n.", p: "/vəˈkæbjələri/", cn: "词汇，词汇量", ex: "Reading widely is the best way to enlarge your active vocabulary.", exCn: "「广泛阅读是扩充积极词汇量的最佳方式。」" },
+    { w: "fluency", pos: "n.", p: "/ˈfluːənsi/", cn: "流利，流畅", ex: "Her fluency in three languages helped her win the diplomatic post.", exCn: "「她三门语言的流利程度帮她赢得了那个外交职位。」" },
+    { w: "syntax", pos: "n.", p: "/ˈsɪntæks/", cn: "句法，句子结构", ex: "Students often struggle with the syntax of long English sentences.", exCn: "「学生常常在长英语句子的句法结构上遇到困难。」" },
+    { w: "bilingual", pos: "adj.", p: "/ˌbaɪˈlɪŋɡwəl/", cn: "双语的", ex: "The bilingual sign shows both the official and the regional language.", exCn: "「这块双语标牌同时显示了官方语言与地区语言。」" },
+    { w: "multilingual", pos: "adj.", p: "/ˌmʌltiˈlɪŋɡwəl/", cn: "多语的，多语言的", ex: "Singapore is a multilingual society where four languages share official status.", exCn: "「新加坡是一个多语社会，四种语言同为官方语言。」" },
+    { w: "phonetic", pos: "adj.", p: "/fəˈnetɪk/", cn: "语音的，发音的", ex: "The app gives phonetic transcriptions so learners can pronounce new words correctly.", exCn: "「这款应用提供语音转写，帮助学习者正确发出新词的读音。」" },
+    { w: "articulate", pos: "v./adj.", p: "/ɑːˈtɪkjuleɪt/", cn: "清晰表达；口齿清楚的", ex: "He found it hard to articulate his feelings during the interview.", exCn: "「他发现在面试中很难清晰地表达自己的感受。」" },
+    { w: "accent", pos: "n.", p: "/ˈæksent/", cn: "口音，重音", ex: "She speaks English with a slight French accent.", exCn: "「她说英语带着一点法国口音。」" },
+    { w: "transmit", pos: "v.", p: "/trænzˈmɪt/", cn: "传递，传播，传承", ex: "Parents naturally transmit their customs to their children.", exCn: "「父母会自然地把习俗传递给子女。」" },
+    { w: "documentation", pos: "n.", p: "/ˌdɒkjumenˈteɪʃn/", cn: "记录，文献，文档", ex: "Careful documentation of the language took the team three full years.", exCn: "「对该语言的细致记录耗费了团队整整三年。」" },
+    { w: "archive", pos: "n./v.", p: "/ˈɑːkaɪv/", cn: "档案；把……存档", ex: "The museum archive holds recordings made by travellers a century ago.", exCn: "「这家博物馆的档案库保存着旅行者一个世纪前录制的资料。」" },
+    { w: "minority", pos: "n.", p: "/maɪˈnɒrəti/", cn: "少数民族；少数", ex: "The policy aims to protect the rights of every minority group.", exCn: "「这项政策旨在保护每个少数群体的权利。」" },
+    { w: "assimilate", pos: "v.", p: "/əˈsɪməleɪt/", cn: "同化；吸收", ex: "Immigrants often assimilate into the local culture within a generation.", exCn: "「移民往往在一代人的时间内融入当地文化。」" },
+    { w: "survive", pos: "v.", p: "/səˈvaɪv/", cn: "幸存，存活", ex: "Only a few old songs survived after the dialect fell out of daily use.", exCn: "「在这种方言不再日常使用之后，只有几首老歌留存了下来。」" },
+    { w: "fade", pos: "v.", p: "/feɪd/", cn: "逐渐消失，衰退", ex: "Public interest in the dialect began to fade after the radio closed.", exCn: "「电台停播后，公众对这种方言的兴趣开始消退。」" },
+    { w: "threaten", pos: "v.", p: "/ˈθretn/", cn: "威胁，危及", ex: "Rising sea levels threaten the islanders' native tongue and homeland alike.", exCn: "「海平面上升同时威胁着岛民的母语与家园。」" },
+    { w: "safeguard", pos: "v./n.", p: "/ˈseɪfɡɑːd/", cn: "保护，维护；保障措施", ex: "New laws safeguard the languages of indigenous communities.", exCn: "「新法律保护原住民社群的语言。」" },
+    { w: "narrative", pos: "n.", p: "/ˈnærətɪv/", cn: "叙述，故事", ex: "Each village keeps a different narrative about how it first settled the valley.", exCn: "「每个村庄都保留着关于自己最初如何定居山谷的不同叙事。」" },
+    { w: "community", pos: "n.", p: "/kəˈmjuːnəti/", cn: "社区，群体", ex: "The whole community joined the festival to celebrate its heritage.", exCn: "「整个社群都参加了节庆，庆祝自己的传统。」" },
+    { w: "scholar", pos: "n.", p: "/ˈskɒlə(r)/", cn: "学者", ex: "A young scholar published a grammar of the nearly forgotten language.", exCn: "「一位年轻的学者出版了一本关于这门几乎被遗忘的语言的语法书。」" },
+    { w: "uphold", pos: "v.", p: "/ʌpˈhəʊld/", cn: "维护，支持，坚持", ex: "Elders uphold the custom of telling stories by the winter fire.", exCn: "「长者们坚持着在冬日炉火旁讲故事的习俗。」" },
+    { w: "advance", pos: "v.", p: "/ədˈvɑːns/", cn: "推进，促进；提出", ex: "The grant will advance research into endangered oral traditions.", exCn: "「这笔资助将推进对濒危口头传统的研究。」" },
+    { w: "globalization", pos: "n.", p: "/ˌɡləʊbəlaɪˈzeɪʃn/", cn: "全球化", ex: "Globalization has speeded up the spread of a few dominant languages.", exCn: "「全球化加速了少数几种主导语言的传播。」" },
+    { w: "prevailing", pos: "adj.", p: "/prɪˈveɪlɪŋ/", cn: "盛行的，占主导的", ex: "The prevailing view was that only big languages were worth studying.", exCn: "「当时盛行的看法是，只有大语言才值得研究。」" },
+    { w: "recognition", pos: "n.", p: "/ˌrekəɡˈnɪʃn/", cn: "承认，认可；认出", ex: "The language finally gained official recognition after years of effort.", exCn: "「经过多年努力，这门语言终于获得官方承认。」" },
+    { w: "tribal", pos: "adj.", p: "/ˈtraɪbl/", cn: "部落的", ex: "The tribal name for the river carries a story of survival.", exCn: "「这个部落对那条河的称呼，承载着一个关于生存的故事。」" },
+    { w: "unity", pos: "n.", p: "/ˈjuːnəti/", cn: "团结，统一", ex: "Singing together strengthened the unity of the scattered villagers.", exCn: "「一起唱歌增强了散居村民之间的团结。」" },
+    { w: "variation", pos: "n.", p: "/ˌveəriˈeɪʃn/", cn: "变体，差异，变化", ex: "Linguists noted striking variation between mountain and coastal speech.", exCn: "「语言学家注意到山区与沿海话语之间存在惊人的差异。」" },
+    { w: "native", pos: "adj./n.", p: "/ˈneɪtɪv/", cn: "母语的；本地人", ex: "She returned to teach children their native language at the local school.", exCn: "「她回到当地学校，教孩子们自己的母语。」" }
   ],
   vocabArticle: {
-    title: "The Street That Chose Prevention",
-    titleCn: "选择了预防的那条街",
+    title: "The Last Words of the Valley（山谷里的最后话语）",
+    titleCn: "山谷里的最后话语",
     paras: [
       {
-        en: "Ten years ago, Ashford Street was known for burglary and casual vandalism. Almost every family had been a victim of something, yet the evidence was thin and few people would act as a witness. Police increased patrol hours and announced a crackdown, and for a while the harsh response worked. Once the extra officers left, however, the broken windows and stolen bicycles quietly returned.",
-        cn: "十年前，阿什福德街以入室盗窃和随手破坏公物而闻名。几乎每户人家都曾是某种案件的受害者，然而证据总是稀薄，也很少有人愿意出面作证。警方增加了巡逻时长并宣布展开严厉整治，有一段时间这种强硬的应对确实见效。可一旦增派的警力撤走，破碎的窗户和被偷的自行车便又悄悄回来了。"
+        en: "In a remote mountain valley, a small tribal community still speaks a native language that no dictionary has ever recorded. Linguistic scholars travelled there to study its unusual phonetic system and complex syntax, hoping to understand how a minority group had kept its fluency alive. The elders could articulate every word with a calm accent, and children learned the vocabulary naturally through daily life rather than in school.",
+        cn: "在偏远的山谷里，一个小部落社群仍在使用一种从未被任何词典记录过的母语。语言学学者前往那里研究其独特的语音系统与复杂的句法，想弄清一个少数群体如何在数百年中保持了语言的流利。长者能用平静的口音清晰说出每个词，而孩子们通过日常生活而非学校，自然地习得了词汇。"
       },
       {
-        en: "A young offender named Dan changed how the street thought. A juvenile court heard how years of delinquency had begun with hunger and boredom. Prosecutors could easily prosecute him, and a judge could convict and sentence him, but no one believed that a decision to imprison a fifteen-year-old, or to keep him in custody for months, would make the neighbourhood any safer.",
-        cn: "一个名叫丹的少年违法者改变了这条街的想法。少年法庭听闻了他多年违法行为的起点——饥饿与无所事事。检察官本可以轻易将他起诉，法官也可以判他有罪并处以刑罚，但没有人相信把一个十五岁的孩子送进监狱、或将他羁押数月，会让这个社区变得更安全一分。"
+        en: "Yet globalization now threatens this fragile inheritance. A prevailing belief in the region holds that only a multilingual education will bring good jobs, so younger villagers increasingly assimilate into the wider culture and let the old tongue fade. Unless someone transmits the stories to the next generation, the language may not survive the coming decades.",
+        cn: "然而全球化如今威胁着这份脆弱的遗产。当地一种盛行的观念认为，只有多语教育才能带来好工作，于是年轻村民日益融入更广阔的文化，任由古老语言消退。除非有人把故事传给下一代，否则这门语言可能熬不过未来几十年。"
       },
       {
-        en: "The verdict surprised everyone. The court did not acquit Dan, but it granted probation with strict conditions, much as an adult might be released on parole. Neighbours who once called such rulings lenient watched closely. A mentor, a small penalty and weekly meetings replaced a cell; two teachers agreed to testify that he was trying, and Dan did not reoffend.",
-        cn: "裁决结果让所有人都感到意外。法院并没有宣判丹无罪，而是附加严格条件判了缓刑，就像成年人可能获得假释那样。那些曾把这类判决称为过于宽容的邻居们紧盯着后续。一位导师、一笔小额处罚和每周一次的会面取代了牢房；两位老师愿意作证说他在努力，而丹此后没有再次犯罪。"
+        en: "Determined to safeguard what remained, a local teacher began the documentation of every narrative she could record. She built a digital archive of songs and proverbs, and asked the community to uphold its traditions in public festivals. Her work won quiet recognition from international experts, who praised the variation in grammar and the rich imagery embedded in the speech.",
+        cn: "一位当地教师决心保护所剩无几的部分，开始记录她能收集到的每一个叙事。她建立了一个由歌曲与谚语组成的数字档案，并请整个社群在公共节庆中维护自己的传统。她的成果赢得了国际专家的默默认可，专家们称赞其语法的丰富变体，以及话语中蕴含的生动意象。"
       },
       {
-        en: "Ashford Street learned that fear alone does not deter crime, and that the strongest deterrent is a reason to stay honest. Larger offences — fraud, bribery, or gangs who smuggle illicit goods — still demand courts and firm sentences. Yet on one ordinary street, youth clubs, jobs and steady attention achieved what raids never had: quiet nights and children with somewhere to go.",
-        cn: "阿什福德街明白了一个道理：单靠恐惧并不能遏制犯罪，而最强的威慢来自一个让人愿意保持正直的理由。更大的罪行——欺诈、贿赂，或走私违禁品的团伙——依然需要法庭与坚决的判罚。然而在这条普通的街道上，青少年活动中心、工作岗位和持续的关注，做到了突击搜查从未做到的事：安静的夜晚，以及有地方可去的孩子们。"
+        en: "The effort has begun to advance a broader movement. Bilingual classes now teach children to articulate their identity in both the native and the national language, proving that one can be fluent without losing the other. Although the old phonetic accent may shift over time, the unity of the people and their living vocabulary continue to survive — a small but defiant answer to a world that once declared them forgotten.",
+        cn: "这一努力已开始推动一场更广的运动。双语课堂如今教导孩子用母语和民族共同语两种语言来表达自我，证明一个人可以流利使用一种语言而不失去另一种。尽管古老的语音口音可能会随时间改变，但人们的团结与他们鲜活的词汇依旧留存——这是一个小小的、却充满反抗意味的回答，回应着那个曾宣告他们已被遗忘的世界。"
       }
     ]
   },
   grammar: [
     {
-      q: "The reoffending rate in supervised community programmes is significantly lower than ________ in ordinary prisons.",
+      q: "Each of the remaining tribal languages, together with its songs and stories, ________ a unique window into human history.",
       options: [
-        "that",
-        "it",
-        "one",
-        "which"
-      ],
-      answer: 0,
-      explain: "考点：比较结构中的替代词 that / those。than 之后省略了重复的名词中心词 rate，为避免重复须用替代词。规则是：替代单数可数名词或不可数名词用 that，替代复数名词用 those，且 that/those 后面通常带介词短语或定语（本句为 in ordinary prisons）。原句完整形式为 ... lower than the reoffending rate in ordinary prisons，故 A 正确。B 项 it 指代前文提到的“同一事物”，而这里比较的是两个不同监管方式下的“两个不同比率”，语义矛盾；C 项 one 只能替代可数名词且一般不用于此类带后置定语的正式比较，且 rate 前需限定词，语义也偏“任意一个”；D 项 which 是关系代词，须引导定语从句，不能充当 than 后的比较对象。扩展：若比较对象为复数，如 The reoffending rates ... are lower than those in ordinary prisons，则须用 those。"
-    },
-    {
-      q: "It was not until the late 1990s ________ the government began to fund rehabilitation programmes seriously.",
-      options: [
-        "when",
-        "that",
-        "then",
-        "which"
+        "offer",
+        "offers",
+        "have offered",
+        "are offering"
       ],
       answer: 1,
-      explain: "考点：强调句型与 not until 的搭配。当 not until 引导的时间状语被强调时，固定结构为 It is / was not until + 被强调部分 + that + 句子其余部分，其中 that 不可替换。故 B 正确。A 项 when 只能引导时间状语从句（如 The government did not fund it seriously until the late 1990s, when attitudes changed），不能用于强调句；C 项 then 是副词，无法连接两个分句；D 项 which 引导定语从句，需有先行词且在从句中充当成分，此处不成立。扩展：not until 置于句首时（非强调句）要用部分倒装：Not until the late 1990s did the government begin to fund rehabilitation programmes seriously。对比记忆：强调句用 that 不倒装，Not until 开头则倒装且不用 that。"
+      explain: "考点：主谓一致中的插入语。句子的核心主语是 Each（不定代词，表单数），谓语动词必须用单数形式。中间的 together with its songs and stories 是插入语（同类结构还有 with / along with / as well as / including 等），只起补充说明作用，不改变主语的数，因此谓语仍与 Each 保持一致，用 offers。A 项 offer 是复数原形，C 项 have offered 是复数现在完成时，D 项 are offering 是复数现在进行时，三者均因把插入语当成了主语而误用复数，错误。扩展：当 each / every / one 作主语，或 each of + 复数名词 作主语时，谓语一律用单数；只有把 each 放在复数主语之后作同位语（如 They each have...）时，谓语才用复数。"
+    },
+    {
+      q: "Only after the last fluent speaker passed away ________ the full scale of the loss become clear to linguists.",
+      options: [
+        "did",
+        "does",
+        "had",
+        "/（不倒装）"
+      ],
+      answer: 0,
+      explain: "考点：Only + 状语置于句首引起的部分倒装。当 Only 修饰状语（副词、介词短语或状语从句）并放在句首时，主句必须部分倒装，即把助动词、情态动词或 be 动词提到主语之前。本句 Only after + 从句 在句首，主句动作 become clear 陈述的是过去的事实（与 passed away 同一语境），故用助动词 did 提前，主语 the full scale 之后接动词原形 become。B 项 does 是现在时，与 passed away 的过去时语境矛盾；C 项 had 若提前则主句应为 had become（过去完成时），但原句用的是 become 原形，结构不符；D 项不倒装违背了 Only 居首必须部分倒装的规则，会造成语法错误。扩展：Only then / Only in this way / Only when... 居首都触发部分倒装；但 Only 直接修饰主语（如 Only he passed the exam）时不倒装。"
     }
   ]
 };
