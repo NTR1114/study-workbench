@@ -113,5 +113,11 @@ window.ENGLISH_HISTORY = [
     topic: "Language & Linguistics: Endangered Languages（语言与语言濒危）",
     articleTitle: "The Vanishing Voices: Why the World Is Losing Its Languages",
     words: ["linguistic","vocabulary","fluency","syntax","bilingual","multilingual","phonetic","articulate","accent","transmit","documentation","archive","minority","assimilate","survive","fade","threaten","safeguard","narrative","community","scholar","uphold","advance","globalization","prevailing","recognition","tribal","unity","variation","native"]
+  },
+  {
+    date: "2026-08-26",
+    topic: "Water Scarcity（水资源短缺）",
+    articleTitle: "Running Dry: The Global Struggle for Fresh Water",
+    words: ["reservoir","aquifer","drought","desalination","groundwater","precipitation","evaporate","catchment","wetland","sanitation","contaminate","purify","sewage","runoff","glacier","arid","replenish","potable","moisture","saline","seep","drainage","tributary","watershed","downstream","leakage","equitable","reclaim","stagnant","intensify"]
   }
 ];
