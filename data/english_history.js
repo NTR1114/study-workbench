@@ -119,5 +119,17 @@ window.ENGLISH_HISTORY = [
     topic: "Water Scarcity（水资源短缺）",
     articleTitle: "Running Dry: The Global Struggle for Fresh Water",
     words: ["reservoir","aquifer","drought","desalination","groundwater","precipitation","evaporate","catchment","wetland","sanitation","contaminate","purify","sewage","runoff","glacier","arid","replenish","potable","moisture","saline","seep","drainage","tributary","watershed","downstream","leakage","equitable","reclaim","stagnant","intensify"]
+  },
+  {
+    date: "2026-08-27",
+    topic: "Advertising & Consumerism（广告与消费主义）",
+    articleTitle: "The Art of Persuasion: How Advertising Shapes What We Buy",
+    words: ["advertise","advertisement","campaign","persuade","consumer","consume","brand","marketing","promote","commercial","celebrity","appeal","target","tactic","deceptive","misleading","lure","impulse","purchase","merchant","slogan","broadcast","subtle","influential","temptation","desire","indulge","materialism","retail","profit"]
+  },
+  {
+    date: "2026-08-28",
+    topic: "Sports & Physical Activity（体育运动与身体活动）",
+    articleTitle: "More Than a Game: Why Movement Matters",
+    words: ["athlete","exercise","fitness","compete","competition","championship","tournament","stadium","coach","endurance","stamina","vigorous","physique","spectator","amateur","professional","Olympic","medal","venue","referee","opponent","defeat","victory","aerobic","agility","teamwork","coordination","elite","momentum","recreation"]
   }
 ];
