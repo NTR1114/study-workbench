@@ -131,5 +131,11 @@ window.ENGLISH_HISTORY = [
     topic: "Sports & Physical Activity（体育运动与身体活动）",
     articleTitle: "More Than a Game: Why Movement Matters",
     words: ["athlete","exercise","fitness","compete","competition","championship","tournament","stadium","coach","endurance","stamina","vigorous","physique","spectator","amateur","professional","Olympic","medal","venue","referee","opponent","defeat","victory","aerobic","agility","teamwork","coordination","elite","momentum","recreation"]
+  },
+  {
+    date: "2026-08-29",
+    topic: "Genetics & Biotechnology（基因与生物技术）",
+    articleTitle: "Rewriting Life: The Promise and Peril of Biotechnology",
+    words: ["genome","genetic","gene","hereditary","inherit","mutation","chromosome","clone","embryo","transplant","donor","vaccine","antibody","immune","virus","bacteria","antibiotic","resistance","molecule","molecular","synthesize","nucleus","organism","trait","sequence","clinical","trial","enzyme","cell","modify"]
   }
 ];
