@@ -137,5 +137,11 @@ window.ENGLISH_HISTORY = [
     topic: "Genetics & Biotechnology（基因与生物技术）",
     articleTitle: "Rewriting Life: The Promise and Peril of Biotechnology",
     words: ["genome","genetic","gene","hereditary","inherit","mutation","chromosome","clone","embryo","transplant","donor","vaccine","antibody","immune","virus","bacteria","antibiotic","resistance","molecule","molecular","synthesize","nucleus","organism","trait","sequence","clinical","trial","enzyme","cell","modify"]
+  },
+  {
+    date: "2026-08-31",
+    topic: "Ocean Conservation（海洋保护）",
+    articleTitle: "Turning the Tide: Saving the Living Ocean",
+    words: ["marine","coastline","coral","reef","fishery","overfishing","plankton","acidification","plastic","debris","bycatch","trawler","prohibit","ban","toxic","mammal","cetacean","algae","kelp","mangrove","estuary","sediment","erosion","restoration","advocacy","expedition","satellite","oxygen","crustacean","upwelling"]
   }
 ];
