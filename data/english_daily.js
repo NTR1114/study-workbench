@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-08-31",
-  topic: "Ocean Conservation（海洋保护）",
+  date: "2026-09-01",
+  topic: "Gender Equality（性别平等）",
   article: {
-    title: "Turning the Tide: Saving the Living Ocean",
-    titleCn: "扭转潮水：拯救生机盎然的海洋",
+    title: "Beyond the Glass Ceiling: The Long Road to Gender Equality",
+    titleCn: "超越玻璃天花板：通往性别平等的漫漫长路",
     paras: [
       {
-        en: "The world's oceans cover more than seventy percent of the planet, yet they remain among the least protected places on Earth. Coral reefs, mangrove forests and coastal estuaries support an astonishing variety of marine life, from tiny plankton to enormous whales. However, decades of overfishing, plastic pollution and rising temperatures have placed these fragile ecosystems under severe pressure. Scientists now warn that without urgent action, large parts of the ocean could change beyond recovery.",
-        cn: "世界海洋覆盖了地球逾百分之七十的面积，却仍是地球上受保护最少的地方之一。珊瑚礁、红树林与沿海河口孕育着从微小浮游生物到庞大鲸鱼的各种海洋生命，种类惊人。然而，数十年的过度捕捞、塑料污染与气温上升，已让这些脆弱的生态系统承受巨大压力。科学家现在警告，若不采取紧急行动，海洋的大片区域可能发生不可逆的改变。"
+        en: "Despite decades of progress, gender inequality remains one of the most persistent forms of injustice in modern societies. Although women have won the right to vote and enter parliament, their representation in leadership and well-paid roles is still strikingly low. Deeply rooted stereotypes and a rigid division of labour continue to shape the choices open to each gender, slowing the march toward real parity.",
+        cn: "尽管数十年来进展不断，性别不平等仍是现代社会中最持久的不公形式之一。虽然女性已赢得投票权并得以进入议会，但她们在领导岗位与高薪职位中的代表性仍低得惊人。根深蒂固的刻板印象与僵化的劳动分工，持续塑造着每个性别所面对的选择，拖慢了通往真正平等的步伐。"
       },
       {
-        en: "One of the gravest threats is overfishing, in which industrial trawlers remove fish faster than stocks can replenish. As populations collapse, the delicate food web unravels, and bycatch — animals caught unintentionally — adds further loss. Acidification, caused by excess carbon dioxide, weakens shells and skeletons, while toxic runoff from farms and cities smothers reefs. Coastal erosion and sediment from cleared land further degrade nurseries where young fish and crustaceans once thrived.",
-        cn: "最严重的威胁之一是过度捕捞：工业拖网渔船捕鱼的速度，快过鱼群自我补充的速度。随着种群崩溃，微妙的食物网随之瓦解，而副渔获物——被无意捕获的动物——更造成额外的损失。由过量二氧化碳引发的酸化削弱了甲壳与骨架，而来自农田与城市的剧毒径流则令珊瑚礁窒息。海岸侵蚀与被砍伐土地带来的沉积物，进一步恶化了幼鱼与甲壳类动物曾经繁盛的哺育场。"
+        en: "Many barriers are invisible yet powerful. From childhood, girls and boys are often pushed toward different roles by persistent social norms, while unpaid care work still falls disproportionately on women. This imbalance entrenches economic dependence and blocks advancement, leaving capable people subordinate in their own careers. Harassment and quiet exclusion, though harder to measure, further discourage women from claiming the entitlement to equal opportunity and respect.",
+        cn: "许多障碍无形却有力。从童年起，女孩与男孩就常被持久的社会规范推向不同的角色，而无偿照料工作仍不成比例地落在女性身上。这种失衡加深了经济依赖并阻碍晋升，使有才干的人在自身职业生涯中居于从属地位。骚扰与无声的排斥虽更难衡量，却进一步打击女性主张平等机会与尊重之权利的信心。"
       },
       {
-        en: "Protecting the sea is no longer optional. Many nations have moved to prohibit destructive gear and ban fishing near vital reefs, while networks of marine reserves allow depleted habitats to recover. Restoration projects replant mangrove coasts and rebuild kelp forests that shelter countless species. Satellite tracking and citizen science now monitor illegal trawlers, and public advocacy has pushed corporations to cut plastic. Such measures show that recovery is possible when political will exists.",
-        cn: "保护海洋已不再是可选项。许多国家已开始禁止使用破坏性渔具，并禁止在重要珊瑚礁附近捕捞；与此同时，海洋保护区的网络让枯竭的栖息地得以恢复。修复工程重新种植红树林海岸，并重建为无数物种提供庇护的巨藻林。卫星追踪与公众科学如今监控着非法拖网渔船，而公众的倡导也推动企业减少塑料。这些措施表明，只要政治意愿存在，恢复便有可能。"
+        en: "Change, however, is real. The long struggle for suffrage in the early twentieth century proved that grassroots movements can reshape parliament and shift public consciousness. Progressive reforms now target the wage gap and back representation through voluntary quotas, while courts curb overt exploitation. Though uneven across regions, these measures have lifted millions and shown that parity is a conscious choice, not a distant dream.",
+        cn: "然而，改变真实存在。二十世纪早期争取参政权的漫长斗争证明，基层运动能够重塑议会并转变公众意识。进步性的改革如今瞄准薪资差距，并借助自愿配额来支持代表性，而法院则遏制公然的剥削。尽管各地进展不一，这些措施已惠及数百万人，并表明平等是一种自觉的选择，而非遥远的梦。"
       },
       {
-        en: "Yet the task remains immense. Ocean health is inseparable from climate policy, because warming seas and acidification will outpace local fixes unless global emissions fall. Future expeditions must map unmapped depths, and upwelling currents that lift nutrients must be guarded as life-support systems. If humanity treats the ocean as a shared inheritance rather than a free resource, restoration can spread. The choice, ultimately, is ours to make before the tide turns.",
-        cn: "然而，这项任务依旧艰巨。海洋健康与气候政策密不可分，因为除非全球排放下降，否则变暖的海水与酸化将超越地方层面的修补。未来的考察必须绘制尚未测绘的深海，而带来养分的涌升流必须作为生命支持系统加以守护。如果人类把海洋视为共同的遗产而非免费的资源，修复便能扩散开来。归根结底，在潮水逆转之前，选择权掌握在我们手中。"
+        en: "Still, the hardest barriers linger. Women remain underrepresented in the dominant fields of science and finance, and a persistent leadership gap leaves many qualified candidates behind. Raising collective consciousness and mobilizing at the grassroots level matter, but lasting change also requires men to share care work and challenge rigid norms. Only when society treats gender as irrelevant to ability will true parity arrive.",
+        cn: "尽管如此，最顽固的障碍依然存在。女性在科学与金融等主导领域中仍代表性不足，而持续的领导层缺口让许多合格候选人落于人后。提升集体意识与在基层层面动员固然重要，但持久的改变也需要男性分担照料工作、挑战僵化规范。只有当社会把性别视为与能力无关时，真正的平等才会到来。"
       }
     ],
     glossary: [
-      { w: "marine", pos: "adj.", p: "/məˈriːn/", cn: "海洋的" },
-      { w: "coral", pos: "n.", p: "/ˈkɒrəl/", cn: "珊瑚" },
-      { w: "reef", pos: "n.", p: "/riːf/", cn: "礁，暗礁" },
-      { w: "mangrove", pos: "n.", p: "/ˈmæŋɡrəʊv/", cn: "红树林" },
-      { w: "estuary", pos: "n.", p: "/ˈestʃuəri/", cn: "河口，江口" },
-      { w: "plankton", pos: "n.", p: "/ˈplæŋktən/", cn: "浮游生物" },
-      { w: "fragile", pos: "adj.", p: "/ˈfrædʒaɪl/", cn: "脆弱的" },
-      { w: "overfishing", pos: "n.", p: "/ˌəʊvəˈfɪʃɪŋ/", cn: "过度捕捞" },
-      { w: "trawler", pos: "n.", p: "/ˈtrɔːlə(r)/", cn: "拖网渔船" },
-      { w: "replenish", pos: "v.", p: "/rɪˈplenɪʃ/", cn: "补充，使重新充足" },
-      { w: "bycatch", pos: "n.", p: "/ˈbaɪkɑːtʃ/", cn: "副渔获物，误捕" },
-      { w: "acidification", pos: "n.", p: "/əˌsɪdɪfɪˈkeɪʃn/", cn: "酸化" },
-      { w: "toxic", pos: "adj.", p: "/ˈtɒksɪk/", cn: "有毒的" },
-      { w: "erosion", pos: "n.", p: "/ɪˈrəʊʒn/", cn: "侵蚀，腐蚀" },
-      { w: "sediment", pos: "n.", p: "/ˈsedɪmənt/", cn: "沉积物" },
-      { w: "crustacean", pos: "n.", p: "/krʌˈsteɪʃn/", cn: "甲壳类动物" },
-      { w: "prohibit", pos: "v.", p: "/prəˈhɪbɪt/", cn: "禁止" },
-      { w: "ban", pos: "n./v.", p: "/bæn/", cn: "禁止，禁令" },
-      { w: "restoration", pos: "n.", p: "/ˌrestəˈreɪʃn/", cn: "恢复，修复" },
-      { w: "kelp", pos: "n.", p: "/kelp/", cn: "巨藻，海带" },
-      { w: "satellite", pos: "n.", p: "/ˈsætəlaɪt/", cn: "卫星" },
-      { w: "advocacy", pos: "n.", p: "/ˈædvəkəsi/", cn: "倡导，拥护" },
-      { w: "expedition", pos: "n.", p: "/ˌekspəˈdɪʃn/", cn: "远征，考察" },
-      { w: "upwelling", pos: "n.", p: "/ˌʌpˈwelɪŋ/", cn: "涌升流" },
-      { w: "inseparable", pos: "adj.", p: "/ɪnˈseprəbl/", cn: "不可分离的" },
-      { w: "emissions", pos: "n.", p: "/ɪˈmɪʃnz/", cn: "排放（物）" },
-      { w: "degrade", pos: "v.", p: "/dɪˈɡreɪd/", cn: "使退化，恶化" },
-      { w: "variety", pos: "n.", p: "/vəˈraɪəti/", cn: "多样性，种类" }
+      { w: "gender", pos: "n.", p: "/ˈdʒendə(r)/", cn: "性别" },
+      { w: "inequality", pos: "n.", p: "/ˌɪnkˈkwɒləti/", cn: "不平等" },
+      { w: "injustice", pos: "n.", p: "/ɪnˈdʒʌstɪs/", cn: "不公，不义" },
+      { w: "parliament", pos: "n.", p: "/ˈpɑːləmənt/", cn: "议会" },
+      { w: "representation", pos: "n.", p: "/ˌreprɪzenˈteɪʃn/", cn: "代表性，代表" },
+      { w: "leadership", pos: "n.", p: "/ˈliːdəʃɪp/", cn: "领导层，领导力" },
+      { w: "stereotype", pos: "n.", p: "/ˈsteriətaɪp/", cn: "刻板印象" },
+      { w: "rigid", pos: "adj.", p: "/ˈrɪdʒɪd/", cn: "僵化的，严格的" },
+      { w: "division", pos: "n.", p: "/dɪˈvɪʒn/", cn: "分工，划分" },
+      { w: "persistent", pos: "adj.", p: "/pəˈsɪstənt/", cn: "持续的，顽固的" },
+      { w: "imbalance", pos: "n.", p: "/ɪmˈbæləns/", cn: "不平衡，失调" },
+      { w: "subordinate", pos: "adj.", p: "/səˈbɔːdɪnət/", cn: "从属的，下级的" },
+      { w: "harassment", pos: "n.", p: "/ˈhærəsmənt/", cn: "骚扰" },
+      { w: "entitlement", pos: "n.", p: "/ɪnˈtaɪtlmənt/", cn: "权利，资格" },
+      { w: "suffrage", pos: "n.", p: "/ˈsʌfrɪdʒ/", cn: "选举权（尤指女性参政权）" },
+      { w: "grassroots", pos: "n./adj.", p: "/ˈɡrɑːsruːts/", cn: "基层，草根" },
+      { w: "consciousness", pos: "n.", p: "/ˈkɒnʃəsnəs/", cn: "意识，觉悟" },
+      { w: "progressive", pos: "adj.", p: "/prəˈɡresɪv/", cn: "进步的，先进的" },
+      { w: "wage", pos: "n.", p: "/weɪdʒ/", cn: "工资，薪金" },
+      { w: "exploitation", pos: "n.", p: "/ˌeksplɔɪˈteɪʃn/", cn: "剥削" },
+      { w: "parity", pos: "n.", p: "/ˈpærəti/", cn: "平等，对等" },
+      { w: "dominant", pos: "adj.", p: "/ˈdɒmɪnənt/", cn: "主导的，占优势的" },
+      { w: "disproportionate", pos: "adj.", p: "/ˌdɪsprəˈpɔːʃənət/", cn: "不成比例的" },
+      { w: "entrench", pos: "v.", p: "/ɪnˈtrentʃ/", cn: "使根深蒂固，巩固" },
+      { w: "advancement", pos: "n.", p: "/ədˈvɑːnsmənt/", cn: "晋升，进展" },
+      { w: "reshape", pos: "v.", p: "/ˌriːˈʃeɪp/", cn: "重塑，改变" },
+      { w: "overt", pos: "adj.", p: "/əʊˈvɜːt/", cn: "公然的，明显的" },
+      { w: "underrepresented", pos: "adj.", p: "/ˌʌndərɪprɪˈzentɪd/", cn: "代表性不足的" }
     ]
   },
   words: [
-    { w: "marine", pos: "adj.", p: "/məˈriːn/", cn: "海洋的", ex: "Marine biologists study the creatures that live beneath the ocean's surface.", exCn: "「海洋生物学家研究生活在海洋表层之下的生物。」" },
-    { w: "coastline", pos: "n.", p: "/ˈkəʊstlaɪn/", cn: "海岸线", ex: "Rising sea levels now threaten every coastline on the continent.", exCn: "「海平面上升如今威胁着这片大陆上的每一段海岸线。」" },
-    { w: "coral", pos: "n.", p: "/ˈkɒrəl/", cn: "珊瑚", ex: "The coral turns white when the sea becomes too warm for it to survive.", exCn: "「当海水变得过热、珊瑚无法生存时，它就会变白。」" },
-    { w: "reef", pos: "n.", p: "/riːf/", cn: "礁，暗礁", ex: "A hidden reef can damage a ship that strays too close to shore.", exCn: "「隐藏的暗礁会损毁驶得离海岸过近的船只。」" },
-    { w: "fishery", pos: "n.", p: "/ˈfɪʃəri/", cn: "渔业，渔场", ex: "The local fishery collapsed after years of uncontrolled catching.", exCn: "「当地渔场在多年无节制捕捞后崩溃了。」" },
-    { w: "overfishing", pos: "n.", p: "/ˌəʊvəˈfɪʃɪŋ/", cn: "过度捕捞", ex: "Overfishing has left some oceans with too few adult fish to breed.", exCn: "「过度捕捞使某些海域成年鱼数量过少，难以繁衍。」" },
-    { w: "plankton", pos: "n.", p: "/ˈplæŋktən/", cn: "浮游生物", ex: "Tiny plankton form the base of almost every marine food chain.", exCn: "「微小的浮游生物构成了几乎所有海洋食物链的基础。」" },
-    { w: "acidification", pos: "n.", p: "/əˌsɪdɪfɪˈkeɪʃn/", cn: "酸化", ex: "Ocean acidification makes it harder for shells to grow strong and thick.", exCn: "「海洋酸化使甲壳更难长得坚固厚实。」" },
-    { w: "plastic", pos: "n./adj.", p: "/ˈplæstɪk/", cn: "塑料（的）", ex: "Plastic waste can drift for years before it finally breaks apart.", exCn: "「塑料垃圾在最终碎裂前可能漂流数年之久。」" },
-    { w: "debris", pos: "n.", p: "/ˈdebriː/", cn: "碎片，残骸（尤指海洋垃圾）", ex: "Volunteers cleared the beach of debris after the storm passed.", exCn: "「风暴过后，志愿者清除了海滩上的碎片残骸。」" },
-    { w: "bycatch", pos: "n.", p: "/ˈbaɪkɑːtʃ/", cn: "副渔获物（误捕）", ex: "Strict nets help reduce the bycatch of turtles and dolphins.", exCn: "「严格的渔网有助于减少海龟与海豚的误捕。」" },
-    { w: "trawler", pos: "n.", p: "/ˈtrɔːlə(r)/", cn: "拖网渔船", ex: "A giant trawler can strip a stretch of seabed in a single night.", exCn: "「一艘巨型拖网渔船能在一夜之间扫光一片海床。」" },
-    { w: "prohibit", pos: "v.", p: "/prəˈhɪbɪt/", cn: "禁止", ex: "New rules prohibit fishing in the breeding grounds of rare species.", exCn: "「新规禁止在珍稀物种的繁殖地捕鱼。」" },
-    { w: "ban", pos: "n./v.", p: "/bæn/", cn: "禁止，禁令", ex: "The government placed a ban on single-use plastic near the coast.", exCn: "「政府在海岸附近颁布了禁用一次性塑料的禁令。」" },
-    { w: "toxic", pos: "adj.", p: "/ˈtɒksɪk/", cn: "有毒的", ex: "Toxic chemicals from factories can poison the water for decades.", exCn: "「工厂排放的有毒化学品可能毒害水体长达数十年。」" },
-    { w: "mammal", pos: "n.", p: "/ˈmæml/", cn: "哺乳动物", ex: "The blue whale is the largest mammal that has ever lived.", exCn: "「蓝鲸是有史以来最大的哺乳动物。」" },
-    { w: "cetacean", pos: "n.", p: "/sɪˈteɪʃn/", cn: "鲸类动物", ex: "Every cetacean, from dolphins to whales, depends on clean seas.", exCn: "「从海豚到鲸鱼，每一种鲸类动物都依赖洁净的海洋。」" },
-    { w: "algae", pos: "n.", p: "/ˈældʒiː/", cn: "藻类", ex: "Too much algae can block sunlight and kill the plants below.", exCn: "「过多的藻类会阻挡阳光，杀死水下的植物。」" },
-    { w: "kelp", pos: "n.", p: "/kelp/", cn: "巨藻，海带", ex: "Kelp forests shelter young fish and protect the shore from waves.", exCn: "「巨藻林庇护幼鱼，并保护海岸免受海浪侵蚀。」" },
-    { w: "mangrove", pos: "n.", p: "/ˈmæŋɡrəʊv/", cn: "红树林", ex: "Mangrove roots trap sediment and give shelter to small crabs.", exCn: "「红树的根系拦截沉积物，并为小螃蟹提供庇护。」" },
-    { w: "estuary", pos: "n.", p: "/ˈestʃuəri/", cn: "河口，江口", ex: "The estuary where the river meets the sea teems with young life.", exCn: "「河流入海处的河口，充满了新生的生命。」" },
-    { w: "sediment", pos: "n.", p: "/ˈsedɪmənt/", cn: "沉积物", ex: "Heavy rain washed sediment from the hills into the bay.", exCn: "「暴雨将沉积物从山丘冲入海湾。」" },
-    { w: "erosion", pos: "n.", p: "/ɪˈrəʊʒn/", cn: "侵蚀", ex: "Coastal erosion has eaten away metres of the sandy beach.", exCn: "「海岸侵蚀已吞噬了数米宽的沙滩。」" },
-    { w: "restoration", pos: "n.", p: "/ˌrestəˈreɪʃn/", cn: "恢复，修复", ex: "The restoration of the wetland brought birds back within a year.", exCn: "「湿地的修复在一年之内就让鸟类重返此地。」" },
-    { w: "advocacy", pos: "n.", p: "/ˈædvəkəsi/", cn: "倡导，拥护", ex: "Public advocacy pushed the company to stop dumping at sea.", exCn: "「公众的倡导促使该公司停止向海中倾倒废物。」" },
-    { w: "expedition", pos: "n.", p: "/ˌekspəˈdɪʃn/", cn: "远征，考察", ex: "The research expedition spent months mapping the deep ocean floor.", exCn: "「这次科研考察历时数月，绘制了深海海底的地图。」" },
-    { w: "satellite", pos: "n.", p: "/ˈsætəlaɪt/", cn: "卫星", ex: "A satellite can track illegal fishing ships from high above.", exCn: "「卫星能从高空追踪非法捕捞的船只。」" },
-    { w: "oxygen", pos: "n.", p: "/ˈɒksɪdʒən/", cn: "氧气", ex: "Ocean plants produce much of the oxygen we breathe each day.", exCn: "「海洋植物制造了我们每日呼吸的许多氧气。」" },
-    { w: "crustacean", pos: "n.", p: "/krʌˈsteɪʃn/", cn: "甲壳类动物", ex: "A crustacean such as a crab grows by shedding its old shell.", exCn: "「蟹这一类甲壳动物通过蜕去旧壳来生长。」" },
-    { w: "upwelling", pos: "n.", p: "/ˌʌpˈwelɪŋ/", cn: "涌升流", ex: "Cold upwelling brings nutrients that feed vast schools of fish.", exCn: "「寒冷的涌升流带来滋养庞大鱼群的养分。」" }
+    { w: "gender", pos: "n.", p: "/ˈdʒendə(r)/", cn: "性别", ex: "Gender should never determine a person's salary or career path.", exCn: "「性别绝不应决定一个人的薪资或职业道路。」" },
+    { w: "stereotype", pos: "n./v.", p: "/ˈsteriətaɪp/", cn: "刻板印象", ex: "The stereotype that men are better at maths is simply untrue.", exCn: "「男性更擅长数学的刻板印象根本不成立。」" },
+    { w: "patriarchal", pos: "adj.", p: "/ˌpeɪtriˈɑːkl/", cn: "父权的", ex: "A patriarchal system tends to place men in positions of power.", exCn: "「父权制体系往往把男性置于掌权位置。」" },
+    { w: "patriarchy", pos: "n.", p: "/ˈpeɪtriɑːki/", cn: "父权制", ex: "The novel criticises the patriarchy that limits women's freedom.", exCn: "「这部小说批判了限制女性自由的父权制。」" },
+    { w: "suffrage", pos: "n.", p: "/ˈsʌfrɪdʒ/", cn: "选举权（尤指女性参政权）", ex: "Women won the right of suffrage in Britain early in the last century.", exCn: "「女性在上世纪初赢得了在英国的参政权。」" },
+    { w: "feminism", pos: "n.", p: "/ˈfemənɪzəm/", cn: "女权主义", ex: "Modern feminism seeks equality for people of every gender.", exCn: "「现代女权主义追求每一种性别的平等。」" },
+    { w: "empower", pos: "v.", p: "/ɪmˈpaʊə(r)/", cn: "赋予权力，使自主", ex: "Good mentors empower young workers to make their own decisions.", exCn: "「优秀的导师赋予年轻员工自主决策的能力。」" },
+    { w: "unequal", pos: "adj.", p: "/ʌnˈiːkwəl/", cn: "不平等的", ex: "An unequal society wastes the talents of half its people.", exCn: "「不平等的社会浪费了其半数民众的才干。」" },
+    { w: "parity", pos: "n.", p: "/ˈpærəti/", cn: "平等，对等", ex: "The company aims to reach pay parity between male and female staff.", exCn: "「该公司力求实现男女员工之间的薪酬平等。」" },
+    { w: "wage", pos: "n.", p: "/weɪdʒ/", cn: "工资，薪金", ex: "The living wage differs from city to city across the country.", exCn: "「生活工资在全国各城市之间有所不同。」" },
+    { w: "leadership", pos: "n.", p: "/ˈliːdəʃɪp/", cn: "领导层，领导力", ex: "Shared leadership can improve both morale and results at work.", exCn: "「共同领导能改善职场士气与成效。」" },
+    { w: "representation", pos: "n.", p: "/ˌreprɪzenˈteɪʃn/", cn: "代表性，代表", ex: "Fair representation in parliament strengthens public trust in government.", exCn: "「议会中的公平代表性增强了公众对政府的信任。」" },
+    { w: "parliament", pos: "n.", p: "/ˈpɑːləmənt/", cn: "议会", ex: "The new law was passed by a narrow vote in parliament.", exCn: "「这项新法律在议会中以微弱票数通过。」" },
+    { w: "barrier", pos: "n.", p: "/ˈbæriə(r)/", cn: "障碍，壁垒", ex: "Language can be a barrier to friendship across cultures.", exCn: "「语言可能成为跨文化友谊的障碍。」" },
+    { w: "perception", pos: "n.", p: "/pəˈsepʃn/", cn: "看法，认知", ex: "Public perception of the issue has shifted over the past decade.", exCn: "「公众对这一议题的看法在过去十年间发生了转变。」" },
+    { w: "harassment", pos: "n.", p: "/ˈhærəsmənt/", cn: "骚扰", ex: "The firm has a clear policy against any form of harassment.", exCn: "「该公司有明确的政策反对任何形式的骚扰。」" },
+    { w: "exploitation", pos: "n.", p: "/ˌeksplɔɪˈteɪʃn/", cn: "剥削", ex: "Child labour is a clear case of the exploitation of the weak.", exCn: "「童工显然是对弱者的剥削。」" },
+    { w: "division", pos: "n.", p: "/dɪˈvɪʒn/", cn: "分工，划分", ex: "A fair division of housework benefits the whole family.", exCn: "「公平的家务分工有益于整个家庭。」" },
+    { w: "role", pos: "n.", p: "/rəʊl/", cn: "角色", ex: "Parents and schools share the role of teaching young children.", exCn: "「父母与学校共同承担教育幼儿的角色。」" },
+    { w: "progressive", pos: "adj.", p: "/prəˈɡresɪv/", cn: "进步的，先进的", ex: "Progressive cities invest heavily in public transport and green energy.", exCn: "「进步的城市大力投资公共交通与绿色能源。」" },
+    { w: "injustice", pos: "n.", p: "/ɪnˈdʒʌstɪs/", cn: "不公，不义", ex: "Silence in the face of injustice makes the problem worse.", exCn: "「面对不公保持沉默会让问题更糟。」" },
+    { w: "entitlement", pos: "n.", p: "/ɪnˈtaɪtlmənt/", cn: "权利，资格", ex: "Every child has an entitlement to free basic education.", exCn: "「每个孩子都享有免费基础教育的权利。」" },
+    { w: "dominant", pos: "adj.", p: "/ˈdɒmɪnənt/", cn: "主导的，占优势的", ex: "English is the dominant language of international science journals.", exCn: "「英语是国际科学期刊的主导语言。」" },
+    { w: "subordinate", pos: "adj./n.", p: "/səˈbɔːdɪnət/", cn: "从属的，下级的", ex: "She refused to be treated as a subordinate in her own project.", exCn: "「她拒绝在自己的项目中被当作下属对待。」" },
+    { w: "rigid", pos: "adj.", p: "/ˈrɪdʒɪd/", cn: "僵化的，严格的", ex: "Rigid rules can stop a team from trying new ideas.", exCn: "「僵化的规则会妨碍团队尝试新想法。」" },
+    { w: "persistent", pos: "adj.", p: "/pəˈsɪstənt/", cn: "持续的，顽固的", ex: "Persistent effort over years finally won her the promotion.", exCn: "「持续多年的努力最终为她赢得了晋升。」" },
+    { w: "inequity", pos: "n.", p: "/ɪnˈekwəti/", cn: "不公平，不公正", ex: "The report lays bare the inequity in health care between regions.", exCn: "「报告揭示了各地区医疗之间的不公平。」" },
+    { w: "imbalance", pos: "n.", p: "/ɪmˈbæləns/", cn: "不平衡，失调", ex: "An imbalance between work and rest harms long-term health.", exCn: "「工作与休息之间的失衡会损害长期健康。」" },
+    { w: "grassroots", pos: "n./adj.", p: "/ˈɡrɑːsruːts/", cn: "基层，草根", ex: "The reform began as a grassroots movement led by local parents.", exCn: "「这项改革始于一场由当地家长引领的基层运动。」" },
+    { w: "consciousness", pos: "n.", p: "/ˈkɒnʃəsnəs/", cn: "意识，觉悟", ex: "Raising environmental consciousness changed how the town wastes less.", exCn: "「提升环保意识改变了小镇减少浪费的方式。」" }
   ],
   vocabArticle: {
-    title: "The Coast That Learned to Heal",
-    titleCn: "学会自愈的海岸",
+    title: "The Village That Learned to Share the Sky",
+    titleCn: "学会平分天空的村庄",
     paras: [
       {
-        en: "Off a windswept coastline, a coral reef once glowed with colour, but overfishing and a passing trawler left the reef broken and silent. Plastic debris drifted among the rocks, and acidification bleached the shells of small crustaceans. Local fishers watched their fishery shrink, while toxic runoff and loose sediment clouded the clear water. The marine world they loved seemed to be slipping away forever.",
-        cn: "在一片迎风的海岸线上，珊瑚礁曾经色彩斑斓，但过度捕捞与一艘路过的拖网渔船，让这片礁石破碎而沉寂。塑料碎片在礁石间漂荡，酸化则漂白了一只只小甲壳动物的外壳。当地渔民眼睁睁看着自己的渔场萎缩，而剧毒的径流与松散的沉积物，更让清澈的海水变得浑浊。他们深爱的海洋世界，似乎正永远地消逝。"
+        en: "In a patriarchal society, the patriarchy quietly assigns each gender a fixed role and a rigid division of labour. Old stereotypes tell girls to be gentle and boys to be bold, so the imbalance begins early. Many accept this as normal, not noticing the injustice hidden inside such a simple habit.",
+        cn: "在父权社会中，父权制悄悄地为每一种性别指派固定的角色与僵化的劳动分工。旧有的刻板印象告诉女孩要温柔、男孩要勇敢，于是失衡很早就开始了。许多人把这当作常态，却没注意到这般简单习惯里藏着的公道。"
       },
       {
-        en: "Scientists launched an expedition to map the damage from a small satellite, tracking where the oxygen in the water had fallen. They found algae smothering the kelp and fewer plankton left to feed the fish, and noted that erosion of the shore had carried more sediment seaward. A ban on netting near the nursery was proposed, and the town chose to prohibit gear that harmed young fish. Slowly, the broken reef began to show faint signs of life.",
-        cn: "科学家发起一次考察，借助一颗小型卫星绘制受损状况，追踪水中氧气下降的位置。他们发现藻类正扼杀巨藻，可供鱼类觅食的浮游生物也越来越少，并注意到海岸侵蚀已把更多沉积物带向海中。有人提议在哺育场附近禁止使用渔网，而小镇也选择禁用心会伤害幼鱼的渔具。渐渐地，破碎的礁石开始显现出微弱的生命迹象。"
+        en: "Feminism teaches us to empower women and raise public consciousness about unfair rules. A century ago, the fight for suffrage let women enter parliament and reshape law. Progressive thinkers tore down the first barrier; still, a persistent perception kept many from leading. Change was slow, but it started with a single brave voice.",
+        cn: "女权主义教导我们赋予女性力量，并提升公众对不公规则的意识。一个世纪前，争取参政权的斗争让女性进入议会、重塑法律。进步的思想家拆毁了第一道障碍；然而，一种持久的成见仍让许多人无法走上领导岗位。改变很慢，但它始于一个勇敢的声音。"
       },
       {
-        en: "Volunteers joined the restoration, replanting mangrove trees along the estuary where crabs and small mammals once sheltered. Public advocacy convinced the harbour to fund clean-up, and an upwelling of support brought new rules against dumping. Though bycatch still troubled some nets, the fishery grew steadier each season. Even a passing cetacean was sighted near the recovering reef, a sign the sea was mending.",
-        cn: "志愿者加入了修复工作，沿着河口重新种植红树，那里曾是螃蟹与小哺乳动物栖身之所。公众的倡导说服港口出资清理，而一波支持的涌动，带来了禁止倾废的新规。尽管误捕仍困扰着部分渔网，渔场却逐季趋于稳定。甚至有一头路过的鲸类动物在正在恢复的礁区附近现身——那是海洋正在痊愈的信号。"
+        en: "Even today, the wage gap leaves pay unequal, and harassment at work drives talented women away. Some firms exploit staff through long hours, while a dominant boss keeps them subordinate and silent. Such inequity is more than a money issue; it is a daily denial of their entitlement to respect. Grassroots groups now speak out against this quiet exploitation.",
+        cn: "即便在今天，薪资差距令报酬不平，而职场骚扰逼走了有才华的女性。一些公司通过长时间加班剥削员工，而专横的老板则让他们居于从属、保持沉默。这种不公不只是金钱问题，更是对其受尊重之权利的日常剥夺。基层团体如今发声反对这种无声的剥削。"
       },
       {
-        en: "The coastline now tells a quieter story. With the coral brighter and the reef alive, the fishery feeds the town without ruin. Plastic and toxic waste keep falling, thanks to the ban and the rules that prohibit dumping. Satellite images and the yearly expedition confirm the oxygen rising and the kelp spreading. If the world protects such places, the marine balance we almost lost can return for good.",
-        cn: "如今，这条海岸线讲述着一段更安详的故事。随着珊瑚愈发明亮、礁石重焕生机，渔场在不致毁灭的前提下养活了小镇。多亏那道禁令与禁止倾废的规定，塑料与有毒废弃物持续减少。卫星图像与一年一度的考察都证实，氧气正在回升，巨藻正在蔓延。如果世界守护住这样的地方，我们几乎失去的海洋平衡，便能永久归来。"
+        en: "Real parity needs more than words. We must win equal representation in leadership and in every parliament on earth. When women lead, laws grow kinder and the old patriarchal model fades. The road is long, yet each step empowers the next generation to live free of unfair limits.",
+        cn: "真正的平等需要的远不止言语。我们必须在领导层与世上每一处议会中赢得平等的代表性。当女性领导，法律会变得更仁厚，旧的父权模式也会消退。道路漫长，但每一步都赋予下一代摆脱不公枷锁、自由生活的力量。"
       }
     ]
   },
   grammar: [
     {
-      q: "By the end of the last century, decades of industrial fishing ______ many coastal fisheries to the point of collapse.",
+      q: "______ essential that both men and women be given equal access to leadership positions in parliament.",
       options: [
-        "drove",
-        "had driven",
-        "has driven",
-        "was driving"
+        "It is",
+        "There is",
+        "This is",
+        "That is"
       ],
-      answer: 1,
-      explain: "考点：时态（过去完成时 Past Perfect）。句首 by the end of the last century 标明了「过去的过去」这一时间点——到上世纪末为止，drive（导致）这一动作在此之前已经完成，故须用过去完成时 had driven。A 项 drove 为一般过去时，只能表示过去某时发生，无法体现「到那时已经造成」的先后关系。C 项 has driven 是现在完成时，把时间锚定在现在，与 last century 矛盾。D 项 was driving 是过去进行时，强调动作正在进行，而此处强调的是「已导致崩溃」这一完成结果。扩展：by + 过去时间（by 1990 / by then）、before / after / when 等常与过去完成时连用，表示先于另一过去动作或时间点发生的动作，如 He had left before I arrived（我到达之前他已离开）。"
+      answer: 0,
+      explain: "考点：it 作形式主语。当真正的主语是较长的 that 从句（that both men and women be given...）或不定式、动名词短语时，英语习惯用 it 占位充当形式主语，将真主语后置，构成「It is + 形容词 + that 从句」结构。此处 essential 后接 that 从句，须用 It is essential that...（从句谓语常用 should + 动词原形或动词原形，即虚拟语气）。B 项 There is 表示存在，不能引导「形容词 + that 主语从句」。C、D 项 This/That is 虽可作主语，却不能充当形式主语来承载后置的 that 从句，语法上不成立。扩展：同类结构还有 It is important / necessary / strange that...；以及 It takes (sb) some time to do... 中 it 同样作形式主语。"
     },
     {
-      q: "The open ocean is ______ we assumed even a decade ago, and its limits are closer than expected.",
+      q: "Before the reform, women ______ occupy only supportive roles, but attitudes have since changed.",
       options: [
-        "fragile than",
-        "more fragile than",
-        "fragiler than",
-        "most fragile than"
+        "used to",
+        "were used to",
+        "are used to",
+        "get used to"
       ],
-      answer: 1,
-      explain: "考点：比较结构（多音节形容词的比较级）。fragile 是双音节形容词，其比较级须用 more + 原级，即 more fragile，再接 than 引导比较状语从句，表示「比……更脆弱」。A 项 fragile than 缺少比较级标记 more，结构不完整。C 项 fragiler than 错误：双音节及多音节形容词一般加 more 而非在词尾加 -er 构成比较级（仅 simple、gentle 等少数可用 -er）。D 项 most fragile than 混乱：most + 原级是最高级形式，须配合 the 且不与 than 连用，than 要求比较级而非最高级。扩展：单音节及部分双音节词用 -er / -est（small → smaller → smallest），三音节及以上及多数双音节词用 more / most（important → more important → most important）；同级比较用 as + 原级 + as（as fragile as）。"
+      answer: 0,
+      explain: "考点：used to 与 be / get used to 辨析。used to + 动词原形 表示「过去常常（而现在不）」，强调过去的状态或习惯与现在形成对比，正好对应句中 Before the reform 与 have since changed 的今昔对照。B、C 项 be used to + 名词 / 动名词 意为「习惯于……」，其中 to 是介词，后须接名词或 -ing，不能接 occupy 原形，且语义不符「过去常常」。D 项 get used to 意为「逐渐习惯于」，to 同样是介词、后接 -ing，且表示「变得习惯」的过程，与「过去曾」不符。扩展：三者的关键在 to 的词性——used to 中 to 是不定式符号（接原形）；be / get used to 中 to 是介词（接名词 / -ing）。"
     }
   ]
 };

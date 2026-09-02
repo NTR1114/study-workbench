@@ -143,5 +143,11 @@ window.ENGLISH_HISTORY = [
     topic: "Ocean Conservation（海洋保护）",
     articleTitle: "Turning the Tide: Saving the Living Ocean",
     words: ["marine","coastline","coral","reef","fishery","overfishing","plankton","acidification","plastic","debris","bycatch","trawler","prohibit","ban","toxic","mammal","cetacean","algae","kelp","mangrove","estuary","sediment","erosion","restoration","advocacy","expedition","satellite","oxygen","crustacean","upwelling"]
+  },
+  {
+    date: "2026-09-01",
+    topic: "Gender Equality（性别平等）",
+    articleTitle: "Beyond the Glass Ceiling: The Long Road to Gender Equality",
+    words: ["gender","stereotype","patriarchal","patriarchy","suffrage","feminism","empower","unequal","parity","wage","leadership","representation","parliament","barrier","perception","harassment","exploitation","division","role","progressive","injustice","entitlement","dominant","subordinate","rigid","persistent","inequity","imbalance","grassroots","consciousness"]
   }
 ];
