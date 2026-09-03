@@ -149,5 +149,17 @@ window.ENGLISH_HISTORY = [
     topic: "Gender Equality（性别平等）",
     articleTitle: "Beyond the Glass Ceiling: The Long Road to Gender Equality",
     words: ["gender","stereotype","patriarchal","patriarchy","suffrage","feminism","empower","unequal","parity","wage","leadership","representation","parliament","barrier","perception","harassment","exploitation","division","role","progressive","injustice","entitlement","dominant","subordinate","rigid","persistent","inequity","imbalance","grassroots","consciousness"]
+  },
+  {
+    date: "2026-09-02",
+    topic: "Climate Change（气候变化）",
+    articleTitle: "The Heating Planet: Confronting Climate Change",
+    words: ["climate","greenhouse","warming","atmosphere","atmospheric","temperature","fossil","dioxide","absorb","radiation","trap","melt","polar","consequence","catastrophic","exposed","desertification","biosphere","ramification","drastic","catastrophe","planetary","curtail","treaty","discharge","lessen","recycle","conserve","alter","urgent"]
+  },
+  {
+    date: "2026-09-03",
+    topic: "Waste Management & Recycling（垃圾管理与资源回收）",
+    articleTitle: "Beyond the Bin: Rethinking How We Handle Waste",
+    words: ["garbage","landfill","reuse","compost","incineration","decompose","biodegradable","refuse","litter","discard","salvage","sort","bin","packaging","hazardous","scrap","overflow","residue","divert","excess","dump","purge","squander","thrift","economize","exhaust","minimize","abate","rampant","surge"]
   }
 ];
