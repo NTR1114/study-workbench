@@ -1,137 +1,137 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-09-03",
-  topic: "Waste Management & Recycling（垃圾管理与资源回收）",
+  date: "2026-09-04",
+  topic: "Museums & Art（博物馆与艺术）",
   article: {
-    title: "Beyond the Bin: Rethinking How We Handle Waste",
-    titleCn: "超越垃圾桶：重新思考我们如何处理垃圾",
+    title: "Guardians of Memory: Why Museums Still Matter",
+    titleCn: "记忆的守护者：博物馆为何依然重要",
     paras: [
       {
-        en: "The volume of household and industrial waste produced by cities continues to surge at a staggering pace. Every year, billions of tonnes of garbage are sent to landfill sites that are rapidly overflowing. Much of this refuse could be reused or salvaged, yet most is simply dumped. As populations grow and demand rises, the challenge of managing what we discard has become one of the century's most pressing environmental problems.",
-        cn: "城市产生的家庭和工业垃圾量正以惊人的速度持续激增。每年有数十亿吨垃圾被送往已迅速溢满的填埋场。这些废弃物中有许多本可再利用或回收，然而大部分只是被简单地倾倒。随着人口增长、需求上升，如何管理我们丢弃之物已成为本世纪最紧迫的环境难题之一。"
+        en: "Museums have long served as guardians of human creativity, collecting paintings, sculptures and artefacts that span centuries. Every year, public galleries exhibit masterpieces that draw millions of visitors eager to encounter beauty firsthand. A skilled curator decides how each canvas, portrait and relic should be displayed. Through curation, institutions transform silent objects into stories that help societies remember who they are.",
+        cn: "博物馆长久以来都是人类创造力的守护者，收集跨越数个世纪的绘画、雕塑与手工艺品。每年，公立美术馆展出能吸引数百万游客的杰作，人们渴望亲身感受美。一位技艺娴熟的策展人决定每一幅画布、每一幅肖像与每一件文物该如何陈列。通过策展，机构把静默的物件转化为故事，帮助社会记住自己是谁。"
       },
       {
-        en: "Cities now sort rubbish to divert useful materials from the waste stream. Glass, paper, plastic and metal can be reused, while food scraps become compost through natural decomposition. Where reuse fails, controlled incineration shrinks trash volume, though it needs care. Hazardous items such as batteries must never be discarded with ordinary waste, as they can spoil soil and water. When communities recycle, garbage sent to landfill falls markedly.",
-        cn: "如今城市对垃圾进行分类，以将有用物料从废物流中分流出来。玻璃、纸张、塑料和金属可以再利用，而厨余残渣则经自然分解变成堆肥。在无法再利用之处，受控焚烧能缩小垃圾体积，尽管仍需谨慎。电池等危险物品绝不能与普通废物一起丢弃，因为它们会污染土壤和水源。当社区开展回收时，送往填埋场的垃圾量会明显下降。"
+        en: "Behind the scenes, experts work to protect authenticity and fight forgery. When a painting whose provenance is unclear surfaces, scholars may question whether it is genuine or a clever fake. Conservators restore fragile frescoes and murals, while scientists use lasers to read faint inscriptions. A connoisseur can often detect a forgery from a single misplaced brushstroke. Such vigilance ensures future generations inherit works of real value.",
+        cn: "在幕后，专家们致力于保护真实性并对抗伪造。当一幅出处不明的画作浮出水面，学者们可能会质疑它究竟是真迹还是巧妙的赝品。修复师复原脆弱的湿壁画与壁画，而科学家则用激光读取模糊的铭文。一位鉴赏家往往能仅凭一处错位的笔触就识破伪造。这种警惕确保了后世继承的是真正有价值的作品。"
       },
       {
-        en: "Single-use packaging and surplus food are among the most excess sources of needless waste. Cheap plastic litter lines streets and chokes rivers, while rampant overbuying leads families to squander money on things they never use. A culture of thrift, by contrast, encourages people to mend clothes and repair gadgets rather than bin them. Even small habits, such as choosing biodegradable bags, ripple outward across a whole community.",
-        cn: "一次性包装与多余食物是产生无谓浪费的最过剩源头。廉价塑料垃圾布满街道、堵塞河流，而猖獗的过度购买让家庭把钱浪费在从不需要的东西上。相比之下，节俭的文化鼓励人们缝补衣物、修理器具，而不是把它们丢进垃圾桶。哪怕是微小的习惯——比如选择可生物降解的袋子——也会在整个社区中扩散开来。"
+        en: "The question of ownership has grown urgent. Many nations now demand the repatriation of antiquities taken during colonial times, arguing that relics belong to their original communities. Tangible objects such as marble statues are relatively easy to move; intangible heritage, like traditional craftsmanship, is harder to safeguard. Museums increasingly share artefacts through loans and digital scans. This shifting balance between possession and stewardship reshapes what a collection means.",
+        cn: "归属问题已变得迫切。如今许多国家要求归还殖民时期被带走的古代文物，主张这些 relic 属于其原本的社群。大理石雕像等有形物件相对容易搬运；而像传统工艺这类无形的遗产则更难守护。博物馆越来越多地通过借展与数字扫描来共享藏品。这种在占有与保管之间的此消彼长，重新定义了「收藏」在今天的意义。"
       },
       {
-        en: "To abate the crisis, governments must minimize waste at its source and economize on raw materials through smarter design. Old scrap metal can be melted and reused, leaving almost no residue behind. Cities that purge illegal dumps and exhaust every option for reuse set an example for others. Though the problem remains vast, steady progress proves that a cleaner, less wasteful world is within reach.",
-        cn: "为减轻这场危机，政府必须从源头减少垃圾，并通过更聪明的设计在原料上厉行节约。废旧金属可以熔化再利用，几乎不留下残渣。那些清除非法垃圾场、穷尽一切再利用选项的城市，为其他地方树立了榜样。尽管问题依然庞大，但稳健的进展证明：一个更清洁、更少浪费的世界并非遥不可及。"
+        en: "In an age of screens, museums still evoke something screens cannot. A masterpiece can stir memory, provoke thought and commemorate moments a nation chooses to honour. Far from being elite or remote, galleries now welcome diverse audiences and explain works in plain language. Through aesthetic experience, they remind us that creativity is a shared human inheritance. As long as people seek meaning, museums will remain essential.",
+        cn: "在屏幕时代，博物馆依然能唤起屏幕无法给予的东西。一件杰作可以激荡记忆、引发思考，并纪念一个国家选择致敬的瞬间。美术馆远非精英化或遥不可及，如今它们欢迎多元的观众，并用平实的语言讲解作品。通过审美体验，它们提醒我们：创造力是人类共享的遗产。只要人们仍在追寻意义，博物馆就不可或缺。"
       }
     ],
     glossary: [
-      { w: "garbage", pos: "n.", p: "/ˈɡɑːbɪdʒ/", cn: "垃圾，废物" },
-      { w: "landfill", pos: "n.", p: "/ˈlændfɪl/", cn: "垃圾填埋场" },
-      { w: "reuse", pos: "v.", p: "/ˌriːˈjuːz/", cn: "再利用" },
-      { w: "compost", pos: "n./v.", p: "/ˈkɒmpɒst/", cn: "堆肥" },
-      { w: "incineration", pos: "n.", p: "/ɪnˌsɪnəˈreɪʃn/", cn: "焚烧" },
-      { w: "decompose", pos: "v.", p: "/ˌdiːkəmˈpəʊz/", cn: "分解" },
-      { w: "biodegradable", pos: "adj.", p: "/ˌbaɪəʊdɪˈɡreɪdəbl/", cn: "可生物降解的" },
-      { w: "refuse", pos: "n.", p: "/ˈrefjuːs/", cn: "废料，垃圾" },
-      { w: "litter", pos: "n./v.", p: "/ˈlɪtə(r)/", cn: "废弃物；乱扔" },
-      { w: "discard", pos: "v.", p: "/dɪsˈkɑːd/", cn: "丢弃，抛弃" },
-      { w: "salvage", pos: "v.", p: "/ˈsælvɪdʒ/", cn: "抢救，回收利用" },
-      { w: "sort", pos: "v.", p: "/sɔːt/", cn: "分类，整理" },
-      { w: "bin", pos: "n.", p: "/bɪn/", cn: "垃圾箱，容器" },
-      { w: "packaging", pos: "n.", p: "/ˈpækɪdʒɪŋ/", cn: "包装（材料）" },
-      { w: "hazardous", pos: "adj.", p: "/ˈhæzədəs/", cn: "危险的，有害的" },
-      { w: "scrap", pos: "n.", p: "/skræp/", cn: "废料，碎片" },
-      { w: "overflow", pos: "v./n.", p: "/ˌəʊvəˈfləʊ/", cn: "溢出，超出负荷" },
-      { w: "residue", pos: "n.", p: "/ˈrezɪdjuː/", cn: "残余物，残渣" },
-      { w: "divert", pos: "v.", p: "/daɪˈvɜːt/", cn: "转移，使改道" },
-      { w: "excess", pos: "n./adj.", p: "/ɪkˈses/", cn: "过量（的），过度" },
-      { w: "dump", pos: "v./n.", p: "/dʌmp/", cn: "倾倒；垃圾场" },
-      { w: "purge", pos: "v.", p: "/pɜːdʒ/", cn: "清除，净化" },
-      { w: "squander", pos: "v.", p: "/ˈskwɒndə(r)/", cn: "浪费，挥霍" },
-      { w: "thrift", pos: "n.", p: "/θrɪft/", cn: "节俭，节约" },
-      { w: "economize", pos: "v.", p: "/ɪˈkɒnəmaɪz/", cn: "节约，节省" },
-      { w: "exhaust", pos: "v.", p: "/ɪɡˈzɔːst/", cn: "耗尽；使筋疲力尽" },
-      { w: "minimize", pos: "v.", p: "/ˈmɪnɪmaɪz/", cn: "使最小化，减少" },
-      { w: "abate", pos: "v.", p: "/əˈbeɪt/", cn: "减轻，减少" },
-      { w: "rampant", pos: "adj.", p: "/ˈræmpənt/", cn: "猖獗的，蔓延的" },
-      { w: "surge", pos: "n./v.", p: "/sɜːdʒ/", cn: "激增，汹涌" }
+      { w: "guardian", pos: "n.", p: "/ˈɡɑːdiən/", cn: "守护者，保护人" },
+      { w: "creativity", pos: "n.", p: "/ˌkriːeɪˈtɪvəti/", cn: "创造力" },
+      { w: "artefact", pos: "n.", p: "/ˈɑːtɪfækt/", cn: "手工艺品，文物" },
+      { w: "gallery", pos: "n.", p: "/ˈɡæləri/", cn: "画廊，美术馆" },
+      { w: "exhibit", pos: "v./n.", p: "/ɪɡˈzɪbɪt/", cn: "展出；展品" },
+      { w: "masterpiece", pos: "n.", p: "/ˈmɑːstəpiːs/", cn: "杰作，名著" },
+      { w: "curator", pos: "n.", p: "/kjʊəˈreɪtə(r)/", cn: "策展人" },
+      { w: "canvas", pos: "n.", p: "/ˈkænvəs/", cn: "画布" },
+      { w: "portrait", pos: "n.", p: "/ˈpɔːtrət/", cn: "肖像，画像" },
+      { w: "relic", pos: "n.", p: "/ˈrelɪk/", cn: "遗物，文物" },
+      { w: "curation", pos: "n.", p: "/kjʊəˈreɪʃn/", cn: "策展，管理" },
+      { w: "authenticity", pos: "n.", p: "/ˌɔːθenˈtɪsəti/", cn: "真实性" },
+      { w: "forgery", pos: "n.", p: "/ˈfɔːdʒəri/", cn: "伪造，赝品" },
+      { w: "provenance", pos: "n.", p: "/ˈprɒvənəns/", cn: "出处，来源" },
+      { w: "genuine", pos: "adj.", p: "/ˈdʒenjuɪn/", cn: "真正的，真实的" },
+      { w: "conservator", pos: "n.", p: "/kənˈsɜːvətə(r)/", cn: "文物修复师" },
+      { w: "fresco", pos: "n.", p: "/ˈfreskəʊ/", cn: "湿壁画" },
+      { w: "mural", pos: "n.", p: "/ˈmjʊərəl/", cn: "壁画" },
+      { w: "inscription", pos: "n.", p: "/ɪnˈskrɪpʃn/", cn: "铭文，题字" },
+      { w: "connoisseur", pos: "n.", p: "/ˌkɒnəˈsɜː(r)/", cn: "鉴赏家，行家" },
+      { w: "repatriation", pos: "n.", p: "/ˌriːpætriˈeɪʃn/", cn: "归还，遣返（文物）" },
+      { w: "antiquity", pos: "n.", p: "/ænˈtɪkwəti/", cn: "古代；古代文物" },
+      { w: "tangible", pos: "adj.", p: "/ˈtændʒəbl/", cn: "有形的，明确的" },
+      { w: "intangible", pos: "adj.", p: "/ɪnˈtændʒəbl/", cn: "无形的，难以捉摸的" },
+      { w: "craftsmanship", pos: "n.", p: "/ˈkrɑːftsmənʃɪp/", cn: "工艺，手艺" },
+      { w: "stewardship", pos: "n.", p: "/ˈstjuːədʃɪp/", cn: "管理，保管" },
+      { w: "evoke", pos: "v.", p: "/ɪˈvəʊk/", cn: "唤起，激发" },
+      { w: "commemorate", pos: "v.", p: "/kəˈmeməreɪt/", cn: "纪念，庆祝" },
+      { w: "aesthetic", pos: "adj.", p: "/iːsˈθetɪk/", cn: "美学的，审美的" },
+      { w: "inheritance", pos: "n.", p: "/ɪnˈherɪtəns/", cn: "遗产，继承" }
     ]
   },
   words: [
-    { w: "garbage", pos: "n.", p: "/ˈɡɑːbɪdʒ/", cn: "垃圾，废物", ex: "The garbage collected each morning is taken to the edge of the city.", exCn: "「每天早晨收集的垃圾被运到城市边缘。」" },
-    { w: "landfill", pos: "n.", p: "/ˈlændfɪl/", cn: "垃圾填埋场", ex: "The old landfill has been closed and planted with grass.", exCn: "「那座旧填埋场已被关闭并种上了草。」" },
-    { w: "reuse", pos: "v.", p: "/ˌriːˈjuːz/", cn: "再利用", ex: "We should reuse glass bottles instead of throwing them away.", exCn: "「我们应当重复使用玻璃瓶，而不是把它们扔掉。」" },
-    { w: "compost", pos: "n./v.", p: "/ˈkɒmpɒst/", cn: "堆肥", ex: "Kitchen waste can be turned into compost for the garden.", exCn: "「厨余垃圾可以变成供花园使用的堆肥。」" },
-    { w: "incineration", pos: "n.", p: "/ɪnˌsɪnəˈreɪʃn/", cn: "焚烧", ex: "Incineration reduces the volume of waste but needs strict controls.", exCn: "「焚烧能减小垃圾体积，但需要严格管控。」" },
-    { w: "decompose", pos: "v.", p: "/ˌdiːkəmˈpəʊz/", cn: "分解", ex: "Leaves decompose slowly and enrich the soil over time.", exCn: "「落叶缓慢分解，久而久之使土壤更肥沃。」" },
-    { w: "biodegradable", pos: "adj.", p: "/ˌbaɪəʊdɪˈɡreɪdəbl/", cn: "可生物降解的", ex: "Biodegradable packaging breaks down without harming the earth.", exCn: "「可生物降解的包装会分解，且不会伤害土地。」" },
-    { w: "refuse", pos: "n.", p: "/ˈrefjuːs/", cn: "废料，垃圾", ex: "The refuse from the market was sorted before collection.", exCn: "「市场里的废弃物在收运前已被分类。」" },
-    { w: "litter", pos: "n./v.", p: "/ˈlɪtə(r)/", cn: "废弃物；乱扔", ex: "People who litter in the park may face a fine.", exCn: "「在公园里乱扔垃圾的人可能会被罚款。」" },
-    { w: "discard", pos: "v.", p: "/dɪsˈkɑːd/", cn: "丢弃，抛弃", ex: "Do not discard old clothes; donate them instead.", exCn: "「不要把旧衣服丢弃，不如捐出去。」" },
-    { w: "salvage", pos: "v.", p: "/ˈsælvɪdʒ/", cn: "抢救，回收利用", ex: "Workers salvage usable parts from the broken machine.", exCn: "「工人从损坏的机器中抢救出可用的零件。」" },
-    { w: "sort", pos: "v.", p: "/sɔːt/", cn: "分类，整理", ex: "Children learn to sort paper, plastic and metal at school.", exCn: "「孩子们在学校里学习把纸、塑料和金属分类。」" },
-    { w: "bin", pos: "n.", p: "/bɪn/", cn: "垃圾箱，容器", ex: "Please place the bottle in the recycling bin.", exCn: "「请把瓶子放进回收箱。」" },
-    { w: "packaging", pos: "n.", p: "/ˈpækɪdʒɪŋ/", cn: "包装（材料）", ex: "Excess packaging adds to the cost and the waste.", exCn: "「过剩的包装既增加成本，也增加垃圾。」" },
-    { w: "hazardous", pos: "adj.", p: "/ˈhæzədəs/", cn: "危险的，有害的", ex: "Hazardous waste must be handled by trained staff.", exCn: "「有害废物必须由受过训练的人员处理。」" },
-    { w: "scrap", pos: "n.", p: "/skræp/", cn: "废料，碎片", ex: "The factory sells its scrap metal to another plant.", exCn: "「那家工厂把废金属卖给另一家工厂。」" },
-    { w: "overflow", pos: "v./n.", p: "/ˌəʊvəˈfləʊ/", cn: "溢出，超出负荷", ex: "The bin began to overflow after the holiday feast.", exCn: "「节庆大餐过后，垃圾桶开始溢出来了。」" },
-    { w: "residue", pos: "n.", p: "/ˈrezɪdjuː/", cn: "残余物，残渣", ex: "A small residue of paint remained at the bottom of the can.", exCn: "「罐底还剩少许油漆残渣。」" },
-    { w: "divert", pos: "v.", p: "/daɪˈvɜːt/", cn: "转移，使改道", ex: "The river was diverted to supply the new lake.", exCn: "「那条河被改道，用来补给新湖。」" },
-    { w: "excess", pos: "n./adj.", p: "/ɪkˈses/", cn: "过量（的），过度", ex: "We should avoid buying excess food that will spoil.", exCn: "「我们应当避免购买会腐坏的多余食物。」" },
-    { w: "dump", pos: "v./n.", p: "/dʌmp/", cn: "倾倒；垃圾场", ex: "It is illegal to dump waste into the river.", exCn: "「把垃圾倾倒入河中是违法的。」" },
-    { w: "purge", pos: "v.", p: "/pɜːdʒ/", cn: "清除，净化", ex: "The team worked to purge the site of all debris.", exCn: "「团队努力清除现场所有的碎片。」" },
-    { w: "squander", pos: "v.", p: "/ˈskwɒndə(r)/", cn: "浪费，挥霍", ex: "Do not squander your savings on useless gadgets.", exCn: "「不要把你的积蓄挥霍在无用的小玩意上。」" },
-    { w: "thrift", pos: "n.", p: "/θrɪft/", cn: "节俭，节约", ex: "Thrift helps families live within their means.", exCn: "「节俭有助于家庭量入为出。」" },
-    { w: "economize", pos: "v.", p: "/ɪˈkɒnəmaɪz/", cn: "节约，节省", ex: "We must economize on water during the dry season.", exCn: "「旱季里我们必须节约用水。」" },
-    { w: "exhaust", pos: "v.", p: "/ɪɡˈzɔːst/", cn: "耗尽；使筋疲力尽", ex: "The long debate exhausted every possible option.", exCn: "「那场冗长的辩论穷尽了所有可能的选项。」" },
-    { w: "minimize", pos: "v.", p: "/ˈmɪnɪmaɪz/", cn: "使最小化，减少", ex: "Good design can minimize the waste we create.", exCn: "「好的设计能把我们产生的浪费降到最低。」" },
-    { w: "abate", pos: "v.", p: "/əˈbeɪt/", cn: "减轻，减少", ex: "The smell began to abate once the bins were emptied.", exCn: "「垃圾桶清空后，那股气味开始减轻。」" },
-    { w: "rampant", pos: "adj.", p: "/ˈræmpənt/", cn: "猖獗的，蔓延的", ex: "Rampant consumerism fills shops with things we do not need.", exCn: "「猖獗的消费主义让商店里堆满我们不需要的东西。」" },
-    { w: "surge", pos: "n./v.", p: "/sɜːdʒ/", cn: "激增，汹涌", ex: "A sudden surge in waste followed the festival.", exCn: "「节庆之后，垃圾量出现了一波突增。」" }
+    { w: "exhibit", pos: "v./n.", p: "/ɪɡˈzɪbɪt/", cn: "展出；展品", ex: "The museum will exhibit a lost painting next month.", exCn: "「博物馆下个月将展出一幅失传的画作。」" },
+    { w: "gallery", pos: "n.", p: "/ˈɡæləri/", cn: "画廊，美术馆", ex: "The new gallery attracts visitors from across the region.", exCn: "「这座新美术馆吸引了来自各地的游客。」" },
+    { w: "curator", pos: "n.", p: "/kjʊəˈreɪtə(r)/", cn: "策展人", ex: "The curator organised an exhibition of modern art.", exCn: "「这位策展人策划了一场现代艺术展。」" },
+    { w: "masterpiece", pos: "n.", p: "/ˈmɑːstəpiːs/", cn: "杰作，名著", ex: "Critics called the film a masterpiece of storytelling.", exCn: "「评论家称这部电影是叙事艺术的杰作。」" },
+    { w: "sculpture", pos: "n.", p: "/ˈskʌlptʃə(r)/", cn: "雕塑，雕刻", ex: "A bronze sculpture stood in the centre of the square.", exCn: "「一座青铜雕塑矗立在广场中央。」" },
+    { w: "canvas", pos: "n.", p: "/ˈkænvəs/", cn: "画布", ex: "The artist stretched the canvas before starting to paint.", exCn: "「画家在动笔前先把画布绷好。」" },
+    { w: "patron", pos: "n.", p: "/ˈpeɪtrən/", cn: "赞助人，资助者", ex: "A generous patron funded the restoration of the chapel.", exCn: "「一位慷慨的赞助人出资修复了这座小教堂。」" },
+    { w: "aesthetic", pos: "adj.", p: "/iːsˈθetɪk/", cn: "美学的，审美的", ex: "The building's aesthetic appeal lies in its simplicity.", exCn: "「这座建筑的美学魅力在于它的简约。」" },
+    { w: "authenticity", pos: "n.", p: "/ˌɔːθenˈtɪsəti/", cn: "真实性，可靠性", ex: "Experts questioned the authenticity of the signed letter.", exCn: "「专家质疑了这封署名信的真实性。」" },
+    { w: "curation", pos: "n.", p: "/kjʊəˈreɪʃn/", cn: "策展，管理", ex: "Good curation helps visitors understand the collection.", exCn: "「好的策展能帮助观众理解藏品。」" },
+    { w: "renaissance", pos: "n.", p: "/rɪˈneɪsns/", cn: "复兴，再生", ex: "The neighbourhood enjoyed a cultural renaissance after the festival.", exCn: "「节庆之后，这个社区迎来了一场文化复兴。」" },
+    { w: "patronage", pos: "n.", p: "/ˈpætrənɪdʒ/", cn: "赞助，资助", ex: "Royal patronage allowed the painter to work freely.", exCn: "「皇室的赞助让这位画家得以自由创作。」" },
+    { w: "philanthropy", pos: "n.", p: "/fɪˈlænθrəpi/", cn: "慈善，博爱", ex: "Her philanthropy supported schools in remote villages.", exCn: "「她的慈善事业资助了偏远乡村的学校。」" },
+    { w: "engrave", pos: "v.", p: "/ɪnˈɡreɪv/", cn: "雕刻，铭记", ex: "They engrave the names of heroes on the stone wall.", exCn: "「他们把英雄的名字刻在石墙上。」" },
+    { w: "portrait", pos: "n.", p: "/ˈpɔːtrət/", cn: "肖像，画像", ex: "The gallery displays a portrait of the founder.", exCn: "「画廊展出了一幅创始人肖像。」" },
+    { w: "genre", pos: "n.", p: "/ˈʒɒnrə/", cn: "体裁，类型", ex: "Science fiction is a popular genre among young readers.", exCn: "「科幻小说在年轻读者中是很受欢迎的体裁。」" },
+    { w: "mural", pos: "n.", p: "/ˈmjʊərəl/", cn: "壁画", ex: "A colourful mural covers the side of the library.", exCn: "「一幅色彩鲜艳的壁画覆盖了图书馆的侧面。」" },
+    { w: "fresco", pos: "n.", p: "/ˈfreskəʊ/", cn: "湿壁画", ex: "The chapel is famous for its fourteenth-century fresco.", exCn: "「这座小教堂以其14世纪的湿壁画而闻名。」" },
+    { w: "tangible", pos: "adj.", p: "/ˈtændʒəbl/", cn: "有形的，明确的", ex: "The project produced tangible benefits for local people.", exCn: "「该项目给当地民众带来了实实在在的好处。」" },
+    { w: "intangible", pos: "adj.", p: "/ɪnˈtændʒəbl/", cn: "无形的，难以捉摸的", ex: "Trust is an intangible asset of any organisation.", exCn: "「信任是任何组织的一项无形资産。」" },
+    { w: "inscription", pos: "n.", p: "/ɪnˈskrɪpʃn/", cn: "铭文，题字", ex: "An old inscription revealed the date of the temple.", exCn: "「一段古老的铭文揭示了这座神庙的建造年代。」" },
+    { w: "antiquities", pos: "n.", p: "/ænˈtɪkwətiz/", cn: "古代文物（复数）", ex: "The museum houses antiquities from three continents.", exCn: "「这座博物馆收藏了来自三大洲的古代文物。」" },
+    { w: "relic", pos: "n.", p: "/ˈrelɪk/", cn: "遗物，圣物，文物", ex: "A sacred relic was carried in the procession.", exCn: "「一件神圣的圣物在巡游中被抬着前行。」" },
+    { w: "repatriation", pos: "n.", p: "/ˌriːpætriˈeɪʃn/", cn: "遣返，归还（文物）", ex: "The repatriation of the statue took years of negotiation.", exCn: "「这尊雕像的归还原先是历时数年的谈判成果。」" },
+    { w: "provenance", pos: "n.", p: "/ˈprɒvənəns/", cn: "出处，来源", ex: "The provenance of the vase was traced to imperial China.", exCn: "「这只花瓶的出处被追溯至中华帝国时期。」" },
+    { w: "forge", pos: "v.", p: "/fɔːdʒ/", cn: "伪造；锻造", ex: "Someone tried to forge the artist's signature on the deed.", exCn: "「有人试图在契约上伪造这位艺术家的签名。」" },
+    { w: "forgery", pos: "n.", p: "/ˈfɔːdʒəri/", cn: "伪造，赝品", ex: "The document was exposed as a crude forgery.", exCn: "「这份文件被揭穿是拙劣的赝品。」" },
+    { w: "connoisseur", pos: "n.", p: "/ˌkɒnəˈsɜː(r)/", cn: "鉴赏家，行家", ex: "As a wine connoisseur, he recognised the vintage at once.", exCn: "「作为一位葡萄酒鉴赏家，他立刻认出了那款年份酒。」" },
+    { w: "evoke", pos: "v.", p: "/ɪˈvəʊk/", cn: "唤起，激发", ex: "The song evoked memories of her childhood.", exCn: "「那首歌唤起了她对童年的回忆。」" },
+    { w: "commemorate", pos: "v.", p: "/kəˈmeməreɪt/", cn: "纪念，庆祝", ex: "A monument was built to commemorate the battle.", exCn: "「人们建起一座纪念碑以纪念那场战役。」" }
   ],
   vocabArticle: {
-    title: "The Street That Learned to Sort",
-    titleCn: "学会分类的街道",
+    title: "The Gallery That Remembered Its Soul",
+    titleCn: "找回灵魂的画廊",
     paras: [
       {
-        en: "In the town of Vell, garbage and refuse once piled high beside every bin. When the landfill began to overflow, residents realised they could no longer simply dump what they discard. A plan emerged to salvage old materials, let them decompose, and reuse them wherever possible.",
-        cn: "在维尔镇，垃圾与废弃物曾堆积在每一个垃圾桶旁。当填埋场开始溢出，居民们意识到再也不能把丢弃之物简单地一倒了之。一项计划应运而生：把旧物料抢救出来，让其自然分解，并尽可能再利用。"
+        en: "Long ago, a young curator took charge of a quiet gallery that few visitors entered. On its walls hung a faded portrait and a grand canvas, while a marble sculpture stood near the door. The curator believed the masterpiece could still evoke wonder if shown with care. Through patient curation, the room began to exhibit works that drew those who loved beauty.",
+        cn: "很久以前，一位年轻的策展人接手了一间少有人问津的安静画廊。墙上挂着一幅褪色的肖像和一幅宏大的画布油画，门口立着一尊大理石雕塑。策展人相信，只要用心陈列，这件杰作仍能唤起人们的惊叹。通过耐心的策展，这间展厅开始展出那些能吸引爱美之人的作品。"
       },
       {
-        en: "Volunteers learned to sort the waste and divert hazardous items from the stream. Food scraps were turned into compost, and even plastic litter found a second life. Where burning was needed, careful incineration reduced the residue left behind.",
-        cn: "志愿者们学会对垃圾进行分类，并将危险物从废物流中分流。厨余变成了堆肥，就连塑料垃圾也获得了第二次生命。在必须焚烧之处，谨慎的焚烧减少了残留物。"
+        en: "A wealthy patron offered patronage, and a wave of philanthropy sparked a renaissance in the district. The gallery began to exhibit new works, and its aesthetic grew richer. Scholars studied each genre, from landscapes to still life, and a connoisseur praised the collection's authenticity. Slowly, the once-empty hall became a place where the whole town gathered.",
+        cn: "一位富有的赞助人提供了赞助，一阵慈善浪潮让这个城区迎来了复兴。画廊开始展出新作品，其审美格调也愈发丰富。学者们研究每一种体裁，从风景画到静物画，一位鉴赏家盛赞了这批藏品的真实价值。渐渐地，这间曾经空荡的大厅成了全镇人相聚的地方。"
       },
       {
-        en: "The council urged citizens to economize and minimize excess packaging, while shops were told to purge worthless scrap. A spirit of thrift took hold, so people stopped the urge to squander and chose biodegradable goods instead.",
-        cn: "议会敦促市民厉行节约、尽量减少过剩包装，同时要求商店清理无用的废料。节俭之风就此兴起，人们不再有挥霍的冲动，而是改选可生物降解的商品。"
+        en: "The curator then displayed rare antiquities and a fragile relic, its surface marked by an ancient inscription. To teach visitors, she would engrave copies of old seals. When a dealer tried to forge a document to hide a forgery, the true provenance was revealed by science. The lesson was clear: tangible objects carry intangible meaning that no lie can erase.",
+        cn: "随后，策展人展出了稀有的古代文物和一件脆弱的圣物，其表面刻着古老的铭文。为了教导游客，她会临摹刻印古老的印章。当一名商贩企图伪造文件以掩盖一件赝品时，真正的出处被科学揭示了出来。教训很清楚：有形的物件承载着无形的意义，任何谎言都无法将其抹去。"
       },
       {
-        en: "As rampant waste finally began to abate, the city could exhaust fewer resources and recover more. Staggering at first, the surge in recycling proved that small habits change everything, and Vell became a model the world would follow.",
-        cn: "当猖獗的浪费终于开始消退，这座城市得以消耗更少的资源、回收更多。起初令人震惊的是，回收的激增证明：微小的习惯能改变一切，维尔也因此成为全世界效法的典范。"
+        en: "On the outer wall, a bright mural and a restored fresco celebrated local heroes and helped commemorate the founders of the town. A debate arose over the repatriation of a stone relic taken long ago. Yet the gallery's spirit endured, proving that art, whether borrowed or owned, belongs to everyone who pauses to look.",
+        cn: "在外墙上，一幅明亮的壁画和一幅修复后的湿壁画歌颂了当地英雄，也帮助纪念这座小镇的奠基者。一场关于一件很久以前被取走的石制文物是否应当归还的争论随之而起。然而画廊的精神长存，证明艺术无论借来还是自有，都属于每一个驻足凝视的人。"
       }
     ]
   },
   grammar: [
     {
-      q: "______ in the sorting facility, the plastic is separated by type before being melted.",
+      q: "______ ancient artefacts requires both patience and scientific skill.",
       options: [
-        "When sorted",
-        "When sorting",
-        "Sorting",
-        "Sort"
-      ],
-      answer: 0,
-      explain: "考点：状语从句的省略。当状语从句的主语与主句主语一致，且从句谓语含 be 动词时，可省略「主语 + be」，只保留连词 + 分词 / 形容词 / 介词短语。本句主句主语 the plastic 与 sort 之间是被动关系（塑料被分类），故用过去分词 sorted。When sorted = When it is sorted。B 项 When sorting 为现在分词，表主动，逻辑上塑料不能自己分类，错误；C 项 Sorting 是分词短语作状语，缺少连词且逻辑主语须与主句一致、语义仍为主动，不成立；D 项 Sort 是动词原形，不能作状语。扩展：类似结构也常见于 Once heated, Although tired, If necessary 等。"
-    },
-    {
-      q: "If the city ______ a comprehensive recycling system years ago, the landfill crisis ______ far less severe today.",
-      options: [
-        "built; would be",
-        "had built; would be",
-        "had built; would have been",
-        "built; will be"
+        "Restore",
+        "Restoring",
+        "Restored",
+        "To restoring"
       ],
       answer: 1,
-      explain: "考点：虚拟语气中的「错综时间条件句」（混合虚拟）。if 从句表示与过去事实相反（多年前本该建立系统却未建立），须用过去完成时 had built；主句表示与现在事实相反的结果（如今危机本不会如此严重），须用 would be。A 项 built 是一般过去时，无法表达与过去相反的假设；C 项 would have been 是与过去相反的结果，但主句时间状语 today 指向现在，时态矛盾；D 项 will be 为真实语气将来时，违背虚拟结构。关键：从句与主句可分属不同时间，各自选用对应的虚拟形式，例如 If I had taken his advice, I would be rich now."
+      explain: "考点：非谓语动词作主语。当一个动作概念充当主语时，可用动名词（doing）或不定式（to do）作主语，二者意义相近，且谓语均用单数。本句主语是「修复古代文物」这一行为，需用动名词 Restoring 作主语，谓语 requires 为第三人称单数，正确。A 项 Restore 是动词原形，不能直接作主语；C 项 Restored 是过去分词，表被动或完成，不能作主语；D 项 To restoring 结构错误（不定式应为 To restore）。扩展：动名词作主语常表示一般性、习惯性动作，如 Smoking is harmful；不定式作主语常表示具体、一次性动作，如 To finish this today is impossible，且常用 it 作形式主语（It is impossible to finish this today）。"
+    },
+    {
+      q: "The curator's proposal that the stolen relic ______ to its country of origin was finally accepted.",
+      options: [
+        "return",
+        "returns",
+        "would return",
+        "was returned"
+      ],
+      answer: 0,
+      explain: "考点：名词性虚拟语气（从句中含 should 的虚拟，should 常省略）。当主句出现表示「建议、要求、命令、主张」等含义的名词（如 proposal, suggestion, demand, requirement, order, recommendation）时，其同位语从句或表语从句的谓语须用「(should) + 动词原形」。本句 proposal 后接同位语从句，说明提案内容，故用 (should) return，should 省略后只剩 return（动词原形），A 项正确。B 项 returns 是陈述语气第三人称单数，违背虚拟结构；C 项 would return 为过去将来时，不用于此类名词性虚拟；D 项 was returned 是陈述被动，同样未体现 (should) do 的虚拟要求。扩展：这一用法与「建议类动词（suggest, demand, propose）后 that 从句用 (should) do」完全一致，只是此处触发词是名词 proposal 而非动词。"
     }
   ]
 };

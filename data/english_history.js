@@ -161,5 +161,11 @@ window.ENGLISH_HISTORY = [
     topic: "Waste Management & Recycling（垃圾管理与资源回收）",
     articleTitle: "Beyond the Bin: Rethinking How We Handle Waste",
     words: ["garbage","landfill","reuse","compost","incineration","decompose","biodegradable","refuse","litter","discard","salvage","sort","bin","packaging","hazardous","scrap","overflow","residue","divert","excess","dump","purge","squander","thrift","economize","exhaust","minimize","abate","rampant","surge"]
+  },
+  {
+    date: "2026-09-04",
+    topic: "Museums & Art（博物馆与艺术）",
+    articleTitle: "Guardians of Memory: Why Museums Still Matter",
+    words: ["exhibit","gallery","curator","masterpiece","sculpture","canvas","patron","aesthetic","authenticity","curation","renaissance","patronage","philanthropy","engrave","portrait","genre","mural","fresco","tangible","intangible","inscription","antiquities","relic","repatriation","provenance","forge","forgery","connoisseur","evoke","commemorate"]
   }
 ];
