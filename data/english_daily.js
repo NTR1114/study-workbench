@@ -1,137 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-09-04",
-  topic: "Museums & Art（博物馆与艺术）",
+  date: "2026-09-05",
+  topic: "Music & Society（音乐与社会）",
   article: {
-    title: "Guardians of Memory: Why Museums Still Matter",
-    titleCn: "记忆的守护者：博物馆为何依然重要",
+    title: "Music: A Universal Language",
+    titleCn: "音乐：一种通用语言",
     paras: [
       {
-        en: "Museums have long served as guardians of human creativity, collecting paintings, sculptures and artefacts that span centuries. Every year, public galleries exhibit masterpieces that draw millions of visitors eager to encounter beauty firsthand. A skilled curator decides how each canvas, portrait and relic should be displayed. Through curation, institutions transform silent objects into stories that help societies remember who they are.",
-        cn: "博物馆长久以来都是人类创造力的守护者，收集跨越数个世纪的绘画、雕塑与手工艺品。每年，公立美术馆展出能吸引数百万游客的杰作，人们渴望亲身感受美。一位技艺娴熟的策展人决定每一幅画布、每一幅肖像与每一件文物该如何陈列。通过策展，机构把静默的物件转化为故事，帮助社会记住自己是谁。"
+        en: "From the drumbeats of ancient ceremonies to the streaming playlists of today, music has accompanied humanity across every civilisation. Unlike spoken language, which divides people by vocabulary and grammar, melody and rhythm speak to something shared in our biology. Anthropologists have found that even isolated communities develop songs with similar structures. This suggests that the urge to make music is not a cultural accident but a deep human instinct.",
+        cn: "从远古仪式的鼓点到今天的流媒体歌单，音乐始终陪伴着人类文明走过每一段历程。口语因词汇与语法将人们分隔，而旋律与节奏触动的却是我们生理中共通的部分。人类学家发现，即便是与世隔绝的群体也会创作出结构相似的歌曲。这说明，创造音乐的冲动并非文化上的偶然，而是一种深刻的人类本能。"
       },
       {
-        en: "Behind the scenes, experts work to protect authenticity and fight forgery. When a painting whose provenance is unclear surfaces, scholars may question whether it is genuine or a clever fake. Conservators restore fragile frescoes and murals, while scientists use lasers to read faint inscriptions. A connoisseur can often detect a forgery from a single misplaced brushstroke. Such vigilance ensures future generations inherit works of real value.",
-        cn: "在幕后，专家们致力于保护真实性并对抗伪造。当一幅出处不明的画作浮出水面，学者们可能会质疑它究竟是真迹还是巧妙的赝品。修复师复原脆弱的湿壁画与壁画，而科学家则用激光读取模糊的铭文。一位鉴赏家往往能仅凭一处错位的笔触就识破伪造。这种警惕确保了后世继承的是真正有价值的作品。"
+        en: "Neuroscientists now understand why music feels so powerful. When we hear a familiar tune, the brain releases dopamine, the same chemical linked to pleasure and reward. Studies show that patients with memory loss can still recall songs from their youth, implying that musical memory is stored differently. Clinicians increasingly use music therapy to reduce anxiety and improve communication in people with dementia. The effects are measurable, not merely emotional.",
+        cn: "神经科学家如今已经明白，为何音乐能给人如此强烈的感受。当我们听到熟悉的曲调，大脑会释放多巴胺——一种与愉悦和奖赏相关的化学物质。研究表明，失忆的患者仍能回忆起年轻时的歌曲，这意味着音乐记忆的储存方式与众不同。临床医生越来越多地运用音乐疗法，来缓解痴呆症患者的焦虑并改善其沟通能力。这些效果是 measurable 的，而不仅仅停留在情绪层面。"
       },
       {
-        en: "The question of ownership has grown urgent. Many nations now demand the repatriation of antiquities taken during colonial times, arguing that relics belong to their original communities. Tangible objects such as marble statues are relatively easy to move; intangible heritage, like traditional craftsmanship, is harder to safeguard. Museums increasingly share artefacts through loans and digital scans. This shifting balance between possession and stewardship reshapes what a collection means.",
-        cn: "归属问题已变得迫切。如今许多国家要求归还殖民时期被带走的古代文物，主张这些 relic 属于其原本的社群。大理石雕像等有形物件相对容易搬运；而像传统工艺这类无形的遗产则更难守护。博物馆越来越多地通过借展与数字扫描来共享藏品。这种在占有与保管之间的此消彼长，重新定义了「收藏」在今天的意义。"
+        en: "Beyond medicine, music shapes identity and community. In many societies, lullabies and folk songs pass history from one generation to the next, preserving values that written records ignore. Group singing builds social bonds and has been shown to lower stress hormones after only a few minutes. Schools that embed music in the curriculum often report higher engagement and better teamwork among pupils. Thus music is not a luxury but a foundation of healthy societies.",
+        cn: "除了医学价值，音乐还塑造着身份认同与社群。在许多社会中，摇篮曲与民歌将历史从一代人传递给下一代，保存着文字记录所忽视的价值观。集体歌唱能建立社会纽带，且研究显示仅在几分钟后就能降低压力荷尔蒙。将音乐纳入课程的学校，往往报告学生参与度更高、团队合作更好。因此，音乐并非奢侈品，而是健康社会的基石。"
       },
       {
-        en: "In an age of screens, museums still evoke something screens cannot. A masterpiece can stir memory, provoke thought and commemorate moments a nation chooses to honour. Far from being elite or remote, galleries now welcome diverse audiences and explain works in plain language. Through aesthetic experience, they remind us that creativity is a shared human inheritance. As long as people seek meaning, museums will remain essential.",
-        cn: "在屏幕时代，博物馆依然能唤起屏幕无法给予的东西。一件杰作可以激荡记忆、引发思考，并纪念一个国家选择致敬的瞬间。美术馆远非精英化或遥不可及，如今它们欢迎多元的观众，并用平实的语言讲解作品。通过审美体验，它们提醒我们：创造力是人类共享的遗产。只要人们仍在追寻意义，博物馆就不可或缺。"
+        en: "As technology spreads sound across the globe, local traditions face both threat and opportunity. Recording saves endangered styles that might otherwise vanish, yet streaming favours a handful of global hits. The challenge ahead is to keep musical diversity alive while letting people enjoy what they love. If societies invest in education and fair platforms, the next generation may hear a richer world. Music, after all, remains the language we all already speak.",
+        cn: "当科技将声音传播至全球，地方传统既面临威胁，也迎来机遇。录音保存了那些本可能消失的濒危曲风，而流媒体却偏爱少数几首全球热歌。未来的挑战在于，在让人们享受所爱之乐的同时，保持音乐多样性的活力。如果社会愿意投资教育与公平平台，下一代或许能听到一个更丰富的世界。毕竟，音乐始终是我们都已掌握的语言。"
       }
     ],
     glossary: [
-      { w: "guardian", pos: "n.", p: "/ˈɡɑːdiən/", cn: "守护者，保护人" },
-      { w: "creativity", pos: "n.", p: "/ˌkriːeɪˈtɪvəti/", cn: "创造力" },
-      { w: "artefact", pos: "n.", p: "/ˈɑːtɪfækt/", cn: "手工艺品，文物" },
-      { w: "gallery", pos: "n.", p: "/ˈɡæləri/", cn: "画廊，美术馆" },
-      { w: "exhibit", pos: "v./n.", p: "/ɪɡˈzɪbɪt/", cn: "展出；展品" },
-      { w: "masterpiece", pos: "n.", p: "/ˈmɑːstəpiːs/", cn: "杰作，名著" },
-      { w: "curator", pos: "n.", p: "/kjʊəˈreɪtə(r)/", cn: "策展人" },
-      { w: "canvas", pos: "n.", p: "/ˈkænvəs/", cn: "画布" },
-      { w: "portrait", pos: "n.", p: "/ˈpɔːtrət/", cn: "肖像，画像" },
-      { w: "relic", pos: "n.", p: "/ˈrelɪk/", cn: "遗物，文物" },
-      { w: "curation", pos: "n.", p: "/kjʊəˈreɪʃn/", cn: "策展，管理" },
-      { w: "authenticity", pos: "n.", p: "/ˌɔːθenˈtɪsəti/", cn: "真实性" },
-      { w: "forgery", pos: "n.", p: "/ˈfɔːdʒəri/", cn: "伪造，赝品" },
-      { w: "provenance", pos: "n.", p: "/ˈprɒvənəns/", cn: "出处，来源" },
-      { w: "genuine", pos: "adj.", p: "/ˈdʒenjuɪn/", cn: "真正的，真实的" },
-      { w: "conservator", pos: "n.", p: "/kənˈsɜːvətə(r)/", cn: "文物修复师" },
-      { w: "fresco", pos: "n.", p: "/ˈfreskəʊ/", cn: "湿壁画" },
-      { w: "mural", pos: "n.", p: "/ˈmjʊərəl/", cn: "壁画" },
-      { w: "inscription", pos: "n.", p: "/ɪnˈskrɪpʃn/", cn: "铭文，题字" },
-      { w: "connoisseur", pos: "n.", p: "/ˌkɒnəˈsɜː(r)/", cn: "鉴赏家，行家" },
-      { w: "repatriation", pos: "n.", p: "/ˌriːpætriˈeɪʃn/", cn: "归还，遣返（文物）" },
-      { w: "antiquity", pos: "n.", p: "/ænˈtɪkwəti/", cn: "古代；古代文物" },
-      { w: "tangible", pos: "adj.", p: "/ˈtændʒəbl/", cn: "有形的，明确的" },
-      { w: "intangible", pos: "adj.", p: "/ɪnˈtændʒəbl/", cn: "无形的，难以捉摸的" },
-      { w: "craftsmanship", pos: "n.", p: "/ˈkrɑːftsmənʃɪp/", cn: "工艺，手艺" },
-      { w: "stewardship", pos: "n.", p: "/ˈstjuːədʃɪp/", cn: "管理，保管" },
-      { w: "evoke", pos: "v.", p: "/ɪˈvəʊk/", cn: "唤起，激发" },
-      { w: "commemorate", pos: "v.", p: "/kəˈmeməreɪt/", cn: "纪念，庆祝" },
-      { w: "aesthetic", pos: "adj.", p: "/iːsˈθetɪk/", cn: "美学的，审美的" },
-      { w: "inheritance", pos: "n.", p: "/ɪnˈherɪtəns/", cn: "遗产，继承" }
+      { w: "drumbeat", pos: "n.", p: "/ˈdrʌmbiːt/", cn: "鼓点，鼓声" },
+      { w: "civilisation", pos: "n.", p: "/ˌsɪvəlaɪˈzeɪʃn/", cn: "文明" },
+      { w: "melody", pos: "n.", p: "/ˈmelədi/", cn: "旋律" },
+      { w: "rhythm", pos: "n.", p: "/ˈrɪðəm/", cn: "节奏" },
+      { w: "anthropologist", pos: "n.", p: "/ˌænθrəˈpɒlədʒɪst/", cn: "人类学家" },
+      { w: "instinct", pos: "n.", p: "/ˈɪnstɪŋkt/", cn: "本能" },
+      { w: "neuroscientist", pos: "n.", p: "/ˈnjʊərəʊsaɪəntɪst/", cn: "神经科学家" },
+      { w: "dopamine", pos: "n.", p: "/ˈdəʊpəmiːn/", cn: "多巴胺" },
+      { w: "recall", pos: "v.", p: "/rɪˈkɔːl/", cn: "回忆起；召回" },
+      { w: "clinician", pos: "n.", p: "/klɪˈnɪʃn/", cn: "临床医生" },
+      { w: "dementia", pos: "n.", p: "/dəˈmenʃə/", cn: "痴呆症" },
+      { w: "measurable", pos: "adj.", p: "/ˈmeʒərəbl/", cn: "可测量的" },
+      { w: "identity", pos: "n.", p: "/aɪˈdentəti/", cn: "身份；认同" },
+      { w: "lullaby", pos: "n.", p: "/ˈlʌləbaɪ/", cn: "摇篮曲" },
+      { w: "folk", pos: "adj./n.", p: "/fəʊk/", cn: "民间的；人们" },
+      { w: "embed", pos: "v.", p: "/ɪmˈbed/", cn: "嵌入；使融入" },
+      { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程" },
+      { w: "engagement", pos: "n.", p: "/ɪnˈɡeɪdʒmənt/", cn: "参与；投入" },
+      { w: "luxury", pos: "n.", p: "/ˈlʌkʃəri/", cn: "奢侈（品）" },
+      { w: "foundation", pos: "n.", p: "/faʊnˈdeɪʃn/", cn: "基础；基金会" },
+      { w: "diversity", pos: "n.", p: "/daɪˈvɜːsəti/", cn: "多样性" },
+      { w: "endangered", pos: "adj.", p: "/ɪnˈdeɪndʒəd/", cn: "濒危的" },
+      { w: "vanish", pos: "v.", p: "/ˈvænɪʃ/", cn: "消失" },
+      { w: "streaming", pos: "n.", p: "/ˈstriːmɪŋ/", cn: "流媒体播放" },
+      { w: "handful", pos: "n.", p: "/ˈhændfʊl/", cn: "一把；少数" },
+      { w: "platform", pos: "n.", p: "/ˈplætfɔːm/", cn: "平台" },
+      { w: "hormone", pos: "n.", p: "/ˈhɔːməʊn/", cn: "荷尔蒙，激素" },
+      { w: "preserve", pos: "v.", p: "/prɪˈzɜːv/", cn: "保存；保护" }
     ]
   },
   words: [
-    { w: "exhibit", pos: "v./n.", p: "/ɪɡˈzɪbɪt/", cn: "展出；展品", ex: "The museum will exhibit a lost painting next month.", exCn: "「博物馆下个月将展出一幅失传的画作。」" },
-    { w: "gallery", pos: "n.", p: "/ˈɡæləri/", cn: "画廊，美术馆", ex: "The new gallery attracts visitors from across the region.", exCn: "「这座新美术馆吸引了来自各地的游客。」" },
-    { w: "curator", pos: "n.", p: "/kjʊəˈreɪtə(r)/", cn: "策展人", ex: "The curator organised an exhibition of modern art.", exCn: "「这位策展人策划了一场现代艺术展。」" },
-    { w: "masterpiece", pos: "n.", p: "/ˈmɑːstəpiːs/", cn: "杰作，名著", ex: "Critics called the film a masterpiece of storytelling.", exCn: "「评论家称这部电影是叙事艺术的杰作。」" },
-    { w: "sculpture", pos: "n.", p: "/ˈskʌlptʃə(r)/", cn: "雕塑，雕刻", ex: "A bronze sculpture stood in the centre of the square.", exCn: "「一座青铜雕塑矗立在广场中央。」" },
-    { w: "canvas", pos: "n.", p: "/ˈkænvəs/", cn: "画布", ex: "The artist stretched the canvas before starting to paint.", exCn: "「画家在动笔前先把画布绷好。」" },
-    { w: "patron", pos: "n.", p: "/ˈpeɪtrən/", cn: "赞助人，资助者", ex: "A generous patron funded the restoration of the chapel.", exCn: "「一位慷慨的赞助人出资修复了这座小教堂。」" },
-    { w: "aesthetic", pos: "adj.", p: "/iːsˈθetɪk/", cn: "美学的，审美的", ex: "The building's aesthetic appeal lies in its simplicity.", exCn: "「这座建筑的美学魅力在于它的简约。」" },
-    { w: "authenticity", pos: "n.", p: "/ˌɔːθenˈtɪsəti/", cn: "真实性，可靠性", ex: "Experts questioned the authenticity of the signed letter.", exCn: "「专家质疑了这封署名信的真实性。」" },
-    { w: "curation", pos: "n.", p: "/kjʊəˈreɪʃn/", cn: "策展，管理", ex: "Good curation helps visitors understand the collection.", exCn: "「好的策展能帮助观众理解藏品。」" },
-    { w: "renaissance", pos: "n.", p: "/rɪˈneɪsns/", cn: "复兴，再生", ex: "The neighbourhood enjoyed a cultural renaissance after the festival.", exCn: "「节庆之后，这个社区迎来了一场文化复兴。」" },
-    { w: "patronage", pos: "n.", p: "/ˈpætrənɪdʒ/", cn: "赞助，资助", ex: "Royal patronage allowed the painter to work freely.", exCn: "「皇室的赞助让这位画家得以自由创作。」" },
-    { w: "philanthropy", pos: "n.", p: "/fɪˈlænθrəpi/", cn: "慈善，博爱", ex: "Her philanthropy supported schools in remote villages.", exCn: "「她的慈善事业资助了偏远乡村的学校。」" },
-    { w: "engrave", pos: "v.", p: "/ɪnˈɡreɪv/", cn: "雕刻，铭记", ex: "They engrave the names of heroes on the stone wall.", exCn: "「他们把英雄的名字刻在石墙上。」" },
-    { w: "portrait", pos: "n.", p: "/ˈpɔːtrət/", cn: "肖像，画像", ex: "The gallery displays a portrait of the founder.", exCn: "「画廊展出了一幅创始人肖像。」" },
-    { w: "genre", pos: "n.", p: "/ˈʒɒnrə/", cn: "体裁，类型", ex: "Science fiction is a popular genre among young readers.", exCn: "「科幻小说在年轻读者中是很受欢迎的体裁。」" },
-    { w: "mural", pos: "n.", p: "/ˈmjʊərəl/", cn: "壁画", ex: "A colourful mural covers the side of the library.", exCn: "「一幅色彩鲜艳的壁画覆盖了图书馆的侧面。」" },
-    { w: "fresco", pos: "n.", p: "/ˈfreskəʊ/", cn: "湿壁画", ex: "The chapel is famous for its fourteenth-century fresco.", exCn: "「这座小教堂以其14世纪的湿壁画而闻名。」" },
-    { w: "tangible", pos: "adj.", p: "/ˈtændʒəbl/", cn: "有形的，明确的", ex: "The project produced tangible benefits for local people.", exCn: "「该项目给当地民众带来了实实在在的好处。」" },
-    { w: "intangible", pos: "adj.", p: "/ɪnˈtændʒəbl/", cn: "无形的，难以捉摸的", ex: "Trust is an intangible asset of any organisation.", exCn: "「信任是任何组织的一项无形资産。」" },
-    { w: "inscription", pos: "n.", p: "/ɪnˈskrɪpʃn/", cn: "铭文，题字", ex: "An old inscription revealed the date of the temple.", exCn: "「一段古老的铭文揭示了这座神庙的建造年代。」" },
-    { w: "antiquities", pos: "n.", p: "/ænˈtɪkwətiz/", cn: "古代文物（复数）", ex: "The museum houses antiquities from three continents.", exCn: "「这座博物馆收藏了来自三大洲的古代文物。」" },
-    { w: "relic", pos: "n.", p: "/ˈrelɪk/", cn: "遗物，圣物，文物", ex: "A sacred relic was carried in the procession.", exCn: "「一件神圣的圣物在巡游中被抬着前行。」" },
-    { w: "repatriation", pos: "n.", p: "/ˌriːpætriˈeɪʃn/", cn: "遣返，归还（文物）", ex: "The repatriation of the statue took years of negotiation.", exCn: "「这尊雕像的归还原先是历时数年的谈判成果。」" },
-    { w: "provenance", pos: "n.", p: "/ˈprɒvənəns/", cn: "出处，来源", ex: "The provenance of the vase was traced to imperial China.", exCn: "「这只花瓶的出处被追溯至中华帝国时期。」" },
-    { w: "forge", pos: "v.", p: "/fɔːdʒ/", cn: "伪造；锻造", ex: "Someone tried to forge the artist's signature on the deed.", exCn: "「有人试图在契约上伪造这位艺术家的签名。」" },
-    { w: "forgery", pos: "n.", p: "/ˈfɔːdʒəri/", cn: "伪造，赝品", ex: "The document was exposed as a crude forgery.", exCn: "「这份文件被揭穿是拙劣的赝品。」" },
-    { w: "connoisseur", pos: "n.", p: "/ˌkɒnəˈsɜː(r)/", cn: "鉴赏家，行家", ex: "As a wine connoisseur, he recognised the vintage at once.", exCn: "「作为一位葡萄酒鉴赏家，他立刻认出了那款年份酒。」" },
-    { w: "evoke", pos: "v.", p: "/ɪˈvəʊk/", cn: "唤起，激发", ex: "The song evoked memories of her childhood.", exCn: "「那首歌唤起了她对童年的回忆。」" },
-    { w: "commemorate", pos: "v.", p: "/kəˈmeməreɪt/", cn: "纪念，庆祝", ex: "A monument was built to commemorate the battle.", exCn: "「人们建起一座纪念碑以纪念那场战役。」" }
+    { w: "rhythm", pos: "n.", p: "/ˈrɪðəm/", cn: "节奏", ex: "The drummer kept a steady rhythm throughout the song.", exCn: "鼓手在整个歌曲中保持了稳定的节奏。" },
+    { w: "melody", pos: "n.", p: "/ˈmelədi/", cn: "旋律", ex: "She hummed a simple melody she had heard on the radio.", exCn: "她哼着在收音机里听到过的一段简单旋律。" },
+    { w: "harmony", pos: "n.", p: "/ˈhɑːməni/", cn: "和声；融洽", ex: "The choir sang in perfect harmony.", exCn: "合唱团唱得和声极为和谐。" },
+    { w: "composer", pos: "n.", p: "/kəmˈpəʊzə(r)/", cn: "作曲家", ex: "The composer spent a year writing the opera.", exCn: "这位作曲家花了一年创作这部歌剧。" },
+    { w: "musician", pos: "n.", p: "/mjuˈzɪʃn/", cn: "音乐家", ex: "A talented musician can play several instruments.", exCn: "一位有天赋的音乐家能演奏好几种乐器。" },
+    { w: "instrument", pos: "n.", p: "/ˈɪnstrəmənt/", cn: "乐器；工具", ex: "The piano is the instrument she practises most.", exCn: "钢琴是她练习最多的乐器。" },
+    { w: "symphony", pos: "n.", p: "/ˈsɪmfəni/", cn: "交响乐", ex: "Beethoven's Ninth Symphony remains world-famous.", exCn: "贝多芬的第九交响曲至今享誉世界。" },
+    { w: "orchestra", pos: "n.", p: "/ˈɔːkɪstrə/", cn: "管弦乐队", ex: "The orchestra tuned their instruments before the show.", exCn: "管弦乐队在演出前调好了乐器。" },
+    { w: "chorus", pos: "n.", p: "/ˈkɔːrəs/", cn: "合唱团；副歌", ex: "The school chorus performed at the ceremony.", exCn: "学校合唱团在典礼上进行了表演。" },
+    { w: "tempo", pos: "n.", p: "/ˈtempəʊ/", cn: "（音乐）速度，节奏", ex: "The conductor slowed the tempo in the final movement.", exCn: "指挥在末乐章放慢了速度。" },
+    { w: "pitch", pos: "n.", p: "/pɪtʃ/", cn: "音高", ex: "Singers must control the pitch of each note.", exCn: "歌手必须控制每个音符的音高。" },
+    { w: "acoustic", pos: "adj.", p: "/əˈkuːstɪk/", cn: "声音的；声学的", ex: "The hall has excellent acoustic design.", exCn: "这座大厅的声学设计极为出色。" },
+    { w: "ensemble", pos: "n.", p: "/ɒnˈsɒmbl/", cn: "合奏团；整体", ex: "The string ensemble played a quiet piece.", exCn: "弦乐合奏团演奏了一首舒缓的曲子。" },
+    { w: "repertoire", pos: "n.", p: "/ˈrepətwɑː(r)/", cn: "常备曲目", ex: "The band expanded its repertoire with folk songs.", exCn: "这支乐队以民谣扩充了常备曲目。" },
+    { w: "improvisation", pos: "n.", p: "/ˌɪmprəvaɪˈzeɪʃn/", cn: "即兴创作", ex: "Jazz depends heavily on improvisation.", exCn: "爵士乐在很大程度上依赖即兴创作。" },
+    { w: "vocal", pos: "adj.", p: "/ˈvəʊkl/", cn: "声乐的；发声的", ex: "She received vocal training for three years.", exCn: "她接受了三年声乐训练。" },
+    { w: "composition", pos: "n.", p: "/ˌkɒmpəˈzɪʃn/", cn: "作曲；作品", ex: "His latest composition won a national prize.", exCn: "他最新的作曲作品获得了一项国家级奖项。" },
+    { w: "resonance", pos: "n.", p: "/ˈrezənəns/", cn: "共鸣；共振", ex: "The speech found resonance among young listeners.", exCn: "这篇演讲在年轻听众中引起了共鸣。" },
+    { w: "therapeutic", pos: "adj.", p: "/ˌθerəˈpjuːtɪk/", cn: "治疗性的；有益身心的", ex: "Listening to calm music has a therapeutic effect.", exCn: "听舒缓的音乐具有疗愈效果。" },
+    { w: "soothing", pos: "adj.", p: "/ˈsuːðɪŋ/", cn: "抚慰的；令人平静的", ex: "The soothing tune helped the baby fall asleep.", exCn: "这首抚慰人心的曲子让宝宝睡着了。" },
+    { w: "universal", pos: "adj.", p: "/ˌjuːnɪˈvɜːsl/", cn: "普遍的；全世界的", ex: "Music is a universal form of human expression.", exCn: "音乐是人类表达的一种普遍形式。" },
+    { w: "vibrant", pos: "adj.", p: "/ˈvaɪbrənt/", cn: "充满活力的；鲜明的", ex: "The festival had a vibrant atmosphere.", exCn: "这场音乐节洋溢着充满活力的氛围。" },
+    { w: "appreciate", pos: "v.", p: "/əˈpriːʃieɪt/", cn: "欣赏；领会", ex: "Few people appreciate the skill behind the performance.", exCn: "很少有人能体会这场演出背后的技艺。" },
+    { w: "convey", pos: "v.", p: "/kənˈveɪ/", cn: "传达；传递", ex: "The song conveys a sense of hope.", exCn: "这首歌传达出一种希望之感。" },
+    { w: "unite", pos: "v.", p: "/juˈnaɪt/", cn: "联合；团结", ex: "Music can unite people across cultures.", exCn: "音乐能把不同文化的人们团结起来。" },
+    { w: "revive", pos: "v.", p: "/rɪˈvaɪv/", cn: "复兴；使复苏", ex: "The project aims to revive traditional folk songs.", exCn: "这个项目旨在复兴传统民歌。" },
+    { w: "captivate", pos: "v.", p: "/ˈkæptɪveɪt/", cn: "使着迷；吸引", ex: "Her voice captivated the entire audience.", exCn: "她的嗓音让全场观众为之着迷。" },
+    { w: "enrich", pos: "v.", p: "/ɪnˈrɪtʃ/", cn: "丰富；充实", ex: "Travel can enrich a composer's imagination.", exCn: "旅行能丰富作曲家的想象力。" },
+    { w: "nurture", pos: "v.", p: "/ˈnɜːtʃə(r)/", cn: "培养；滋养", ex: "Schools should nurture children's musical talent.", exCn: "学校应当培养孩子们的音乐天赋。" },
+    { w: "embrace", pos: "v.", p: "/ɪmˈbreɪs/", cn: "欣然接受；拥抱", ex: "The audience embraced the new style of music.", exCn: "观众欣然接受了这种新的音乐风格。" }
   ],
   vocabArticle: {
-    title: "The Gallery That Remembered Its Soul",
-    titleCn: "找回灵魂的画廊",
+    title: "The Village That Found Its Voice",
+    titleCn: "找回声音的小村庄",
     paras: [
       {
-        en: "Long ago, a young curator took charge of a quiet gallery that few visitors entered. On its walls hung a faded portrait and a grand canvas, while a marble sculpture stood near the door. The curator believed the masterpiece could still evoke wonder if shown with care. Through patient curation, the room began to exhibit works that drew those who loved beauty.",
-        cn: "很久以前，一位年轻的策展人接手了一间少有人问津的安静画廊。墙上挂着一幅褪色的肖像和一幅宏大的画布油画，门口立着一尊大理石雕塑。策展人相信，只要用心陈列，这件杰作仍能唤起人们的惊叹。通过耐心的策展，这间展厅开始展出那些能吸引爱美之人的作品。"
+        en: "Mara, a young composer from a quiet village, believed that every instrument carried a story. She formed a small ensemble of local musicians who practised a gentle symphony each evening. The village chorus joined them, and soon an amateur orchestra filled the square with warm harmony. Though they played with simple instruments, their melody carried a rhythm that made strangers stop and listen.",
+        cn: "玛拉是一位来自安静村庄的年轻作曲家，她相信每件乐器都承载着一段故事。她组建了一支由本地音乐家组成的小型合奏团，每天傍晚排练一首舒缓的交响曲。村里的合唱团也加入其中，很快一支业余管弦乐队便用温暖的和声填满了广场。尽管他们用的只是简单的乐器，但他们的旋律带着一种节奏，让路过的陌生人驻足倾听。"
       },
       {
-        en: "A wealthy patron offered patronage, and a wave of philanthropy sparked a renaissance in the district. The gallery began to exhibit new works, and its aesthetic grew richer. Scholars studied each genre, from landscapes to still life, and a connoisseur praised the collection's authenticity. Slowly, the once-empty hall became a place where the whole town gathered.",
-        cn: "一位富有的赞助人提供了赞助，一阵慈善浪潮让这个城区迎来了复兴。画廊开始展出新作品，其审美格调也愈发丰富。学者们研究每一种体裁，从风景画到静物画，一位鉴赏家盛赞了这批藏品的真实价值。渐渐地，这间曾经空荡的大厅成了全镇人相聚的地方。"
+        en: "The group studied the tempo and pitch of old folk songs, learning the acoustic secrets of the valley. A visiting vocal teacher helped them shape each composition, and the children tried improvisation during festivals. Their repertoire grew to include vibrant pieces that captured the spirit of the place. With every performance, the music became more confident and more clearly their own.",
+        cn: "这群人研习起老民歌的速度与音高，领悟着山谷的声学奥秘。一位到访的声乐老师帮他们打磨每一首作曲，孩子们也在节庆中尝试即兴创作。他们的常备曲目不断扩充，纳入了捕捉此地神韵的鲜活篇章。每一次演出，音乐都变得更加自信，也愈发成为他们自己的声音。"
       },
       {
-        en: "The curator then displayed rare antiquities and a fragile relic, its surface marked by an ancient inscription. To teach visitors, she would engrave copies of old seals. When a dealer tried to forge a document to hide a forgery, the true provenance was revealed by science. The lesson was clear: tangible objects carry intangible meaning that no lie can erase.",
-        cn: "随后，策展人展出了稀有的古代文物和一件脆弱的圣物，其表面刻着古老的铭文。为了教导游客，她会临摹刻印古老的印章。当一名商贩企图伪造文件以掩盖一件赝品时，真正的出处被科学揭示了出来。教训很清楚：有形的物件承载着无形的意义，任何谎言都无法将其抹去。"
+        en: "Scientists later noted the therapeutic power of these gatherings. The soothing sound created a sense of resonance that helped anxious residents relax. Listeners began to appreciate music not as entertainment but as comfort. Through song, the villagers could convey feelings they found hard to say in words. Even the shyest child would hum along when the evening chorus began.",
+        cn: "科学家们后来注意到这些聚会的疗愈力量。抚人心绪的声响营造出一种共鸣，帮助焦虑的居民放松下来。听众开始把音乐当作慰藉而非单纯的娱乐来欣赏。借助歌声，村民们能够传达那些难以用言语说出的感受。就连最害羞的孩子，也会在傍晚合唱响起时跟着哼唱。"
       },
       {
-        en: "On the outer wall, a bright mural and a restored fresco celebrated local heroes and helped commemorate the founders of the town. A debate arose over the repatriation of a stone relic taken long ago. Yet the gallery's spirit endured, proving that art, whether borrowed or owned, belongs to everyone who pauses to look.",
-        cn: "在外墙上，一幅明亮的壁画和一幅修复后的湿壁画歌颂了当地英雄，也帮助纪念这座小镇的奠基者。一场关于一件很久以前被取走的石制文物是否应当归还的争论随之而起。然而画廊的精神长存，证明艺术无论借来还是自有，都属于每一个驻足凝视的人。"
+        en: "News of the village reached the city, and its music proved universal. A festival was held to unite people from different backgrounds, and the old songs helped revive forgotten traditions. The performance could captivate anyone who listened, while workshops were set up to enrich and nurture young talent. When strangers embrace the same melody, differences fade and they unify — discovering that music has always been our shared voice.",
+        cn: "村庄的消息传到了城市，而它的音乐被证明是普世的。一场节庆把不同背景的人们团结在一起，古老的歌曲帮助复兴了被遗忘的传统。这场演出能让任何倾听者为之着迷，而配套的工作坊则用来丰富并培养年轻人才。当陌生人欣然拥抱同一段旋律，分歧便会消散，他们也随之融为一体——并发现音乐从来就是我们共同的声音。"
       }
     ]
   },
   grammar: [
     {
-      q: "______ ancient artefacts requires both patience and scientific skill.",
+      q: "______ from the stage did the audience realise how moving the symphony was.",
       options: [
-        "Restore",
-        "Restoring",
-        "Restored",
-        "To restoring"
-      ],
-      answer: 1,
-      explain: "考点：非谓语动词作主语。当一个动作概念充当主语时，可用动名词（doing）或不定式（to do）作主语，二者意义相近，且谓语均用单数。本句主语是「修复古代文物」这一行为，需用动名词 Restoring 作主语，谓语 requires 为第三人称单数，正确。A 项 Restore 是动词原形，不能直接作主语；C 项 Restored 是过去分词，表被动或完成，不能作主语；D 项 To restoring 结构错误（不定式应为 To restore）。扩展：动名词作主语常表示一般性、习惯性动作，如 Smoking is harmful；不定式作主语常表示具体、一次性动作，如 To finish this today is impossible，且常用 it 作形式主语（It is impossible to finish this today）。"
-    },
-    {
-      q: "The curator's proposal that the stolen relic ______ to its country of origin was finally accepted.",
-      options: [
-        "return",
-        "returns",
-        "would return",
-        "was returned"
+        "Not until the composer walked",
+        "Until the composer walked not",
+        "The composer not until walked",
+        "Not until did the composer walk"
       ],
       answer: 0,
-      explain: "考点：名词性虚拟语气（从句中含 should 的虚拟，should 常省略）。当主句出现表示「建议、要求、命令、主张」等含义的名词（如 proposal, suggestion, demand, requirement, order, recommendation）时，其同位语从句或表语从句的谓语须用「(should) + 动词原形」。本句 proposal 后接同位语从句，说明提案内容，故用 (should) return，should 省略后只剩 return（动词原形），A 项正确。B 项 returns 是陈述语气第三人称单数，违背虚拟结构；C 项 would return 为过去将来时，不用于此类名词性虚拟；D 项 was returned 是陈述被动，同样未体现 (should) do 的虚拟要求。扩展：这一用法与「建议类动词（suggest, demand, propose）后 that 从句用 (should) do」完全一致，只是此处触发词是名词 proposal 而非动词。"
+      explain: "考点：否定副词短语 Not until 置于句首引起的部分倒装。当 Not until + 状语（或从句）位于句首表示强调时，主句须采用部分倒装（助动词/情态动词/be 提前到主语之前），而 until 引导的部分本身不倒装。本句结构为：Not until the composer walked（从句，不倒装） + did the audience realise（主句，did 提前构成部分倒装）。A 项正确。B 项与 C 项语序混乱，未构成 Not until 句首倒装；D 项把倒装用在了 until 从句里（did the composer walk），但倒装应出现在主句，故错误。扩展：类似的否定副词/短语还有 Never、Seldom、Hardly、Little、By no means 等，置于句首均触发主句部分倒装，如 Never before have I heard such music。"
+    },
+    {
+      q: "The village ______ the annual music festival was held has a long tradition of folk songs.",
+      options: [
+        "which",
+        "where",
+        "that",
+        "in that"
+      ],
+      answer: 1,
+      explain: "考点：定语从句中关系词的选用（地点先行词 + 从句缺状语）。先行词 the village 表示地点，定语从句 the annual music festival was held 主谓完整（主语 festival、谓语 was held），说明从句不缺主语或宾语，而是缺地点状语，相当于 in which the festival was held，因此应使用关系副词 where。B 项正确。A 项 which 与 C 项 that 在从句中作主语或宾语，但本从句并不缺主宾，故不适用；若要用 which，必须写成 in which。D 项 in that 不是定语从句的关系词（that 不能用于介词之后，也几乎不作关系代词引导非限制性/限制性从句表地点），正确形式应为 in which 或直接用 where。扩展：先行词是时间用 when（= in/on which），是原因用 why（= for which），是地点用 where（= in/at which）。"
     }
   ]
 };

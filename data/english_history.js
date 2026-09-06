@@ -167,5 +167,11 @@ window.ENGLISH_HISTORY = [
     topic: "Museums & Art（博物馆与艺术）",
     articleTitle: "Guardians of Memory: Why Museums Still Matter",
     words: ["exhibit","gallery","curator","masterpiece","sculpture","canvas","patron","aesthetic","authenticity","curation","renaissance","patronage","philanthropy","engrave","portrait","genre","mural","fresco","tangible","intangible","inscription","antiquities","relic","repatriation","provenance","forge","forgery","connoisseur","evoke","commemorate"]
+  },
+  {
+    date: "2026-09-05",
+    topic: "Music & Society（音乐与社会）",
+    articleTitle: "Music: A Universal Language",
+    words: ["rhythm","melody","harmony","composer","musician","instrument","symphony","orchestra","chorus","tempo","pitch","acoustic","ensemble","repertoire","improvisation","vocal","composition","resonance","therapeutic","soothing","universal","vibrant","appreciate","convey","unite","revive","captivate","enrich","nurture","embrace"]
   }
 ];
