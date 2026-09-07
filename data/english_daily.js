@@ -1,135 +1,137 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-09-05",
-  topic: "Music & Society（音乐与社会）",
+  date: "2026-09-06",
+  topic: "Archaeology & Ancient Civilisations（考古与古代文明）",
   article: {
-    title: "Music: A Universal Language",
-    titleCn: "音乐：一种通用语言",
+    title: "Echoes from the Earth: What Archaeology Reveals",
+    titleCn: "大地回声：考古学揭示的往事",
     paras: [
       {
-        en: "From the drumbeats of ancient ceremonies to the streaming playlists of today, music has accompanied humanity across every civilisation. Unlike spoken language, which divides people by vocabulary and grammar, melody and rhythm speak to something shared in our biology. Anthropologists have found that even isolated communities develop songs with similar structures. This suggests that the urge to make music is not a cultural accident but a deep human instinct.",
-        cn: "从远古仪式的鼓点到今天的流媒体歌单，音乐始终陪伴着人类文明走过每一段历程。口语因词汇与语法将人们分隔，而旋律与节奏触动的却是我们生理中共通的部分。人类学家发现，即便是与世隔绝的群体也会创作出结构相似的歌曲。这说明，创造音乐的冲动并非文化上的偶然，而是一种深刻的人类本能。"
+        en: "Beneath the dust of forgotten landscapes lies a record of human achievement. Archaeology, once the pursuit of treasure hunters, has matured into a rigorous science. Modern teams do not simply dig; they survey, map and document every settlement they encounter. When a site is excavated, even the smallest fragment of pottery is recorded, because such ordinary objects often reveal more about daily life than palaces or tombs.",
+        cn: "在被遗忘的风景之下，尘土里埋藏着人类成就的记录。考古学曾经只是寻宝者的行当，如今已成长为一门严谨的科学。现代团队并非简单地挖掘，而是对他们遇到的每一处定居点进行勘测、绘图和记录。当一处遗址被发掘时，哪怕是最小的陶器碎片也会被登记在册，因为这些寻常之物往往比宫殿或陵墓更能揭示日常生活的真相。"
       },
       {
-        en: "Neuroscientists now understand why music feels so powerful. When we hear a familiar tune, the brain releases dopamine, the same chemical linked to pleasure and reward. Studies show that patients with memory loss can still recall songs from their youth, implying that musical memory is stored differently. Clinicians increasingly use music therapy to reduce anxiety and improve communication in people with dementia. The effects are measurable, not merely emotional.",
-        cn: "神经科学家如今已经明白，为何音乐能给人如此强烈的感受。当我们听到熟悉的曲调，大脑会释放多巴胺——一种与愉悦和奖赏相关的化学物质。研究表明，失忆的患者仍能回忆起年轻时的歌曲，这意味着音乐记忆的储存方式与众不同。临床医生越来越多地运用音乐疗法，来缓解痴呆症患者的焦虑并改善其沟通能力。这些效果是 measurable 的，而不仅仅停留在情绪层面。"
+        en: "Dating methods have transformed the field. Radiocarbon analysis lets researchers estimate the age of organic remains with impressive precision, while the study of soil layers reveals the sequence in which a temple, a fortress or an entire quarter was built, rebuilt and finally abandoned. Successive empires frequently occupied the same ground, each leaving a distinct layer. Read together, these layers form a calendar written in earth rather than ink.",
+        cn: "测年方法彻底改变了这个领域。放射性碳分析让研究者能够以惊人的精确度估计有机遗骸的年代，而对土壤层位的研究则揭示了一座神庙、一座要塞乃至整个街区如何被建造、重建并最终废弃的先后顺序。一个个帝国相继占据同一片土地，各自留下 distinct 的地层。把这些地层放在一起解读，便构成了一部以泥土而非墨水书写的年历。"
       },
       {
-        en: "Beyond medicine, music shapes identity and community. In many societies, lullabies and folk songs pass history from one generation to the next, preserving values that written records ignore. Group singing builds social bonds and has been shown to lower stress hormones after only a few minutes. Schools that embed music in the curriculum often report higher engagement and better teamwork among pupils. Thus music is not a luxury but a foundation of healthy societies.",
-        cn: "除了医学价值，音乐还塑造着身份认同与社群。在许多社会中，摇篮曲与民歌将历史从一代人传递给下一代，保存着文字记录所忽视的价值观。集体歌唱能建立社会纽带，且研究显示仅在几分钟后就能降低压力荷尔蒙。将音乐纳入课程的学校，往往报告学生参与度更高、团队合作更好。因此，音乐并非奢侈品，而是健康社会的基石。"
+        en: "Interpreting the past still demands caution. Archaeologists must resist the urge to speculate beyond what the evidence supports. A single burial, however rich, cannot define an entire dynasty, and an ingenious object may have travelled far from the artisan who made it. The decipherment of ancient scripts has corrected countless mistaken assumptions, showing that peoples once dismissed as primitive were often skilled traders, administrators and engineers.",
+        cn: "解读过去仍然需要谨慎。考古学家必须克制冲动，不做超出证据支持范围的推测。再奢华的单一墓葬也无法定义整个王朝，而一件精巧的器物也可能早已远离制造它的工匠。古文字的破译纠正了无数错误的假设，表明那些曾被斥为原始的民族，往往其实是娴熟的商人、管理者和工程师。"
       },
       {
-        en: "As technology spreads sound across the globe, local traditions face both threat and opportunity. Recording saves endangered styles that might otherwise vanish, yet streaming favours a handful of global hits. The challenge ahead is to keep musical diversity alive while letting people enjoy what they love. If societies invest in education and fair platforms, the next generation may hear a richer world. Music, after all, remains the language we all already speak.",
-        cn: "当科技将声音传播至全球，地方传统既面临威胁，也迎来机遇。录音保存了那些本可能消失的濒危曲风，而流媒体却偏爱少数几首全球热歌。未来的挑战在于，在让人们享受所爱之乐的同时，保持音乐多样性的活力。如果社会愿意投资教育与公平平台，下一代或许能听到一个更丰富的世界。毕竟，音乐始终是我们都已掌握的语言。"
+        en: "The discipline also faces modern pressures. Urban expansion can bury or destroy fragile sites before they are ever studied, while looting strips burials and temples of their context. Yet new technologies offer hope: satellites locate hidden structures, scanners reveal intact manuscripts without unrolling them, and digital models allow scholars to reconstruct ruined buildings. If these tools are shared widely, the echoes of vanished worlds will continue to instruct the present.",
+        cn: "这门学科同样面临当代的压力。城市扩张可能在脆弱的遗址被研究之前就将其掩埋或摧毁，而盗掘则让墓葬和神庙失去了原始语境。不过新技术带来了希望：卫星能定位隐藏的建筑，扫描仪无需展开卷轴就能呈现完好的手稿，数字模型则让学者得以复原损毁的建筑。如果这些工具能被广泛共享，那些消逝世界的回声将继续启迪当下。"
       }
     ],
     glossary: [
-      { w: "drumbeat", pos: "n.", p: "/ˈdrʌmbiːt/", cn: "鼓点，鼓声" },
-      { w: "civilisation", pos: "n.", p: "/ˌsɪvəlaɪˈzeɪʃn/", cn: "文明" },
-      { w: "melody", pos: "n.", p: "/ˈmelədi/", cn: "旋律" },
-      { w: "rhythm", pos: "n.", p: "/ˈrɪðəm/", cn: "节奏" },
-      { w: "anthropologist", pos: "n.", p: "/ˌænθrəˈpɒlədʒɪst/", cn: "人类学家" },
-      { w: "instinct", pos: "n.", p: "/ˈɪnstɪŋkt/", cn: "本能" },
-      { w: "neuroscientist", pos: "n.", p: "/ˈnjʊərəʊsaɪəntɪst/", cn: "神经科学家" },
-      { w: "dopamine", pos: "n.", p: "/ˈdəʊpəmiːn/", cn: "多巴胺" },
-      { w: "recall", pos: "v.", p: "/rɪˈkɔːl/", cn: "回忆起；召回" },
-      { w: "clinician", pos: "n.", p: "/klɪˈnɪʃn/", cn: "临床医生" },
-      { w: "dementia", pos: "n.", p: "/dəˈmenʃə/", cn: "痴呆症" },
-      { w: "measurable", pos: "adj.", p: "/ˈmeʒərəbl/", cn: "可测量的" },
-      { w: "identity", pos: "n.", p: "/aɪˈdentəti/", cn: "身份；认同" },
-      { w: "lullaby", pos: "n.", p: "/ˈlʌləbaɪ/", cn: "摇篮曲" },
-      { w: "folk", pos: "adj./n.", p: "/fəʊk/", cn: "民间的；人们" },
-      { w: "embed", pos: "v.", p: "/ɪmˈbed/", cn: "嵌入；使融入" },
-      { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程" },
-      { w: "engagement", pos: "n.", p: "/ɪnˈɡeɪdʒmənt/", cn: "参与；投入" },
-      { w: "luxury", pos: "n.", p: "/ˈlʌkʃəri/", cn: "奢侈（品）" },
-      { w: "foundation", pos: "n.", p: "/faʊnˈdeɪʃn/", cn: "基础；基金会" },
-      { w: "diversity", pos: "n.", p: "/daɪˈvɜːsəti/", cn: "多样性" },
-      { w: "endangered", pos: "adj.", p: "/ɪnˈdeɪndʒəd/", cn: "濒危的" },
-      { w: "vanish", pos: "v.", p: "/ˈvænɪʃ/", cn: "消失" },
-      { w: "streaming", pos: "n.", p: "/ˈstriːmɪŋ/", cn: "流媒体播放" },
-      { w: "handful", pos: "n.", p: "/ˈhændfʊl/", cn: "一把；少数" },
-      { w: "platform", pos: "n.", p: "/ˈplætfɔːm/", cn: "平台" },
-      { w: "hormone", pos: "n.", p: "/ˈhɔːməʊn/", cn: "荷尔蒙，激素" },
-      { w: "preserve", pos: "v.", p: "/prɪˈzɜːv/", cn: "保存；保护" }
+      { w: "landscape", pos: "n.", p: "/ˈlændskeɪp/", cn: "风景；景观" },
+      { w: "achievement", pos: "n.", p: "/əˈtʃiːvmənt/", cn: "成就" },
+      { w: "pursuit", pos: "n.", p: "/pəˈsjuːt/", cn: "追求；行当" },
+      { w: "rigorous", pos: "adj.", p: "/ˈrɪɡərəs/", cn: "严谨的，缜密的" },
+      { w: "survey", pos: "v./n.", p: "/ˈsɜːveɪ/", cn: "勘测；调查" },
+      { w: "document", pos: "v.", p: "/ˈdɒkjument/", cn: "记录，用文件证明" },
+      { w: "settlement", pos: "n.", p: "/ˈsetlmənt/", cn: "定居点；聚落" },
+      { w: "excavate", pos: "v.", p: "/ˈekskəveɪt/", cn: "发掘，挖掘" },
+      { w: "fragment", pos: "n.", p: "/ˈfræɡmənt/", cn: "碎片；残片" },
+      { w: "pottery", pos: "n.", p: "/ˈpɒtəri/", cn: "陶器" },
+      { w: "tomb", pos: "n.", p: "/tuːm/", cn: "坟墓，陵墓" },
+      { w: "radiocarbon", pos: "n.", p: "/ˌreɪdiəʊˈkɑːbən/", cn: "放射性碳" },
+      { w: "estimate", pos: "v.", p: "/ˈestɪmeɪt/", cn: "估计，估算" },
+      { w: "remains", pos: "n.", p: "/rɪˈmeɪnz/", cn: "遗骸；遗迹" },
+      { w: "precision", pos: "n.", p: "/prɪˈsɪʒn/", cn: "精确（度）" },
+      { w: "sequence", pos: "n.", p: "/ˈsiːkwəns/", cn: "顺序，序列" },
+      { w: "fortress", pos: "n.", p: "/ˈfɔːtrəs/", cn: "要塞，堡垒" },
+      { w: "abandon", pos: "v.", p: "/əˈbændən/", cn: "放弃；遗弃" },
+      { w: "successive", pos: "adj.", p: "/səkˈsesɪv/", cn: "相继的，接连的" },
+      { w: "empire", pos: "n.", p: "/ˈempaɪə(r)/", cn: "帝国" },
+      { w: "speculate", pos: "v.", p: "/ˈspekjuleɪt/", cn: "推测，猜测" },
+      { w: "burial", pos: "n.", p: "/ˈberiəl/", cn: "埋葬；墓葬" },
+      { w: "dynasty", pos: "n.", p: "/ˈdɪnəsti/", cn: "王朝，朝代" },
+      { w: "ingenious", pos: "adj.", p: "/ɪnˈdʒiːniəs/", cn: "精巧的；巧妙的" },
+      { w: "artisan", pos: "n.", p: "/ˌɑːtɪˈzæn/", cn: "工匠，手艺人" },
+      { w: "decipher", pos: "v.", p: "/dɪˈsaɪfə(r)/", cn: "破译，辨认" },
+      { w: "primitive", pos: "adj.", p: "/ˈprɪmətɪv/", cn: "原始的，落后的" },
+      { w: "looting", pos: "n.", p: "/ˈluːtɪŋ/", cn: "盗掘；掠夺" },
+      { w: "intact", pos: "adj.", p: "/ɪnˈtækt/", cn: "完好无损的" },
+      { w: "reconstruct", pos: "v.", p: "/ˌriːkənˈstrʌkt/", cn: "重建，复原" }
     ]
   },
   words: [
-    { w: "rhythm", pos: "n.", p: "/ˈrɪðəm/", cn: "节奏", ex: "The drummer kept a steady rhythm throughout the song.", exCn: "鼓手在整个歌曲中保持了稳定的节奏。" },
-    { w: "melody", pos: "n.", p: "/ˈmelədi/", cn: "旋律", ex: "She hummed a simple melody she had heard on the radio.", exCn: "她哼着在收音机里听到过的一段简单旋律。" },
-    { w: "harmony", pos: "n.", p: "/ˈhɑːməni/", cn: "和声；融洽", ex: "The choir sang in perfect harmony.", exCn: "合唱团唱得和声极为和谐。" },
-    { w: "composer", pos: "n.", p: "/kəmˈpəʊzə(r)/", cn: "作曲家", ex: "The composer spent a year writing the opera.", exCn: "这位作曲家花了一年创作这部歌剧。" },
-    { w: "musician", pos: "n.", p: "/mjuˈzɪʃn/", cn: "音乐家", ex: "A talented musician can play several instruments.", exCn: "一位有天赋的音乐家能演奏好几种乐器。" },
-    { w: "instrument", pos: "n.", p: "/ˈɪnstrəmənt/", cn: "乐器；工具", ex: "The piano is the instrument she practises most.", exCn: "钢琴是她练习最多的乐器。" },
-    { w: "symphony", pos: "n.", p: "/ˈsɪmfəni/", cn: "交响乐", ex: "Beethoven's Ninth Symphony remains world-famous.", exCn: "贝多芬的第九交响曲至今享誉世界。" },
-    { w: "orchestra", pos: "n.", p: "/ˈɔːkɪstrə/", cn: "管弦乐队", ex: "The orchestra tuned their instruments before the show.", exCn: "管弦乐队在演出前调好了乐器。" },
-    { w: "chorus", pos: "n.", p: "/ˈkɔːrəs/", cn: "合唱团；副歌", ex: "The school chorus performed at the ceremony.", exCn: "学校合唱团在典礼上进行了表演。" },
-    { w: "tempo", pos: "n.", p: "/ˈtempəʊ/", cn: "（音乐）速度，节奏", ex: "The conductor slowed the tempo in the final movement.", exCn: "指挥在末乐章放慢了速度。" },
-    { w: "pitch", pos: "n.", p: "/pɪtʃ/", cn: "音高", ex: "Singers must control the pitch of each note.", exCn: "歌手必须控制每个音符的音高。" },
-    { w: "acoustic", pos: "adj.", p: "/əˈkuːstɪk/", cn: "声音的；声学的", ex: "The hall has excellent acoustic design.", exCn: "这座大厅的声学设计极为出色。" },
-    { w: "ensemble", pos: "n.", p: "/ɒnˈsɒmbl/", cn: "合奏团；整体", ex: "The string ensemble played a quiet piece.", exCn: "弦乐合奏团演奏了一首舒缓的曲子。" },
-    { w: "repertoire", pos: "n.", p: "/ˈrepətwɑː(r)/", cn: "常备曲目", ex: "The band expanded its repertoire with folk songs.", exCn: "这支乐队以民谣扩充了常备曲目。" },
-    { w: "improvisation", pos: "n.", p: "/ˌɪmprəvaɪˈzeɪʃn/", cn: "即兴创作", ex: "Jazz depends heavily on improvisation.", exCn: "爵士乐在很大程度上依赖即兴创作。" },
-    { w: "vocal", pos: "adj.", p: "/ˈvəʊkl/", cn: "声乐的；发声的", ex: "She received vocal training for three years.", exCn: "她接受了三年声乐训练。" },
-    { w: "composition", pos: "n.", p: "/ˌkɒmpəˈzɪʃn/", cn: "作曲；作品", ex: "His latest composition won a national prize.", exCn: "他最新的作曲作品获得了一项国家级奖项。" },
-    { w: "resonance", pos: "n.", p: "/ˈrezənəns/", cn: "共鸣；共振", ex: "The speech found resonance among young listeners.", exCn: "这篇演讲在年轻听众中引起了共鸣。" },
-    { w: "therapeutic", pos: "adj.", p: "/ˌθerəˈpjuːtɪk/", cn: "治疗性的；有益身心的", ex: "Listening to calm music has a therapeutic effect.", exCn: "听舒缓的音乐具有疗愈效果。" },
-    { w: "soothing", pos: "adj.", p: "/ˈsuːðɪŋ/", cn: "抚慰的；令人平静的", ex: "The soothing tune helped the baby fall asleep.", exCn: "这首抚慰人心的曲子让宝宝睡着了。" },
-    { w: "universal", pos: "adj.", p: "/ˌjuːnɪˈvɜːsl/", cn: "普遍的；全世界的", ex: "Music is a universal form of human expression.", exCn: "音乐是人类表达的一种普遍形式。" },
-    { w: "vibrant", pos: "adj.", p: "/ˈvaɪbrənt/", cn: "充满活力的；鲜明的", ex: "The festival had a vibrant atmosphere.", exCn: "这场音乐节洋溢着充满活力的氛围。" },
-    { w: "appreciate", pos: "v.", p: "/əˈpriːʃieɪt/", cn: "欣赏；领会", ex: "Few people appreciate the skill behind the performance.", exCn: "很少有人能体会这场演出背后的技艺。" },
-    { w: "convey", pos: "v.", p: "/kənˈveɪ/", cn: "传达；传递", ex: "The song conveys a sense of hope.", exCn: "这首歌传达出一种希望之感。" },
-    { w: "unite", pos: "v.", p: "/juˈnaɪt/", cn: "联合；团结", ex: "Music can unite people across cultures.", exCn: "音乐能把不同文化的人们团结起来。" },
-    { w: "revive", pos: "v.", p: "/rɪˈvaɪv/", cn: "复兴；使复苏", ex: "The project aims to revive traditional folk songs.", exCn: "这个项目旨在复兴传统民歌。" },
-    { w: "captivate", pos: "v.", p: "/ˈkæptɪveɪt/", cn: "使着迷；吸引", ex: "Her voice captivated the entire audience.", exCn: "她的嗓音让全场观众为之着迷。" },
-    { w: "enrich", pos: "v.", p: "/ɪnˈrɪtʃ/", cn: "丰富；充实", ex: "Travel can enrich a composer's imagination.", exCn: "旅行能丰富作曲家的想象力。" },
-    { w: "nurture", pos: "v.", p: "/ˈnɜːtʃə(r)/", cn: "培养；滋养", ex: "Schools should nurture children's musical talent.", exCn: "学校应当培养孩子们的音乐天赋。" },
-    { w: "embrace", pos: "v.", p: "/ɪmˈbreɪs/", cn: "欣然接受；拥抱", ex: "The audience embraced the new style of music.", exCn: "观众欣然接受了这种新的音乐风格。" }
+    { w: "excavation", pos: "n.", p: "/ˌekspəˈveɪʃn/", cn: "（考古）发掘", ex: "The excavation of the tomb took three summers to complete.", exCn: "这座古墓的发掘花了三个夏天才完成。" },
+    { w: "excavate", pos: "v.", p: "/ˈekskəveɪt/", cn: "发掘，挖掘", ex: "The team excavated the ancient walls with small brushes.", exCn: "团队用小刷子发掘古代城墙。" },
+    { w: "archaeology", pos: "n.", p: "/ˌɑːkiˈɒlədʒi/", cn: "考古学", ex: "Archaeology has rewritten the early history of the region.", exCn: "考古学改写了该地区的早期历史。" },
+    { w: "tomb", pos: "n.", p: "/tuːm/", cn: "坟墓，陵墓", ex: "The tomb remained sealed for two thousand years.", exCn: "这座陵墓被封存了两千年。" },
+    { w: "burial", pos: "n.", p: "/ˈberiəl/", cn: "埋葬；墓葬", ex: "Each burial contained goods placed beside the body.", exCn: "每座墓葬中都放有安放在遗体旁的随葬品。" },
+    { w: "settlement", pos: "n.", p: "/ˈsetlmənt/", cn: "定居点；聚落", ex: "The settlement grew rapidly beside a fresh spring.", exCn: "这个定居点在一处清泉旁迅速发展起来。" },
+    { w: "civilisation", pos: "n.", p: "/ˌsɪvəlaɪˈzeɪʃn/", cn: "文明", ex: "That civilisation built canals which still survive today.", exCn: "那个文明修建的运河至今犹存。" },
+    { w: "dynasty", pos: "n.", p: "/ˈdɪnəsti/", cn: "王朝，朝代", ex: "The dynasty ruled the valley for nearly four hundred years.", exCn: "这个王朝统治该河谷近四百年。" },
+    { w: "empire", pos: "n.", p: "/ˈempaɪə(r)/", cn: "帝国", ex: "Trade routes tied the far corners of the empire together.", exCn: "商路将帝国遥远的边陲连为一体。" },
+    { w: "temple", pos: "n.", p: "/ˈtempl/", cn: "神庙，庙宇", ex: "Pilgrims climbed the stone steps of the temple at dawn.", exCn: "朝圣者黎明时分攀上神庙的石阶。" },
+    { w: "pottery", pos: "n.", p: "/ˈpɒtəri/", cn: "陶器", ex: "Fragments of pottery littered the floor of the workshop.", exCn: "作坊的地板上散落着陶器碎片。" },
+    { w: "fragment", pos: "n.", p: "/ˈfræɡmənt/", cn: "碎片；残片", ex: "Each fragment was photographed exactly where it was found.", exCn: "每块碎片都在出土位置被精确拍照。" },
+    { w: "hieroglyph", pos: "n.", p: "/ˈhaɪərəɡlɪf/", cn: "象形文字", ex: "The temple wall was covered with carved hieroglyphs.", exCn: "神庙墙上刻满了象形文字。" },
+    { w: "decipher", pos: "v.", p: "/dɪˈsaɪfə(r)/", cn: "破译，辨认（难认文字）", ex: "Scholars took decades to decipher the ancient script.", exCn: "学者们花了几十年才破译这种古文字。" },
+    { w: "radiocarbon", pos: "n./adj.", p: "/ˌreɪdiəʊˈkɑːbən/", cn: "放射性碳（的）", ex: "Radiocarbon dating placed the bones at three thousand years old.", exCn: "放射性碳测年显示这些骨骼有三千年历史。" },
+    { w: "remains", pos: "n.", p: "/rɪˈmeɪnz/", cn: "遗骸；遗迹", ex: "The remains of the old harbour lie beneath the bay.", exCn: "古港口的遗迹沉卧在海湾之下。" },
+    { w: "skeleton", pos: "n.", p: "/ˈskelɪtn/", cn: "骨骼，骨架", ex: "A complete skeleton was found beneath the courtyard.", exCn: "庭院地下发现了一具完整的骨架。" },
+    { w: "unearth", pos: "v.", p: "/ʌnˈɜːθ/", cn: "出土；发掘；揭露", ex: "Workers unearthed a bronze mirror near the gate.", exCn: "工人们在城门附近出土了一面铜镜。" },
+    { w: "flourish", pos: "v.", p: "/ˈflʌrɪʃ/", cn: "繁荣，兴盛", ex: "The river port flourished until its channel silted up.", exCn: "这座河港在其航道淤塞之前一直繁荣。" },
+    { w: "collapse", pos: "v./n.", p: "/kəˈlæps/", cn: "崩溃，瓦解；倒塌", ex: "The city collapsed after trade moved to the coast.", exCn: "贸易转移到沿海后，这座城市走向衰亡。" },
+    { w: "speculate", pos: "v.", p: "/ˈspekjuleɪt/", cn: "推测，猜测", ex: "It is unwise to speculate about the past without evidence.", exCn: "没有证据就对过去妄加推测是不明智的。" },
+    { w: "manuscript", pos: "n.", p: "/ˈmænjuskrɪpt/", cn: "手稿；抄本", ex: "The fragile manuscript survived almost undamaged.", exCn: "这份易碎的手稿几乎完好无损地保存了下来。" },
+    { w: "reconstruct", pos: "v.", p: "/ˌriːkənˈstrʌkt/", cn: "重建；复原", ex: "Digital models helped reconstruct the ruined gateway.", exCn: "数字模型帮助复原了坍塌的城门。" },
+    { w: "deduce", pos: "v.", p: "/dɪˈdjuːs/", cn: "推断，演绎", ex: "From the surviving tools we deduce a farming economy.", exCn: "从存留的工具我们可以推断出农业经济。" },
+    { w: "precise", pos: "adj.", p: "/prɪˈsaɪs/", cn: "精确的，确切的", ex: "The new dating is precise to within twenty years.", exCn: "新的测年结果精确到二十年以内。" },
+    { w: "intact", pos: "adj.", p: "/ɪnˈtækt/", cn: "完好无损的", ex: "The sealed chamber kept the wall paintings intact.", exCn: "封闭的墓室让壁画完好无损。" },
+    { w: "ingenious", pos: "adj.", p: "/ɪnˈdʒiːniəs/", cn: "精巧的；巧妙的", ex: "An ingenious pump lifted river water to the terraced fields.", exCn: "一种精巧的水泵把河水提升到梯田。" },
+    { w: "artisan", pos: "n.", p: "/ˌɑːtɪˈzæn/", cn: "工匠，手艺人", ex: "Every artisan left a distinctive mark on the bricks.", exCn: "每位工匠都在砖块上留下了独特的印记。" },
+    { w: "fortress", pos: "n.", p: "/ˈfɔːtrəs/", cn: "要塞，堡垒", ex: "The fortress guarded the only mountain pass.", exCn: "这座要塞扼守着唯一的山口。" },
+    { w: "ceremonial", pos: "adj.", p: "/ˌserɪˈməʊniəl/", cn: "仪式的，礼节性的", ex: "The great hall was used for ceremonial purposes only.", exCn: "这座大厅仅用于举行仪式。" }
   ],
   vocabArticle: {
-    title: "The Village That Found Its Voice",
-    titleCn: "找回声音的小村庄",
+    title: "The City Beneath the Sand",
+    titleCn: "沙丘下的城市",
     paras: [
       {
-        en: "Mara, a young composer from a quiet village, believed that every instrument carried a story. She formed a small ensemble of local musicians who practised a gentle symphony each evening. The village chorus joined them, and soon an amateur orchestra filled the square with warm harmony. Though they played with simple instruments, their melody carried a rhythm that made strangers stop and listen.",
-        cn: "玛拉是一位来自安静村庄的年轻作曲家，她相信每件乐器都承载着一段故事。她组建了一支由本地音乐家组成的小型合奏团，每天傍晚排练一首舒缓的交响曲。村里的合唱团也加入其中，很快一支业余管弦乐队便用温暖的和声填满了广场。尽管他们用的只是简单的乐器，但他们的旋律带着一种节奏，让路过的陌生人驻足倾听。"
+        en: "Dr Chen had waited years to lead an excavation in the desert valley. Her team chose the site after a survey suggested that a vast settlement had once flourished beside a long-dried river. On the first morning, a student unearthed a fragment of painted pottery, and the mood in the camp changed at once. Something important, everyone agreed, was buried beneath their feet.",
+        cn: "陈博士等了好几年，终于能在沙漠河谷主持一次发掘。她的团队选定这处遗址，是因为此前一项勘测表明，一条早已干涸的河边曾有一片巨大的聚落繁盛一时。第一天早晨，一名学生出土了一块彩绘陶器碎片，营地里的气氛顿时变了。大家都认定，重要的东西就埋在他们脚下。"
       },
       {
-        en: "The group studied the tempo and pitch of old folk songs, learning the acoustic secrets of the valley. A visiting vocal teacher helped them shape each composition, and the children tried improvisation during festivals. Their repertoire grew to include vibrant pieces that captured the spirit of the place. With every performance, the music became more confident and more clearly their own.",
-        cn: "这群人研习起老民歌的速度与音高，领悟着山谷的声学奥秘。一位到访的声乐老师帮他们打磨每一首作曲，孩子们也在节庆中尝试即兴创作。他们的常备曲目不断扩充，纳入了捕捉此地神韵的鲜活篇章。每一次演出，音乐都变得更加自信，也愈发成为他们自己的声音。"
+        en: "Weeks of patient archaeology followed. The crew brushed soil from the walls, mapped every room and excavated a ceremonial gate that once formed the entrance to a walled fortress. Inside a stone tomb they found a skeleton surrounded by fine goods — evidence, Chen deduced, of a powerful local ruler. Radiocarbon testing later gave a precise date: the city had reached its height under an early dynasty of a great empire.",
+        cn: "随后是数周耐心的考古工作。队员们刷去墙体上的浮土，为每个房间绘图，并发掘出一座仪式性大门——它曾是砖墙环绕的要塞的入口。在一座石造陵墓中，他们发现了一具被精美器物环绕的骨架——陈博士推断，这证明当地曾有一位权势显赫的统治者。放射性碳测年随后给出了精确的日期：这座城市曾在大帝国早期的一个王朝治下达至鼎盛。"
       },
       {
-        en: "Scientists later noted the therapeutic power of these gatherings. The soothing sound created a sense of resonance that helped anxious residents relax. Listeners began to appreciate music not as entertainment but as comfort. Through song, the villagers could convey feelings they found hard to say in words. Even the shyest child would hum along when the evening chorus began.",
-        cn: "科学家们后来注意到这些聚会的疗愈力量。抚人心绪的声响营造出一种共鸣，帮助焦虑的居民放松下来。听众开始把音乐当作慰藉而非单纯的娱乐来欣赏。借助歌声，村民们能够传达那些难以用言语说出的感受。就连最害羞的孩子，也会在傍晚合唱响起时跟着哼唱。"
+        en: "The most remarkable discovery came from a storeroom. Among hundreds of broken seals lay a manuscript fragment covered in hieroglyphs. A colleague spent months attempting to decipher the signs, refusing to speculate about their meaning until every symbol had been compared with known inscriptions. The finished translation showed that the fortress had not fallen to invaders; instead, its civilisation had slowly collapsed when the river changed course and the water disappeared.",
+        cn: "最惊人的发现来自一间储藏室。在数百枚碎裂的印章之间，躺着一块刻满象形文字的手稿残片。一位同事花了几个月尝试破译这些符号，在把每个字符都与已知铭文比对完毕之前，她拒绝做任何猜测。最终完成的译文表明，这座要塞并非毁于入侵者；而是当河流改道、水源消失之后，这里的文明才慢慢走向崩溃。"
       },
       {
-        en: "News of the village reached the city, and its music proved universal. A festival was held to unite people from different backgrounds, and the old songs helped revive forgotten traditions. The performance could captivate anyone who listened, while workshops were set up to enrich and nurture young talent. When strangers embrace the same melody, differences fade and they unify — discovering that music has always been our shared voice.",
-        cn: "村庄的消息传到了城市，而它的音乐被证明是普世的。一场节庆把不同背景的人们团结在一起，古老的歌曲帮助复兴了被遗忘的传统。这场演出能让任何倾听者为之着迷，而配套的工作坊则用来丰富并培养年轻人才。当陌生人欣然拥抱同一段旋律，分歧便会消散，他们也随之融为一体——并发现音乐从来就是我们共同的声音。"
+        en: "Today the finds are displayed in a museum, where visitors can watch conservators keep delicate objects intact. Plans are underway to reconstruct part of the temple at full scale, and a digital archive will publish every burial, every pot and every stone. For Chen, the message of the valley is simple: patient science can raise an empire from the dust and let its remains speak again.",
+        cn: "如今，这些出土物陈列在一座博物馆里，参观者可以看着文物保护人员让易碎的器物保持完好无损。复原部分神庙的实体工程已在筹备之中，一个数字档案馆还将公布每一座墓葬、每一件陶器和每一块石头。对陈博士而言，这座河谷传达的信息很简单：耐心的科学能从尘土中托起一个帝国，并让它的遗迹重新开口说话。"
       }
     ]
   },
   grammar: [
     {
-      q: "______ from the stage did the audience realise how moving the symphony was.",
+      q: "______ not aligned the temple with the midsummer sunrise, its builders must still have understood the movement of the sun remarkably well.",
       options: [
-        "Not until the composer walked",
-        "Until the composer walked not",
-        "The composer not until walked",
-        "Not until did the composer walk"
+        "If the ancient engineers would",
+        "Were the ancient engineers",
+        "Had the ancient engineers",
+        "The ancient engineers had"
       ],
-      answer: 0,
-      explain: "考点：否定副词短语 Not until 置于句首引起的部分倒装。当 Not until + 状语（或从句）位于句首表示强调时，主句须采用部分倒装（助动词/情态动词/be 提前到主语之前），而 until 引导的部分本身不倒装。本句结构为：Not until the composer walked（从句，不倒装） + did the audience realise（主句，did 提前构成部分倒装）。A 项正确。B 项与 C 项语序混乱，未构成 Not until 句首倒装；D 项把倒装用在了 until 从句里（did the composer walk），但倒装应出现在主句，故错误。扩展：类似的否定副词/短语还有 Never、Seldom、Hardly、Little、By no means 等，置于句首均触发主句部分倒装，如 Never before have I heard such music。"
+      answer: 2,
+      explain: "考点：虚拟条件句省略 if 时的倒装（Had + 主语 + not + 过去分词）。本句是对过去情况的虚拟：if the ancient engineers had not aligned... 当省略 if 时，须把 had 提到主语之前，构成 Had the ancient engineers not aligned...，故 C 项正确。A 项错误有二：虚拟条件句不能用 would，且保留 if 时语序应为 If ... had not aligned；B 项 Were 开头的倒装只适用于 be 动词或 were to 表将来的虚拟（如 Were I you），此处谓语是 aligned，不能用 were；D 项既无 if 又无倒装，语序混乱，不构成任何合法句式。扩展：类似的省略倒装还有 Were I to...（将来虚拟）、Should it rain...（将来可能性）等，均须把助动词/系动词提到主语前，且 if 一旦保留就必须恢复正常语序。"
     },
     {
-      q: "The village ______ the annual music festival was held has a long tradition of folk songs.",
+      q: "______ beneath volcanic ash for almost eighteen centuries, the wall paintings survived with their colours almost unchanged.",
       options: [
-        "which",
-        "where",
-        "that",
-        "in that"
+        "Having buried",
+        "Buried",
+        "To bury",
+        "Burying"
       ],
       answer: 1,
-      explain: "考点：定语从句中关系词的选用（地点先行词 + 从句缺状语）。先行词 the village 表示地点，定语从句 the annual music festival was held 主谓完整（主语 festival、谓语 was held），说明从句不缺主语或宾语，而是缺地点状语，相当于 in which the festival was held，因此应使用关系副词 where。B 项正确。A 项 which 与 C 项 that 在从句中作主语或宾语，但本从句并不缺主宾，故不适用；若要用 which，必须写成 in which。D 项 in that 不是定语从句的关系词（that 不能用于介词之后，也几乎不作关系代词引导非限制性/限制性从句表地点），正确形式应为 in which 或直接用 where。扩展：先行词是时间用 when（= in/on which），是原因用 why（= for which），是地点用 where（= in/at which）。"
+      explain: "考点：非谓语动词——过去分词（短语）作状语，表被动。主语是 the wall paintings（壁画），它与动词 bury（掩埋）之间是被动关系：壁画是\"被掩埋\"在火山灰之下的，因此应用过去分词 Buried 引导状语，相当于 As they had been buried...，故 B 项正确。A 项 Having buried 是主动的完成分词，意味着壁画自己完成了\"掩埋\"这个动作，逻辑主语错乱；C 项 To bury 是不定式表目的，但\"为了掩埋\"与\"壁画幸存\"不构成合理的目的关系，且不定式逻辑主语也应是主语本身主动发出的动作；D 项 Burying 为现在分词，表主动，同样与被动语义矛盾。扩展：判断现在分词还是过去分词作状语，核心是看分词动词与句子主语的关系——主动用 -ing，被动用 -ed（如 Seen from the hill, the city looks...）。"
     }
   ]
 };

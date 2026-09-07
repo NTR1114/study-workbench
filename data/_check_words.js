@@ -1,0 +1,11 @@
+global.window = {};
+require('./english_history.js');
+const hist = global.window.ENGLISH_HISTORY;
+const used = new Set();
+hist.forEach(r => r.words.forEach(w => used.add(w.toLowerCase())));
+const candidates = ["migration","emigrate","emigrant","immigrant","immigration","refugee","asylum","diaspora","exile","deport","deportation","persecution","remittance","repatriate","expatriate","cosmopolitan","pluralism","enclave","detention","nomadic","citizenship","nationality","border","frontier","transient","itinerant","exodus","sojourn","naturalize","livelihood"];
+const collisions = candidates.filter(c => used.has(c.toLowerCase()));
+console.log("history records:", hist.length);
+console.log("total used words:", used.size);
+console.log("candidate count:", candidates.length);
+console.log("collisions:", JSON.stringify(collisions));

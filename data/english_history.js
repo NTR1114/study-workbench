@@ -173,5 +173,11 @@ window.ENGLISH_HISTORY = [
     topic: "Music & Society（音乐与社会）",
     articleTitle: "Music: A Universal Language",
     words: ["rhythm","melody","harmony","composer","musician","instrument","symphony","orchestra","chorus","tempo","pitch","acoustic","ensemble","repertoire","improvisation","vocal","composition","resonance","therapeutic","soothing","universal","vibrant","appreciate","convey","unite","revive","captivate","enrich","nurture","embrace"]
+  },
+  {
+    date: "2026-09-06",
+    topic: "Archaeology & Ancient Civilisations（考古与古代文明）",
+    articleTitle: "Echoes from the Earth: What Archaeology Reveals",
+    words: ["excavation","excavate","archaeology","tomb","burial","settlement","civilisation","dynasty","empire","temple","pottery","fragment","hieroglyph","decipher","radiocarbon","remains","skeleton","unearth","flourish","collapse","speculate","manuscript","reconstruct","deduce","precise","intact","ingenious","artisan","fortress","ceremonial"]
   }
 ];
