@@ -179,5 +179,11 @@ window.ENGLISH_HISTORY = [
     topic: "Archaeology & Ancient Civilisations（考古与古代文明）",
     articleTitle: "Echoes from the Earth: What Archaeology Reveals",
     words: ["excavation","excavate","archaeology","tomb","burial","settlement","civilisation","dynasty","empire","temple","pottery","fragment","hieroglyph","decipher","radiocarbon","remains","skeleton","unearth","flourish","collapse","speculate","manuscript","reconstruct","deduce","precise","intact","ingenious","artisan","fortress","ceremonial"]
+  },
+  {
+    date: "2026-09-07",
+    topic: "Migration & Global Mobility（人口迁移与全球流动）",
+    articleTitle: "The Restless World: Why People Keep Moving",
+    words: ["migration","emigrate","emigrant","immigrant","immigration","refugee","asylum","diaspora","exile","deport","deportation","persecution","remittance","repatriate","expatriate","cosmopolitan","pluralism","enclave","detention","nomadic","citizenship","nationality","border","frontier","transient","itinerant","exodus","sojourn","naturalize","livelihood"]
   }
 ];
