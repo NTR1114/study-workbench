@@ -1,137 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-09-07",
-  topic: "Migration & Global Mobility（人口迁移与全球流动）",
+  date: "2026-09-08",
+  topic: "Reading, Literacy & the Future of the Book（阅读、读写素养与书籍的未来）",
   article: {
-    title: "The Restless World: Why People Keep Moving",
-    titleCn: "躁动的世界：人类为何不断迁徙",
+    title: "The Page That Still Matters",
+    titleCn: "仍然重要的那一页",
     paras: [
       {
-        en: "Human beings have always been a migrating species. Long before modern borders existed, communities moved in search of food, safety and opportunity, and the patterns they set still shape our cities today. In the twenty-first century, migration has become one of the defining features of a connected world. Whether driven by conflict, climate or ambition, the decision to leave home is rarely taken lightly, yet millions make it every year.",
-        cn: "人类从来就是一个不断迁徙的物种。在现代国界出现之前很久，社群便为了食物、安全与机遇而迁移，而他们奠定的模式至今仍在塑造我们的城市。在二十一世纪，迁移已成为互联世界最具决定性的特征之一。无论出于冲突、气候还是抱负，离开家乡的决定都很少是轻易做出的，然而每年仍有数百万人踏上迁徙之路。"
+        en: "For centuries, the ability to read has been regarded as one of the clearest markers of personal freedom. A reader who can move through a printed page holds a quiet kind of power: the power to question, to imagine and to step outside the narrow limits of daily life. In societies where books are plentiful, reading is often taken for granted, yet its absence can quietly shape the boundaries of an entire life.",
+        cn: "几个世纪以来，阅读能力一直被视为个人自由最清晰的标志之一。能够在印刷页面上穿行的读者，握有一种安静的力量：质疑、想象以及走出日常生活狭窄边界的力量。在书籍丰富的社会里，阅读常被视作理所当然，然而它的缺失却会悄然塑造一个人整段人生的边界。"
       },
       {
-        en: "Economics lie at the heart of most movement. When wages stagnate or jobs disappear at home, workers look abroad, and the money they send back, known as remittances, can lift entire villages out of poverty. At the same time, ageing societies in the wealthy world depend ever more on migrant labour to staff hospitals, farms and care homes. Mobility, in this sense, is less a crisis than a quiet engine of mutual dependence.",
-        cn: "经济因素处于大多数人口流动的核心。当工资停滞或本土岗位消失，劳动者便把目光投向海外；他们寄回的钱款——即汇款——能让整个村庄摆脱贫困。与此同时，富裕世界中的老龄化社会越来越依赖外来劳动力来维持医院、农场和养老院的运转。从这个意义上说，人口流动与其说是一场危机，不如说是一台默默推动相互依赖的引擎。"
+        en: "Literacy, however, remains unevenly distributed across the world. Although primary schooling now reaches more children than ever before, hundreds of millions of adults still cannot read a single sentence with confidence. This gap matters because written text governs access to healthcare, law and employment; those who are illiterate are effectively locked out of modern civic life. Closing the divide demands patient investment, not quick slogans.",
+        cn: "然而，读写素养在全世界范围内仍分布不均。尽管初等教育如今比以往覆盖了更多儿童，仍有数亿成年人无法自信地读出哪怕一个句子。这道鸿沟之所以重要，是因为书面文字掌控着人们获取医疗、法律与就业的通道；不识字者实际上被挡在了现代公民生活之外。弥合差距需要耐心的投入，而非几句口号。"
       },
       {
-        en: "Not all migration is voluntary. War, persecution and environmental collapse uproot families who flee with little more than what they can carry. Reaching safety is only the beginning: refugees must then navigate unfamiliar laws, learn new languages and often wait years for the right to work. Host communities, for their part, may welcome newcomers or resist them, and the contrast between these responses reveals as much about a society as about the migrants themselves.",
-        cn: "并非所有的迁移都是自愿的。战争、迫害与环境崩溃使家庭流离失所，他们逃离时往往只带得走随身之物。抵达安全之地只是开始：难民随后必须应对陌生的法律、学习新的语言，并常常要等待数年才能取得工作的权利。东道主社群则各有态度，或接纳新来者，或加以抵制；而这些回应之间的反差，既折射出一个社会的特质，也折射出移民自身的处境。"
+        en: "The rise of screens has reshaped how people read, and not always for the better. Studies suggest that scrolling on a phone encourages skimming rather than deep concentration, while the constant pull of notifications erodes the quiet focus that long novels require. Yet digital texts also widen access: a single device can hold a whole library, and tools that read aloud help those with poor eyesight keep reading. The medium changes, but the habit still counts.",
+        cn: "屏幕的兴起重塑了人们的阅读方式，且并非总是向好。研究表明，在手机上滑动会助长略读而非深度专注，而通知的持续拉扯又侵蚀着长篇小说所需的安静专注。然而数字文本也拓宽了获取渠道：一台设备便能容纳整座图书馆，而朗读工具帮助视力不佳者继续阅读。媒介在变，但习惯依然重要。"
       },
       {
-        en: "How states respond will shape the decades ahead. Some countries naturalise newcomers and treat diversity as a source of strength, while others build walls, run detention centres and deport those without papers. Neither approach is cost-free, and both test the meaning of citizenship in an age when talent, capital and ideas cross borders faster than people can. The challenge is not to stop movement, but to govern it with fairness and foresight.",
-        cn: "各国如何应对，将塑造未来数十年。一些国家让新来者入籍，并把多样性视为力量的源泉；另一些国家则筑起高墙、设立拘留中心，并驱逐无证之人。两种做法都并非没有代价，也都在这个人才、资本与思想比人本身更快跨越国界的时代，考验着公民身份的真正含义。挑战并不在于阻止流动，而在于以公平与远见去治理它。"
+        en: "Looking ahead, the book is unlikely to vanish. Libraries are reinventing themselves as community hubs, and publishers experiment with formats that mix text, sound and image. What seems certain is that the appetite for stories and ideas will outlast any single technology. To keep reading alive, societies must treat literacy not as a schoolroom task finished at twelve, but as a lifelong craft worth protecting in an age of distraction.",
+        cn: "展望未来，书籍不太可能消失。图书馆正将自己重塑为社区枢纽，出版商也在尝试融合文字、声音与图像的形式。几乎可以肯定的是，人们对故事与思想的渴求会胜过任何一种单一技术。要让阅读长存，社会必须把读写素养视为并非十二岁就在教室完成的任务，而是在这个分心时代值得守护的终身技艺。"
       }
     ],
     glossary: [
-      { w: "migrating", pos: "adj.", p: "/ˈmaɪɡreɪtɪŋ/", cn: "迁移的，迁徙的" },
-      { w: "species", pos: "n.", p: "/ˈspiːʃiːz/", cn: "物种" },
-      { w: "borders", pos: "n.", p: "/ˈbɔːdəz/", cn: "边界（border 的复数）" },
-      { w: "conflict", pos: "n.", p: "/ˈkɒnflɪkt/", cn: "冲突；矛盾" },
-      { w: "ambition", pos: "n.", p: "/əmˈbɪʃn/", cn: "抱负，野心" },
-      { w: "defining", pos: "adj.", p: "/dɪˈfaɪnɪŋ/", cn: "决定性的，起界定作用的" },
-      { w: "connected", pos: "adj.", p: "/kəˈnektɪd/", cn: "相互联系的" },
-      { w: "stagnate", pos: "v.", p: "/ˈstæɡneɪt/", cn: "停滞，不发展" },
-      { w: "wages", pos: "n.", p: "/weɪdʒɪz/", cn: "工资，薪金" },
-      { w: "remittances", pos: "n.", p: "/rɪˈmɪtnsɪz/", cn: "汇款（remittance 的复数）" },
-      { w: "poverty", pos: "n.", p: "/ˈpɒvəti/", cn: "贫困" },
-      { w: "ageing", pos: "adj.", p: "/ˈeɪdʒɪŋ/", cn: "老龄化的" },
-      { w: "mutual", pos: "adj.", p: "/ˈmjuːtʃuəl/", cn: "相互的，彼此的" },
-      { w: "dependence", pos: "n.", p: "/dɪˈpendəns/", cn: "依赖，依存" },
-      { w: "voluntary", pos: "adj.", p: "/ˈvɒləntri/", cn: "自愿的，主动的" },
-      { w: "persecution", pos: "n.", p: "/ˌpɜːsɪˈkjuːʃn/", cn: "迫害" },
-      { w: "environmental", pos: "adj.", p: "/ɪnˌvaɪrənˈmentl/", cn: "环境的" },
-      { w: "uproot", pos: "v.", p: "/ʌpˈruːt/", cn: "使离开家园；连根拔起" },
-      { w: "flee", pos: "v.", p: "/fliː/", cn: "逃离，逃跑" },
-      { w: "navigate", pos: "v.", p: "/ˈnævɪɡeɪt/", cn: "应对，设法绕过；导航" },
-      { w: "unfamiliar", pos: "adj.", p: "/ˌʌnfəˈmɪliə(r)/", cn: "不熟悉的" },
-      { w: "host", pos: "adj./n.", p: "/həʊst/", cn: "东道主的；主人" },
-      { w: "newcomers", pos: "n.", p: "/ˈnjuːkʌməz/", cn: "新来者，新移民" },
-      { w: "resist", pos: "v.", p: "/rɪˈzɪst/", cn: "抵制，抗拒" },
-      { w: "naturalise", pos: "v.", p: "/ˈnætʃrəlaɪz/", cn: "使入籍（英式拼写）" },
-      { w: "diversity", pos: "n.", p: "/daɪˈvɜːsəti/", cn: "多样性" },
-      { w: "detention", pos: "n.", p: "/dɪˈtenʃn/", cn: "拘留，扣留" },
-      { w: "deport", pos: "v.", p: "/dɪˈpɔːt/", cn: "驱逐出境" },
-      { w: "citizenship", pos: "n.", p: "/ˈsɪtɪzənʃɪp/", cn: "公民身份" },
-      { w: "foresight", pos: "n.", p: "/ˈfɔːsaɪt/", cn: "远见，先见之明" }
+      { w: "markers", pos: "n.", p: "/ˈmɑːkəz/", cn: "标志，标记" },
+      { w: "granted", pos: "adj./v.", p: "/ˈɡrɑːntɪd/", cn: "（take ... for granted）视为理所当然" },
+      { w: "narrow", pos: "adj.", p: "/ˈnærəʊ/", cn: "狭窄的，有限的" },
+      { w: "boundaries", pos: "n.", p: "/ˈbaʊndriz/", cn: "边界，界限" },
+      { w: "plentiful", pos: "adj.", p: "/ˈplentɪfl/", cn: "丰富的，充足的" },
+      { w: "absence", pos: "n.", p: "/ˈæbsəns/", cn: "缺乏，不存在" },
+      { w: "unevenly", pos: "adv.", p: "/ʌnˈiːvnli/", cn: "不均衡地" },
+      { w: "distributed", pos: "adj.", p: "/dɪˈstrɪbjuːtɪd/", cn: "分布的，分散的" },
+      { w: "illiterate", pos: "adj.", p: "/ɪˈlɪtərət/", cn: "不识字的，文盲的" },
+      { w: "civic", pos: "adj.", p: "/ˈsɪvɪk/", cn: "公民的，市民的" },
+      { w: "divide", pos: "n.", p: "/dɪˈvaɪd/", cn: "分歧，鸿沟" },
+      { w: "confidence", pos: "n.", p: "/ˈkɒnfɪdəns/", cn: "信心，把握" },
+      { w: "scrolling", pos: "n.", p: "/ˈskrəʊlɪŋ/", cn: "滚动（屏幕内容）" },
+      { w: "skimming", pos: "n.", p: "/ˈskɪmɪŋ/", cn: "略读，跳读" },
+      { w: "concentration", pos: "n.", p: "/ˌkɒnsnˈtreɪʃn/", cn: "专注，集中" },
+      { w: "notifications", pos: "n.", p: "/ˌnəʊtɪfɪˈkeɪʃnz/", cn: "通知（消息提醒）" },
+      { w: "erodes", pos: "v.", p: "/ɪˈrəʊdz/", cn: "侵蚀，逐渐削弱" },
+      { w: "widen", pos: "v.", p: "/ˈwaɪdn/", cn: "拓宽，扩大" },
+      { w: "medium", pos: "n.", p: "/ˈmiːdiəm/", cn: "媒介，传播介质" },
+      { w: "reinventing", pos: "v.", p: "/ˌriːɪnˈventɪŋ/", cn: "彻底改造，重塑" },
+      { w: "hubs", pos: "n.", p: "/hʌbz/", cn: "中心，枢纽" },
+      { w: "publishers", pos: "n.", p: "/ˈpʌblɪʃəz/", cn: "出版商，出版社" },
+      { w: "formats", pos: "n.", p: "/ˈfɔːmæts/", cn: "形式，格式" },
+      { w: "appetite", pos: "n.", p: "/ˈæpɪtaɪt/", cn: "渴望，强烈欲望" },
+      { w: "outlast", pos: "v.", p: "/aʊtˈlɑːst/", cn: "比…更持久，胜过" },
+      { w: "lifelong", pos: "adj.", p: "/ˈlaɪflɒŋ/", cn: "终身的，毕生的" },
+      { w: "craft", pos: "n.", p: "/krɑːft/", cn: "技艺，手艺" },
+      { w: "distraction", pos: "n.", p: "/dɪˈstrækʃn/", cn: "干扰，分心" }
     ]
   },
   words: [
-    { w: "migration", pos: "n.", p: "/maɪˈɡreɪʃn/", cn: "迁徙；迁移", ex: "The migration of farm workers to coastal cities has reshaped the region.", exCn: "农业工人向沿海城市的迁移重塑了该地区。" },
-    { w: "emigrate", pos: "v.", p: "/ˈemɪɡreɪt/", cn: "移居国外（离开本国）", ex: "Her grandparents emigrated from Italy in the 1950s.", exCn: "她的祖父母于二十世纪五十年代从意大利移居国外。" },
-    { w: "emigrant", pos: "n.", p: "/ˈemɪɡrənt/", cn: "移居外国者（迁出者）", ex: "The emigrant left with few possessions but great hopes.", exCn: "那位移居者几乎身无长物，却满怀希望地离开了。" },
-    { w: "immigrant", pos: "n.", p: "/ˈɪmɪɡrənt/", cn: "移民（迁入者）", ex: "Each immigrant brought skills that the local economy needed.", exCn: "每一位移民都带来了当地经济所需的技能。" },
-    { w: "immigration", pos: "n.", p: "/ˌɪmɪˈɡreɪʃn/", cn: "移民（入境）；移居", ex: "Immigration policy has become a heated topic in the election.", exCn: "移民政策已成为本次选举中一个激烈争论的话题。" },
-    { w: "refugee", pos: "n.", p: "/ˌrefjuˈdʒiː/", cn: "难民", ex: "The refugee waited three years for permission to work.", exCn: "这名难民等了三年才获得工作许可。" },
-    { w: "asylum", pos: "n.", p: "/əˈsaɪləm/", cn: "庇护；政治避难", ex: "She applied for asylum after fleeing political persecution.", exCn: "她在逃离政治迫害后申请了庇护。" },
-    { w: "diaspora", pos: "n.", p: "/daɪˈæspərə/", cn: "散居族群；侨民", ex: "The Irish diaspora kept close ties with the homeland.", exCn: "爱尔兰散居族群与故土保持着紧密联系。" },
-    { w: "exile", pos: "n./v.", p: "/ˈeksaɪl/", cn: "流放；流亡者", ex: "The writer spent most of his life in exile.", exCn: "这位作家大半生都在流亡中度过。" },
-    { w: "deport", pos: "v.", p: "/dɪˈpɔːt/", cn: "驱逐出境", ex: "The court ruled that the state could not deport the teenager.", exCn: "法院裁定政府不能驱逐这名少年。" },
-    { w: "deportation", pos: "n.", p: "/ˌdiːpɔːˈteɪʃn/", cn: "驱逐出境（行为）", ex: "Deportation without a fair hearing drew strong criticism.", exCn: "未经公正听证便实施驱逐引发了强烈批评。" },
-    { w: "persecution", pos: "n.", p: "/ˌpɜːsɪˈkjuːʃn/", cn: "迫害", ex: "Religious persecution forced many families to flee.", exCn: "宗教迫害迫使许多家庭逃亡。" },
-    { w: "remittance", pos: "n.", p: "/rɪˈmɪtns/", cn: "汇款", ex: "Remittances from abroad now exceed the country's export earnings.", exCn: "来自海外的汇款如今已超过该国的出口收入。" },
-    { w: "repatriate", pos: "v.", p: "/riːˈpætrieɪt/", cn: "遣返；使归国", ex: "The agency helped repatriate the stranded sailors.", exCn: "该机构协助遣返了被困的水手。" },
-    { w: "expatriate", pos: "n.", p: "/ɪkˈspætriət/", cn: "侨居国外者", ex: "The expatriate community organised classes for local children.", exCn: "这群侨居者团体为当地儿童组织了课程。" },
-    { w: "cosmopolitan", pos: "adj.", p: "/ˌkɒzməˈpɒlɪtən/", cn: "国际化的；世界性的", ex: "London is a cosmopolitan city with residents from every continent.", exCn: "伦敦是一座国际化都市，居民来自各大洲。" },
-    { w: "pluralism", pos: "n.", p: "/ˈplʊərəlɪzəm/", cn: "多元主义；多元性", ex: "Cultural pluralism allows different traditions to coexist.", exCn: "文化多元主义让不同传统得以共存。" },
-    { w: "enclave", pos: "n.", p: "/ˈenkleɪv/", cn: "飞地；聚居区", ex: "The old town became an ethnic enclave of new arrivals.", exCn: "老城区变成了新移民的民族聚居区。" },
-    { w: "detention", pos: "n.", p: "/dɪˈtenʃn/", cn: "拘留；扣留", ex: "The applicant spent months in immigration detention.", exCn: "申请者在移民拘留所度过了数月。" },
-    { w: "nomadic", pos: "adj.", p: "/nəʊˈmædɪk/", cn: "游牧的；流动的", ex: "Nomadic groups moved with the seasons in search of pasture.", exCn: "游牧族群随季节迁徙以寻找牧场。" },
-    { w: "citizenship", pos: "n.", p: "/ˈsɪtɪzənʃɪp/", cn: "公民身份", ex: "After ten years she was finally granted citizenship.", exCn: "十年后她终于获得了公民身份。" },
-    { w: "nationality", pos: "n.", p: "/ˌnæʃəˈnæləti/", cn: "国籍；民族", ex: "Applicants must state their nationality on the form.", exCn: "申请人必须在表格上填写国籍。" },
-    { w: "border", pos: "n.", p: "/ˈbɔːdə(r)/", cn: "边界；边境", ex: "The two villages lie on opposite sides of the border.", exCn: "两座村庄分别位于边界两侧。" },
-    { w: "frontier", pos: "n.", p: "/frʌnˈtɪə(r)/", cn: "边境；前沿", ex: "The frontier town grew rich from cross-border trade.", exCn: "这座边境城镇靠跨境贸易富裕起来。" },
-    { w: "transient", pos: "adj.", p: "/ˈtrænziənt/", cn: "短暂的；临时的", ex: "The camp housed only a transient population of labourers.", exCn: "营地只收容了一批临时务工的流动人口。" },
-    { w: "itinerant", pos: "adj.", p: "/aɪˈtɪnərənt/", cn: "巡回的；流动的", ex: "Itinerant merchants once linked remote mountain villages.", exCn: "巡回商贩曾把偏远的山村连接起来。" },
-    { w: "exodus", pos: "n.", p: "/ˈeksədəs/", cn: "（大批）离去；出走", ex: "The drought triggered a mass exodus from the countryside.", exCn: "干旱引发了农村人口的大规模外流。" },
-    { w: "sojourn", pos: "n./v.", p: "/ˈsɒdʒn/", cn: "逗留；旅居", ex: "His sojourn in Paris lasted only one autumn.", exCn: "他在巴黎的旅居仅持续了一个秋天。" },
-    { w: "naturalize", pos: "v.", p: "/ˈnætʃrəlaɪz/", cn: "使入籍", ex: "The state naturalized thousands of long-term residents.", exCn: "政府授予数千名长期居民以国籍。" },
-    { w: "livelihood", pos: "n.", p: "/ˈlaɪvlihʊd/", cn: "生计", ex: "Migration can protect a family's livelihood during hard times.", exCn: "在困难时期，迁移可以保障一个家庭的生计。" }
+    { w: "literacy", pos: "n.", p: "/ˈlɪtərəsi/", cn: "读写能力，识字", ex: "National literacy has risen sharply since free schooling began.", exCn: "自免费教育推行以来，国民识字率大幅上升。" },
+    { w: "illiterate", pos: "adj.", p: "/ɪˈlɪtərət/", cn: "不识字的，文盲的", ex: "An illiterate adult is locked out of much modern information.", exCn: "不识字的成年人被隔绝在大量现代信息之外。" },
+    { w: "alphabet", pos: "n.", p: "/ˈælfəbet/", cn: "字母表", ex: "Children learn the alphabet before they can read words.", exCn: "儿童在能读词之前先学习字母表。" },
+    { w: "typography", pos: "n.", p: "/taɪˈpɒɡrəfi/", cn: "排版（艺术）", ex: "Good typography makes a page easier to follow.", exCn: "良好的排版让页面更易阅读。" },
+    { w: "publishing", pos: "n.", p: "/ˈpʌblɪʃɪŋ/", cn: "出版（业）", ex: "Digital publishing has lowered the cost of a first book.", exCn: "数字出版降低了首部著作的门槛。" },
+    { w: "annotate", pos: "v.", p: "/ˈænəteɪt/", cn: "注释，评注", ex: "Students annotate texts to remember key points.", exCn: "学生通过给文本做注释来记住要点。" },
+    { w: "comprehension", pos: "n.", p: "/ˌkɒmprɪˈhenʃn/", cn: "理解（力）", ex: "Reading speed matters less than deep comprehension.", exCn: "阅读速度不如深度理解重要。" },
+    { w: "fiction", pos: "n.", p: "/ˈfɪkʃn/", cn: "小说，虚构作品", ex: "She prefers fiction that mirrors real life.", exCn: "她偏爱反映现实生活的虚构小说。" },
+    { w: "nonfiction", pos: "n.", p: "/nɒnˈfɪkʃn/", cn: "非虚构作品", ex: "Nonfiction teaches facts, while novels teach feeling.", exCn: "非虚构作品传授事实，而小说传递情感。" },
+    { w: "poetry", pos: "n.", p: "/ˈpəʊətri/", cn: "诗歌", ex: "Poetry trains the ear for rhythm and sound.", exCn: "诗歌训练对节奏与音韵的敏感度。" },
+    { w: "prose", pos: "n.", p: "/prəʊz/", cn: "散文，白话文", ex: "Clear prose is harder to write than it looks.", exCn: "清晰的散文写起来比看上去更难。" },
+    { w: "volume", pos: "n.", p: "/ˈvɒljuːm/", cn: "卷，册；音量", ex: "The encyclopedia runs to twelve volumes.", exCn: "这部百科全书共有十二卷。" },
+    { w: "edition", pos: "n.", p: "/ɪˈdɪʃn/", cn: "版本，版次", ex: "The new edition corrects several old errors.", exCn: "新版更正了若干旧错。" },
+    { w: "reader", pos: "n.", p: "/ˈriːdə(r)/", cn: "读者", ex: "A good reader questions what the author assumes.", exCn: "优秀的读者会质疑作者所做的假设。" },
+    { w: "textual", pos: "adj.", p: "/ˈtekstʃuəl/", cn: "文本的，正文的", ex: "Textual evidence supports the historian's claim.", exCn: "文本证据支撑了这位历史学家的论点。" },
+    { w: "lexical", pos: "adj.", p: "/ˈleksɪkl/", cn: "词汇的", ex: "Lexical gaps make reading in a new language slow.", exCn: "词汇缺口使用新语言阅读变得缓慢。" },
+    { w: "syllable", pos: "n.", p: "/ˈsɪləbl/", cn: "音节", ex: "The word contains three syllables in speech.", exCn: "这个词在口语中包含三个音节。" },
+    { w: "paragraph", pos: "n.", p: "/ˈpærəɡrɑːf/", cn: "段落", ex: "Each paragraph should advance one clear idea.", exCn: "每一段都应推进一个清晰的观点。" },
+    { w: "essay", pos: "n.", p: "/ˈeseɪ/", cn: "散文，文章；论文", ex: "The essay argues that reading shapes identity.", exCn: "这篇文章论证阅读如何塑造身份。" },
+    { w: "recite", pos: "v.", p: "/rɪˈsaɪt/", cn: "背诵，朗诵", ex: "Pupils recite poems to build memory.", exCn: "小学生背诵诗歌以锻炼记忆。" },
+    { w: "memorise", pos: "v.", p: "/ˈmeməraɪz/", cn: "记住，背诵", ex: "It is better to understand than merely memorise.", exCn: "理解比单纯记忆更好。" },
+    { w: "peruse", pos: "v.", p: "/pəˈruːz/", cn: "细读，审阅", ex: "He perused the report before the meeting.", exCn: "开会前他细读了那份报告。" },
+    { w: "interpret", pos: "v.", p: "/ɪnˈtɜːprɪt/", cn: "解读，诠释", ex: "Readers interpret the same line in different ways.", exCn: "读者以不同方式解读同一句话。" },
+    { w: "verse", pos: "n.", p: "/vɜːs/", cn: "诗，诗句；韵文", ex: "The chorus sings the first verse of the hymn.", exCn: "合唱团唱起赞美诗的第一节。" },
+    { w: "cursive", pos: "adj.", p: "/ˈkɜːsɪv/", cn: "草书的，连笔的", ex: "Cursive writing links letters in a flowing line.", exCn: "草书以流畅的线条连接字母。" },
+    { w: "legible", pos: "adj.", p: "/ˈledʒəbl/", cn: "清晰的，易读的", ex: "Her notes were neat and perfectly legible.", exCn: "她的笔记整洁且十分易读。" },
+    { w: "skimming", pos: "n.", p: "/ˈskɪmɪŋ/", cn: "略读，跳读", ex: "Skimming helps locate the main idea fast.", exCn: "略读有助于快速定位主旨。" },
+    { w: "summarise", pos: "v.", p: "/ˈsʌməraɪz/", cn: "概括，总结", ex: "Please summarise the chapter in one sentence.", exCn: "请用一句话概括本章。" },
+    { w: "digest", pos: "v.", p: "/daɪˈdʒest/", cn: "消化；领会", ex: "Read slowly so the mind can digest new ideas.", exCn: "慢读，让头脑得以消化新观念。" },
+    { w: "browse", pos: "v.", p: "/braʊz/", cn: "浏览", ex: "Visitors browse the shelves without a fixed plan.", exCn: "访客毫无计划地浏览书架。" }
   ],
   vocabArticle: {
-    title: "A Letter Across Borders",
-    titleCn: "跨越边界的一封信",
+    title: "A Town That Learned to Read",
+    titleCn: "一个学会阅读的小镇",
     paras: [
       {
-        en: "When war broke out, Amina's family joined the great exodus from their village. As refugees, they crossed the border into a neighbouring state and sought asylum from persecution. To emigrate is never easy, yet for many it is the only path to safety. Life in the camp was hard, but a transient sense of calm returned. An itinerant aid worker reminded them that migration, though painful, has always reshaped human history.",
-        cn: "战争爆发时，阿明娜一家加入了村民的大批出走。作为难民，他们越过边界进入邻国，并因遭受迫害而寻求庇护。移居国外从来都不容易，但对许多人而言它却是通往安全的唯一出路。营地的生活十分艰苦，但一种短暂的安宁终于回来了。一位巡回救援人员提醒他们，迁移尽管痛苦，却始终在重塑人类的历史。"
+        en: "In a small town where literacy was once rare, an old teacher helped illiterate farmers learn the alphabet by heart. Each evening, a patient reader would recite folk tales aloud, and the children tried to memorise the rhythm of the words before they could write them. Slowly, the page stopped being a mystery and became a friend.",
+        cn: "在一个曾经识字率很低的小镇，一位老教师帮助不识字的农民把字母表牢牢记在心里。每天傍晚，一位耐心的读者会大声朗诵民间故事，孩子们则在学会书写之前，试着把词语的韵律背下来。渐渐地，书页不再是谜团，而成了朋友。"
       },
       {
-        en: "After a year, Amina's father found work abroad and began sending a monthly remittance that protected the family's livelihood. Her mother, an emigrant at heart, had once dreamed of studying in a cosmopolitan city. The local diaspora raised funds for a school, while immigration officials reviewed the family's claim. Even those held in detention while their cases were judged found hope in small kindnesses from strangers.",
-        cn: "一年后，阿明娜的父亲在海外找到工作，开始每月寄回一笔保护全家生计的汇款。她的母亲骨子里是个移居者，曾梦想在一座国际化都市求学。当地的散居族群为学校筹款，而移民官员则在审查这一家的申请。即便是那些在案件审理期间被拘押的人，也从陌生人的点滴善意中找到了希望。"
+        en: "As the pupils grew, they learned to annotate the prose they read, marking each paragraph that deepened their comprehension. They discovered that textual clues let them interpret a line in more than one way, and the best essay was not the longest, but the one that thought most clearly. Reading, they found, was a craft to be practised.",
+        cn: "随着孩子们长大，他们学会给读到的散文做注释，标出每一段能加深理解的文字。他们发现文本线索让他们能以不止一种方式去解读一句话，而最好的文章不是最长的，而是思考最清晰的。他们意识到，阅读是一门需要练习的技艺。"
       },
       {
-        en: "Years later, Amina enrolled at a university in the capital, a city proud of its pluralism and its many enclaves of newcomers. She met an expatriate teacher who had chosen sojourn over permanent return. They debated whether a state should naturalize long-term residents, and what citizenship truly means when nationality and belonging no longer match. Some neighbours still resisted the frontier town's changing face.",
-        cn: "多年以后，阿明娜考入首都一所大学；那座城市以其多元主义以及众多新来者的聚居区而自豪。她遇见一位选择旅居而非永久归国的侨居教师。他们争论一个国家是否应当让长期居民入籍，以及当国籍与归属感不再一致时，公民身份究竟意味着什么。一些邻居仍抵触这座边境小镇不断变化的面貌。"
+        en: "The library offered fiction beside nonfiction, and poetry beside plain prose. A girl who loved verse counted every syllable and practised cursive until her handwriting was legible to all. Her lexical range widened with each book, and the boundary between play and study quietly dissolved as stories filled her spare hours.",
+        cn: "图书馆里，小说与非虚构作品并排，诗歌与平实的散文相邻。一个喜爱诗句的女孩数着每一个音节，练习草书直到字迹人人均能辨认。她的词汇量随着每本书而扩大，当故事填满她的闲暇时光，玩与学之间的界线也悄然消融。"
       },
       {
-        en: "When the government at last offered a path to citizenship, Amina's family embraced it; an immigrant herself now, she saw how repatriate plans failed those who had built lives abroad, and how exile and forced deportation wounded entire communities. The once nomadic wanderings of her people had become a settled story. To deport them would undo a decade of quiet belonging, a reminder that the border is a line on a map, not a limit on a shared human frontier.",
-        cn: "当政府最终提供了一条获得公民身份的路径，阿明娜一家欣然接受；如今的她自己也成了移民，她看清了那些遣返计划如何辜负了在海外建立起生活的人，也看清了流放与强制驱逐如何伤及整个社群。她族人曾经游牧般的漂泊，如今已成了一段安稳的故事。将他们驱逐出境，只会抹去十年的宁静归属——这提醒人们，边界只是地图上的一条线，而非对人类共同前沿的限定。"
+        en: "Years later she browsed a city bookshop and perused a fine new edition of a favourite volume. Good typography and patient publishing had made the page beautiful, yet she still had to summarise and digest what she read rather than merely skimming the surface. In an age of screens, she kept the old habit of reading to understand, not just to scroll.",
+        cn: "多年以后，她逛进一家城市书店，细细翻阅一本心爱著作的精美新版。良好的排版与耐心的出版让书页变得美好，然而她仍须概括并消化所读之物，而非仅仅浮光掠影地略过。在屏幕时代，她保留着旧习惯：为理解而读，而不只是为滑动而读。"
       }
     ]
   },
   grammar: [
     {
-      q: "Migrants often settle in cities ______ economies have been reshaped by decades of inflow from abroad.",
+      q: "______ the invention of movable type ______ ordinary people gain wide access to books.",
       options: [
-        "where",
-        "which",
-        "that",
-        "what"
+        "Not until; did",
+        "Not until; do",
+        "Until; did",
+        "Not until; they did"
       ],
       answer: 0,
-      explain: "考点：定语从句关系词的选择。先行词是 cities（地点名词），定语从句 \"economies have been reshaped by decades of inflow from abroad\" 本身结构完整（主语 economies，谓语 have been reshaped），从句不缺主语或宾语，缺的是地点状语，即 in the cities，因此应使用关系副词 where（相当于 in which）引导，A 项正确。B 项 which 与 C 项 that 都是关系代词，必须在从句中充当主语或宾语，而本从句主宾俱全，故错误；若一定要用 which，须写成 in which。D 项 what 只能引导名词性从句，不能引导定语从句，错误。扩展：当先行词是地点且从句不缺主宾时用 where；缺主宾时用 which / that；时间先行词同理（when / which）。"
+      explain: "考点：否定短语置于句首引起的部分倒装。“Not until + 状语”放在句首时，主句必须使用部分倒装，即把助动词或情态动词提到主语之前；句中事件发生在过去，故用 did 加上主语再加上动词原形，A 项正确。B 项 do 时态不符（应为过去）；C 项 Until 置于句首并不要求倒装，且语义不完整；D 项 they did 没有倒装，错误。扩展：类似需要部分倒装的还有 rarely、seldom、hardly、never、only by、only when 等置于句首的情况，牢记“前倒后不倒”或“主句倒装”。"
     },
     {
-      q: "Neither the sudden influx of workers nor the strain on housing ______ able to explain the full change in the town's character.",
+      q: "______ a person reads, ______ their vocabulary tends to become.",
       options: [
-        "are",
-        "is",
-        "were",
-        "have been"
+        "The more; the richer",
+        "More; richer",
+        "The more; richer",
+        "More; the richer"
       ],
-      answer: 1,
-      explain: "考点：主谓一致——\"neither A nor B\" 结构遵循就近原则（proximity rule）。当 neither...nor 连接两个主语时，谓语动词的数由最靠近动词的那个名词决定。本句中靠近动词的是 the strain（单数），因此谓语应用单数 is，B 项正确。A 项 are、C 项 were、D 项 have been 均为复数形式，违背就近原则，错误。扩展：either...or、not only...but also、not...but 等并列连词也遵循就近一致；另外要区分 \"a number of + 复数名词\"（谓语用复数）与 \"the number of + 复数名词\"（谓语用单数），二者极易混淆，需特别留意。"
+      answer: 0,
+      explain: "考点：“the + 比较级…, the + 比较级…”表示“越……越……”的固定句型。该句型前后两个分句通常都要用 “the + 比较级” 引导，且后句（主句/结果句）的比较级紧接在 the 之后。本句前句用 The more，后句须用 the richer，A 项正确。B、C、D 三项都漏掉了其中一侧的 the，结构不完整，错误。扩展：此处的 the 是定冠词而非代词；语序为“条件在前、结果在后”；若只比较两者优劣，则用 “比较级 + than” 结构，例如 “She reads more than he does”。"
     }
   ]
 };

@@ -185,5 +185,11 @@ window.ENGLISH_HISTORY = [
     topic: "Migration & Global Mobility（人口迁移与全球流动）",
     articleTitle: "The Restless World: Why People Keep Moving",
     words: ["migration","emigrate","emigrant","immigrant","immigration","refugee","asylum","diaspora","exile","deport","deportation","persecution","remittance","repatriate","expatriate","cosmopolitan","pluralism","enclave","detention","nomadic","citizenship","nationality","border","frontier","transient","itinerant","exodus","sojourn","naturalize","livelihood"]
+  },
+  {
+    date: "2026-09-08",
+    topic: "Reading, Literacy & the Future of the Book（阅读、读写素养与书籍的未来）",
+    articleTitle: "The Page That Still Matters",
+    words: ["literacy","illiterate","alphabet","typography","publishing","annotate","comprehension","fiction","nonfiction","poetry","prose","volume","edition","reader","textual","lexical","syllable","paragraph","essay","recite","memorise","peruse","interpret","verse","cursive","legible","skimming","summarise","digest","browse"]
   }
 ];
