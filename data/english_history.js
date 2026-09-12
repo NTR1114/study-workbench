@@ -191,5 +191,11 @@ window.ENGLISH_HISTORY = [
     topic: "Reading, Literacy & the Future of the Book（阅读、读写素养与书籍的未来）",
     articleTitle: "The Page That Still Matters",
     words: ["literacy","illiterate","alphabet","typography","publishing","annotate","comprehension","fiction","nonfiction","poetry","prose","volume","edition","reader","textual","lexical","syllable","paragraph","essay","recite","memorise","peruse","interpret","verse","cursive","legible","skimming","summarise","digest","browse"]
+  },
+  {
+    date: "2026-09-11",
+    topic: "Fashion, Identity & the Fast-Fashion Debate（时尚、身份认同与快时尚之争）",
+    articleTitle: "Dressed to Express: The Double Edge of Fast Fashion",
+    words: ["garment","textile","apparel","couture","atelier","vogue","fad","fabric","weave","knit","stitch","seam","wardrobe","runway","catwalk","mannequin","boutique","tailor","denim","linen","fibre","dye","vintage","outfit","chic","glamour","trend","haute","attire","accessory"]
   }
 ];
