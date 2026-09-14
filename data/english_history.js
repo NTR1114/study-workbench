@@ -197,5 +197,17 @@ window.ENGLISH_HISTORY = [
     topic: "Fashion, Identity & the Fast-Fashion Debate（时尚、身份认同与快时尚之争）",
     articleTitle: "Dressed to Express: The Double Edge of Fast Fashion",
     words: ["garment","textile","apparel","couture","atelier","vogue","fad","fabric","weave","knit","stitch","seam","wardrobe","runway","catwalk","mannequin","boutique","tailor","denim","linen","fibre","dye","vintage","outfit","chic","glamour","trend","haute","attire","accessory"]
+  },
+  {
+    date: "2026-09-12",
+    topic: "Disaster & Risk Management（自然灾害与应急风险管理）",
+    articleTitle: "When the Ground Shakes: Living with Natural Hazards",
+    words: ["cataclysm","precaution","evacuate","aftermath","devastate","magnitude","seismic","tsunami","eruption","flood","forecast","alert","shelter","relief","casualty","contingency","peril","calamity","recuperate","volatile","tremor","landslide","hurricane","cyclone","outbreak","quarantine","robust","adversity","ravage","ensue"]
+  },
+  {
+    date: "2026-09-14",
+    topic: "Neuroscience & the Brain（神经科学与大脑如何运作）",
+    articleTitle: "The Living Engine: How the Brain Builds the Mind",
+    words: ["neuron","synapse","cortex","stimulus","sensory","neurotransmitter","plasticity","hemisphere","impulse","retrieve","encode","consolidate","dormant","lesion","acute","react","consciousness","cognition","reflex","sensation","faculty","aptitude","latent","manifest","correlate","devise","recollect","ignite","intricate","mechanism"]
   }
 ];
