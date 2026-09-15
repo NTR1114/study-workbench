@@ -40,7 +40,6 @@ window.ENGLISH_DAILY = {
       { w: "reflex", pos: "n.", p: "/ˈriːfleks/", cn: "反射" },
       { w: "correlate", pos: "v.", p: "/ˈkɒrəleɪt/", cn: "关联，使相互关联" },
       { w: "devise", pos: "v.", p: "/dɪˈvaɪz/", cn: "设计，发明" },
-      { w: "circuit", pos: "n.", p: "/ˈsɜːkɪt/", cn: "回路，电路" },
       { w: "sensation", pos: "n.", p: "/senˈseɪʃn/", cn: "感觉，知觉" },
       { w: "perception", pos: "n.", p: "/pəˈsepʃn/", cn: "知觉，感知" },
       { w: "cortex", pos: "n.", p: "/ˈkɔːteks/", cn: "大脑皮层" },
@@ -66,7 +65,7 @@ window.ENGLISH_DAILY = {
     { w: "neurotransmitter", pos: "n.", p: "/ˌnjʊərəʊtrænsˈmɪtə(r)/", cn: "神经递质", ex: "A neurotransmitter carries the message from one neuron to the next.", exCn: "神经递质将信息从一神经元传向下一个。" },
     { w: "plasticity", pos: "n.", p: "/plæˈstɪsəti/", cn: "可塑性", ex: "Brain plasticity allows children to recover language after injury.", exCn: "大脑可塑性使儿童在受伤后恢复语言。" },
     { w: "hemisphere", pos: "n.", p: "/ˈhemɪsfɪə(r)/", cn: "（脑）半球", ex: "The left hemisphere usually controls speech and logic.", exCn: "左半球通常控制语言与逻辑。" },
-    { w: "impulse", pos: "n.", p: "/ˈɪmpʌls/", cn: "冲动；神经脉冲", ex: "An electrical impulse travels along the nerve at high speed.", exCn: "电脉冲以高速沿神经传导。" },
+    { w: "relay", pos: "v.", p: "/ˈriːleɪ/", cn: "转递，转发（信号等）", ex: "Neurons relay electrical messages across the brain.", exCn: "神经元在大脑中转递电信号。" },
     { w: "retrieve", pos: "v.", p: "/rɪˈtriːv/", cn: "取回，找回（记忆等）", ex: "We can retrieve a memory years after first forming it.", exCn: "我们能在形成记忆多年后将其提取出来。" },
     { w: "encode", pos: "v.", p: "/ɪnˈkəʊd/", cn: "编码", ex: "The brain must encode experiences before it can store them.", exCn: "大脑必须先对经历编码，才能将其储存。" },
     { w: "consolidate", pos: "v.", p: "/kənˈsɒlɪdeɪt/", cn: "巩固，加强", ex: "Sleep helps the brain consolidate what it learned during the day.", exCn: "睡眠帮助大脑巩固白天所学。" },
@@ -74,7 +73,7 @@ window.ENGLISH_DAILY = {
     { w: "lesion", pos: "n.", p: "/ˈliːʒn/", cn: "损伤，病灶", ex: "A small lesion in this area can impair memory severely.", exCn: "该区域的小损伤会严重损害记忆。" },
     { w: "acute", pos: "adj.", p: "/əˈkjuːt/", cn: "严重的；急性的", ex: "An acute head injury may cause temporary loss of speech.", exCn: "头部急性损伤可能导致暂时性失语。" },
     { w: "react", pos: "v.", p: "/riˈækt/", cn: "反应", ex: "The body reacts to pain before the mind is aware of it.", exCn: "身体在意识察觉之前就对疼痛作出反应。" },
-    { w: "consciousness", pos: "n.", p: "/ˈkɒnʃəsnəs/", cn: "意识，知觉", ex: "Scientists still debate what creates human consciousness.", exCn: "科学家仍在争论是什么产生了人类意识。" },
+    { w: "sentience", pos: "n.", p: "/ˈsenʃəns/", cn: "感知力，知觉（感受体验的能力）", ex: "Many scientists believe sentience requires a working nervous system.", exCn: "许多科学家认为感知力需要运作正常的神经系统。" },
     { w: "cognition", pos: "n.", p: "/kɒɡˈnɪʃn/", cn: "认知", ex: "Music training can improve certain forms of cognition.", exCn: "音乐训练能改善某些认知机能。" },
     { w: "reflex", pos: "n.", p: "/ˈriːfleks/", cn: "反射", ex: "Blinking when something approaches the eye is a reflex.", exCn: "异物靠近眼睛时眨眼是一种反射。" },
     { w: "sensation", pos: "n.", p: "/senˈseɪʃn/", cn: "感觉，知觉", ex: "The strange sensation in her hand was caused by nerve damage.", exCn: "她手上的异样感觉由神经损伤引起。" },
@@ -94,7 +93,7 @@ window.ENGLISH_DAILY = {
     titleCn: "脑中的地图",
     paras: [
       {
-        en: "Deep inside every skull sits the brain, a web of neuron and synapse that hums without pause. When a soft stimulus brushes the skin, a tiny impulse leaps from cell to cell, and the sensory world floods in. Nothing here stays dormant; even in sleep the cortex rehearses the day. This intricate machine turns raw signal into the rich cognition we call thinking, and it does so in the blink of an eye.",
+        en: "Deep inside every skull sits the brain, a web of neuron and synapse that hums without pause. When a soft stimulus brushes the skin, signals relay from cell to cell, and the sensory world floods in. Nothing here stays dormant; even in sleep the cortex rehearses the day. This intricate machine turns raw signal into the rich cognition we call thinking, and it does so in the blink of an eye.",
         cn: "在每具头骨深处都安坐着大脑，一张由神经元与突触织成、永不停歇的网。当轻柔的刺激拂过皮肤，一道微小的脉冲便在细胞间跳跃，感觉世界随之涌入。这里没有任何东西保持休眠；即便在睡眠中，大脑皮层也在排演白天的一切。这台错综的机器将原始信号转化为我们称之为思考的丰富认知，且只在一眨眼间完成。"
       },
       {
@@ -106,7 +105,7 @@ window.ENGLISH_DAILY = {
         cn: "一个突发的刺激能点燃一道在思维抵达之前便飞驰的脉冲。你以比语言更古老的反射对巨响作出反应，心脏在刹那间狂跳。这类迅捷的回路与生存息息相关，是数百万年打磨而成。科学家设计错综的测试来观察这条链条，证明感觉与运动在头骨内共用一条繁忙的通道。"
       },
       {
-        en: "An acute lesion in the cortex may steal speech or skew a once-steady hand, yet latent faculties often surface as a patient heals. The left hemisphere and its neurotransmitters rebuild broken links, and an unexpected aptitude for music may manifest where none existed. The hardest riddle is consciousness itself, the strange light in which all this mechanism appears. To know the brain is, finally, to begin knowing ourselves.",
+        en: "An acute lesion in the cortex may steal speech or skew a once-steady hand, yet latent faculty often surfaces as a patient heals. The left hemisphere and its neurotransmitters rebuild broken links, and an unexpected aptitude for music may manifest where none existed. The hardest riddle is sentience itself, the strange light in which all this mechanism appears. To know the brain is, finally, to begin knowing ourselves.",
         cn: "大脑皮层的一处急性损伤可能夺走言语，或使原本稳健的手变得歪斜，然而潜在的官能常随病人康复而浮现。左半球及其神经递质重建断裂的连接，而一种出人意料、此前并不存在的音乐天资也可能显现。最难的谜题是意识本身——这一切机制得以呈现的奇异之光。认识大脑，归根结底，是开始认识我们自己。"
       }
     ]

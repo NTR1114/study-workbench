@@ -208,6 +208,6 @@ window.ENGLISH_HISTORY = [
     date: "2026-09-14",
     topic: "Neuroscience & the Brain（神经科学与大脑如何运作）",
     articleTitle: "The Living Engine: How the Brain Builds the Mind",
-    words: ["neuron","synapse","cortex","stimulus","sensory","neurotransmitter","plasticity","hemisphere","impulse","retrieve","encode","consolidate","dormant","lesion","acute","react","consciousness","cognition","reflex","sensation","faculty","aptitude","latent","manifest","correlate","devise","recollect","ignite","intricate","mechanism"]
+    words: ["neuron","synapse","cortex","stimulus","sensory","neurotransmitter","plasticity","hemisphere","relay","retrieve","encode","consolidate","dormant","lesion","acute","react","sentience","cognition","reflex","sensation","faculty","aptitude","latent","manifest","correlate","devise","recollect","ignite","intricate","mechanism"]
   }
 ];
