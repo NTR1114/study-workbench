@@ -209,5 +209,11 @@ window.ENGLISH_HISTORY = [
     topic: "Neuroscience & the Brain（神经科学与大脑如何运作）",
     articleTitle: "The Living Engine: How the Brain Builds the Mind",
     words: ["neuron","synapse","cortex","stimulus","sensory","neurotransmitter","plasticity","hemisphere","relay","retrieve","encode","consolidate","dormant","lesion","acute","react","sentience","cognition","reflex","sensation","faculty","aptitude","latent","manifest","correlate","devise","recollect","ignite","intricate","mechanism"]
+  },
+  {
+    date: "2026-09-15",
+    topic: "International Aid & Global Development（国际援助与全球发展）",
+    articleTitle: "From Relief to Resilience: Rethinking Global Aid",
+    words: ["aid","benefactor","recipient","humanitarian","subsistence","endowment","microfinance","grant","charity","philanthropic","concessional","indebtedness","repay","leverage","disadvantaged","accountability","governance","bilateral","multilateral","stakeholder","hindrance","remedy","uplift","summit","pledge","disburse","ease","self-reliant","inclusive","tenable"]
   }
 ];

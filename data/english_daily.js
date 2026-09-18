@@ -1,137 +1,137 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-09-14",
-  topic: "Neuroscience & the Brain（神经科学与大脑如何运作）",
+  date: "2026-09-15",
+  topic: "International Aid & Global Development（国际援助与全球发展）",
   article: {
-    title: "The Living Engine: How the Brain Builds the Mind",
-    titleCn: "永动的引擎：大脑如何构筑心智",
+    title: "From Relief to Resilience: Rethinking Global Aid",
+    titleCn: "从救济到韧性：重新思考全球援助",
     paras: [
       {
-        en: "The human brain, a three-pound organ containing roughly eighty-six billion neurons, remains the most intricate structure science has ever studied. Despite enormous progress, how electrical impulses travelling across a synapse produce a single conscious thought still eludes researchers. Modern neuroscience marries biology with psychology to decode this puzzle. What was once considered dormant matter is now revealed as a ceaseless, living engine that shapes every moment we experience.",
-        cn: "人类大脑是一个重约三磅、容纳约八百六十亿个神经元的器官，至今仍是科学所研究过的最复杂的构造。尽管进展巨大，电能脉冲如何跨越突触产生一个清醒的念头，仍让研究者困惑。现代神经科学将生物学与心理学结合，以破解这一谜题。曾被视作休眠物质的东西，如今被揭示为一台永不停歇、塑造我们所经历每一刻的活体引擎。"
+        en: "For decades, international aid has been channelled from wealthy nations to poorer regions in the hope of reducing poverty and averting humanitarian crises. Yet the effectiveness of this assistance remains a subject of intense debate. Critics argue that unconditional transfers can undermine local markets and foster dependency, while supporters contend that well-targeted help saves countless lives. Understanding this tension is essential to any serious discussion of global development.",
+        cn: "数十年来，国际援助一直从富裕国家流向较贫困地区，以期减少贫困、避免人道主义危机。然而，这种援助的有效性至今仍是激烈争论的话题。批评者认为，无条件的资金转移会削弱本地市场并助长依赖，而支持者则主张有针对性的帮助能挽救无数生命。理解这一张力，对任何严肃讨论全球发展的人而言都至关重要。"
       },
       {
-        en: "When we learn, the brain does not stay fixed but rewires itself through a quality called plasticity. Each time we recollect a fact or encode new information, connections between neurons strengthen while unused pathways weaken. This mechanism explains why practice consolidates skill. Far from being a static storage box, the living brain is dynamic tissue that physically changes with every experience we gather.",
-        cn: "当我们学习时，大脑并非静止不变，而是通过一种叫「可塑性」的特性自我重塑。每当我们回忆一个事实或为新信息编码，神经元之间的连接便会增强，而无用的通路则被削弱。这一机制解释了为何练习能巩固技能。活体大脑远非静止的储存盒，而是会随我们获取的每一次经验在物理上发生变化的动态组织。"
+        en: "Modern development thinking has shifted from short-term relief towards building lasting self-sufficiency. Rather than merely donating food or funds, donors increasingly emphasise education and local institutions that let societies help themselves. This approach, often described as capacity-building, seeks to remove structural impediments to growth. Proponents believe lasting progress depends less on handouts and more on helping communities shape their own futures.",
+        cn: "现代发展思维已从短期救济转向构建持久的自给自足。捐助者不再仅仅提供食物或资金，而是日益重视能让社会自助的教育与地方机构。这种常被称为「能力建设」的思路，旨在清除阻碍增长的结构性障碍。支持者认为，持久的进步更少依赖施舍，更多依靠帮助社区塑造自身未来。"
       },
       {
-        en: "At any instant the brain receives a flood of sensory signals from eyes, ears and skin. A sudden stimulus ignites an impulse that races along nerves, triggering an automatic reflex before we consciously react. Such swift pathways correlate with survival, letting us withdraw a hand from heat in milliseconds. Researchers devise clever experiments to observe these intricate circuits, mapping how sensation becomes perception in a fraction of a second.",
-        cn: "在任何瞬间，大脑都会从眼睛、耳朵和皮肤接收大量的感觉信号。一个突发的刺激会点燃一道沿神经飞驰的脉冲，在我们清醒地作出反应之前便触发自动反射。这类迅捷的通路与生存息息相关，使我们能在毫秒间将手从热源上缩回。研究者设计巧妙的实验来观察这些错综的回路，绘制出感觉如何在刹那间化为知觉的图谱。"
+        en: "Nevertheless, international aid is frequently criticised for failing to reach those most in need. Corrupt elites may capture resources, while cumbersome bureaucratic procedures delay disbursement and dilute impact. Measuring success is notoriously difficult, because outcomes are shaped by politics, climate and markets beyond any single programme's control. Stringent evaluation and openness are therefore vital if such assistance is to yield lasting, observable change rather than fleeting headlines.",
+        cn: "然而，国际援助常因未能惠及最需要的群体而受到批评。腐败的精英可能攫取资源，而繁琐的官僚程序则会拖延拨款、稀释成效。衡量成功出了名地困难，因为成果受制于政治、气候与市场——这些都不是单一项目所能掌控的。因此，要让援助产生持久、可见的改变而非转瞬即逝的头条，严格的评估与公开透明不可或缺。"
       },
       {
-        en: "Damage to the cortex from a lesion can erase memory or alter personality, while acute injury may leave a patient unable to retrieve words. Yet the brain's latent faculties often surprise doctors as people recuperate. The deepest mystery remains consciousness—why electrical activity manifests as felt experience. As scans grow sharper, neuroscience promises not only to treat disease but to explain the very nature of mind itself.",
-        cn: "大脑皮层因损伤而受损可能抹去记忆或改变性格，而急性伤害则可能让病人无法找回词语。然而，随着人们康复，大脑潜在的官能常常让医生感到惊讶。最深的谜团仍是意识——为何电活动会显现为可被感知的体验。随着扫描技术愈发清晰，神经科学不仅有希望治疗疾病，更有望解释心智本身的根本性质。"
+        en: "In the coming decades, the architecture of aid is likely to change. Newly prosperous economies now act as both recipients and donors, blurring old hierarchies. Digital tools enable faster, more accountable delivery, yet they also expose fresh risks. Ultimately, the goal is not permanent dependence but a partnership in which every nation can stand on its own. Whether aid can mature into such a bond remains the defining question of our age.",
+        cn: "在未来数十年，援助的架构很可能发生改变。新近富裕的经济体如今既扮演受援者又扮演捐助者，模糊了旧的等级秩序。数字工具有助于更快、更可问责地输送援助，却也带来了新的风险。归根结底，目标不是永久的依赖，而是一种让每个国家都能自立的伙伴关系。援助能否成熟为这样的纽带，仍是我们这个时代的核心命题。"
       }
     ],
     glossary: [
-      { w: "neuron", pos: "n.", p: "/ˈnjʊərɒn/", cn: "神经元" },
-      { w: "synapse", pos: "n.", p: "/ˈsɪnæps/", cn: "突触（神经元间的连接点）" },
-      { w: "impulse", pos: "n.", p: "/ˈɪmpʌls/", cn: "冲动；神经脉冲" },
-      { w: "intricate", pos: "adj.", p: "/ˈɪntrɪkət/", cn: "复杂的，错综的" },
-      { w: "dormant", pos: "adj.", p: "/ˈdɔːmənt/", cn: "休眠的，静止的" },
-      { w: "plasticity", pos: "n.", p: "/plæˈstɪsəti/", cn: "可塑性" },
-      { w: "recollect", pos: "v.", p: "/ˌrekəˈlekt/", cn: "回忆，记起" },
-      { w: "encode", pos: "v.", p: "/ɪnˈkəʊd/", cn: "编码" },
-      { w: "consolidate", pos: "v.", p: "/kənˈsɒlɪdeɪt/", cn: "巩固，加强" },
-      { w: "mechanism", pos: "n.", p: "/ˈmekənɪzəm/", cn: "机制，机理" },
-      { w: "sensory", pos: "adj.", p: "/ˈsensəri/", cn: "感官的，感觉的" },
-      { w: "stimulus", pos: "n.", p: "/ˈstɪmjələs/", cn: "刺激物" },
-      { w: "ignite", pos: "v.", p: "/ɪɡˈnaɪt/", cn: "点燃，引发" },
-      { w: "reflex", pos: "n.", p: "/ˈriːfleks/", cn: "反射" },
-      { w: "correlate", pos: "v.", p: "/ˈkɒrəleɪt/", cn: "关联，使相互关联" },
-      { w: "devise", pos: "v.", p: "/dɪˈvaɪz/", cn: "设计，发明" },
-      { w: "sensation", pos: "n.", p: "/senˈseɪʃn/", cn: "感觉，知觉" },
-      { w: "perception", pos: "n.", p: "/pəˈsepʃn/", cn: "知觉，感知" },
-      { w: "cortex", pos: "n.", p: "/ˈkɔːteks/", cn: "大脑皮层" },
-      { w: "lesion", pos: "n.", p: "/ˈliːʒn/", cn: "损伤，病灶" },
-      { w: "acute", pos: "adj.", p: "/əˈkjuːt/", cn: "严重的；急性的" },
-      { w: "retrieve", pos: "v.", p: "/rɪˈtriːv/", cn: "取回，找回" },
-      { w: "latent", pos: "adj.", p: "/ˈleɪtnt/", cn: "潜在的，隐伏的" },
-      { w: "faculty", pos: "n.", p: "/ˈfæklti/", cn: "官能，能力" },
-      { w: "consciousness", pos: "n.", p: "/ˈkɒnʃəsnəs/", cn: "意识，知觉" },
-      { w: "manifest", pos: "v.", p: "/ˈmænɪfest/", cn: "显现，表明" },
-      { w: "neurotransmitter", pos: "n.", p: "/ˌnjʊərəʊtrænsˈmɪtə(r)/", cn: "神经递质" },
-      { w: "hemisphere", pos: "n.", p: "/ˈhemɪsfɪə(r)/", cn: "（脑）半球" },
-      { w: "cognition", pos: "n.", p: "/kɒɡˈnɪʃn/", cn: "认知" },
-      { w: "aptitude", pos: "n.", p: "/ˈæptɪtjuːd/", cn: "天资，倾向" }
+      { w: "channelled", pos: "v.", p: "/ˈtʃændld/", cn: "输送，引导（channel 的过去式/分词）" },
+      { w: "avert", pos: "v.", p: "/əˈvɜːt/", cn: "避免，防止" },
+      { w: "crisis", pos: "n.", p: "/ˈkraɪsɪs/", cn: "危机" },
+      { w: "unconditional", pos: "adj.", p: "/ˌʌnkənˈdɪʃənl/", cn: "无条件的" },
+      { w: "undermine", pos: "v.", p: "/ˌʌndəˈmaɪn/", cn: "削弱，损害" },
+      { w: "dependence", pos: "n.", p: "/dɪˈpendəns/", cn: "依赖，依靠" },
+      { w: "institutions", pos: "n.", p: "/ˌɪnstɪˈtjuːʃnz/", cn: "机构，制度" },
+      { w: "structural", pos: "adj.", p: "/ˈstrʌktʃərəl/", cn: "结构性的" },
+      { w: "impediment", pos: "n.", p: "/ɪmˈpedɪmənt/", cn: "障碍，妨碍" },
+      { w: "proponents", pos: "n.", p: "/prəˈpəʊnənts/", cn: "支持者，倡导者" },
+      { w: "elites", pos: "n.", p: "/eɪˈliːts/", cn: "精英（阶层）" },
+      { w: "bureaucratic", pos: "adj.", p: "/ˌbjʊərəˈkrætɪk/", cn: "官僚的，官僚主义的" },
+      { w: "disbursement", pos: "n.", p: "/dɪsˈbɜːsmənt/", cn: "（款项的）支付，拨付" },
+      { w: "dilute", pos: "v.", p: "/daɪˈluːt/", cn: "削弱，淡化" },
+      { w: "notoriously", pos: "adv.", p: "/nəʊˈtɔːriəsli/", cn: "众所周知地，出了名地" },
+      { w: "outcomes", pos: "n.", p: "/ˈaʊtkʌmz/", cn: "结果，成果" },
+      { w: "stringent", pos: "adj.", p: "/ˈstrɪndʒənt/", cn: "严格的，苛刻的" },
+      { w: "observable", pos: "adj.", p: "/əbˈzɜːvəbl/", cn: "可观察到的" },
+      { w: "architecture", pos: "n.", p: "/ˈɑːkɪtektʃə(r)/", cn: "架构，体系" },
+      { w: "hierarchies", pos: "n.", p: "/ˈhaɪərɑːkiz/", cn: "等级制度，层级" },
+      { w: "accountable", pos: "adj.", p: "/əˈkaʊntəbl/", cn: "负责任的，可问责的" },
+      { w: "permanent", pos: "adj.", p: "/ˈpɜːmənənt/", cn: "永久的，长期的" },
+      { w: "partnership", pos: "n.", p: "/ˈpɑːtnəʃɪp/", cn: "伙伴关系，合作" },
+      { w: "self-sufficiency", pos: "n.", p: "/ˌself səˈfɪʃnsi/", cn: "自给自足" },
+      { w: "prosperous", pos: "adj.", p: "/ˈprɒspərəs/", cn: "繁荣的，富裕的" },
+      { w: "blur", pos: "v.", p: "/blɜː(r)/", cn: "使模糊，混淆" },
+      { w: "cumbersome", pos: "adj.", p: "/ˈkʌmbəsəm/", cn: "累赘的，繁琐的" },
+      { w: "capture", pos: "v.", p: "/ˈkæptʃə(r)/", cn: "夺取，占有" },
+      { w: "lasting", pos: "adj.", p: "/ˈlɑːstɪŋ/", cn: "持久的，持续的" },
+      { w: "vital", pos: "adj.", p: "/ˈvaɪtl/", cn: "至关重要的" }
     ]
   },
   words: [
-    { w: "neuron", pos: "n.", p: "/ˈnjʊərɒn/", cn: "神经元", ex: "A single neuron can relay signals to thousands of neighbouring cells.", exCn: "单个神经元能向数千个相邻细胞传递信号。" },
-    { w: "synapse", pos: "n.", p: "/ˈsɪnæps/", cn: "突触", ex: "Information crosses the synapse in a fraction of a second.", exCn: "信息在刹那间跨越突触。" },
-    { w: "cortex", pos: "n.", p: "/ˈkɔːteks/", cn: "大脑皮层", ex: "Damage to the cortex can alter a person's ability to speak.", exCn: "大脑皮层受损会改变一个人的说话能力。" },
-    { w: "stimulus", pos: "n.", p: "/ˈstɪmjələs/", cn: "刺激物", ex: "A sudden loud noise is a powerful stimulus for the startle reflex.", exCn: "突发的巨响是惊跳反射的强烈刺激。" },
-    { w: "sensory", pos: "adj.", p: "/ˈsensəri/", cn: "感官的，感觉的", ex: "The sensory nerves carry touch and temperature to the brain.", exCn: "感觉神经将触觉与温度传入大脑。" },
-    { w: "neurotransmitter", pos: "n.", p: "/ˌnjʊərəʊtrænsˈmɪtə(r)/", cn: "神经递质", ex: "A neurotransmitter carries the message from one neuron to the next.", exCn: "神经递质将信息从一神经元传向下一个。" },
-    { w: "plasticity", pos: "n.", p: "/plæˈstɪsəti/", cn: "可塑性", ex: "Brain plasticity allows children to recover language after injury.", exCn: "大脑可塑性使儿童在受伤后恢复语言。" },
-    { w: "hemisphere", pos: "n.", p: "/ˈhemɪsfɪə(r)/", cn: "（脑）半球", ex: "The left hemisphere usually controls speech and logic.", exCn: "左半球通常控制语言与逻辑。" },
-    { w: "relay", pos: "v.", p: "/ˈriːleɪ/", cn: "转递，转发（信号等）", ex: "Neurons relay electrical messages across the brain.", exCn: "神经元在大脑中转递电信号。" },
-    { w: "retrieve", pos: "v.", p: "/rɪˈtriːv/", cn: "取回，找回（记忆等）", ex: "We can retrieve a memory years after first forming it.", exCn: "我们能在形成记忆多年后将其提取出来。" },
-    { w: "encode", pos: "v.", p: "/ɪnˈkəʊd/", cn: "编码", ex: "The brain must encode experiences before it can store them.", exCn: "大脑必须先对经历编码，才能将其储存。" },
-    { w: "consolidate", pos: "v.", p: "/kənˈsɒlɪdeɪt/", cn: "巩固，加强", ex: "Sleep helps the brain consolidate what it learned during the day.", exCn: "睡眠帮助大脑巩固白天所学。" },
-    { w: "dormant", pos: "adj.", p: "/ˈdɔːmənt/", cn: "休眠的，静止的", ex: "Even dormant brain regions can be roused by intense training.", exCn: "即便休眠的脑区也能被强化训练唤醒。" },
-    { w: "lesion", pos: "n.", p: "/ˈliːʒn/", cn: "损伤，病灶", ex: "A small lesion in this area can impair memory severely.", exCn: "该区域的小损伤会严重损害记忆。" },
-    { w: "acute", pos: "adj.", p: "/əˈkjuːt/", cn: "严重的；急性的", ex: "An acute head injury may cause temporary loss of speech.", exCn: "头部急性损伤可能导致暂时性失语。" },
-    { w: "react", pos: "v.", p: "/riˈækt/", cn: "反应", ex: "The body reacts to pain before the mind is aware of it.", exCn: "身体在意识察觉之前就对疼痛作出反应。" },
-    { w: "sentience", pos: "n.", p: "/ˈsenʃəns/", cn: "感知力，知觉（感受体验的能力）", ex: "Many scientists believe sentience requires a working nervous system.", exCn: "许多科学家认为感知力需要运作正常的神经系统。" },
-    { w: "cognition", pos: "n.", p: "/kɒɡˈnɪʃn/", cn: "认知", ex: "Music training can improve certain forms of cognition.", exCn: "音乐训练能改善某些认知机能。" },
-    { w: "reflex", pos: "n.", p: "/ˈriːfleks/", cn: "反射", ex: "Blinking when something approaches the eye is a reflex.", exCn: "异物靠近眼睛时眨眼是一种反射。" },
-    { w: "sensation", pos: "n.", p: "/senˈseɪʃn/", cn: "感觉，知觉", ex: "The strange sensation in her hand was caused by nerve damage.", exCn: "她手上的异样感觉由神经损伤引起。" },
-    { w: "faculty", pos: "n.", p: "/ˈfæklti/", cn: "官能，能力", ex: "His faculty for languages surprised his teachers.", exCn: "他的语言天赋令老师惊讶。" },
-    { w: "aptitude", pos: "n.", p: "/ˈæptɪtjuːd/", cn: "天资，倾向", ex: "The child showed an early aptitude for mathematics.", exCn: "这孩子很早就显露出数学天资。" },
-    { w: "latent", pos: "adj.", p: "/ˈleɪtnt/", cn: "潜在的，隐伏的", ex: "Years of practice can unlock latent musical talent.", exCn: "多年的练习能激发潜在的音乐才能。" },
-    { w: "manifest", pos: "v.", p: "/ˈmænɪfest/", cn: "显现，表明", ex: "Stress often manifests as physical symptoms like headaches.", exCn: "压力常表现为头痛等身体症状。" },
-    { w: "correlate", pos: "v.", p: "/ˈkɒrəleɪt/", cn: "关联，使相互关联", ex: "Hours of sleep correlate strongly with exam performance.", exCn: "睡眠时长与考试成绩高度相关。" },
-    { w: "devise", pos: "v.", p: "/dɪˈvaɪz/", cn: "设计，发明", ex: "Researchers devised a test to measure attention span.", exCn: "研究者设计了一项测量注意广度的测试。" },
-    { w: "recollect", pos: "v.", p: "/ˌrekəˈlekt/", cn: "回忆，记起", ex: "I cannot recollect the name of the street we visited.", exCn: "我记不起我们去过那条街的名字。" },
-    { w: "ignite", pos: "v.", p: "/ɪɡˈnaɪt/", cn: "点燃，引发", ex: "The sight of food can ignite hunger within seconds.", exCn: "见到食物会在数秒内点燃食欲。" },
-    { w: "intricate", pos: "adj.", p: "/ˈɪntrɪkət/", cn: "复杂的，错综的", ex: "The brain is an intricate network of billions of cells.", exCn: "大脑是由数十亿细胞构成的复杂网络。" },
-    { w: "mechanism", pos: "n.", p: "/ˈmekənɪzəm/", cn: "机制，机理", ex: "Scientists explained the mechanism behind the immune response.", exCn: "科学家解释了免疫反应背后的机制。" }
+    { w: "aid", pos: "n./v.", p: "/eɪd/", cn: "援助，帮助", ex: "International aid can save lives after a natural disaster.", exCn: "国际援助能在自然灾害后挽救生命。" },
+    { w: "benefactor", pos: "n.", p: "/ˈbenɪfæktə(r)/", cn: "捐助者，施惠者", ex: "A generous benefactor pledged fifty million dollars to the relief fund.", exCn: "一位慷慨的捐助者向救济基金认捐了五千万美元。" },
+    { w: "recipient", pos: "n.", p: "/rɪˈsɪpiənt/", cn: "接受者，受援方", ex: "The recipient country must report how the funds are spent.", exCn: "受援国必须报告资金的使用情况。" },
+    { w: "humanitarian", pos: "adj.", p: "/hjuːˌmænɪˈteəriən/", cn: "人道主义的", ex: "The mission had a clear humanitarian purpose rather than a political one.", exCn: "该使命有着明确的人道主义目的，而非政治目的。" },
+    { w: "subsistence", pos: "n.", p: "/səbˈsɪstəns/", cn: "勉强维持生计，生存", ex: "Many rural families still live at a level of mere subsistence.", exCn: "许多农村家庭仍仅在勉强糊口的生存线上挣扎。" },
+    { w: "endowment", pos: "n.", p: "/ɪnˈdaʊmənt/", cn: "捐助，捐赠基金", ex: "The university received a large endowment to fund scholarships.", exCn: "这所大学获得一笔巨额捐赠基金用于奖学金。" },
+    { w: "microfinance", pos: "n.", p: "/ˈmaɪkrəʊfaɪnæns/", cn: "小额信贷", ex: "Microfinance lets poor entrepreneurs borrow without collateral.", exCn: "小额信贷让贫困创业者无需抵押即可借款。" },
+    { w: "grant", pos: "n./v.", p: "/ɡrɑːnt/", cn: "拨款；授予", ex: "The government awarded a grant to rebuild the clinic.", exCn: "政府发放了一笔拨款用于重建诊所。" },
+    { w: "charity", pos: "n.", p: "/ˈtʃærəti/", cn: "慈善，慈善机构", ex: "Local charity groups distributed food during the crisis.", exCn: "当地慈善机构在危机期间分发了食物。" },
+    { w: "philanthropic", pos: "adj.", p: "/ˌfɪlənˈθrɒpɪk/", cn: "慈善的，博爱的", ex: "A philanthropic foundation funded the new school.", exCn: "一家慈善基金会资助了这所新学校。" },
+    { w: "concessional", pos: "adj.", p: "/kənˈseʃənl/", cn: "优惠的（如优惠贷款）", ex: "Concessional loans carry very low interest for poor nations.", exCn: "优惠贷款对贫困国家收取极低的利息。" },
+    { w: "indebtedness", pos: "n.", p: "/ɪnˈdetɪdnəs/", cn: "负债，债务状况", ex: "Heavy indebtedness can cancel the gains of foreign aid.", exCn: "沉重的负债会抵消外来援助带来的收益。" },
+    { w: "repay", pos: "v.", p: "/rɪˈpeɪ/", cn: "偿还，报答", ex: "The country struggled to repay its external debt on time.", exCn: "该国难以按时偿还外债。" },
+    { w: "leverage", pos: "v.", p: "/ˈliːvərɪdʒ/", cn: "利用，撬动", ex: "Good governance helps leverage aid into real growth.", exCn: "良好的治理有助于把援助撬动为真正的增长。" },
+    { w: "disadvantaged", pos: "adj.", p: "/ˌdɪsədˈvɑːntɪdʒd/", cn: "处于不利地位的", ex: "The programme targets the most disadvantaged regions.", exCn: "该计划针对最弱势的地区。" },
+    { w: "accountability", pos: "n.", p: "/əˌkaʊntəˈbɪləti/", cn: "问责，责任性", ex: "Donors now demand greater accountability for every dollar.", exCn: "捐助者如今要求对每一美元有更高的问责。" },
+    { w: "governance", pos: "n.", p: "/ˈɡʌvənəns/", cn: "治理，管理方法", ex: "Weak governance often blocks effective development.", exCn: "薄弱的治理常常阻碍有效的发展。" },
+    { w: "bilateral", pos: "adj.", p: "/baɪˈlætərəl/", cn: "双边的", ex: "The two states signed a bilateral aid agreement.", exCn: "两国签署了一项双边援助协议。" },
+    { w: "multilateral", pos: "adj.", p: "/ˌmʌltiˈlætərəl/", cn: "多边的", ex: "Multilateral funds are managed by international institutions.", exCn: "多边资金由国际机构管理。" },
+    { w: "stakeholder", pos: "n.", p: "/ˈsteɪkhəʊldə(r)/", cn: "利益相关方", ex: "Every stakeholder should join the planning discussions.", exCn: "每个利益相关方都应参与规划讨论。" },
+    { w: "hindrance", pos: "n.", p: "/ˈhɪndrəns/", cn: "阻碍，妨碍", ex: "Red tape proved a major hindrance to quick relief.", exCn: "繁文缛节被证明是快速救济的一大阻碍。" },
+    { w: "remedy", pos: "v./n.", p: "/ˈremədi/", cn: "补救，纠正", ex: "New rules aim to remedy the delays in disbursement.", exCn: "新规则旨在补救拨款中的拖延问题。" },
+    { w: "uplift", pos: "v.", p: "/ʌpˈlɪft/", cn: "提高，提振", ex: "Education can uplift whole communities out of poverty.", exCn: "教育能把整个社区从贫困中提振起来。" },
+    { w: "summit", pos: "n.", p: "/ˈsʌmɪt/", cn: "峰会，首脑会议", ex: "Leaders met at a summit to coordinate development aid.", exCn: "各国领导人在峰会上会面以协调发展援助。" },
+    { w: "pledge", pos: "v./n.", p: "/pledʒ/", cn: "承诺，认捐", ex: "The nation pledged to double its annual contribution.", exCn: "该国承诺将年度捐助增加一倍。" },
+    { w: "disburse", pos: "v.", p: "/dɪsˈbɜːs/", cn: "支付，拨付（款项）", ex: "The bank will disburse the loan in three parts.", exCn: "银行将分三期拨付这笔贷款。" },
+    { w: "ease", pos: "v.", p: "/iːz/", cn: "减轻，缓和", ex: "Reforms eased the path for local businesses to grow.", exCn: "改革缓和了地方企业成长的道路。" },
+    { w: "self-reliant", pos: "adj.", p: "/ˌself rɪˈlaɪənt/", cn: "自给自足的，自立的", ex: "The goal is to build self-reliant, resilient villages.", exCn: "目标是建设自立而有韧性的村庄。" },
+    { w: "inclusive", pos: "adj.", p: "/ɪnˈkluːsɪv/", cn: "包容的，普惠的", ex: "An inclusive model lets villagers plan their own recovery.", exCn: "一种包容的模式让村民规划自身的复苏。" },
+    { w: "tenable", pos: "adj.", p: "/ˈtenəbl/", cn: "站得住脚的，可行的", ex: "Without local ownership, the strategy is hardly tenable.", exCn: "若没有地方的自主性，这一战略很难站得住脚。" }
   ],
   vocabArticle: {
-    title: "The Map Inside（脑中的地图）",
-    titleCn: "脑中的地图",
+    title: "The Chain of Help（援助的链条）",
+    titleCn: "援助的链条",
     paras: [
       {
-        en: "Deep inside every skull sits the brain, a web of neuron and synapse that hums without pause. When a soft stimulus brushes the skin, signals relay from cell to cell, and the sensory world floods in. Nothing here stays dormant; even in sleep the cortex rehearses the day. This intricate machine turns raw signal into the rich cognition we call thinking, and it does so in the blink of an eye.",
-        cn: "在每具头骨深处都安坐着大脑，一张由神经元与突触织成、永不停歇的网。当轻柔的刺激拂过皮肤，一道微小的脉冲便在细胞间跳跃，感觉世界随之涌入。这里没有任何东西保持休眠；即便在睡眠中，大脑皮层也在排演白天的一切。这台错综的机器将原始信号转化为我们称之为思考的丰富认知，且只在一眨眼间完成。"
+        en: "After the flood, international aid arrived within days, and a generous benefactor pledged fifty million dollars to the relief fund. The recipient communities, though grateful, needed more than charity alone. Local humanitarian groups, supported by philanthropic foundations, began distributing food and medicine. Yet experience shows that aid works best when it respects the dignity of those it serves rather than replacing their own efforts.",
+        cn: "洪水过后，国际援助数日内便抵达，一位慷慨的捐助者向救济基金认捐了五千万美元。受援社区虽心怀感激，却需要的远不止慈善本身。由慈善基金会支持的地方人道主义团体开始分发食物与药品。然而经验表明，援助只有在尊重受助者尊严、而非取代其自身努力时，才能发挥最佳作用。"
       },
       {
-        en: "Learning reveals the brain's plasticity, its power to rewire with use. Each time you encode a name or recollect a tune, fresh pathways form and old ones fade. The mechanism that lets practice consolidate a habit is slow but stubborn. Later, when you retrieve a memory, you are not opening a file but replaying a pattern—one the living tissue has gently strengthened through countless quiet repetitions.",
-        cn: "学习揭示了大脑的可塑性，即它随使用而重新布线的能力。每当你为一个名字编码或回忆一段旋律，崭新的通路便形成，旧有的则消退。让练习巩固习惯的机制虽缓慢却顽固。之后，当你提取一段记忆，你并非打开一个文件，而是在重放一种模式——一种活体组织已通过无数安静的重复悄然强化过的模式。"
+        en: "For families trapped in subsistence farming, a small grant can mean the difference between hunger and hope. One endowment funded a network of microfinance cooperatives that lent to disadvantaged women with no collateral. These loans helped mothers start businesses and slowly uplift their villages. By turning passive assistance into productive capital, such programmes prove that the poor are not objects of pity but partners in progress.",
+        cn: "对于困在生计农业中的家庭来说，一笔小额拨款可能意味着饥饿与希望之间的分野。一笔捐赠基金资助了一个小额信贷合作社网络，向没有抵押品的不利群体妇女放贷。这些贷款帮助母亲们创业，并慢慢提振她们的村庄。通过将被动的援助转化为生产性资本，这类计划证明穷人不是怜悯的对象，而是进步的伙伴。"
       },
       {
-        en: "A sudden stimulus can ignite an impulse that races before thought arrives. You react to a loud crash with a reflex older than language, heart pounding in a fraction of a second. Such swift loops correlate with survival, honed across millions of years. Scientists devise intricate tests to watch the chain, proving that sensation and motion share one busy highway inside the skull.",
-        cn: "一个突发的刺激能点燃一道在思维抵达之前便飞驰的脉冲。你以比语言更古老的反射对巨响作出反应，心脏在刹那间狂跳。这类迅捷的回路与生存息息相关，是数百万年打磨而成。科学家设计错综的测试来观察这条链条，证明感觉与运动在头骨内共用一条繁忙的通道。"
+        en: "Heavy indebtedness can cancel the gains of any gift, so many nations now prefer concessional loans that are cheap to repay. To leverage this money well, they must improve governance and invite every stakeholder to the table. Strong accountability ensures that funds reach clinics and schools, not pockets. When citizens can trace each dollar, trust grows and development becomes a shared, measurable project rather than a distant promise.",
+        cn: "沉重的负债会抵消任何馈赠的收益，因此许多国家如今更青睐易于偿还的优惠贷款。要善用这笔资金，它们必须改善治理，并邀请每一个利益相关方坐到桌前。强有力的问责确保资金流向诊所和学校，而非流入私囊。当公民能追踪每一美元的去向，信任便会增长，发展也从一个遥远的承诺变成一项共享的、可衡量的工程。"
       },
       {
-        en: "An acute lesion in the cortex may steal speech or skew a once-steady hand, yet latent faculty often surfaces as a patient heals. The left hemisphere and its neurotransmitters rebuild broken links, and an unexpected aptitude for music may manifest where none existed. The hardest riddle is sentience itself, the strange light in which all this mechanism appears. To know the brain is, finally, to begin knowing ourselves.",
-        cn: "大脑皮层的一处急性损伤可能夺走言语，或使原本稳健的手变得歪斜，然而潜在的官能常随病人康复而浮现。左半球及其神经递质重建断裂的连接，而一种出人意料、此前并不存在的音乐天资也可能显现。最难的谜题是意识本身——这一切机制得以呈现的奇异之光。认识大脑，归根结底，是开始认识我们自己。"
+        en: "At the global summit, leaders signed both bilateral and multilateral accords to coordinate help. They agreed to disburse funds faster and to remedy the bureaucratic hindrance that once delayed relief. A more inclusive model lets villages plan their own recovery, and it can ease the path to self-reliant communities. Only when aid is transparent and locally owned is the dream of a tenable, equitable future truly within reach.",
+        cn: "在全球峰会上，各国领导人签署了双边与多边协议以协调援助。他们同意更快拨付资金，并补救曾拖延救济的官僚阻碍。一种更具包容性的模式让村庄规划自身的复苏，从而缓和了通往自立社区的道路。只有当援助透明且由地方主导时，一个可行而公平的未来之梦才真正触手可及。"
       }
     ]
   },
   grammar: [
     {
-      q: "Only after the tumour was removed ___ the patient's speech ability slowly ___.",
+      q: "Many recipient nations, ___ heavily on foreign grants, struggle to fund long-term development on their own.",
       options: [
-        "did; recover",
-        "the patient; recovered",
-        "did; recovered",
-        "the patient; recover"
+        "depend",
+        "depended",
+        "depending",
+        "to depend"
       ],
-      answer: 0,
-      explain: "考点：部分倒装（inversion）。「only + 状语从句/介词短语」置于句首作状语时，主句须部分倒装，即把助动词/情态动词/be 动词提到主语之前。本句从句 'after the tumour was removed' 用一般过去时被动，主句动作发生在其后，同样用过去时，因此用助动词 did 提前，主语后用动词原形 recover。A 正确。B、D 没有倒装，违背 only 开头的倒装规则；C 虽倒装但 recovered 多用了过去式（did 已承载时态，后面动词须用原形）。扩展：同样触发部分倒装的否定/半否定词还有 never, seldom, hardly...when, not until, by no means, scarcely 等。"
+      answer: 2,
+      explain: "考点：非谓语动词——现在分词作伴随/补充说明状语。主句主语是 many recipient nations，逗号后没有连词，不能直接用谓语动词（depend），因此需用非谓语形式。nations 与 depend 之间是主动关系（国家依赖援助），故用现在分词 depending，相当于一个省略了 which are 的定语从句 which are depending heavily on foreign grants。A（depend）是谓语动词原形，缺连词和主语一致，语法错误；B（depended）为过去分词，表被动或完成，而国家是主动依赖，不符；D（to depend）为不定式，表目的，此处并非「为了依赖援助而挣扎」，逻辑不通。扩展：现在分词作状语可表伴随、原因、结果、时间，其逻辑主语必须与主句主语一致且为主动关系；若为被动则用过去分词（如 Seen from the hill, the city looks small）。"
     },
     {
-      q: "If a single key region of the cortex ___ damaged, the patient ___ able to recognise familiar faces.",
+      q: "About two-thirds of the national budget ___ allocated to emergency relief, while the rest supports long-term projects.",
       options: [
-        "is; will be",
-        "were; would be",
-        "was; will be",
-        "had been; would have been"
+        "are",
+        "is",
+        "were",
+        "have been"
       ],
       answer: 1,
-      explain: "考点：虚拟语气（与现在事实相反）。表示与现在事实相反的假设，条件句用 'If + 主语 + 动词过去式'（其中 be 动词不论人称一律用 were），主句用 'would / could / should + 动词原形'。本句假设大脑皮层某关键区域受损（实际未必发生），故条件句用 were damaged，主句用 would be able to。B 正确。A、C 是真实条件句的时态配合（will/was），语气不符；D 是 'had been / would have been'，属于与过去事实相反的虚拟，时间错位。扩展：正式考试与写作中，虚拟条件句的 be 动词优先用 were，口语单数可用 was，但不建议用在书面雅思写作中。"
+      explain: "考点：主谓一致——分数/百分数 + of + 名词作主语时，谓语动词的数由 of 后面的名词决定。此处 of 的宾语是 the national budget（单数、不可数），因此谓语用单数 is。A（are）、C（were）、D（have been）均为复数形式，与单数 budget 不一致。时态上，主句后半句 supports 为一般现在时，前半句描述当前常态也应保持一致，用 is 而非 were/have been。扩展：同理，「分数/百分数 + of + 复数名词」时谓语用复数（如 Two-thirds of the villages are flooded）；「the number of + 复数」谓语用单数，而「a number of + 复数」谓语用复数——这是雅思写作中极易出错的主谓一致陷阱。"
     }
   ]
 };
