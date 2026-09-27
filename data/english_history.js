@@ -215,5 +215,17 @@ window.ENGLISH_HISTORY = [
     topic: "International Aid & Global Development（国际援助与全球发展）",
     articleTitle: "From Relief to Resilience: Rethinking Global Aid",
     words: ["aid","benefactor","recipient","humanitarian","subsistence","endowment","microfinance","grant","charity","philanthropic","concessional","indebtedness","repay","leverage","disadvantaged","accountability","governance","bilateral","multilateral","stakeholder","hindrance","remedy","uplift","summit","pledge","disburse","ease","self-reliant","inclusive","tenable"]
+  },
+  {
+    date: "2026-09-18",
+    topic: "Cinema & the Film Industry（电影与电影产业）",
+    articleTitle: "Reel Life: How Cinema Shapes the Modern World",
+    words: ["cinematography","screenplay","director","protagonist","antagonist","documentary","blockbuster","premiere","footage","montage","soundtrack","subtitle","dubbing","animation","auteur","celluloid","reel","studio","casting","portrayal","depiction","provoke","critique","censorship","propaganda","subscription","streaming","sequel","franchise","nostalgia"]
+  },
+  {
+    date: "2026-09-27",
+    topic: "Cybersecurity & Digital Privacy（网络安全与数字隐私）",
+    articleTitle: "Guardians of the Code: Who Protects Our Digital Lives",
+    words: ["cybersecurity","encryption","encrypt","breach","vulnerability","malware","phishing","firewall","authentication","cryptography","hacker","ransomware","spyware","decrypt","protocol","credential","biometric","hijack","intruder","intercept","disclose","disclosure","impersonate","spoof","patch","compliance","consent","jurisdiction","audit","oversight"]
   }
 ];
