@@ -227,5 +227,11 @@ window.ENGLISH_HISTORY = [
     topic: "Cybersecurity & Digital Privacy（网络安全与数字隐私）",
     articleTitle: "Guardians of the Code: Who Protects Our Digital Lives",
     words: ["cybersecurity","encryption","encrypt","breach","vulnerability","malware","phishing","firewall","authentication","cryptography","hacker","ransomware","spyware","decrypt","protocol","credential","biometric","hijack","intruder","intercept","disclose","disclosure","impersonate","spoof","patch","compliance","consent","jurisdiction","audit","oversight"]
+  },
+  {
+    date: "2026-10-01",
+    topic: "Architecture & the Built Environment（建筑与建成环境）",
+    articleTitle: "Building Tomorrow: How Architecture Shapes Daily Life",
+    words: ["architecture","architect","facade","structural","blueprint","skyscraper","residential","landmark","renovation","functionality","demolition","construction","concrete","timber","masonry","ventilation","insulation","skylight","courtyard","spacious","compact","modular","prefabricated","interior","exterior","layout","ornament","minimalist","skyline","zoning"]
   }
 ];
