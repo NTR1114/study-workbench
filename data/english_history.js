@@ -233,5 +233,11 @@ window.ENGLISH_HISTORY = [
     topic: "Architecture & the Built Environment（建筑与建成环境）",
     articleTitle: "Building Tomorrow: How Architecture Shapes Daily Life",
     words: ["architecture","architect","facade","structural","blueprint","skyscraper","residential","landmark","renovation","functionality","demolition","construction","concrete","timber","masonry","ventilation","insulation","skylight","courtyard","spacious","compact","modular","prefabricated","interior","exterior","layout","ornament","minimalist","skyline","zoning"]
+  },
+  {
+    date: "2026-10-02",
+    topic: "Photography & the Documentary Image（摄影与纪实影像）",
+    articleTitle: "The Quiet Power of the Photograph",
+    words: ["lens","aperture","shutter","filter","album","candid","snapshot","image","capture","photographer","darkroom","clarity","focal","visual","frame","lighting","contrast","perspective","moment","reality","reveal","freeze","glimpse","fleeting","intimate","mundane","spontaneous","sincerity","chronicle","immortalize"]
   }
 ];
