@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-02",
-  topic: "Photography & the Documentary Image（摄影与纪实影像）",
+  date: "2026-10-03",
+  topic: "The Gig Economy（零工经济与平台用工）",
   article: {
-    title: "The Quiet Power of the Photograph",
-    titleCn: "影像的静默力量",
+    title: "Work on Demand: The Rise of the Gig Economy",
+    titleCn: "按需工作：零工经济的崛起",
     paras: [
       {
-        en: "Photography has transformed the way humans remember, record and understand the world around them. Since the first cameras appeared in the nineteenth century, ordinary people have gained the power to freeze a fleeting moment that would otherwise vanish forever. A single image can reveal social change, private grief or public celebration more directly than any written report. Today, nearly everyone carries a device capable of capturing reality in an instant, turning memory into something visible and shareable.",
-        cn: "摄影已经改变了人类记忆、记录并理解周遭世界的方式。自十九世纪第一台相机问世以来，普通人便获得了定格转瞬即逝之瞬间的能力，否则那瞬间将永远消逝。一张影像比任何文字报道都更能直接揭示社会变迁、私人哀伤或公共庆典。如今，几乎人手一台能在瞬间捕捉现实的设备，让记忆变成可见且可分享之物。"
+        en: "The gig economy describes a labour market in which short-term, flexible jobs are arranged through digital platforms that instantly connect independent workers with customers. From ride-hailing and food delivery to freelance design and microtasks, these platforms have expanded rapidly across both developed and emerging economies. Proponents argue that such arrangements lower barriers to entry and let people earn income on their own schedule, reshaping how millions perceive steady employment.",
+        cn: "零工经济描述的是这样一种劳动力市场：短期、灵活的工作通过数字平台安排，平台即时把独立劳动者与顾客连接起来。从网约车、外卖到自由职业设计与微任务，这些平台已在发达与新兴经济体中迅速扩张。支持者认为，这类安排降低了准入门槛，让人们能按自己的节奏赚钱，从而重塑了数以百万计的人对稳定就业的看法。"
       },
       {
-        en: "What makes a photograph compelling is rarely its technical perfection but its honesty about ordinary life. Documentary photographers seek candid frames of streets, markets and families, showing how people actually live rather than how they wish to appear. The darkroom once demanded patience and skill, yet the essence of the craft remains the same: choosing what to include and what to omit. In this sense, every picture is a quiet decision about where human attention should rest.",
-        cn: "一张照片之所以动人，鲜少源于其技术上的完美，而更多源于它对平凡生活的诚实。纪实摄影师寻找街道、集市与家庭的抓拍画面，展现人们真实的生活状态，而非他们希望呈现的模样。暗房曾要求耐心与技艺，然而这门手艺的本质始终如一：选择纳入什么、省略什么。就此而言，每一幅影像都是关于人类注意力应落于何处的静默决定。"
+        en: "For workers, the chief attraction is flexibility. A parent can drive passengers between school runs, while a student completes microtasks late at night; both supplement their earnings without quitting a main job. Companies, meanwhile, treat labour as a variable cost, scaling their workforce up or down with demand. This model appeals especially to those excluded from traditional roles, yet it also shifts risk onto individuals who must manage irregular income and provide their own tools.",
+        cn: "对劳动者而言，最大的吸引力在于灵活性。一位家长可以在接送孩子的间隙载客，一名学生能在深夜完成微任务；两人都不必辞去主业便能补贴收入。与此同时，企业把劳动力视为可变成本，随需求增减人手。这种模式尤其吸引那些被传统岗位排斥在外的人，但它也把风险转嫁到个人身上——他们必须应对不稳定的收入，并自备工具。"
       },
       {
-        en: "Critics argue that constant image-making can flatten experience, reducing rich moments to a quick snapshot for others to judge. When everyone photographs everything, the special urgency of a real event may fade, and the line between observation and intrusion grows thin. Still, photography also offers intimacy across distance, letting strangers witness struggles they would never otherwise see. Used with sincerity, the camera becomes less a weapon than a bridge between separate worlds.",
-        cn: "批评者认为，无休止的影像制造会削平体验，把丰厚的瞬间压缩成供他人评判的一张快照。当人人都拍摄一切，真实事件特有的紧迫感便会褪去，观察与侵扰之间的界线也变得模糊。尽管如此，摄影也跨越距离提供亲近感，让陌生人得以目睹他们本永不会看到的困境。若以真诚待之，相机与其说是武器，不如说是连接不同世界的桥梁。"
+        en: "Critics, however, warn that flexibility often masks precarity. Gig workers rarely receive pensions, sick pay or accident cover, and algorithmic management can feel opaque and unaccountable. Because many are classified as self-employed contractors rather than employees, they lose protections that conventional jobs guarantee. Wage uncertainty compounds the problem: earnings fluctuate with surge pricing, ratings and platform rules that workers neither set nor control, leaving many vulnerable despite constant effort.",
+        cn: "然而，批评者警告，灵活性常常掩盖了不稳定。零工劳动者很少获得养老金、病假工资或意外保障，而算法式管理可能让人感到不透明且无从追责。由于许多人被界定为自雇合同工而非雇员，他们失去了传统岗位所保障的那些保护。薪酬的不确定性使问题雪上加霜：收入随溢价定价、评分以及劳动者既未制定也无法控制的平台规则而波动，令许多人不懈努力却依然脆弱。"
       },
       {
-        en: "Looking forward, the documentary image will keep shaping how societies remember conflict, climate and community. Algorithms can now sort millions of pictures, yet they cannot decide which moment deserves to be immortalized. That choice still belongs to the human eye and the moral frame behind it. Ultimately, photography is not merely a record of what happened, but a perspective on what ought to matter—a small, daily act of paying attention.",
-        cn: "展望未来，纪实影像将持续塑造社会如何铭记冲突、气候与社群。算法如今能为数百万张照片分类，却无法决定哪个瞬间值得被永恒定格。这一选择仍属于人类的眼睛及其背后的道德框架。归根结底，摄影不只是一份对已发生之事的记录，更是一种关于什么才重要的视角——一种微小却日常的、用心注视的举动。"
+        en: "Looking ahead, policymakers are drafting rules to balance innovation with fairness. Some jurisdictions now require platforms to contribute to social insurance for frequent users, while others test portable benefits that follow the worker between apps. The challenge is to preserve the autonomy people value without reviving rigid structures they abandoned. If designed well, a hybrid model could secure dignity for gig workers and still harness the efficiency that made the platform economy so transformative.",
+        cn: "展望未来，政策制定者正在起草规则，以在创新与公平之间取得平衡。一些辖区现已要求平台为高频使用者缴纳社会保险，另一些则在试行可随劳动者在多个应用间转移的便携福利。挑战在于，既要保留人们所看重的自主权，又不重拾他们曾抛弃的僵化结构。若设计得当，一种混合模式既能为零工劳动者保障尊严，又能继续发挥让平台经济如此具有变革力量的效率。"
       }
     ],
     glossary: [
-      { w: "photography", pos: "n.", p: "/fəˈtɒɡrəfi/", cn: "摄影（术）" },
-      { w: "transform", pos: "v.", p: "/trænsˈfɔːm/", cn: "彻底改变；转变" },
-      { w: "fleeting", pos: "adj.", p: "/ˈfliːtɪŋ/", cn: "短暂的；飞逝的" },
-      { w: "vanish", pos: "v.", p: "/ˈvænɪʃ/", cn: "消失；突然不见" },
-      { w: "reveal", pos: "v.", p: "/rɪˈviːl/", cn: "揭示；展现" },
-      { w: "grief", pos: "n.", p: "/ɡriːf/", cn: "悲伤；哀痛" },
-      { w: "celebration", pos: "n.", p: "/ˌselɪˈbreɪʃn/", cn: "庆祝；庆典" },
-      { w: "instant", pos: "n./adj.", p: "/ˈɪnstənt/", cn: "瞬间；立即的" },
-      { w: "capture", pos: "v.", p: "/ˈkæptʃə(r)/", cn: "捕捉；拍摄" },
-      { w: "reality", pos: "n.", p: "/riˈæləti/", cn: "现实；真实" },
-      { w: "shareable", pos: "adj.", p: "/ˈʃeərəbl/", cn: "可分享的" },
-      { w: "compelling", pos: "adj.", p: "/kəmˈpelɪŋ/", cn: "引人注目的；令人信服的" },
-      { w: "honesty", pos: "n.", p: "/ˈɒnəsti/", cn: "真实；诚实" },
-      { w: "documentary", pos: "adj./n.", p: "/ˌdɒkjuˈmentri/", cn: "纪实的；纪录片" },
-      { w: "candid", pos: "adj.", p: "/ˈkændɪd/", cn: "抓拍的；坦率的" },
-      { w: "frame", pos: "n.", p: "/freɪm/", cn: "画面；取景；框架" },
-      { w: "darkroom", pos: "n.", p: "/ˈdɑːkruːm/", cn: "暗房" },
-      { w: "patience", pos: "n.", p: "/ˈpeɪʃns/", cn: "耐心；忍耐" },
-      { w: "craft", pos: "n.", p: "/krɑːft/", cn: "技艺；手艺" },
-      { w: "omit", pos: "v.", p: "/əˈmɪt/", cn: "省略；遗漏" },
-      { w: "flatten", pos: "v.", p: "/ˈflætn/", cn: "使变平；使失去层次" },
-      { w: "snapshot", pos: "n.", p: "/ˈsnæpʃɒt/", cn: "快照；快拍" },
-      { w: "intrusion", pos: "n.", p: "/ɪnˈtruːʒn/", cn: "侵扰；闯入" },
-      { w: "intimacy", pos: "n.", p: "/ˈɪntɪməsi/", cn: "亲密；亲近感" },
-      { w: "sincerity", pos: "n.", p: "/sɪnˈserəti/", cn: "真诚；诚恳" },
-      { w: "immortalize", pos: "v.", p: "/ɪˈmɔːtəlaɪz/", cn: "使永存；使不朽" },
-      { w: "moral", pos: "adj.", p: "/ˈmɒrəl/", cn: "道德的；伦理的" },
-      { w: "perspective", pos: "n.", p: "/pəˈspektɪv/", cn: "视角；观点" }
+      { w: "labour", pos: "n.", p: "/ˈleɪbə(r)/", cn: "劳动；劳动力" },
+      { w: "arrangement", pos: "n.", p: "/əˈreɪndʒmənt/", cn: "安排；约定" },
+      { w: "barrier", pos: "n.", p: "/ˈbæriə(r)/", cn: "障碍；壁垒" },
+      { w: "perceive", pos: "v.", p: "/pəˈsiːv/", cn: "察觉；认为" },
+      { w: "steady", pos: "adj.", p: "/ˈstedi/", cn: "稳定的；持续的" },
+      { w: "flexibility", pos: "n.", p: "/ˌfleksəˈbɪləti/", cn: "灵活性；弹性" },
+      { w: "supplement", pos: "v.", p: "/ˈsʌplɪment/", cn: "补充；增补" },
+      { w: "earnings", pos: "n.", p: "/ˈɜːnɪŋz/", cn: "收入；收益" },
+      { w: "variable", pos: "adj.", p: "/ˈveəriəbl/", cn: "可变的；易变的" },
+      { w: "workforce", pos: "n.", p: "/ˈwɜːkfɔːs/", cn: "劳动力；员工总数" },
+      { w: "appeal", pos: "v.", p: "/əˈpiːl/", cn: "吸引；呼吁" },
+      { w: "exclude", pos: "v.", p: "/ɪkˈskluːd/", cn: "排除；不包括" },
+      { w: "opaque", pos: "adj.", p: "/əʊˈpeɪk/", cn: "不透明的；含糊的" },
+      { w: "unaccountable", pos: "adj.", p: "/ˌʌnəˈkaʊntəbl/", cn: "无法追究的；不负责任的" },
+      { w: "self-employed", pos: "adj.", p: "/ˌself ɪmˈplɔɪd/", cn: "自雇的；个体经营的" },
+      { w: "employee", pos: "n.", p: "/ɪmˈplɔɪiː/", cn: "雇员；受雇者" },
+      { w: "guarantee", pos: "v./n.", p: "/ˌɡærənˈtiː/", cn: "保证；担保" },
+      { w: "wage", pos: "n.", p: "/weɪdʒ/", cn: "工资；报酬" },
+      { w: "uncertainty", pos: "n.", p: "/ʌnˈsɜːtnti/", cn: "不确定性" },
+      { w: "compound", pos: "v.", p: "/kəmˈpaʊnd/", cn: "加重；使恶化" },
+      { w: "fluctuate", pos: "v.", p: "/ˈflʌktʃueɪt/", cn: "波动；起伏" },
+      { w: "surge", pos: "n./v.", p: "/sɜːdʒ/", cn: "激增；飙升" },
+      { w: "jurisdiction", pos: "n.", p: "/ˌdʒʊərɪsˈdɪkʃn/", cn: "管辖区；司法权" },
+      { w: "hybrid", pos: "adj./n.", p: "/ˈhaɪbrɪd/", cn: "混合的；混合物" },
+      { w: "autonomy", pos: "n.", p: "/ɔːˈtɒnəmi/", cn: "自主权；自治" },
+      { w: "rigid", pos: "adj.", p: "/ˈrɪdʒɪd/", cn: "僵化的；严格的" },
+      { w: "dignity", pos: "n.", p: "/ˈdɪɡnəti/", cn: "尊严；体面" },
+      { w: "innovation", pos: "n.", p: "/ˌɪnəˈveɪʃn/", cn: "创新；革新" }
     ]
   },
   words: [
-    { w: "lens", pos: "n.", p: "/lenz/", cn: "镜头；透镜", ex: "A clean lens is essential for a sharp, clear photograph.", exCn: "干净的镜头对拍出清晰锐利的照片至关重要。" },
-    { w: "aperture", pos: "n.", p: "/ˈæpətʃə(r)/", cn: "光圈；孔径", ex: "She widened the aperture to let more light reach the sensor.", exCn: "她调大光圈，让更多光线进入感光元件。" },
-    { w: "shutter", pos: "n.", p: "/ˈʃʌtə(r)/", cn: "快门", ex: "The fast shutter froze the bird the instant it took flight.", exCn: "高速快门在鸟儿起飞的瞬间将其定格。" },
-    { w: "filter", pos: "n.", p: "/ˈfɪltə(r)/", cn: "滤镜；过滤器", ex: "A polarising filter cut the glare from the water's surface.", exCn: "偏振滤镜消除了水面刺眼的反射光。" },
-    { w: "album", pos: "n.", p: "/ˈælbəm/", cn: "相册；集册", ex: "He flipped through the old family album with a smile.", exCn: "他微笑着翻看那本老旧的家庭相册。" },
-    { w: "candid", pos: "adj.", p: "/ˈkændɪd/", cn: "抓拍的；坦率的", ex: "Candid shots often capture emotion that posed pictures miss.", exCn: "抓拍常常能捕捉到摆拍照片所缺失的情绪。" },
-    { w: "snapshot", pos: "n.", p: "/ˈsnæpʃɒt/", cn: "快照；快拍", ex: "The snapshot reminded her of a careless, happy summer.", exCn: "这张快照让她想起那个无忧无虑的快乐夏天。" },
-    { w: "image", pos: "n.", p: "/ˈɪmɪdʒ/", cn: "影像；图像", ex: "The satellite image revealed changes in the coastline.", exCn: "卫星影像显露出海岸线的变化。" },
-    { w: "capture", pos: "v.", p: "/ˈkæptʃə(r)/", cn: "捕捉；拍摄记录", ex: "The film managed to capture the spirit of the city.", exCn: "这部影片成功捕捉到了这座城市的精神气质。" },
-    { w: "photographer", pos: "n.", p: "/fəˈtɒɡrəfə(r)/", cn: "摄影师", ex: "The photographer waited hours for the perfect light.", exCn: "那位摄影师为等待理想的光线守候了数小时。" },
-    { w: "darkroom", pos: "n.", p: "/ˈdɑːkruːm/", cn: "暗房", ex: "In the darkroom, negatives slowly appear in the tray.", exCn: "在暗房里，底片在盘中药液中渐渐显影。" },
-    { w: "clarity", pos: "n.", p: "/ˈklærəti/", cn: "清晰度；明晰", ex: "The lens gave the image unusual clarity and depth.", exCn: "这只镜头让影像呈现出不寻常的清晰与层次。" },
-    { w: "focal", pos: "adj.", p: "/ˈfəʊkl/", cn: "焦距的；焦点的", ex: "A long focal length brings distant subjects much closer.", exCn: "长焦距能把远处的主体拉得很近。" },
-    { w: "visual", pos: "adj.", p: "/ˈvɪʒuəl/", cn: "视觉的；画面的", ex: "The visual impact of the exhibit was immediate.", exCn: "那场展览的视觉冲击力立竿见影。" },
-    { w: "frame", pos: "n.", p: "/freɪm/", cn: "画面；取景", ex: "He stepped back to improve the frame of the scene.", exCn: "他后退几步以改善这一场景的构图取景。" },
-    { w: "lighting", pos: "n.", p: "/ˈlaɪtɪŋ/", cn: "照明；光线布置", ex: "Soft lighting made the portrait look calm and natural.", exCn: "柔和的光线让这幅人像显得安宁而自然。" },
-    { w: "contrast", pos: "n.", p: "/ˈkɒntrɑːst/", cn: "对比；反差", ex: "High contrast can make a plain subject feel dramatic.", exCn: "高反差能让平淡的主体显得富有张力。" },
-    { w: "perspective", pos: "n.", p: "/pəˈspektɪv/", cn: "视角；观点", ex: "Her photographs offer a fresh perspective on the street.", exCn: "她的照片为这条街道提供了全新的视角。" },
-    { w: "moment", pos: "n.", p: "/ˈməʊmənt/", cn: "瞬间；时刻", ex: "The picture froze a quiet moment between two strangers.", exCn: "这张照片定格了两个陌生人之间安静的瞬间。" },
-    { w: "reality", pos: "n.", p: "/riˈæləti/", cn: "现实；真实", ex: "The documentary shows reality that news often ignores.", exCn: "这部纪录片展现了新闻常常忽略的现实。" },
-    { w: "reveal", pos: "v.", p: "/rɪˈviːl/", cn: "揭示；展现", ex: "The close-up revealed cracks hidden by the paint.", exCn: "这张特写揭示了被颜料掩盖的裂纹。" },
-    { w: "freeze", pos: "v.", p: "/friːz/", cn: "定格；冻结", ex: "A short exposure can freeze fast-moving water.", exCn: "极短的曝光能定格急速流动的水。" },
-    { w: "glimpse", pos: "n./v.", p: "/ɡlɪmps/", cn: "一瞥；瞥见", ex: "The photo gave us a glimpse of a vanished world.", exCn: "这张照片让我们瞥见了一个已消失的世界。" },
-    { w: "fleeting", pos: "adj.", p: "/ˈfliːtɪŋ/", cn: "短暂的；转瞬即逝的", ex: "He caught a fleeting smile she did not know was seen.", exCn: "他捕捉到了她不知已被人看见的一抹转瞬即逝的微笑。" },
-    { w: "intimate", pos: "adj.", p: "/ˈɪntɪmət/", cn: "亲密的；私密的", ex: "The series records the intimate life of a small village.", exCn: "这组作品记录了小村庄里私密的生活。" },
-    { w: "mundane", pos: "adj.", p: "/mʌnˈdeɪn/", cn: "平凡的；世俗的", ex: "Good photography can dignify the most mundane object.", exCn: "好的摄影能让最平凡的物体也显得庄重。" },
-    { w: "spontaneous", pos: "adj.", p: "/spɒnˈteɪniəs/", cn: "自发的；自然的", ex: "The laugh was entirely spontaneous, never staged.", exCn: "那阵笑声完全自发，绝非摆拍。" },
-    { w: "sincerity", pos: "n.", p: "/sɪnˈserəti/", cn: "真诚；诚恳", ex: "The work succeeds because of its obvious sincerity.", exCn: "这件作品的成功源于其显而易见的真诚。" },
-    { w: "chronicle", pos: "v./n.", p: "/ˈkrɒnɪkl/", cn: "记录；编年史", ex: "Her pictures chronicle a neighbourhood across decades.", exCn: "她的照片记录了一个街区数十年的变迁。" },
-    { w: "immortalize", pos: "v.", p: "/ɪˈmɔːtəlaɪz/", cn: "使永存；使不朽", ex: "The portrait immortalized a face the city forgot.", exCn: "这幅肖像让一张被城市遗忘的面孔得以永存。" }
+    { w: "platform", pos: "n.", p: "/ˈplætfɔːm/", cn: "平台；站台", ex: "Digital platforms have reshaped how casual labour is organised worldwide.", exCn: "数字平台已彻底改变了全球零工劳动力的组织方式。" },
+    { w: "intermediary", pos: "n.", p: "/ˌɪntəˈmiːdiəri/", cn: "中介；中间人", ex: "The app acts as an intermediary between riders and drivers.", exCn: "这款应用充当乘客与司机之间的中介。" },
+    { w: "contractor", pos: "n.", p: "/kənˈtræktə(r)/", cn: "承包商；合同工", ex: "Many platforms classify their workers as independent contractors.", exCn: "许多平台将自家劳动者归类为独立合同工。" },
+    { w: "precarious", pos: "adj.", p: "/prɪˈkeəriəs/", cn: "不稳定的；危险的", ex: "Gig work often leaves families in a precarious financial position.", exCn: "零工工作常使家庭陷入不稳定的财务状况。" },
+    { w: "remuneration", pos: "n.", p: "/rɪˌmjuːnəˈreɪʃn/", cn: "报酬；薪金", ex: "Fair remuneration remains the central demand of platform workers.", exCn: "公平报酬仍是平台劳动者最核心的诉求。" },
+    { w: "dispatch", pos: "v./n.", p: "/dɪˈspætʃ/", cn: "派遣；调度", ex: "The system will dispatch the nearest courier to collect the parcel.", exCn: "系统会调度最近的快递员前来取件。" },
+    { w: "on-demand", pos: "adj.", p: "/ˌɒn dɪˈmɑːnd/", cn: "按需的；随需的", ex: "On-demand services let customers summon help within minutes.", exCn: "按需服务让客户能在几分钟内召来帮助。" },
+    { w: "microtask", pos: "n.", p: "/ˈmaɪkrəʊtɑːsk/", cn: "微任务；细小工作", ex: "She earns pocket money by completing microtasks such as tagging photos.", exCn: "她靠完成给照片打标签之类的微任务赚些零花钱。" },
+    { w: "crowdsourcing", pos: "n.", p: "/ˈkraʊdsɔːsɪŋ/", cn: "众包；群智外包", ex: "Crowdsourcing helps firms distribute small jobs to a global pool.", exCn: "众包帮助企业把零散工作分发给全球劳动力池。" },
+    { w: "rating", pos: "n.", p: "/ˈreɪtɪŋ/", cn: "评分；等级", ex: "A low rating can sharply reduce a driver's future assignments.", exCn: "低评分会大幅减少司机日后的派单量。" },
+    { w: "gig", pos: "n.", p: "/ɡɪɡ/", cn: "零工；短期工作", ex: "He took a gig translating a short manual for a startup.", exCn: "他接了一份为初创公司翻译简短手册的零活。" },
+    { w: "discretion", pos: "n.", p: "/dɪˈkreʃn/", cn: "酌情决定权；谨慎", ex: "Managers retain discretion over which workers receive bonuses.", exCn: "管理者保留着给哪些劳动者发奖金的酌情决定权。" },
+    { w: "undermine", pos: "v.", p: "/ˌʌndəˈmaɪn/", cn: "削弱；损害", ex: "Unstable income can undermine a person's long-term financial security.", exCn: "不稳定的收入会削弱一个人长期的财务安全感。" },
+    { w: "disperse", pos: "v.", p: "/dɪˈspɜːs/", cn: "分散；散开", ex: "The platform helps disperse tasks across thousands of idle users.", exCn: "该平台把任务分散给数以千计的空闲用户。" },
+    { w: "entrench", pos: "v.", p: "/ɪnˈtrentʃ/", cn: "使根深蒂固；巩固", ex: "Weak protections entrench inequality between contractors and staff.", exCn: "薄弱的保障使合同工与正式员工间的不平等根深蒂固。" },
+    { w: "arbitrage", pos: "n.", p: "/ˈɑːbɪtrɑːʒ/", cn: "套利；价差获利", ex: "Some firms profit through arbitrage between labour supply and demand.", exCn: "一些企业靠劳动力供需之间的价差套利获利。" },
+    { w: "frictionless", pos: "adj.", p: "/ˈfrɪkʃnləs/", cn: "无摩擦的；顺畅的", ex: "A frictionless sign-up process attracts millions of new users.", exCn: "无摩擦的注册流程吸引了数百万新用户。" },
+    { w: "amalgamate", pos: "v.", p: "/əˈmælɡəmeɪt/", cn: "合并；融合", ex: "Two delivery apps amalgamated to dominate the local market.", exCn: "两家外卖应用合并以主导本地市场。" },
+    { w: "classify", pos: "v.", p: "/ˈklæsɪfaɪ/", cn: "把……分类；界定", ex: "Courts must classify workers before deciding their legal rights.", exCn: "法院必须先界定劳动者身份，再判定其法定权利。" },
+    { w: "misclassify", pos: "v.", p: "/ˌmɪsˈklæsɪfaɪ/", cn: "错误分类；错判身份", ex: "Firms that misclassify employees avoid paying social insurance.", exCn: "将雇员错判为合同工的企业得以逃避缴纳社保。" },
+    { w: "seasonal", pos: "adj.", p: "/ˈsiːzənl/", cn: "季节性的；随季节变化的", ex: "Seasonal demand forces platforms to hire extra couriers in summer.", exCn: "季节性需求迫使平台在夏季雇佣额外快递员。" },
+    { w: "logistics", pos: "n.", p: "/ləˈdʒɪstɪks/", cn: "物流；后勤", ex: "Efficient logistics decide whether a delivery startup can survive.", exCn: "高效的物流决定了一家外卖初创企业能否生存。" },
+    { w: "aggregate", pos: "v.", p: "/ˈæɡrɪɡeɪt/", cn: "聚集；合计", ex: "The app aggregates idle cars into a single transport network.", exCn: "这款应用把闲置车辆聚合成一个统一的运输网络。" },
+    { w: "mediate", pos: "v.", p: "/ˈmiːdieɪt/", cn: "调解；居间促成", ex: "The platform mediates every transaction between strangers.", exCn: "该平台居间促成了陌生人之间的每一笔交易。" },
+    { w: "portability", pos: "n.", p: "/ˌpɔːtəˈbɪləti/", cn: "可携带性；可转移性", ex: "Benefit portability lets a worker keep cover across several apps.", exCn: "福利可转移性让劳动者能在多个应用间保留保障。" },
+    { w: "entitle", pos: "v.", p: "/ɪnˈtaɪtl/", cn: "使有权；赋予权利", ex: "New rules entitle long-serving gig workers to paid leave.", exCn: "新规定赋予长期零工劳动者带薪休假的权利。" },
+    { w: "bolster", pos: "v.", p: "/ˈbəʊlstə(r)/", cn: "加强；支撑", ex: "Strong unions bolster the bargaining power of vulnerable workers.", exCn: "强大的工会增强了弱势劳动者的议价能力。" },
+    { w: "statutory", pos: "adj.", p: "/ˈstætʃətri/", cn: "法定的；依法的", ex: "Statutory minimums protect those whom the market would underpay.", exCn: "法定最低标准保护了那些会被市场压低薪酬的人。" },
+    { w: "supervision", pos: "n.", p: "/ˌsuːpəˈvɪʒn/", cn: "监督；管理", ex: "Algorithmic supervision raises fears about constant worker surveillance.", exCn: "算法监督引发了人们对劳动者被持续监控的担忧。" },
+    { w: "proliferate", pos: "v.", p: "/prəˈlɪfəreɪt/", cn: "激增；迅速繁殖", ex: "Low-entry apps have proliferated across cities in the past decade.", exCn: "低门槛应用在过去十年里于各城市大量涌现。" }
   ],
   vocabArticle: {
-    title: "A Lens on the Street（街头的镜头）",
-    titleCn: "街头的镜头",
+    title: "Life on the Platform（平台上的生活）",
+    titleCn: "平台上的生活",
     paras: [
       {
-        en: "The young photographer raised her camera and adjusted the lens until the aperture let in just enough light. With a quick press of the shutter, she could capture an image that froze a single moment of reality. To her, every frame was a small act of attention, a way to show the world as it truly was rather than as people imagined it.",
-        cn: "这位年轻摄影师举起相机，调整镜头，直到光圈纳入恰到好处的光线。随着快门轻轻一按，她便能捕捉一幅定格了现实某一瞬间的影像。对她而言，每一个画面都是一次小小的专注举动，一种展现世界本真、而非人们想象模样的方式。"
+        en: "Maya opened a platform on her phone and became an intermediary between busy households and local helpers. Within seconds the app could dispatch a rider to deliver groceries through its on-demand service. She also completed a microtask each morning, tagging images for a crowdsourcing project, and picked up the occasional gig translating menus. A single low rating, however, could shrink the jobs she was offered.",
+        cn: "玛雅在手机上打开一个平台，成了繁忙家庭与本地帮手之间的中介。几秒钟内，应用便能通过其按需服务调度一名骑手去送杂货。她每天早晨还会完成一项微任务——为一个众包项目给图片打标签，并偶尔接一份翻译菜单的零活。然而，一次低评分就可能减少她能接到的活儿。"
       },
       {
-        en: "She chose a long focal length to pull the subject close, then increased the contrast so the lighting felt honest. The visual clarity of the shot surprised even her, and she added no filter to hide the truth. Later, a candid snapshot of two strangers laughing caught a spontaneous joy that no planned scene could match.",
-        cn: "她选了长焦距把主体拉近，随后提高反差，让光线显得真实。画面清晰的视觉效果连她自己都感到惊讶，而她没有添加任何滤镜来掩盖真相。后来，一张两个陌生人欢笑的抓拍快照，捕捉到了任何摆布场景都无法比拟的自发喜悦。"
+        en: "Her remuneration arrived per task, not per month, which made budgeting hard and left her in a precarious position when demand dipped. The company kept discretion over bonuses, while contractors like her enjoyed freedom yet few protections. Cheap, frictionless onboarding let the firm disperse work worldwide, and some analysts noted how labour arbitrage helped it undercut rivals.",
+        cn: "她的报酬按任务而非按月发放，这使规划开支变得困难，且在需求下滑时令她陷入不稳定境地。公司保留着发放奖金的酌情决定权，而像她这样的合同工虽享有自由，却几乎没有什么保障。廉价而无摩擦的注册流程让这家企业把工作分散到全球，一些分析师指出，劳动力套利如何帮助它压低竞争对手的价格。"
       },
       {
-        en: "Back in the darkroom, she developed the rolls and found a brief glimpse of a fleeting smile she had almost missed. The photograph seemed to freeze an intimate mood hidden inside a mundane afternoon, and its quiet power could reveal more than a written page ever might.",
-        cn: "回到暗房，她冲洗了胶卷，发现了一抹她几乎错过的、转瞬即逝的微笑的短暂踪影。这张照片似乎定格了一种藏于平凡午后之中的亲密情绪，其静默的力量所能揭示的，胜过任何一页文字。"
+        en: "Critics warn that such models undermine stable careers and entrench a divide between insiders and outsiders. Two rivals later amalgamated, and courts began to classify thousands of riders as employees rather than self-employed. Firms that misclassify staff to dodge costs face fines, especially when seasonal surges strain logistics. A central system can aggregate orders and mediate disputes, yet constant supervision makes many feel watched.",
+        cn: "批评者警告，此类模式会损害稳定的职业生涯，并使圈内人与圈外人之间的鸿沟根深蒂固。两家竞争对手后来合并，法院也开始将数以千计的骑手界定为雇员而非自雇者。那些为逃避成本而错判员工身份的企业面临罚款，尤其在季节性高峰令物流吃紧时。一个中央系统可以汇聚订单并调解纠纷，但持续的监督却让许多人觉得自己被监视。"
       },
       {
-        en: "Over the years, her work offered a fresh perspective on ordinary streets, shot with sincerity rather than show. She hoped the pictures would chronicle a city's gentle changes and immortalize faces that time would otherwise erase. At last, she placed the best prints in an album, certain that true photography is less about technique than about caring where we look.",
-        cn: "岁月流转，她的作品以真诚而非炫耀，为寻常街道提供了崭新视角。她希望这些照片能记录一座城市温和的变迁，并让那些终将被时间抹去的面孔得以永存。最终，她把最满意的印样收进一本相册，坚信真正的摄影与其说关乎技巧，不如说关乎我们究竟愿意把目光投向何处。"
+        en: "To restore fairness, lawmakers proposed benefit portability so cover follows the worker between apps. New statutory rules entitle long-serving couriers to sick pay and rest, while unions bolster their voice at the table. As similar services proliferate, the hope is a market that rewards flexibility without sacrificing dignity.",
+        cn: "为恢复公平，立法者提出了福利可转移性，使保障能随劳动者在多个应用间延续。新的法定规则赋予长期服务的快递员病假工资与休息权，而工会则增强了他们在谈判桌上的话语权。随着类似服务大量涌现，人们期待的是一个既能奖赏灵活性、又不牺牲尊严的市场。"
       }
     ]
   },
   grammar: [
     {
-      q: "The gallery curator insisted that the photograph ___ displayed in its original frame to preserve its historical value.",
+      q: "The claim ___ gig workers should be classified as self-employed has been challenged in several courts.",
       options: [
-        "is",
-        "was",
-        "be",
-        "will be"
-      ],
-      answer: 2,
-      explain: "考点：虚拟语气——表示建议、要求、命令的名词性从句用『(should)+动词原形』。当主句谓语动词为 insist, suggest, demand, require, recommend, order, propose, urge, advise 等表示『坚持 / 建议 / 要求 / 命令』的词时，其后 that 宾语从句的谓语须用动词原形（美式常省略 should，英式常保留 should）。本句『insisted that ...』要求从句用原形『be displayed』，故正确项为 C（be）。A（is）、B（was）为陈述语气的一般现在 / 过去时，D（will be）为将来时，均违反虚拟语气规则。扩展：同类动词还有 request, command, decree 等；注意 insist 表『坚持说某一事实』（如 He insisted he was innocent）时用陈述语气，只有表『坚持要求做某事』时才用虚拟语气。"
-    },
-    {
-      q: "Never before ___ such a candid glimpse of ordinary life as the old street photographs reveal.",
-      options: [
-        "we have seen",
-        "have we seen",
-        "we saw",
-        "did we see"
+        "which",
+        "that",
+        "what",
+        "whether"
       ],
       answer: 1,
-      explain: "考点：倒装——否定副词 / 否定短语置于句首引起的部分倒装。当句首出现 never, seldom, hardly, rarely, not only, in no case 等否定词或含否定意义的短语时，主句须部分倒装：将助动词 / 情态动词 / be 动词提到主语之前（若原句无助动词，则借助 did / does / do）。本句『Never before』开头，且 before 常与现在完成时连用、强调『至今从未有过』，故倒装为『have we seen』，选 B。A（we have seen）未倒装；C（we saw）未倒装且时态不符；D（did we see）虽倒装但用了一般过去时，与 before 的现在完成语境不一致。扩展：never 也可构成 never have I ... 结构；注意 hardly ... when / no sooner ... than 的时态搭配（hardly had + 过去分词 ... when + 过去时）。"
+      explain: "考点：名词性从句——同位语从句。当主语或宾语是 claim、idea、fact、belief、evidence、suggestion 等抽象名词时，可用 that 引导同位语从句，解释该名词的具体内容；that 在从句中不充当任何成分、无词义，且不可省略。本句主语为 The claim，其同位语『that gig workers should be classified as self-employed』说明 claim 的内容，故用 that，选 B。A（which）用于定语从句，需在从句中充当成分且要有明确先行词；C（what）不引导同位语从句（what 相当于 the thing that，本身已含成分）；D（whether）表『是否』，与句意（陈述一项主张）不符。扩展：同位语从句与定语从句的区别在于 that 是否充当成分——同位语从句的 that 不做成分，而定语从句的 that 必做主语或宾语等。"
+    },
+    {
+      q: "The legal framework ___ the new protection policy is based offers few safeguards for temporary staff.",
+      options: [
+        "on which",
+        "which",
+        "that",
+        "where"
+      ],
+      answer: 0,
+      explain: "考点：定语从句——『介词 + which』引导的限定性定语从句。当先行词在从句中作介词的宾语时，可将介词提前，构成『介词 + which』结构。本句中 base 与介词 on 固定搭配（be based on），先行词 the legal framework 在从句中作 on 的宾语，故应为 on which the new protection policy is based，选 A。B（which）缺介词，不能直接接 is based（应写作 which ... is based on，把 on 置于句末）；C（that）不能紧跟在介词之后；D（where）表地点状语，framework 并非地点，语义不符。扩展：介词的选择取决于从句中的动词搭配或先行词语义（如 the year in which、the reason for which）；口语中常把介词后置而用 that 或 which。"
     }
   ]
 };

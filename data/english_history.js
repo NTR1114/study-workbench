@@ -239,5 +239,11 @@ window.ENGLISH_HISTORY = [
     topic: "Photography & the Documentary Image（摄影与纪实影像）",
     articleTitle: "The Quiet Power of the Photograph",
     words: ["lens","aperture","shutter","filter","album","candid","snapshot","image","capture","photographer","darkroom","clarity","focal","visual","frame","lighting","contrast","perspective","moment","reality","reveal","freeze","glimpse","fleeting","intimate","mundane","spontaneous","sincerity","chronicle","immortalize"]
+  },
+  {
+    date: "2026-10-03",
+    topic: "The Gig Economy（零工经济与平台用工）",
+    articleTitle: "Work on Demand: The Rise of the Gig Economy",
+    words: ["platform","intermediary","contractor","precarious","remuneration","dispatch","on-demand","microtask","crowdsourcing","rating","gig","discretion","undermine","disperse","entrench","arbitrage","frictionless","amalgamate","classify","misclassify","seasonal","logistics","aggregate","mediate","portability","entitle","bolster","statutory","supervision","proliferate"]
   }
 ];
