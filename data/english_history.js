@@ -245,5 +245,11 @@ window.ENGLISH_HISTORY = [
     topic: "The Gig Economy（零工经济与平台用工）",
     articleTitle: "Work on Demand: The Rise of the Gig Economy",
     words: ["platform","intermediary","contractor","precarious","remuneration","dispatch","on-demand","microtask","crowdsourcing","rating","gig","discretion","undermine","disperse","entrench","arbitrage","frictionless","amalgamate","classify","misclassify","seasonal","logistics","aggregate","mediate","portability","entitle","bolster","statutory","supervision","proliferate"]
+  },
+  {
+    date: "2026-10-04",
+    topic: "The Attention Economy（注意力经济）",
+    articleTitle: "The Currency of Attention: How the Attention Economy Reshapes Daily Life",
+    words: ["attention","distract","distraction","engagement","captive","scroll","dwell","dopamine","cue","rewarding","compulsive","restrain","saturated","pervasive","hook","retention","absorbing","fragmented","fickle","precious","asset","monetize","capitalize","engineer","feed","deluge","meagre","wrest","insidious","antidote"]
   }
 ];
