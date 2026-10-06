@@ -251,5 +251,17 @@ window.ENGLISH_HISTORY = [
     topic: "The Attention Economy（注意力经济）",
     articleTitle: "The Currency of Attention: How the Attention Economy Reshapes Daily Life",
     words: ["attention","distract","distraction","engagement","captive","scroll","dwell","dopamine","cue","rewarding","compulsive","restrain","saturated","pervasive","hook","retention","absorbing","fragmented","fickle","precious","asset","monetize","capitalize","engineer","feed","deluge","meagre","wrest","insidious","antidote"]
+  },
+  {
+    date: "2026-10-05",
+    topic: "Noise Pollution & the Quest for Quiet（噪音污染与对宁静的追寻）",
+    articleTitle: "The Unheard Hazard: Confronting Noise Pollution in Modern Life",
+    words: ["decibel","auditory","cacophony","nuisance","impairment","anthropogenic","clamor","hush","commotion","din","tranquil","tranquility","serene","serenity","dissonance","exacerbate","cumulative","irrespective","vicinity","ordinance","reverberate","frequency","amplitude","pollutant","inhabitant","detrimental","insomnia","cortisol","hypertension","cardiovascular"]
+  },
+  {
+    date: "2026-10-06",
+    topic: "Volunteering & Civic Engagement（志愿精神与公民参与）",
+    articleTitle: "The Quiet Power of Giving: Why Volunteering Matters",
+    words: ["volunteer","altruism","altruistic","civic","benevolent","benevolence","outreach","nonprofit","contributor","donate","donation","beneficiary","reciprocity","selfless","stewardship","mobilize","pro bono","tutelage","gratify","fulfilment","mutual","rally","instil","bond","kinship","amiable","cohesion","camaraderie","charitable","vitality"]
   }
 ];
