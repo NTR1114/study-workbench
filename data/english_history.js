@@ -263,5 +263,11 @@ window.ENGLISH_HISTORY = [
     topic: "Volunteering & Civic Engagement（志愿精神与公民参与）",
     articleTitle: "The Quiet Power of Giving: Why Volunteering Matters",
     words: ["volunteer","altruism","altruistic","civic","benevolent","benevolence","outreach","nonprofit","contributor","donate","donation","beneficiary","reciprocity","selfless","stewardship","mobilize","pro bono","tutelage","gratify","fulfilment","mutual","rally","instil","bond","kinship","amiable","cohesion","camaraderie","charitable","vitality"]
+  },
+  {
+    date: "2026-10-07",
+    topic: "Decision Making & Cognitive Biases（决策与认知偏差）",
+    articleTitle: "Why We Rarely Choose as We Think: The Hidden Biases in Human Decisions",
+    words: ["heuristic","rational","irrational","instinct","intuition","fallacy","dilemma","trade-off","prudent","contradictory","judgment","prospect","outcome","suboptimal","precipitate","override","weigh","arbitrary","predisposition","predictable","optimal","maximize","compromise","ascertain","infer","premise","conclusion","anomaly","hindsight","foresight"]
   }
 ];

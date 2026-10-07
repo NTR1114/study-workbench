@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-06",
-  topic: "Volunteering & Civic Engagement（志愿精神与公民参与）",
+  date: "2026-10-07",
+  topic: "Decision Making & Cognitive Biases（决策与认知偏差）",
   article: {
-    title: "The Quiet Power of Giving: Why Volunteering Matters",
-    titleCn: "给予的无声力量：为何志愿服务至关重要",
+    title: "Why We Rarely Choose as We Think: The Hidden Biases in Human Decisions",
+    titleCn: "我们很少如自己所想那般选择：人类决策中隐藏的偏差",
     paras: [
       {
-        en: "Volunteering has long been recognised as a cornerstone of healthy societies, yet its role is often underestimated in modern, fast-paced life. Across the world, millions of people donate their time without payment to support schools, hospitals and local charities. This civic spirit not only aids those in need but also strengthens the bonds between strangers. Increasingly, governments and organisations encourage such engagement as a way to rebuild social trust.",
-        cn: "志愿服务长期以来被视为健康社会的基石，然而在现代快节奏的生活中，它的作用却常常被低估。全世界数以百万计的人无偿献出时间，去支援学校、医院与地方慈善机构。这种公民精神不仅帮助了有需要的人，也拉近了陌生人之间的关系。越来越多的政府与组织鼓励这种参与，将其视为重建社会信任的途径。"
+        en: "Every day, people make countless decisions, from trivial choices about what to eat to momentous ones about careers and relationships. Yet psychological research consistently shows that human judgement is far from perfectly rational. Instead of weighing evidence with cold logic, we rely on mental shortcuts that usually work but sometimes mislead. Understanding these hidden tendencies has become essential in fields ranging from economics to public health.",
+        cn: "每一天，人们都要做出无数决定，小到吃什么这样的琐碎选择，大到职业与感情这类重大抉择。然而心理学研究一再表明，人类的判断远非完全理性。我们并未以冷静的逻辑权衡证据，而是依赖那些通常管用、偶尔却会误导人的思维捷径。理解这些隐藏的倾向，已在从经济学到公共卫生等诸多领域中变得不可或缺。"
       },
       {
-        en: "For the volunteers themselves, the rewards extend well beyond the obvious satisfaction of helping others. Research suggests that regular civic participation can boost mental wellbeing, reduce stress and foster a sense of purpose. Many contributors report that tutoring children or assisting the elderly brings profound fulfilment. Moreover, volunteering develops practical skills — from leadership to teamwork — that prove valuable in later careers. In this way, altruism and self-interest quietly reinforce one another.",
-        cn: "对志愿者自身而言，回报远不止于助人带来的那份显而易见的满足感。研究表明，经常性的公民参与能提升心理健康、减轻压力，并培养一种目标感。许多参与者反映，辅导儿童或照料老人会带来深刻的成就感。此外，志愿服务还能培养从领导力到团队协作等实用技能，在日后职场中大有裨益。如此，利他与利己便悄然相互强化。"
+        en: "One well-documented bias is the confirmation bias, where individuals favour information that supports their existing beliefs and disregard contradictory evidence. Another is the availability heuristic, in which people judge the likelihood of an event by how easily examples come to mind. A person who reads about plane crashes may therefore fear flying, despite statistics showing it is safe. Such intuitive shortcuts often override careful, deliberate reasoning without our awareness.",
+        cn: "一种被充分记录下来的偏差是确认偏差：人们偏爱支持自己既有信念的信息，而忽视相互矛盾的证据。另一种则是可得性启发法，即人们根据某个事例在脑海中浮现的难易程度来判断其发生的可能性。因此，读过空难报道的人或许会害怕坐飞机，尽管统计数据显示飞行是安全的。这类凭直觉的捷径常常在不知不觉间压倒审慎而刻意的推理。"
       },
       {
-        en: "At a community level, grassroots volunteering addresses gaps that public services alone cannot fill. Neighbours who rally to clean parks, run food banks or visit the isolated create camaraderie that binds localities together. Such mutual effort builds social cohesion, making towns more resilient during crises such as floods or pandemics. Critics note, however, that relying on unpaid labour may strain already overstretched volunteers. Thoughtful stewardship is therefore needed to keep initiatives sustainable.",
-        cn: "在社区层面，基层志愿服务填补了公共服务 alone 无法覆盖的空白。邻里们自发集结起来清理公园、运营食物银行或探望独居者，由此产生情谊，将各个街区凝聚在一起。这种共同的努力构建了社会凝聚力，使城镇在洪水或疫情等危机中更具韧性。然而批评者指出，依赖无偿劳动可能会令本已超负荷的志愿者不堪重负。因此，需要审慎的统筹管理，才能让这些行动持续下去。"
+        en: "These mental habits evolved because they allowed our ancestors to act quickly in dangerous situations, when slow reflection could prove fatal. In modern life, however, the same instincts can lead to suboptimal outcomes, particularly in finance and health. Policymakers now use 'nudges'—small changes in how choices are presented—to help citizens make prudent decisions. Recognising our own vulnerability to error is the first step toward wiser judgement.",
+        cn: "这些思维习惯之所以进化出来，是因为它们让我们的祖先能在危险情境中迅速行动，而在那时迟缓的思虑可能致命。然而在现代生活中，同样的本能却可能导致不尽理想的结果，在金融与健康领域尤其如此。政策制定者如今运用「助推」——即改变选项呈现方式的微小调整——来帮助民众做出审慎的决定。认识到自身易于出错的弱点，是迈向更明智判断的第一步。"
       },
       {
-        en: "Looking ahead, technology is reshaping how people give their time, with online platforms mobilizing thousands for single-day campaigns. Yet the essence of volunteering remains deeply human: a willingness to act for the common good without expectation of reward. Schools and NGOs now instil this value early, hoping a new generation will treat civic duty as normal. Ultimately, a society rich in altruism is not merely kinder, but more vital and united.",
-        cn: "展望未来，技术正在改变人们奉献时间的方式，线上平台能在单日行动中动员数千人。然而，志愿服务的本质依然是深刻的人性体现：不求回报、为公共利益主动作为的意愿。如今学校与非政府组织早早播下这一价值观，希望新一代将公民责任视为常态。归根结底，一个富有利他精神的社会，不仅更友善，也更有活力、更加团结。"
+        en: "Looking ahead, the study of decision-making is reshaping education, design and law, as societies seek to protect people from manipulation. Training in critical thinking can help individuals override impulsive temptations and weigh long-term prospects more carefully. Yet no system can eliminate bias entirely, for it is woven into human nature. The realistic goal is not flawless choice but a more self-aware compromise between instinct and reason.",
+        cn: "展望未来，对决策的研究正在重塑教育、设计与法律，因为社会力求保护人们免受操纵。批判性思维的训练能帮助个人压倒冲动的诱惑，并更审慎地权衡长远前景。然而没有任何体系能彻底消除偏差，因为它已编织进人性之中。现实的目标并非无瑕的选择，而是在本能与理性之间达成更具自知之明的妥协。"
       }
     ],
     glossary: [
-      { w: "cornerstone", pos: "n.", p: "/ˈkɔːnəstəʊn/", cn: "基石；关键支柱" },
-      { w: "underestimate", pos: "v.", p: "/ˌʌndərˈestɪmeɪt/", cn: "低估；轻视" },
-      { w: "fast-paced", pos: "adj.", p: "/ˌfɑːst ˈpeɪst/", cn: "快节奏的" },
-      { w: "rebuild", pos: "v.", p: "/ˌriːˈbɪld/", cn: "重建；恢复" },
-      { w: "satisfaction", pos: "n.", p: "/ˌsætɪsˈfækʃn/", cn: "满足；满意" },
-      { w: "participation", pos: "n.", p: "/pɑːˌtɪsɪˈpeɪʃn/", cn: "参与；参加" },
-      { w: "profound", pos: "adj.", p: "/prəˈfaʊnd/", cn: "深刻的；意义深远的" },
-      { w: "reinforce", pos: "v.", p: "/ˌriːɪnˈfɔːs/", cn: "加强；强化" },
-      { w: "grassroots", pos: "adj./n.", p: "/ˈɡrɑːsruːts/", cn: "基层的；草根" },
-      { w: "address", pos: "v.", p: "/əˈdres/", cn: "解决；应对（问题）" },
-      { w: "isolated", pos: "adj.", p: "/ˈaɪsəleɪtɪd/", cn: "孤立的；独居的" },
-      { w: "locality", pos: "n.", p: "/ləʊˈkæləti/", cn: "地区；本地社区" },
-      { w: "resilient", pos: "adj.", p: "/rɪˈzɪliənt/", cn: "有韧性的；能恢复的" },
-      { w: "crises", pos: "n.", p: "/ˈkraɪsiːz/", cn: "危机（crisis 的复数）" },
-      { w: "overstretched", pos: "adj.", p: "/ˌəʊvəˈstretʃt/", cn: "过度伸展的；超负荷的" },
-      { w: "thoughtful", pos: "adj.", p: "/ˈθɔːtfl/", cn: "深思熟虑的；体贴的" },
-      { w: "reshape", pos: "v.", p: "/ˌriːˈʃeɪp/", cn: "重塑；改造" },
-      { w: "united", pos: "adj.", p: "/juˈnaɪtɪd/", cn: "团结的；联合的" },
-      { w: "strangers", pos: "n.", p: "/ˈstreɪndʒəz/", cn: "陌生人（stranger 复数）" },
-      { w: "NGOs", pos: "abbr.", p: "/ˌen dʒiː ˈəʊ/", cn: "非政府组织（non-governmental organizations）" },
-      { w: "expectation", pos: "n.", p: "/ˌekspekˈteɪʃn/", cn: "期望；期待" },
-      { w: "willingness", pos: "n.", p: "/ˈwɪlɪŋnəs/", cn: "意愿；乐意" },
-      { w: "essence", pos: "n.", p: "/ˈesns/", cn: "本质；精髓" },
-      { w: "vital", pos: "adj.", p: "/ˈvaɪtl/", cn: "至关重要的；充满活力的" },
-      { w: "camaraderie", pos: "n.", p: "/ˌkæməˈrɑːdəri/", cn: "情谊；同志般的友情" },
-      { w: "cohesion", pos: "n.", p: "/kəʊˈhiːʒn/", cn: "凝聚力；团结" },
-      { w: "mobilizing", pos: "v.", p: "/ˈməʊbəlaɪzɪŋ/", cn: "动员；调动（mobilize 的现在分词）" },
-      { w: "sustainable", pos: "adj.", p: "/səˈsteɪnəbl/", cn: "可持续的" }
+      { w: "trivial", pos: "adj.", p: "/ˈtrɪviəl/", cn: "琐碎的；不重要的" },
+      { w: "momentous", pos: "adj.", p: "/məˈmentəs/", cn: "重大的；重要的" },
+      { w: "judgement", pos: "n.", p: "/ˈdʒʌdʒmənt/", cn: "判断；判断力" },
+      { w: "rational", pos: "adj.", p: "/ˈræʃnəl/", cn: "理性的；合理的" },
+      { w: "evidence", pos: "n.", p: "/ˈevɪdəns/", cn: "证据；依据" },
+      { w: "shortcut", pos: "n.", p: "/ˈʃɔːtkʌt/", cn: "捷径；思维捷径" },
+      { w: "tendency", pos: "n.", p: "/ˈtendənsi/", cn: "倾向；趋势" },
+      { w: "bias", pos: "n.", p: "/ˈbaɪəs/", cn: "偏差；偏见" },
+      { w: "confirmation", pos: "n.", p: "/ˌkɒnfəˈmeɪʃn/", cn: "确认；证实" },
+      { w: "contradictory", pos: "adj.", p: "/ˌkɒntrəˈdɪktəri/", cn: "矛盾的；对立的" },
+      { w: "heuristic", pos: "n./adj.", p: "/hjʊˈrɪstɪk/", cn: "启发法；启发式的" },
+      { w: "likelihood", pos: "n.", p: "/ˈlaɪklihʊd/", cn: "可能性" },
+      { w: "availability", pos: "n.", p: "/əˌveɪləˈbɪləti/", cn: "可获取性；可得性" },
+      { w: "intuitive", pos: "adj.", p: "/ɪnˈtjuːɪtɪv/", cn: "直觉的；凭直觉的" },
+      { w: "override", pos: "v.", p: "/ˌəʊvəˈraɪd/", cn: "压倒；优先于；推翻" },
+      { w: "deliberate", pos: "adj.", p: "/dɪˈlɪbərət/", cn: "刻意的；深思熟虑的" },
+      { w: "reasoning", pos: "n.", p: "/ˈriːznɪŋ/", cn: "推理；论证" },
+      { w: "awareness", pos: "n.", p: "/əˈweənəs/", cn: "意识；察觉" },
+      { w: "evolved", pos: "adj.", p: "/ɪˈvɒlvd/", cn: "进化而来的；演变的" },
+      { w: "reflection", pos: "n.", p: "/rɪˈflekʃn/", cn: "反思；思考" },
+      { w: "suboptimal", pos: "adj.", p: "/ˌsʌbˈɒptɪməl/", cn: "次优的；不够理想的" },
+      { w: "outcome", pos: "n.", p: "/ˈaʊtkʌm/", cn: "结果；后果" },
+      { w: "prudent", pos: "adj.", p: "/ˈpruːdnt/", cn: "谨慎的；审慎的" },
+      { w: "vulnerability", pos: "n.", p: "/ˌvʌlnərəˈbɪləti/", cn: "脆弱性；易受影响" },
+      { w: "manipulation", pos: "n.", p: "/məˌnɪpjuˈleɪʃn/", cn: "操纵；控制" },
+      { w: "impulsive", pos: "adj.", p: "/ɪmˈpʌlsɪv/", cn: "冲动的" },
+      { w: "prospect", pos: "n.", p: "/ˈprɒspekt/", cn: "前景；可能性" },
+      { w: "compromise", pos: "n./v.", p: "/ˈkɒmprəmaɪz/", cn: "妥协；折中" }
     ]
   },
   words: [
-    { w: "volunteer", pos: "n./v.", p: "/ˌvɒlənˈtɪə(r)/", cn: "志愿者；自愿做", ex: "She decided to volunteer at the local shelter every Saturday morning.", exCn: "她决定每周六上午去当地收容所做志愿者。" },
-    { w: "altruism", pos: "n.", p: "/ˈæltruɪzəm/", cn: "利他主义；无私", ex: "True altruism expects nothing in return for a kind act.", exCn: "真正的利他主义对善行不求任何回报。" },
-    { w: "altruistic", pos: "adj.", p: "/ˌæltruˈɪstɪk/", cn: "利他的；无私的", ex: "His altruistic motives earned the trust of the whole community.", exCn: "他无私的动机赢得了整个社区的信任。" },
-    { w: "civic", pos: "adj.", p: "/ˈsɪvɪk/", cn: "公民的；市政的", ex: "Civic pride grows when residents take care of public spaces.", exCn: "当居民爱护公共空间时，公民自豪感便会增强。" },
-    { w: "benevolent", pos: "adj.", p: "/bəˈnevələnt/", cn: "仁慈的；乐善好施的", ex: "A benevolent neighbour organised meals for the elderly during the lockdown.", exCn: "一位仁慈的邻居在封控期间为老人组织了餐食。" },
-    { w: "benevolence", pos: "n.", p: "/bəˈnevələns/", cn: "仁慈；善行", ex: "The foundation was built on a spirit of quiet benevolence.", exCn: "该基金会建立在一种默默行善的精神之上。" },
-    { w: "outreach", pos: "n.", p: "/ˈaʊtriːtʃ/", cn: "外展服务； outreach 活动", ex: "The clinic runs an outreach programme for remote villages.", exCn: "该诊所为偏远村庄开展外展服务计划。" },
-    { w: "nonprofit", pos: "adj./n.", p: "/nɒnˈprɒfɪt/", cn: "非营利的（组织）", ex: "She works for a nonprofit that protects stray animals.", exCn: "她在一家保护流浪动物的非营利组织工作。" },
-    { w: "contributor", pos: "n.", p: "/kənˈtrɪbjətə(r)/", cn: "贡献者；投稿人", ex: "Every contributor to the food drive received a heartfelt thank-you.", exCn: "每位参与食物募捐的贡献者都收到了由衷的感谢。" },
-    { w: "donate", pos: "v.", p: "/dəʊˈneɪt/", cn: "捐赠；捐献", ex: "Many families donate clothes to the winter relief fund each year.", exCn: "许多家庭每年都向冬季救助基金捐赠衣物。" },
-    { w: "donation", pos: "n.", p: "/dəʊˈneɪʃn/", cn: "捐赠物；捐款", ex: "The donation was used to buy books for the library.", exCn: "这笔捐款被用来为图书馆购置书籍。" },
-    { w: "beneficiary", pos: "n.", p: "/ˌbenɪˈfɪʃəri/", cn: "受益者；受惠人", ex: "The scholarship beneficiary was the first in her family to attend university.", exCn: "这位奖学金受益者是家中第一个上大学的人。" },
-    { w: "reciprocity", pos: "n.", p: "/ˌresɪˈprɒsəti/", cn: "互惠；互助", ex: "Reciprocity lies at the heart of a healthy volunteering community.", exCn: "互惠是健康志愿社区的核心。" },
-    { w: "selfless", pos: "adj.", p: "/ˈselfləs/", cn: "无私的；忘我的", ex: "Her selfless devotion to the children moved everyone who knew her.", exCn: "她对孩子们无私的奉献感动了所有认识她的人。" },
-    { w: "stewardship", pos: "n.", p: "/ˈstjuːədʃɪp/", cn: "管理；看护； stewardship", ex: "Good stewardship keeps the volunteer network running smoothly.", exCn: "良好的管理让志愿者网络顺畅运转。" },
-    { w: "mobilize", pos: "v.", p: "/ˈməʊbəlaɪz/", cn: "动员；调动", ex: "The campaign mobilized hundreds of students within a week.", exCn: "这场活动在一周内动员了数百名学生。" },
-    { w: "pro bono", pos: "adj./adv.", p: "/ˌprəʊ ˈbəʊnəʊ/", cn: "无偿的（地）；公益的", ex: "The lawyer offered pro bono services to low-income families.", exCn: "这位律师为低收入家庭提供无偿法律服务。" },
-    { w: "tutelage", pos: "n.", p: "/ˈtjuːtəlɪdʒ/", cn: "指导；监护； tutelage", ex: "Under his tutelage, the young volunteers learned to organise events.", exCn: "在他的指导下，年轻志愿者学会了组织活动。" },
-    { w: "gratify", pos: "v.", p: "/ˈɡrætɪfaɪ/", cn: "使满足；使高兴", ex: "It gratified the team to see the garden finally finished.", exCn: "看到花园终于建成，团队感到十分欣慰。" },
-    { w: "fulfilment", pos: "n.", p: "/fʊlˈfɪlmənt/", cn: "成就感；实现", ex: "Helping others gave her a deep sense of fulfilment.", exCn: "帮助他人给她带来了深深的成就感。" },
-    { w: "mutual", pos: "adj.", p: "/ˈmjuːtʃuəl/", cn: "相互的；共同的", ex: "The project was built on mutual respect between helpers and residents.", exCn: "这个项目建立在帮助者与居民相互尊重的基础上。" },
-    { w: "rally", pos: "v./n.", p: "/ˈræli/", cn: "集结；振作； rally", ex: "Neighbours rallied to clear the flooded street after the storm.", exCn: "暴雨过后，邻居们集结起来清理被淹的街道。" },
-    { w: "instil", pos: "v.", p: "/ɪnˈstɪl/", cn: "逐渐灌输；培养", ex: "Parents should instil a sense of responsibility in their children.", exCn: "父母应当在孩子心中逐渐培养责任感。" },
-    { w: "bond", pos: "n./v.", p: "/bɒnd/", cn: "纽带；联结； bond", ex: "Shared effort helped bond the newcomers to the community.", exCn: "共同的努力帮助新来者融入了社区。" },
-    { w: "kinship", pos: "n.", p: "/ˈkɪnʃɪp/", cn: "亲切感；亲属关系", ex: "A sense of kinship grew among the volunteers over the summer.", exCn: "整个夏天，志愿者之间萌生了一种亲切感。" },
-    { w: "amiable", pos: "adj.", p: "/ˈeɪmiəbl/", cn: "和蔼可亲的；友善的", ex: "The amiable coordinator made every newcomer feel welcome.", exCn: "这位和蔼可亲的协调员让每位新人感到受欢迎。" },
-    { w: "cohesion", pos: "n.", p: "/kəʊˈhiːʒn/", cn: "凝聚力；团结", ex: "Regular events strengthened social cohesion in the district.", exCn: "定期活动增强了该社区的社会凝聚力。" },
-    { w: "camaraderie", pos: "n.", p: "/ˌkæməˈrɑːdəri/", cn: "同志情谊；友情", ex: "The long rehearsals built a strong camaraderie among the team.", exCn: "长期的排练在团队中建立了深厚的同志情谊。" },
-    { w: "charitable", pos: "adj.", p: "/ˈtʃærətəbl/", cn: "慈善的；宽容的", ex: "They held a charitable sale to fund the children's library.", exCn: "他们举办了一场慈善义卖，为儿童图书馆筹款。" },
-    { w: "vitality", pos: "n.", p: "/vaɪˈtæləti/", cn: "活力；生命力", ex: "Community gardens bring vitality back to neglected neighbourhoods.", exCn: "社区花园为被忽视的街区重新注入活力。" }
+    { w: "heuristic", pos: "n./adj.", p: "/hjʊˈrɪstɪk/", cn: "启发法；启发式的", ex: "The availability heuristic leads people to overestimate dramatic but rare events.", exCn: "可得性启发法会让人们高估那些戏剧性却罕见的事件。" },
+    { w: "rational", pos: "adj.", p: "/ˈræʃnəl/", cn: "理性的；合理的", ex: "A rational consumer compares prices before making a purchase.", exCn: "理性的消费者会在购买前先比较价格。" },
+    { w: "irrational", pos: "adj.", p: "/ɪˈræʃnəl/", cn: "非理性的；不合理的", ex: "Fear of flying is often an irrational response to very low statistical risk.", exCn: "害怕坐飞机往往是对极低统计风险的非理性反应。" },
+    { w: "instinct", pos: "n.", p: "/ˈɪnstɪŋkt/", cn: "本能；直觉", ex: "The fox acted on instinct the moment it sensed approaching danger.", exCn: "狐狸在察觉到逼近的危险时，凭本能做出了反应。" },
+    { w: "intuition", pos: "n.", p: "/ˌɪntjuˈɪʃn/", cn: "直觉；直观", ex: "Her intuition told her that the deal was too good to be true.", exCn: "她的直觉告诉她，这笔交易好得不太真实。" },
+    { w: "fallacy", pos: "n.", p: "/ˈfæləsi/", cn: "谬误；错误观念", ex: "The belief that busyness equals productivity is a common fallacy.", exCn: "认为忙碌就等于高效，是一种常见的谬误。" },
+    { w: "dilemma", pos: "n.", p: "/dɪˈlemə/", cn: "困境；两难选择", ex: "She faced the dilemma of staying home or taking a risky job abroad.", exCn: "她面临两难：是留在家里，还是接受那份有风险的海外工作。" },
+    { w: "trade-off", pos: "n.", p: "/ˈtreɪd ɒf/", cn: "权衡；取舍", ex: "There is always a trade-off between speed and accuracy in testing.", exCn: "在测试中，速度与分析准确性之间总有权衡取舍。" },
+    { w: "prudent", pos: "adj.", p: "/ˈpruːdnt/", cn: "谨慎的；审慎的", ex: "It is prudent to save money before starting a new business.", exCn: "在创业之前存钱是审慎的做法。" },
+    { w: "contradictory", pos: "adj.", p: "/ˌkɒntrəˈdɪktəri/", cn: "矛盾的；抵触的", ex: "The two reports gave contradictory accounts of what happened.", exCn: "两份报告对所发生之事给出了相互矛盾的说法。" },
+    { w: "judgment", pos: "n.", p: "/ˈdʒʌdʒmənt/", cn: "判断；判断力", ex: "Good judgment comes from experience as much as from knowledge.", exCn: "良好的判断力既来自知识，也来自经验。" },
+    { w: "prospect", pos: "n.", p: "/ˈprɒspekt/", cn: "前景；可能性", ex: "The prospect of early retirement excited the whole team.", exCn: "提前退休的前景让整个团队都感到兴奋。" },
+    { w: "outcome", pos: "n.", p: "/ˈaʊtkʌm/", cn: "结果；后果", ex: "The outcome of the election surprised even seasoned analysts.", exCn: "选举的结果连资深分析人士都感到意外。" },
+    { w: "suboptimal", pos: "adj.", p: "/ˌsʌbˈɒptɪməl/", cn: "次优的；不够理想的", ex: "Working without breaks leads to suboptimal performance over time.", exCn: "不休息地工作久而久之会导致不尽理想的表现。" },
+    { w: "precipitate", pos: "v.", p: "/prɪˈsɪpɪteɪt/", cn: "促使；使突然发生", ex: "Rumours of the merger precipitated a sharp fall in share prices.", exCn: "合并的传闻促使股价急剧下跌。" },
+    { w: "override", pos: "v.", p: "/ˌəʊvəˈraɪd/", cn: "推翻；优先于；压倒", ex: "Emergency protocols can override normal computer settings automatically.", exCn: "应急程序可以自动推翻常规的计算机设置。" },
+    { w: "weigh", pos: "v.", p: "/weɪ/", cn: "权衡；认真考虑", ex: "We must weigh the benefits against the possible risks.", exCn: "我们必须权衡收益与潜在风险。" },
+    { w: "arbitrary", pos: "adj.", p: "/ˈɑːbɪtrəri/", cn: "随意的；武断的", ex: "The decision seemed arbitrary, with no clear reason behind it.", exCn: "这个决定看似随意，背后没有明确理由。" },
+    { w: "predisposition", pos: "n.", p: "/ˌpriːdɪspəˈzɪʃn/", cn: "倾向；易感性", ex: "A genetic predisposition may increase the risk of certain diseases.", exCn: "遗传倾向可能会增加患某些疾病的风险。" },
+    { w: "predictable", pos: "adj.", p: "/prɪˈdɪktəbl/", cn: "可预测的；惯常的", ex: "Markets are less predictable when major news breaks unexpectedly.", exCn: "当重大新闻突然爆出时，市场的可预测性会降低。" },
+    { w: "optimal", pos: "adj.", p: "/ˈɒptɪml/", cn: "最佳的；最理想的", ex: "The optimal temperature for the reaction is around twenty degrees.", exCn: "该反应的最佳温度约为二十度。" },
+    { w: "maximize", pos: "v.", p: "/ˈmæksɪmaɪz/", cn: "最大化；充分利用", ex: "The firm tries to maximize profit without breaking any laws.", exCn: "这家公司试图在不违法的前提下实现利润最大化。" },
+    { w: "compromise", pos: "n./v.", p: "/ˈkɒmprəmaɪz/", cn: "妥协；折中", ex: "Both sides reached a compromise after long and difficult talks.", exCn: "经过漫长艰难的谈判，双方达成了妥协。" },
+    { w: "ascertain", pos: "v.", p: "/ˌæsəˈteɪn/", cn: "查明；确定", ex: "Investigators tried to ascertain the cause of the sudden fire.", exCn: "调查人员试图查明这场突发火灾的起因。" },
+    { w: "infer", pos: "v.", p: "/ɪnˈfɜː(r)/", cn: "推断；推论", ex: "From his silence we can infer that he disagrees with the plan.", exCn: "从他的沉默中我们可以推断，他并不认同这个计划。" },
+    { w: "premise", pos: "n.", p: "/ˈpremɪs/", cn: "前提；假定", ex: "The argument rests on the premise that people act in self-interest.", exCn: "该论点建立在「人会自利行事」这一前提之上。" },
+    { w: "conclusion", pos: "n.", p: "/kənˈkluːʒn/", cn: "结论；结尾", ex: "The study drew the conclusion that sleep improves memory.", exCn: "该研究得出的结论是，睡眠能改善记忆力。" },
+    { w: "anomaly", pos: "n.", p: "/əˈnɒməli/", cn: "异常；反常事物", ex: "A small anomaly in the data alerted the researchers to a mistake.", exCn: "数据中的一个微小异常引起了研究人员对错误的警觉。" },
+    { w: "hindsight", pos: "n.", p: "/ˈhaɪndsaɪt/", cn: "后见之明；事后聪明", ex: "With hindsight, we should have invested in the project earlier.", exCn: "事后看来，我们本应更早投资那个项目。" },
+    { w: "foresight", pos: "n.", p: "/ˈfɔːsaɪt/", cn: "远见；先见之明", ex: "The founder's foresight saved the company during the crisis.", exCn: "创始人的远见在危机中拯救了公司。" }
   ],
   vocabArticle: {
-    title: "Lena's Quiet Revolution（莉娜的无声变革）",
-    titleCn: "莉娜的无声变革",
+    title: "The Art of Choosing Well（择优而决的艺术）",
+    titleCn: "择优而决的艺术",
     paras: [
       {
-        en: "When Lena decided to volunteer at a local nonprofit, she did not expect the depth of civic pride it would awaken. The benevolent founder, an amiable woman named Rosa, ran an outreach programme for the elderly. As a regular contributor, Lena came to understand altruism not as a slogan but as daily practice. Her altruistic efforts gradually strengthened the bond between generations, proving that kindness can build real kinship within a neighbourhood.",
-        cn: "当莉娜决定去当地一家非营利组织做志愿者时，她没料到这会唤醒如此深厚的公民自豪感。那位仁慈的创始人是一位名叫罗莎的和蔼女性，她运营着面向老人的外展项目。作为定期贡献者，莉娜逐渐明白，利他不是一句口号，而是日常的实践。她无私的努力慢慢拉近了代际之间的纽带，证明善意能在邻里间建立起真正的亲切感。"
+        en: "When faced with a difficult dilemma, Maya tried to weigh each option with rational care rather than trust sheer instinct. Her intuition urged her to decide at once, yet she resisted the impulsive pull. She knew a common fallacy—that feeling sure means being right—could precipitate poor choices. To avoid a suboptimal outcome, she refused to act on arbitrary whim and instead searched for solid evidence.",
+        cn: "面对艰难的两难，玛雅试图以理性的审慎来权衡每个选项，而非盲目信赖本能。直觉催促她立刻做决定，她却抵制住了这股冲动的拉力。她明白一个常见的谬误——「感觉有把握就等于正确」——可能会促成糟糕的选择。为了避免不尽理想的结果，她拒绝凭随意的念头行事，而是去寻找确凿的证据。"
       },
       {
-        en: "Each month, Lena would donate a small sum and organise a charitable bake sale, sending every donation directly to a named beneficiary. The mutual trust between helpers and those they served created quiet camaraderie. Rosa believed such selfless acts of benevolence could mobilize an entire town. To gratify the volunteers, she offered free tutelage in cooking and crafts, turning mere charity into friendship grounded in reciprocity rather than obligation.",
-        cn: "每个月，莉娜都会捐出一小笔钱，并组织慈善烘焙义卖，把每一笔捐款直接送到具名的受助者手中。帮助者与被服务者之间的相互信任，营造出一种安静的同志情谊。罗莎相信，这种无私的善举能够动员起整座小镇。为了让志愿者感到欣慰，她提供免费的烹饪与手工指导，将单纯的施舍变成建立在互惠而非义务之上的友谊。"
+        en: "Maya listed the trade-off between speed and accuracy, aware that no choice was perfectly optimal. A genetic predisposition made her anxious about risk, but she remained prudent and did not let fear override her judgment. She could infer the likely consequences by reading past cases, and from the premise that careful people err less, she drew a sensible conclusion. Still, the future was not fully predictable.",
+        cn: "玛雅列出了速度与准确性之间的取舍，并意识到没有任何选择是绝对最佳的。一种遗传倾向让她对风险感到焦虑，但她依然谨慎，没有让恐惧压倒自己的判断。通过研读过往案例，她能推断出可能的后果；并基于「谨慎的人更少出错」这一前提，得出了合理的结论。不过，未来仍非完全可预测。"
       },
       {
-        en: "The project's success inspired other districts to rally behind similar causes, and a spirit of cohesion spread across the city. Lena's pro bono work on weekends, though unpaid, brought her a sense of fulfilment no salary could match. Benevolent neighbours began to instil civic duty in their children, while elderly residents found renewed vitality. What started as one woman's volunteer hours had become a movement knitting strangers into a single, caring community.",
-        cn: "该项目的成功激励其他城区也投身于类似事业，一种凝聚力在整个城市蔓延开来。莉娜周末的无偿工作虽无报酬，却带给她薪水无法比拟的成就感。仁慈的邻居们开始向孩子灌输公民责任，而老年居民则重焕活力。起初只是一个人的志愿时光，如今已发展成一场运动，把陌生人编织进一个充满关怀的共同体。"
+        en: "To maximize her chances, Maya used a simple heuristic: when two paths seemed equally good, pick the one with the better long-term prospect. She tried to ascertain the real facts, not merely guess. An anomaly in the data caught her attention, and she recognised that irrational panic had misled others before. Contradictory advice from friends only deepened her caution, so she sought clearer information.",
+        cn: "为了最大化成功的机会，玛雅用了一个简单的启发法：当两条路看似同样好时，就选长远前景更佳的那一条。她试图查明真实情况，而非仅仅猜测。数据中的一个异常引起了她的注意，她也意识到，非理性的恐慌此前曾误导过别人。朋友之间相互矛盾的建议只让她更加谨慎，于是她去寻求更清晰的信息。"
       },
       {
-        en: "Ultimately, the charitable network showed that stewardship of a community depends on ordinary people. Through sustained outreach and careful planning, volunteers turned fragile goodwill into lasting civic strength. The beneficiary of today often becomes the altruistic giver of tomorrow, completing a circle of reciprocity. Lena's story reminds us that a society's true vitality lies not in wealth, but in the selfless bonds its members are willing to build.",
-        cn: "归根结底，这个慈善网络表明，社区的管护依靠的是普通人。通过持续的外展与细致的规划，志愿者把脆弱的善意转化为持久的公信力。今天的受助者，往往就是明天无私的给予者，从而完成一个互惠的循环。莉娜的故事提醒我们：一个社会真正的活力，不在于财富，而在于其成员愿意去构建的那些无私纽带。"
+        en: "In hindsight, Maya saw that her foresight had served her well, for the rushed decision she had avoided would have been a mistake. She reached a fair compromise between caution and action, accepting that no one can remove every bias. With clearer judgment, she moved forward—proof that thoughtful deliberation, not luck, shapes the outcomes we live with.",
+        cn: "事后看来，玛雅发现自己的远见帮了大忙，因为她所回避的那个草率决定本会是个错误。她在谨慎与行动之间达成了公平的妥协，并接受了一个事实：没有人能消除每一种偏差。凭借更清晰的判断，她继续前行——这证明了塑造我们所要面对之结果的，是深思熟虑，而非运气。"
       }
     ]
   },
   grammar: [
     {
-      q: "The majority of young volunteers ___ that regular civic engagement genuinely strengthens the communities they live in.",
+      q: "The psychologist emphasised that not only the students but also the headmaster ___ invited to the seminar on cognitive bias.",
       options: [
-        "believe",
-        "believes",
-        "is believing",
-        "are believing"
-      ],
-      answer: 0,
-      explain: "考点：主谓一致。当 \"the majority of + 复数名词\" 作主语时，谓语动词用复数；而 \"the majority\" 单独出现或后接不可数名词时才用单数（如 the majority was in favour）。本句主语是 the majority of young volunteers，of 后接复数名词 volunteers，故谓语用复数 believe。C（is believing）与 D（are believing）用了进行体，但 believe 这类表示心理状态的动词一般不用于进行时，且本句陈述一般事实；B（believes）把 majority 误当作单数，不符合 \"majority of + 复数名词\" 的规则。扩展：同类用法的还有 \"a number of + 复数 → 复数\"，而 \"the number of + 复数 → 单数\"。"
-    },
-    {
-      q: "___ he had volunteered at the shelter for three years came as a surprise to his new colleagues.",
-      options: [
-        "What",
-        "That",
-        "Whether",
-        "Which"
+        "were",
+        "was",
+        "have been",
+        "be"
       ],
       answer: 1,
-      explain: "考点：名词性从句（that 引导的主语从句）。that 引导的从句本身意思完整、不在从句中充当成分，仅起连接作用，可置于句首作主语，谓语用单数。本句 \"That he had volunteered... years\" 是一个成分完整的陈述，充当主语，说明令新同事惊讶的事情，故选 That。A（What）必须在从句中充当主语或宾语等成分（如 What he did surprised us），但本从句成分已完整，what 属多余；C（Whether）表示「是否」，与「他做了三年志愿」的既定事实不符；D（Which）引导定语从句须有先行词，此处无先行词，且 which 需在从句中作成分。扩展：that 引导的主语从句较长时，常用 it 作形式主语，如 It surprised them that he had volunteered for so long。"
+      explain: "考点：主谓一致（not only...but also 的就近/邻近原则）。由 not only A but also B 连接两个主语时，谓语动词的数由靠近谓语的 B 决定，而非整体。本句靠近谓语的是单数名词 the headmaster，故谓语用单数 was。A（were）误把 not only...but also 整体当作复数；C（have been）时态与主句一般过去（emphasised）及被动 invited 不协调，且未体现就近；D（be）是动词原形，不能单独充当谓语。扩展：同类就近原则的结构还有 either...or、neither...nor、not...but 等。"
+    },
+    {
+      q: "___ is widely acknowledged, human decision-making is rarely as rational as we like to believe.",
+      options: [
+        "Which",
+        "As",
+        "That",
+        "What"
+      ],
+      answer: 1,
+      explain: "考点：定语从句（as 引导的非限制性定语从句）。as 可引导非限制性定语从句，指代整个主句或主句的一部分，且 as 从句可置于句首、句中或句末；而 which 引导的非限制性定语从句只能置于句末，不能放在句首。本句从句位于句首，指代后面『人类决策很少如我们以为的那般理性』这一事实，只能用 As。A（Which）不能用于句首；C（That）不引导非限制性定语从句；D（What）不引导定语从句，且必须在从句中充当成分。扩展：as 常用于 as is known / as is reported / as often happens 等固定搭配。"
     }
   ]
 };
