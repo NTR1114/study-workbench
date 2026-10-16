@@ -269,5 +269,17 @@ window.ENGLISH_HISTORY = [
     topic: "Decision Making & Cognitive Biases（决策与认知偏差）",
     articleTitle: "Why We Rarely Choose as We Think: The Hidden Biases in Human Decisions",
     words: ["heuristic","rational","irrational","instinct","intuition","fallacy","dilemma","trade-off","prudent","contradictory","judgment","prospect","outcome","suboptimal","precipitate","override","weigh","arbitrary","predisposition","predictable","optimal","maximize","compromise","ascertain","infer","premise","conclusion","anomaly","hindsight","foresight"]
+  },
+  {
+    date: "2026-10-09",
+    topic: "Housing: Renting, Buying and the Cost of Shelter（住房：租与买的真实成本）",
+    articleTitle: "Renting or Buying? The Real Cost of a Roof Over Your Head",
+    words: ["mortgage","landlord","lease","rent","property","estate","apartment","terrace","suburb","refurbish","cramped","damp","draughty","appliance","utilities","council","taxation","insurance","premium","instalment","deposit","arrears","default","eviction","squat","broker","valuation","equity","clause","deed"]
+  },
+  {
+    date: "2026-10-16",
+    topic: "Social Isolation & Loneliness in Modern Society（现代社会中的孤独与社交隔离）",
+    articleTitle: "The Lonely Crowd: Why Modern Life Leaves Us Feeling Alone",
+    words: ["alienate","solitude","companionship","estranged","gregarious","reclusive","rapport","secluded","seclusion","ostracize","shun","sociable","extrovert","introvert","ephemeral","solitary","detached","disconnected","atomization","anonymity","rootless","anomie","desolate","bereft","diffuse","fray","ameliorate","reconcile","togetherness","network"]
   }
 ];

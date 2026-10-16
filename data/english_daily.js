@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-07",
-  topic: "Decision Making & Cognitive Biases（决策与认知偏差）",
+  date: "2026-10-16",
+  topic: "Social Isolation & Loneliness in Modern Society（现代社会中的孤独与社交隔离）",
   article: {
-    title: "Why We Rarely Choose as We Think: The Hidden Biases in Human Decisions",
-    titleCn: "我们很少如自己所想那般选择：人类决策中隐藏的偏差",
+    title: "The Lonely Crowd: Why Modern Life Leaves Us Feeling Alone",
+    titleCn: "孤独的人群：为何现代生活让我们倍感孤独",
     paras: [
       {
-        en: "Every day, people make countless decisions, from trivial choices about what to eat to momentous ones about careers and relationships. Yet psychological research consistently shows that human judgement is far from perfectly rational. Instead of weighing evidence with cold logic, we rely on mental shortcuts that usually work but sometimes mislead. Understanding these hidden tendencies has become essential in fields ranging from economics to public health.",
-        cn: "每一天，人们都要做出无数决定，小到吃什么这样的琐碎选择，大到职业与感情这类重大抉择。然而心理学研究一再表明，人类的判断远非完全理性。我们并未以冷静的逻辑权衡证据，而是依赖那些通常管用、偶尔却会误导人的思维捷径。理解这些隐藏的倾向，已在从经济学到公共卫生等诸多领域中变得不可或缺。"
+        en: "Although humans are more digitally connected than at any point in history, a growing number of people report feeling profoundly lonely. Urbanisation, longer working hours and the erosion of traditional communities have left many individuals without a reliable circle of companions. Researchers warn that isolation is no longer a private sorrow but a public-health concern with measurable effects on both body and mind.",
+        cn: "尽管人类在数字化层面比历史上任何时期都更紧密相连，却有越来越多的人表示自己深感孤独。城市化、更长的工时以及传统社群的逐步瓦解，让许多人失去了可靠的朋友圈。研究者警告，孤独已不再是个人的隐忧，而是一个会对身心产生可测量影响的公共卫生问题。"
       },
       {
-        en: "One well-documented bias is the confirmation bias, where individuals favour information that supports their existing beliefs and disregard contradictory evidence. Another is the availability heuristic, in which people judge the likelihood of an event by how easily examples come to mind. A person who reads about plane crashes may therefore fear flying, despite statistics showing it is safe. Such intuitive shortcuts often override careful, deliberate reasoning without our awareness.",
-        cn: "一种被充分记录下来的偏差是确认偏差：人们偏爱支持自己既有信念的信息，而忽视相互矛盾的证据。另一种则是可得性启发法，即人们根据某个事例在脑海中浮现的难易程度来判断其发生的可能性。因此，读过空难报道的人或许会害怕坐飞机，尽管统计数据显示飞行是安全的。这类凭直觉的捷径常常在不知不觉间压倒审慎而刻意的推理。"
+        en: "Studies suggest that chronic loneliness can be as damaging as smoking fifteen cigarettes a day. It weakens the immune system, disrupts sleep and raises the risk of depression. Older adults living alone are especially vulnerable, yet young people are not spared: surveys show that university students and remote workers frequently struggle with a sense of detachment. The problem cuts across age, class and nationality.",
+        cn: "研究表明，长期的孤独感其危害堪比每天吸十五支烟。它会削弱免疫系统、扰乱睡眠并提高罹患抑郁的风险。独居的老年人尤为脆弱，但年轻人也未能幸免：调查显示，大学生与远程工作者常常陷入一种情感上的疏离。这一问题横跨年龄、阶层与国界。"
       },
       {
-        en: "These mental habits evolved because they allowed our ancestors to act quickly in dangerous situations, when slow reflection could prove fatal. In modern life, however, the same instincts can lead to suboptimal outcomes, particularly in finance and health. Policymakers now use 'nudges'—small changes in how choices are presented—to help citizens make prudent decisions. Recognising our own vulnerability to error is the first step toward wiser judgement.",
-        cn: "这些思维习惯之所以进化出来，是因为它们让我们的祖先能在危险情境中迅速行动，而在那时迟缓的思虑可能致命。然而在现代生活中，同样的本能却可能导致不尽理想的结果，在金融与健康领域尤其如此。政策制定者如今运用「助推」——即改变选项呈现方式的微小调整——来帮助民众做出审慎的决定。认识到自身易于出错的弱点，是迈向更明智判断的第一步。"
+        en: "Modern cities, for all their energy, can intensify isolation. High rents push friends into separate suburbs, while relentless schedules leave little time for unhurried conversation. Social media promises connection but often delivers a curated highlight reel that deepens comparison and envy. Consequently, many individuals feel surrounded yet unseen, present in a crowd yet absent from any genuine bond. Loneliness, it turns out, thrives in the busiest places.",
+        cn: "现代都市尽管充满活力，却可能加剧孤独。高昂的租金把朋友推向不同的郊区，而无休止的日程又几乎留不出从容交谈的时间。社交媒体许诺联结，却往往只递来一段精心剪辑的高光集锦，反而加深了比较与嫉妒。于是，许多人感到被包围却无人看见，身处人群却与任何真实的纽带绝缘。事实证明，孤独在最喧嚣的地方反而生长得最好。"
       },
       {
-        en: "Looking ahead, the study of decision-making is reshaping education, design and law, as societies seek to protect people from manipulation. Training in critical thinking can help individuals override impulsive temptations and weigh long-term prospects more carefully. Yet no system can eliminate bias entirely, for it is woven into human nature. The realistic goal is not flawless choice but a more self-aware compromise between instinct and reason.",
-        cn: "展望未来，对决策的研究正在重塑教育、设计与法律，因为社会力求保护人们免受操纵。批判性思维的训练能帮助个人压倒冲动的诱惑，并更审慎地权衡长远前景。然而没有任何体系能彻底消除偏差，因为它已编织进人性之中。现实的目标并非无瑕的选择，而是在本能与理性之间达成更具自知之明的妥协。"
+        en: "Reversing the trend requires more than good intentions. Urban planners might design streets that invite lingering; employers could protect time for real interaction; and neighbours can rebuild the small rituals of mutual care. Crucially, acknowledging loneliness without shame is the first step toward reconnection. A society that treats connection as infrastructure, not luxury, will find its people healthier, kinder and far less alone.",
+        cn: "扭转这一趋势需要的远不止良好的意愿。城市规划者可以设计让人愿意驻足的街道；雇主可以保护真实交流的时间；邻居们也能重建彼此关照的小小日常。关键在于，不带羞耻地承认孤独，才是重新联结的第一步。一个把联结当作基础设施而非奢侈享受的社会，会发现它的人民更健康、更友善，也远不至于那么孤独。"
       }
     ],
     glossary: [
-      { w: "trivial", pos: "adj.", p: "/ˈtrɪviəl/", cn: "琐碎的；不重要的" },
-      { w: "momentous", pos: "adj.", p: "/məˈmentəs/", cn: "重大的；重要的" },
-      { w: "judgement", pos: "n.", p: "/ˈdʒʌdʒmənt/", cn: "判断；判断力" },
-      { w: "rational", pos: "adj.", p: "/ˈræʃnəl/", cn: "理性的；合理的" },
-      { w: "evidence", pos: "n.", p: "/ˈevɪdəns/", cn: "证据；依据" },
-      { w: "shortcut", pos: "n.", p: "/ˈʃɔːtkʌt/", cn: "捷径；思维捷径" },
-      { w: "tendency", pos: "n.", p: "/ˈtendənsi/", cn: "倾向；趋势" },
-      { w: "bias", pos: "n.", p: "/ˈbaɪəs/", cn: "偏差；偏见" },
-      { w: "confirmation", pos: "n.", p: "/ˌkɒnfəˈmeɪʃn/", cn: "确认；证实" },
-      { w: "contradictory", pos: "adj.", p: "/ˌkɒntrəˈdɪktəri/", cn: "矛盾的；对立的" },
-      { w: "heuristic", pos: "n./adj.", p: "/hjʊˈrɪstɪk/", cn: "启发法；启发式的" },
-      { w: "likelihood", pos: "n.", p: "/ˈlaɪklihʊd/", cn: "可能性" },
-      { w: "availability", pos: "n.", p: "/əˌveɪləˈbɪləti/", cn: "可获取性；可得性" },
-      { w: "intuitive", pos: "adj.", p: "/ɪnˈtjuːɪtɪv/", cn: "直觉的；凭直觉的" },
-      { w: "override", pos: "v.", p: "/ˌəʊvəˈraɪd/", cn: "压倒；优先于；推翻" },
-      { w: "deliberate", pos: "adj.", p: "/dɪˈlɪbərət/", cn: "刻意的；深思熟虑的" },
-      { w: "reasoning", pos: "n.", p: "/ˈriːznɪŋ/", cn: "推理；论证" },
-      { w: "awareness", pos: "n.", p: "/əˈweənəs/", cn: "意识；察觉" },
-      { w: "evolved", pos: "adj.", p: "/ɪˈvɒlvd/", cn: "进化而来的；演变的" },
-      { w: "reflection", pos: "n.", p: "/rɪˈflekʃn/", cn: "反思；思考" },
-      { w: "suboptimal", pos: "adj.", p: "/ˌsʌbˈɒptɪməl/", cn: "次优的；不够理想的" },
-      { w: "outcome", pos: "n.", p: "/ˈaʊtkʌm/", cn: "结果；后果" },
-      { w: "prudent", pos: "adj.", p: "/ˈpruːdnt/", cn: "谨慎的；审慎的" },
-      { w: "vulnerability", pos: "n.", p: "/ˌvʌlnərəˈbɪləti/", cn: "脆弱性；易受影响" },
-      { w: "manipulation", pos: "n.", p: "/məˌnɪpjuˈleɪʃn/", cn: "操纵；控制" },
-      { w: "impulsive", pos: "adj.", p: "/ɪmˈpʌlsɪv/", cn: "冲动的" },
-      { w: "prospect", pos: "n.", p: "/ˈprɒspekt/", cn: "前景；可能性" },
-      { w: "compromise", pos: "n./v.", p: "/ˈkɒmprəmaɪz/", cn: "妥协；折中" }
+      { w: "loneliness", pos: "n.", p: "/ˈləʊnlɪnəs/", cn: "孤独；孤独感" },
+      { w: "isolation", pos: "n.", p: "/ˌaɪsəˈleɪʃn/", cn: "隔离；孤立" },
+      { w: "erosion", pos: "n.", p: "/ɪˈrəʊʒn/", cn: "侵蚀；逐步削弱" },
+      { w: "companionship", pos: "n.", p: "/kəmˈpænjənʃɪp/", cn: "陪伴；友谊" },
+      { w: "profound", pos: "adj.", p: "/prəˈfaʊnd/", cn: "深刻的；深远的" },
+      { w: "measurable", pos: "adj.", p: "/ˈmeʒərəbl/", cn: "可测量的；显著的" },
+      { w: "chronic", pos: "adj.", p: "/ˈkrɒnɪk/", cn: "长期的；慢性的" },
+      { w: "immune", pos: "adj.", p: "/ɪˈmjuːn/", cn: "免疫的；不受影响的" },
+      { w: "vulnerable", pos: "adj.", p: "/ˈvʌlnərəbl/", cn: "脆弱的；易受伤害的" },
+      { w: "detachment", pos: "n.", p: "/dɪˈtætʃmənt/", cn: "超然；情感疏离" },
+      { w: "intensify", pos: "v.", p: "/ɪnˈtensɪfaɪ/", cn: "加剧；强化" },
+      { w: "relentless", pos: "adj.", p: "/rɪˈlentləs/", cn: "无情的；持续不断的" },
+      { w: "curated", pos: "adj.", p: "/ˈkjʊərɪtɪd/", cn: "（内容）精心筛选的" },
+      { w: "envy", pos: "n.", p: "/ˈenvi/", cn: "嫉妒；羡慕" },
+      { w: "unseen", pos: "adj.", p: "/ʌnˈsiːn/", cn: "未被看见的；无形的" },
+      { w: "genuine", pos: "adj.", p: "/ˈdʒenjuɪn/", cn: "真实的；真诚的" },
+      { w: "bond", pos: "n.", p: "/bɒnd/", cn: "纽带；情感联系" },
+      { w: "thrive", pos: "v.", p: "/θraɪv/", cn: "繁荣；茁壮成长" },
+      { w: "reconnection", pos: "n.", p: "/ˌriːkəˈnekʃn/", cn: "重新联结" },
+      { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施" },
+      { w: "luxury", pos: "n.", p: "/ˈlʌkʃəri/", cn: "奢侈（品）" },
+      { w: "acknowledge", pos: "v.", p: "/əkˈnɒlɪdʒ/", cn: "承认；认可" },
+      { w: "linger", pos: "v.", p: "/ˈlɪŋɡə(r)/", cn: "逗留；徘徊" },
+      { w: "ritual", pos: "n.", p: "/ˈrɪtʃuəl/", cn: "仪式；日常惯例" },
+      { w: "mutual", pos: "adj.", p: "/ˈmjuːtʃuəl/", cn: "相互的；共同的" },
+      { w: "spare", pos: "v.", p: "/speə(r)/", cn: "使免遭；饶恕（spared）" },
+      { w: "remote", pos: "adj.", p: "/rɪˈməʊt/", cn: "远程的；偏远的" },
+      { w: "unhurried", pos: "adj.", p: "/ʌnˈhʌrɪd/", cn: "从容不迫的；不慌不忙的" }
     ]
   },
   words: [
-    { w: "heuristic", pos: "n./adj.", p: "/hjʊˈrɪstɪk/", cn: "启发法；启发式的", ex: "The availability heuristic leads people to overestimate dramatic but rare events.", exCn: "可得性启发法会让人们高估那些戏剧性却罕见的事件。" },
-    { w: "rational", pos: "adj.", p: "/ˈræʃnəl/", cn: "理性的；合理的", ex: "A rational consumer compares prices before making a purchase.", exCn: "理性的消费者会在购买前先比较价格。" },
-    { w: "irrational", pos: "adj.", p: "/ɪˈræʃnəl/", cn: "非理性的；不合理的", ex: "Fear of flying is often an irrational response to very low statistical risk.", exCn: "害怕坐飞机往往是对极低统计风险的非理性反应。" },
-    { w: "instinct", pos: "n.", p: "/ˈɪnstɪŋkt/", cn: "本能；直觉", ex: "The fox acted on instinct the moment it sensed approaching danger.", exCn: "狐狸在察觉到逼近的危险时，凭本能做出了反应。" },
-    { w: "intuition", pos: "n.", p: "/ˌɪntjuˈɪʃn/", cn: "直觉；直观", ex: "Her intuition told her that the deal was too good to be true.", exCn: "她的直觉告诉她，这笔交易好得不太真实。" },
-    { w: "fallacy", pos: "n.", p: "/ˈfæləsi/", cn: "谬误；错误观念", ex: "The belief that busyness equals productivity is a common fallacy.", exCn: "认为忙碌就等于高效，是一种常见的谬误。" },
-    { w: "dilemma", pos: "n.", p: "/dɪˈlemə/", cn: "困境；两难选择", ex: "She faced the dilemma of staying home or taking a risky job abroad.", exCn: "她面临两难：是留在家里，还是接受那份有风险的海外工作。" },
-    { w: "trade-off", pos: "n.", p: "/ˈtreɪd ɒf/", cn: "权衡；取舍", ex: "There is always a trade-off between speed and accuracy in testing.", exCn: "在测试中，速度与分析准确性之间总有权衡取舍。" },
-    { w: "prudent", pos: "adj.", p: "/ˈpruːdnt/", cn: "谨慎的；审慎的", ex: "It is prudent to save money before starting a new business.", exCn: "在创业之前存钱是审慎的做法。" },
-    { w: "contradictory", pos: "adj.", p: "/ˌkɒntrəˈdɪktəri/", cn: "矛盾的；抵触的", ex: "The two reports gave contradictory accounts of what happened.", exCn: "两份报告对所发生之事给出了相互矛盾的说法。" },
-    { w: "judgment", pos: "n.", p: "/ˈdʒʌdʒmənt/", cn: "判断；判断力", ex: "Good judgment comes from experience as much as from knowledge.", exCn: "良好的判断力既来自知识，也来自经验。" },
-    { w: "prospect", pos: "n.", p: "/ˈprɒspekt/", cn: "前景；可能性", ex: "The prospect of early retirement excited the whole team.", exCn: "提前退休的前景让整个团队都感到兴奋。" },
-    { w: "outcome", pos: "n.", p: "/ˈaʊtkʌm/", cn: "结果；后果", ex: "The outcome of the election surprised even seasoned analysts.", exCn: "选举的结果连资深分析人士都感到意外。" },
-    { w: "suboptimal", pos: "adj.", p: "/ˌsʌbˈɒptɪməl/", cn: "次优的；不够理想的", ex: "Working without breaks leads to suboptimal performance over time.", exCn: "不休息地工作久而久之会导致不尽理想的表现。" },
-    { w: "precipitate", pos: "v.", p: "/prɪˈsɪpɪteɪt/", cn: "促使；使突然发生", ex: "Rumours of the merger precipitated a sharp fall in share prices.", exCn: "合并的传闻促使股价急剧下跌。" },
-    { w: "override", pos: "v.", p: "/ˌəʊvəˈraɪd/", cn: "推翻；优先于；压倒", ex: "Emergency protocols can override normal computer settings automatically.", exCn: "应急程序可以自动推翻常规的计算机设置。" },
-    { w: "weigh", pos: "v.", p: "/weɪ/", cn: "权衡；认真考虑", ex: "We must weigh the benefits against the possible risks.", exCn: "我们必须权衡收益与潜在风险。" },
-    { w: "arbitrary", pos: "adj.", p: "/ˈɑːbɪtrəri/", cn: "随意的；武断的", ex: "The decision seemed arbitrary, with no clear reason behind it.", exCn: "这个决定看似随意，背后没有明确理由。" },
-    { w: "predisposition", pos: "n.", p: "/ˌpriːdɪspəˈzɪʃn/", cn: "倾向；易感性", ex: "A genetic predisposition may increase the risk of certain diseases.", exCn: "遗传倾向可能会增加患某些疾病的风险。" },
-    { w: "predictable", pos: "adj.", p: "/prɪˈdɪktəbl/", cn: "可预测的；惯常的", ex: "Markets are less predictable when major news breaks unexpectedly.", exCn: "当重大新闻突然爆出时，市场的可预测性会降低。" },
-    { w: "optimal", pos: "adj.", p: "/ˈɒptɪml/", cn: "最佳的；最理想的", ex: "The optimal temperature for the reaction is around twenty degrees.", exCn: "该反应的最佳温度约为二十度。" },
-    { w: "maximize", pos: "v.", p: "/ˈmæksɪmaɪz/", cn: "最大化；充分利用", ex: "The firm tries to maximize profit without breaking any laws.", exCn: "这家公司试图在不违法的前提下实现利润最大化。" },
-    { w: "compromise", pos: "n./v.", p: "/ˈkɒmprəmaɪz/", cn: "妥协；折中", ex: "Both sides reached a compromise after long and difficult talks.", exCn: "经过漫长艰难的谈判，双方达成了妥协。" },
-    { w: "ascertain", pos: "v.", p: "/ˌæsəˈteɪn/", cn: "查明；确定", ex: "Investigators tried to ascertain the cause of the sudden fire.", exCn: "调查人员试图查明这场突发火灾的起因。" },
-    { w: "infer", pos: "v.", p: "/ɪnˈfɜː(r)/", cn: "推断；推论", ex: "From his silence we can infer that he disagrees with the plan.", exCn: "从他的沉默中我们可以推断，他并不认同这个计划。" },
-    { w: "premise", pos: "n.", p: "/ˈpremɪs/", cn: "前提；假定", ex: "The argument rests on the premise that people act in self-interest.", exCn: "该论点建立在「人会自利行事」这一前提之上。" },
-    { w: "conclusion", pos: "n.", p: "/kənˈkluːʒn/", cn: "结论；结尾", ex: "The study drew the conclusion that sleep improves memory.", exCn: "该研究得出的结论是，睡眠能改善记忆力。" },
-    { w: "anomaly", pos: "n.", p: "/əˈnɒməli/", cn: "异常；反常事物", ex: "A small anomaly in the data alerted the researchers to a mistake.", exCn: "数据中的一个微小异常引起了研究人员对错误的警觉。" },
-    { w: "hindsight", pos: "n.", p: "/ˈhaɪndsaɪt/", cn: "后见之明；事后聪明", ex: "With hindsight, we should have invested in the project earlier.", exCn: "事后看来，我们本应更早投资那个项目。" },
-    { w: "foresight", pos: "n.", p: "/ˈfɔːsaɪt/", cn: "远见；先见之明", ex: "The founder's foresight saved the company during the crisis.", exCn: "创始人的远见在危机中拯救了公司。" }
+    { w: "alienate", pos: "v.", p: "/ˈeɪliəneɪt/", cn: "使疏远；使隔离", ex: "His harsh criticism began to alienate his oldest friends.", exCn: "他尖刻的批评开始让最老的朋友与他疏远。" },
+    { w: "solitude", pos: "n.", p: "/ˈsɒlɪtjuːd/", cn: "独处；孤独", ex: "She enjoyed the solitude of the mountain cabin at weekends.", exCn: "她喜欢周末时山林小屋里的那份独处。" },
+    { w: "companionship", pos: "n.", p: "/kəmˈpænjənʃɪp/", cn: "陪伴；友谊", ex: "The old dog provided loyal companionship during his lonely years.", exCn: "那条老狗在他孤独的岁月里给予了忠实的陪伴。" },
+    { w: "estranged", pos: "adj.", p: "/ɪˈstreɪndʒd/", cn: "疏远的；不和的（尤指亲友）", ex: "After the argument, he remained estranged from his brother for years.", exCn: "那次争吵之后，他与兄弟多年互不往来。" },
+    { w: "gregarious", pos: "adj.", p: "/ɡrɪˈɡeəriəs/", cn: "爱交际的；合群的", ex: "As a gregarious child, she made friends wherever she went.", exCn: "作为一个爱交际的孩子，她走到哪里都能交到朋友。" },
+    { w: "reclusive", pos: "adj.", p: "/rɪˈkluːsɪv/", cn: "隐居的；离群索居的", ex: "The writer became increasingly reclusive and avoided all interviews.", exCn: "这位作家变得越来越隐居，回避一切采访。" },
+    { w: "rapport", pos: "n.", p: "/ræˈpɔː(r)/", cn: "融洽；默契（关系）", ex: "The teacher built a strong rapport with her students.", exCn: "这位老师与学生之间建立了深厚的融洽关系。" },
+    { w: "secluded", pos: "adj.", p: "/sɪˈkluːdɪd/", cn: "僻静的；隐蔽的", ex: "They found a secluded beach far from the tourist crowds.", exCn: "他们在远离游客群的地方找到了一片僻静的海滩。" },
+    { w: "seclusion", pos: "n.", p: "/sɪˈkluːʒn/", cn: "隐居；隔离（状态）", ex: "He retired to the seclusion of a countryside village.", exCn: "他退隐到一座乡村小村的僻静生活之中。" },
+    { w: "ostracize", pos: "v.", p: "/ˈɒstrəsaɪz/", cn: "排挤；排斥（某人）", ex: "Employees who spoke out were ostracized by their colleagues.", exCn: "那些敢于发声的员工遭到了同事的排挤。" },
+    { w: "shun", pos: "v.", p: "/ʃʌn/", cn: "回避；避开", ex: "After the scandal, he was shunned by his former allies.", exCn: "丑闻发生后，他昔日的盟友都对他避而远之。" },
+    { w: "sociable", pos: "adj.", p: "/ˈsəʊʃəbl/", cn: "好交际的；友善的", ex: "A sociable host ensures every guest feels welcome.", exCn: "好客的主人会让每位客人都感到受欢迎。" },
+    { w: "extrovert", pos: "n./adj.", p: "/ˈekstrəvɜːt/", cn: "外向者（的）", ex: "As a natural extrovert, he draws energy from being around people.", exCn: "作为一个天生的外向者，他在人群中能汲取能量。" },
+    { w: "introvert", pos: "n./adj.", p: "/ˈɪntrəvɜːt/", cn: "内向者（的）", ex: "The quiet introvert preferred reading to large parties.", exCn: "这位安静的内向者比起大型聚会，更偏爱读书。" },
+    { w: "ephemeral", pos: "adj.", p: "/ɪˈfemərəl/", cn: "短暂的；瞬息的", ex: "Fame can be ephemeral, fading as quickly as it arrives.", exCn: "名气可能转瞬即逝，来去都同样迅速。" },
+    { w: "solitary", pos: "adj.", p: "/ˈsɒlətri/", cn: "独自的；孤独的", ex: "A solitary figure walked along the empty beach at dawn.", exCn: "黎明时分，一个孤独的身影沿着空旷的海滩走去。" },
+    { w: "detached", pos: "adj.", p: "/dɪˈtætʃt/", cn: "超然的；冷漠的；分离的", ex: "He kept a detached attitude even during the crisis.", exCn: "即便在危机之中，他也保持着超然的态度。" },
+    { w: "disconnected", pos: "adj.", p: "/ˌdɪskəˈnektɪd/", cn: "断开的；脱离的", ex: "She felt disconnected from the community after moving abroad.", exCn: "移居国外后，她感到自己与这个社群断了联系。" },
+    { w: "atomization", pos: "n.", p: "/ˌætəmaɪˈzeɪʃn/", cn: "原子化；分散化（社会）", ex: "Urban life can lead to the atomization of families and neighbourhoods.", exCn: "城市生活可能导致家庭与邻里关系的原子化。" },
+    { w: "anonymity", pos: "n.", p: "/ˌænəˈnɪməti/", cn: "匿名；无名状态", ex: "The anonymity of the city allowed her to reinvent herself.", exCn: "城市的匿名性让她得以重塑自我。" },
+    { w: "rootless", pos: "adj.", p: "/ˈruːtləs/", cn: "无根的；漂泊的", ex: "Years of moving made him feel rootless and unsettled.", exCn: "多年的搬迁让他感到无依无靠、漂泊不定。" },
+    { w: "anomie", pos: "n.", p: "/ˈænəmi/", cn: "失范；社会规范缺失", ex: "Sociologists link anomie to rising rates of loneliness in cities.", exCn: "社会学家将『失范』与城市孤独率的上升联系起来。" },
+    { w: "desolate", pos: "adj.", p: "/ˈdesələt/", cn: "荒凉的；孤寂的", ex: "The desolate street felt unwelcoming after the shops closed.", exCn: "店铺打烊后，这条荒凉的街道令人感到冷清。" },
+    { w: "bereft", pos: "adj.", p: "/bɪˈreft/", cn: "丧失的；感到缺失的（of）", ex: "Bereft of companionship, she threw herself into her work.", exCn: "在缺少陪伴的情况下，她全身心投入了工作。" },
+    { w: "diffuse", pos: "adj./v.", p: "/dɪˈfjuːs/", cn: "分散的；弥漫的；扩散", ex: "The diffuse light of dawn slowly filled the room.", exCn: "黎明弥散的光线缓缓充满了房间。" },
+    { w: "fray", pos: "v.", p: "/freɪ/", cn: "磨损；（关系）紧张破裂", ex: "Years of arguments had frayed their once-close friendship.", exCn: "多年的争执使他们曾经亲密的友谊出现了裂痕。" },
+    { w: "ameliorate", pos: "v.", p: "/əˈmiːliəreɪt/", cn: "改善；缓和", ex: "New policies aim to ameliorate the living conditions of tenants.", exCn: "新政策旨在改善租户的生活条件。" },
+    { w: "reconcile", pos: "v.", p: "/ˈrekənsaɪl/", cn: "调和；使和解；使接受", ex: "He struggled to reconcile his career with his family life.", exCn: "他努力在事业与家庭生活之间求得平衡。" },
+    { w: "togetherness", pos: "n.", p: "/təˈɡeðənəs/", cn: "团聚；亲密无间", ex: "The festival promoted a sense of togetherness among neighbours.", exCn: "这个节日在邻里之间增进了团聚之感。" },
+    { w: "network", pos: "n.", p: "/ˈnetwɜːk/", cn: "网络；人际圈", ex: "She built a network of fellow writers to share advice.", exCn: "她建立了一个由同行作家组成的人际圈，以便交流经验。" }
   ],
   vocabArticle: {
-    title: "The Art of Choosing Well（择优而决的艺术）",
-    titleCn: "择优而决的艺术",
+    title: "Maya's Search for Connection",
+    titleCn: "玛雅寻找联结的旅程",
     paras: [
       {
-        en: "When faced with a difficult dilemma, Maya tried to weigh each option with rational care rather than trust sheer instinct. Her intuition urged her to decide at once, yet she resisted the impulsive pull. She knew a common fallacy—that feeling sure means being right—could precipitate poor choices. To avoid a suboptimal outcome, she refused to act on arbitrary whim and instead searched for solid evidence.",
-        cn: "面对艰难的两难，玛雅试图以理性的审慎来权衡每个选项，而非盲目信赖本能。直觉催促她立刻做决定，她却抵制住了这股冲动的拉力。她明白一个常见的谬误——「感觉有把握就等于正确」——可能会促成糟糕的选择。为了避免不尽理想的结果，她拒绝凭随意的念头行事，而是去寻找确凿的证据。"
+        en: "After moving to a new city for work, Maya felt rootless and disconnected from everyone she had ever known. The atomization of modern life meant that neighbours seldom spoke, and the once-warm street had grown desolate. Though she was sociable by nature, the constant anonymity of crowded trains left her strangely solitary. She began to understand the French sociologist's concept of anomie—a normless drift in which old bonds quietly fray.",
+        cn: "搬到新城市工作后，玛雅感到无依无靠，与所有相识的人失去了联系。现代生活的原子化意味着邻居几乎不再交谈，曾经温馨的街道变得冷清荒凉。尽管她天性合群，但在拥挤的列车上那种挥之不去的匿名感，却让她莫名地感到形单影只。她开始理解那位法国社会学家的「失范」概念——一种无规范的漂流状态，旧有的纽带在不知不觉中悄然磨损。"
       },
       {
-        en: "Maya listed the trade-off between speed and accuracy, aware that no choice was perfectly optimal. A genetic predisposition made her anxious about risk, but she remained prudent and did not let fear override her judgment. She could infer the likely consequences by reading past cases, and from the premise that careful people err less, she drew a sensible conclusion. Still, the future was not fully predictable.",
-        cn: "玛雅列出了速度与准确性之间的取舍，并意识到没有任何选择是绝对最佳的。一种遗传倾向让她对风险感到焦虑，但她依然谨慎，没有让恐惧压倒自己的判断。通过研读过往案例，她能推断出可能的后果；并基于「谨慎的人更少出错」这一前提，得出了合理的结论。不过，未来仍非完全可预测。"
+        en: "Maya's gregarious colleague Leo, an extrovert who thrived on parties, could not imagine her quiet evenings. By contrast, her reclusive downstairs neighbour, a shy introvert, seemed content in seclusion. Yet even the most gregarious person can feel bereft when a close friend moves away. Maya noticed how a detached manner helped some cope, while others tried to shun anyone who reminded them of happier, more sociable times.",
+        cn: "玛雅那位爱交际的同事利奥是个外向者，在派对上如鱼得水，根本无法想象她安静的夜晚。相反，楼下那位离群索居的邻居是个腼腆的内向者，似乎在独处中自得其乐。然而，即便最外向的人，在密友搬走时也会感到失落空虚。玛雅注意到，有些人用一种超然冷淡的态度来应对，而另一些人则试图回避任何让他们想起更快乐、更合群时光的人。"
       },
       {
-        en: "To maximize her chances, Maya used a simple heuristic: when two paths seemed equally good, pick the one with the better long-term prospect. She tried to ascertain the real facts, not merely guess. An anomaly in the data caught her attention, and she recognised that irrational panic had misled others before. Contradictory advice from friends only deepened her caution, so she sought clearer information.",
-        cn: "为了最大化成功的机会，玛雅用了一个简单的启发法：当两条路看似同样好时，就选长远前景更佳的那一条。她试图查明真实情况，而非仅仅猜测。数据中的一个异常引起了她的注意，她也意识到，非理性的恐慌此前曾误导过别人。朋友之间相互矛盾的建议只让她更加谨慎，于是她去寻求更清晰的信息。"
+        en: "Determined to ameliorate her situation, Maya built a small network of fellow newcomers. They met in a secluded café where the soft lighting encouraged rapport and easy togetherness. She learned to reconcile her love of solitude with a need for companionship, refusing to let loneliness alienate her from the world. Even the estranged woman next door slowly joined them, surprised that friendship could be rebuilt from such a diffuse, gentle beginning.",
+        cn: "决心改善处境的玛雅，建立了一个由同为异乡人的新朋友组成的小圈子。他们相约在一间僻静的咖啡馆，柔和的灯光促成了轻松的默契与团聚之感。她学会在热爱独处与渴望陪伴之间求得平衡，拒绝让孤独把她与世界隔绝。就连隔壁那位闹翻了的女人也慢慢加入进来，惊讶地发现友谊竟能从如此松散温和的开端中重建。"
       },
       {
-        en: "In hindsight, Maya saw that her foresight had served her well, for the rushed decision she had avoided would have been a mistake. She reached a fair compromise between caution and action, accepting that no one can remove every bias. With clearer judgment, she moved forward—proof that thoughtful deliberation, not luck, shapes the outcomes we live with.",
-        cn: "事后看来，玛雅发现自己的远见帮了大忙，因为她所回避的那个草率决定本会是个错误。她在谨慎与行动之间达成了公平的妥协，并接受了一个事实：没有人能消除每一种偏差。凭借更清晰的判断，她继续前行——这证明了塑造我们所要面对之结果的，是深思熟虑，而非运气。"
+        en: "Not everyone welcomed the group. A few residents tried to ostracize them, fearing change in their quiet building. But Maya realised that online friendships, though sometimes ephemeral, could still ease the ache of separation. She refused to let the building's coldness define her, and instead chose connection over isolation. In the end, what began as a solitary struggle became proof that even the most detached city-dweller can find belonging.",
+        cn: "并非所有人都欢迎这个小团体。几位居民试图排挤他们，害怕这幢安静楼房里的变化。但玛雅意识到，网络上的友情尽管有时转瞬即逝，仍能让离别之痛得以缓解。她拒绝让这栋楼的冷漠定义自己，而是选择了联结而非孤立。最终，这场始于孤身挣扎的经历证明：即便最疏离的都市人，也能找到归属感。"
       }
     ]
   },
   grammar: [
     {
-      q: "The psychologist emphasised that not only the students but also the headmaster ___ invited to the seminar on cognitive bias.",
+      q: "___ to admit their loneliness, many sufferers hide it behind a busy public life.",
       options: [
-        "were",
-        "was",
-        "have been",
-        "be"
+        "Rarely do they dare",
+        "Rarely they dare",
+        "They rarely dare",
+        "Do they rarely dare"
       ],
-      answer: 1,
-      explain: "考点：主谓一致（not only...but also 的就近/邻近原则）。由 not only A but also B 连接两个主语时，谓语动词的数由靠近谓语的 B 决定，而非整体。本句靠近谓语的是单数名词 the headmaster，故谓语用单数 was。A（were）误把 not only...but also 整体当作复数；C（have been）时态与主句一般过去（emphasised）及被动 invited 不协调，且未体现就近；D（be）是动词原形，不能单独充当谓语。扩展：同类就近原则的结构还有 either...or、neither...nor、not...but 等。"
+      answer: 0,
+      explain: "考点：否定副词置于句首引起的部分倒装。否定副词 rarely（几乎不）放在句首时，句子须部分倒装，即把助动词/情态动词/be 动词提到主语之前；本句主语 they 后用实义动词 dare（敢于，此处作普通动词），需借助助动词 do 构成倒装，故为 Rarely do they dare。B（Rarely they dare）完全没有倒装，错误；C（They rarely dare）虽语法正确，但 rarely 不在句首，不符合『句首否定副词+倒装』的考点要求；D（Do they rarely dare）语序混乱——rarely 应紧邻 do 之前，且助动词已提前，主语 they 应紧随其后。扩展：常见触发句首倒装的否定词/短语还有 seldom, never, hardly, scarcely, not only, in no way, under no circumstances 等；倒装后主谓语序为『否定词 + 助动词 + 主语 + 谓语剩余部分』。"
     },
     {
-      q: "___ is widely acknowledged, human decision-making is rarely as rational as we like to believe.",
+      q: "She wishes she ___ more time with her neighbours before the building was sold.",
       options: [
-        "Which",
-        "As",
-        "That",
-        "What"
+        "had spent",
+        "has spent",
+        "spent",
+        "spends"
       ],
-      answer: 1,
-      explain: "考点：定语从句（as 引导的非限制性定语从句）。as 可引导非限制性定语从句，指代整个主句或主句的一部分，且 as 从句可置于句首、句中或句末；而 which 引导的非限制性定语从句只能置于句末，不能放在句首。本句从句位于句首，指代后面『人类决策很少如我们以为的那般理性』这一事实，只能用 As。A（Which）不能用于句首；C（That）不引导非限制性定语从句；D（What）不引导定语从句，且必须在从句中充当成分。扩展：as 常用于 as is known / as is reported / as often happens 等固定搭配。"
+      answer: 0,
+      explain: "考点：wish 后接宾语从句的虚拟语气。wish 表示『希望（与现实相反）』时，从句要用虚拟语气：与现在事实相反用一般过去时，与过去事实相反用过去完成时（had + 过去分词），与将来事实相反用 would/could + 动词原形。本句时间状语 before the building was sold 明确指向过去，且『与邻居多花时间』这一动作并未发生在过去，属与过去事实相反，故用 had spent。B（has spent）是现在完成时，表真实已发生，与虚拟语气冲突；C（spent）为一般过去时，在 wish 从句中仅表示与现在事实相反，无法对应句中的过去时间背景；D（spends）是一般现在时，既非虚拟形式也不合时态。扩展：类似需用虚拟语气的动词还有 suppose, imagine 以及 if only 句式；只要从句所述与既定事实相反，就要把时态『后退一步』。"
     }
   ]
 };
