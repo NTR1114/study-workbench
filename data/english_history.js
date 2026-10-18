@@ -281,5 +281,11 @@ window.ENGLISH_HISTORY = [
     topic: "Social Isolation & Loneliness in Modern Society（现代社会中的孤独与社交隔离）",
     articleTitle: "The Lonely Crowd: Why Modern Life Leaves Us Feeling Alone",
     words: ["alienate","solitude","companionship","estranged","gregarious","reclusive","rapport","secluded","seclusion","ostracize","shun","sociable","extrovert","introvert","ephemeral","solitary","detached","disconnected","atomization","anonymity","rootless","anomie","desolate","bereft","diffuse","fray","ameliorate","reconcile","togetherness","network"]
+  },
+  {
+    date: "2026-10-18",
+    topic: "Early Childhood Development & Parenting（儿童早期发展与科学育儿）",
+    articleTitle: "The First Five Years: How Early Childhood Shapes a Lifetime",
+    words: ["rear","upbringing","infancy","toddler","attachment","temperament","milestone","household","sibling","responsive","affection","coddle","offspring","adolescence","parental","prenatal","insecure","developmental","scaffold","emulate","innate","prosocial","tantrum","overprotect","pediatrician","lullaby","formative","soothe","reassure","conscientious"]
   }
 ];

@@ -1,135 +1,136 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-16",
-  topic: "Social Isolation & Loneliness in Modern Society（现代社会中的孤独与社交隔离）",
+  date: "2026-10-18",
+  topic: "Early Childhood Development & Parenting（儿童早期发展与科学育儿）",
   article: {
-    title: "The Lonely Crowd: Why Modern Life Leaves Us Feeling Alone",
-    titleCn: "孤独的人群：为何现代生活让我们倍感孤独",
+    title: "The First Five Years: How Early Childhood Shapes a Lifetime",
+    titleCn: "人生头五年：早期童年如何塑造一生",
     paras: [
       {
-        en: "Although humans are more digitally connected than at any point in history, a growing number of people report feeling profoundly lonely. Urbanisation, longer working hours and the erosion of traditional communities have left many individuals without a reliable circle of companions. Researchers warn that isolation is no longer a private sorrow but a public-health concern with measurable effects on both body and mind.",
-        cn: "尽管人类在数字化层面比历史上任何时期都更紧密相连，却有越来越多的人表示自己深感孤独。城市化、更长的工时以及传统社群的逐步瓦解，让许多人失去了可靠的朋友圈。研究者警告，孤独已不再是个人的隐忧，而是一个会对身心产生可测量影响的公共卫生问题。"
+        en: "The first five years of life are now widely regarded as the most consequential period of human development. During this window, the brain forms more than a million neural connections every second, laying the foundation for language, emotion and reasoning. Scientists stress that early experiences, whether nurturing or deprived, leave lasting imprints on a child's future capacity to learn, relate and grow. Consequently, investment in the earliest years is increasingly seen not as a luxury but as a public priority.",
+        cn: "人生的头五年如今被普遍视为人类发展中最具决定性的阶段。在这一窗口期，大脑每秒形成超过一百万个神经连接，为语言、情感与推理能力奠定基础。科学家强调，早年的经历——无论滋养还是匮乏——都会在孩子未来学习、交往与成长的能力上留下持久印记。因此，对最初几年的投入日益被视为一项公共优先事项，而非奢侈。"
       },
       {
-        en: "Studies suggest that chronic loneliness can be as damaging as smoking fifteen cigarettes a day. It weakens the immune system, disrupts sleep and raises the risk of depression. Older adults living alone are especially vulnerable, yet young people are not spared: surveys show that university students and remote workers frequently struggle with a sense of detachment. The problem cuts across age, class and nationality.",
-        cn: "研究表明，长期的孤独感其危害堪比每天吸十五支烟。它会削弱免疫系统、扰乱睡眠并提高罹患抑郁的风险。独居的老年人尤为脆弱，但年轻人也未能幸免：调查显示，大学生与远程工作者常常陷入一种情感上的疏离。这一问题横跨年龄、阶层与国界。"
+        en: "Central to healthy growth is the relationship between a child and their first carers. Psychologists describe a secure attachment as the emotional anchor that allows young children to explore the world with confidence. When parents respond consistently and warmly, children develop a sense of security and trust; when care is erratic or hostile, they may become anxious or distant. This early relationship shapes social skills far more than any later intervention, underscoring the quiet power of ordinary, attentive parenting.",
+        cn: "健康成长的核心，在于孩子与其最初照料者之间的关系。心理学家将安全的依恋描述为情感上的锚，让年幼的孩子能充满信心地探索世界。当父母持续而温暖地回应时，孩子会萌生安全感与信任；而当照料时断时续或充满敌意时，他们可能变得焦虑或疏离。这种早期关系对社交技能的塑造，远胜于此后的任何干预，凸显了平常而用心的育儿所蕴含的静默力量。"
       },
       {
-        en: "Modern cities, for all their energy, can intensify isolation. High rents push friends into separate suburbs, while relentless schedules leave little time for unhurried conversation. Social media promises connection but often delivers a curated highlight reel that deepens comparison and envy. Consequently, many individuals feel surrounded yet unseen, present in a crowd yet absent from any genuine bond. Loneliness, it turns out, thrives in the busiest places.",
-        cn: "现代都市尽管充满活力，却可能加剧孤独。高昂的租金把朋友推向不同的郊区，而无休止的日程又几乎留不出从容交谈的时间。社交媒体许诺联结，却往往只递来一段精心剪辑的高光集锦，反而加深了比较与嫉妒。于是，许多人感到被包围却无人看见，身处人群却与任何真实的纽带绝缘。事实证明，孤独在最喧嚣的地方反而生长得最好。"
+        en: "Modern families face pressures unfamiliar to previous generations. Rising maternal employment has expanded formal childcare, while digital screens compete for a young child's attention at home. Some experts warn that excessive screen time may displace the face-to-face interaction essential for language acquisition. Others counter that high-quality daycare can encourage development. What is clear is that quality, not merely quantity, of early stimulation determines whether children prosper or merely cope.",
+        cn: "现代家庭面临着前几代人陌生的压力。母亲就业率的上升扩大了正规托幼服务，而数字屏幕则在家中争夺幼儿的注意力。一些专家警告，过度的屏幕时间可能挤掉对语言习得至关重要的面对面互动。另一些人则反驳说，高质量的日托同样能促进发展。清楚的是，早期刺激的质量而非数量，决定了孩子是茁壮成长还是仅仅勉力应付。"
       },
       {
-        en: "Reversing the trend requires more than good intentions. Urban planners might design streets that invite lingering; employers could protect time for real interaction; and neighbours can rebuild the small rituals of mutual care. Crucially, acknowledging loneliness without shame is the first step toward reconnection. A society that treats connection as infrastructure, not luxury, will find its people healthier, kinder and far less alone.",
-        cn: "扭转这一趋势需要的远不止良好的意愿。城市规划者可以设计让人愿意驻足的街道；雇主可以保护真实交流的时间；邻居们也能重建彼此关照的小小日常。关键在于，不带羞耻地承认孤独，才是重新联结的第一步。一个把联结当作基础设施而非奢侈享受的社会，会发现它的人民更健康、更友善，也远不至于那么孤独。"
+        en: "Governments are gradually awakening to this research. Several nations now fund home-visiting programmes that coach struggling parents, while others extend paid parental leave to protect the earliest connection of care. Critics argue such measures are costly and intrusive, yet longitudinal studies suggest every dollar spent on early childhood yields outsized returns in health, education and earnings. In truth, the foundations of a fairer society are poured in the nursery, long before school begins.",
+        cn: "各国政府正逐渐意识到这项研究的意义。一些国家如今资助入户探访项目来辅导陷入困境的父母，另一些则延长带薪育儿假，以保护最初的情感联结。批评者认为这类措施耗资且干涉过度，然而纵向研究表明，投在早期儿童身上的每一美元，都会在健康、教育与收入上带来超常回报。事实上，一个更公平社会的基础，早在学校开学之前，便已在托儿所里浇筑而成。"
       }
     ],
     glossary: [
-      { w: "loneliness", pos: "n.", p: "/ˈləʊnlɪnəs/", cn: "孤独；孤独感" },
-      { w: "isolation", pos: "n.", p: "/ˌaɪsəˈleɪʃn/", cn: "隔离；孤立" },
-      { w: "erosion", pos: "n.", p: "/ɪˈrəʊʒn/", cn: "侵蚀；逐步削弱" },
-      { w: "companionship", pos: "n.", p: "/kəmˈpænjənʃɪp/", cn: "陪伴；友谊" },
-      { w: "profound", pos: "adj.", p: "/prəˈfaʊnd/", cn: "深刻的；深远的" },
-      { w: "measurable", pos: "adj.", p: "/ˈmeʒərəbl/", cn: "可测量的；显著的" },
-      { w: "chronic", pos: "adj.", p: "/ˈkrɒnɪk/", cn: "长期的；慢性的" },
-      { w: "immune", pos: "adj.", p: "/ɪˈmjuːn/", cn: "免疫的；不受影响的" },
-      { w: "vulnerable", pos: "adj.", p: "/ˈvʌlnərəbl/", cn: "脆弱的；易受伤害的" },
-      { w: "detachment", pos: "n.", p: "/dɪˈtætʃmənt/", cn: "超然；情感疏离" },
-      { w: "intensify", pos: "v.", p: "/ɪnˈtensɪfaɪ/", cn: "加剧；强化" },
-      { w: "relentless", pos: "adj.", p: "/rɪˈlentləs/", cn: "无情的；持续不断的" },
-      { w: "curated", pos: "adj.", p: "/ˈkjʊərɪtɪd/", cn: "（内容）精心筛选的" },
-      { w: "envy", pos: "n.", p: "/ˈenvi/", cn: "嫉妒；羡慕" },
-      { w: "unseen", pos: "adj.", p: "/ʌnˈsiːn/", cn: "未被看见的；无形的" },
-      { w: "genuine", pos: "adj.", p: "/ˈdʒenjuɪn/", cn: "真实的；真诚的" },
-      { w: "bond", pos: "n.", p: "/bɒnd/", cn: "纽带；情感联系" },
-      { w: "thrive", pos: "v.", p: "/θraɪv/", cn: "繁荣；茁壮成长" },
-      { w: "reconnection", pos: "n.", p: "/ˌriːkəˈnekʃn/", cn: "重新联结" },
-      { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施" },
-      { w: "luxury", pos: "n.", p: "/ˈlʌkʃəri/", cn: "奢侈（品）" },
-      { w: "acknowledge", pos: "v.", p: "/əkˈnɒlɪdʒ/", cn: "承认；认可" },
-      { w: "linger", pos: "v.", p: "/ˈlɪŋɡə(r)/", cn: "逗留；徘徊" },
-      { w: "ritual", pos: "n.", p: "/ˈrɪtʃuəl/", cn: "仪式；日常惯例" },
-      { w: "mutual", pos: "adj.", p: "/ˈmjuːtʃuəl/", cn: "相互的；共同的" },
-      { w: "spare", pos: "v.", p: "/speə(r)/", cn: "使免遭；饶恕（spared）" },
-      { w: "remote", pos: "adj.", p: "/rɪˈməʊt/", cn: "远程的；偏远的" },
-      { w: "unhurried", pos: "adj.", p: "/ʌnˈhʌrɪd/", cn: "从容不迫的；不慌不忙的" }
+      { w: "consequential", pos: "adj.", p: "/ˌkɒnsəˈkwenʃl/", cn: "重要的；后果严重的" },
+      { w: "neural", pos: "adj.", p: "/ˈnjʊərəl/", cn: "神经的" },
+      { w: "foundation", pos: "n.", p: "/faʊnˈdeɪʃn/", cn: "基础；根基" },
+      { w: "reasoning", pos: "n.", p: "/ˈriːznɪŋ/", cn: "推理；说理" },
+      { w: "deprived", pos: "adj.", p: "/dɪˈpraɪvd/", cn: "被剥夺的；匮乏的" },
+      { w: "capacity", pos: "n.", p: "/kəˈpæsəti/", cn: "能力；容量" },
+      { w: "priority", pos: "n.", p: "/praɪˈɒrəti/", cn: "优先（事项）" },
+      { w: "anchor", pos: "n.", p: "/ˈæŋkə(r)/", cn: "锚；精神支柱" },
+      { w: "erratic", pos: "adj.", p: "/ɪˈrætɪk/", cn: "不稳定的；无常的" },
+      { w: "hostile", pos: "adj.", p: "/ˈhɒstaɪl/", cn: "敌对的；不友善的" },
+      { w: "intervention", pos: "n.", p: "/ˌɪntəˈvenʃn/", cn: "干预；介入" },
+      { w: "attentive", pos: "adj.", p: "/əˈtentɪv/", cn: "专心的；关怀的" },
+      { w: "maternal", pos: "adj.", p: "/məˈtɜːnl/", cn: "母亲的；母性的" },
+      { w: "childcare", pos: "n.", p: "/ˈtʃaɪldkeə(r)/", cn: "儿童保育；托幼" },
+      { w: "excessive", pos: "adj.", p: "/ɪkˈsesɪv/", cn: "过度的；过分的" },
+      { w: "displace", pos: "v.", p: "/dɪsˈpleɪs/", cn: "取代；排挤" },
+      { w: "acquisition", pos: "n.", p: "/ˌækwɪˈzɪʃn/", cn: "获得；习得" },
+      { w: "cope", pos: "v.", p: "/kəʊp/", cn: "应对；应付" },
+      { w: "unfamiliar", pos: "adj.", p: "/ˌʌnfəˈmɪliə(r)/", cn: "不熟悉的" },
+      { w: "generation", pos: "n.", p: "/ˌdʒenəˈreɪʃn/", cn: "一代（人）" },
+      { w: "quantity", pos: "n.", p: "/ˈkwɒntəti/", cn: "数量" },
+      { w: "intrusive", pos: "adj.", p: "/ɪnˈtruːsɪv/", cn: "干涉的；侵扰的" },
+      { w: "longitudinal", pos: "adj.", p: "/ˌlɒŋɡɪˈtjuːdɪnl/", cn: "纵向的（研究）" },
+      { w: "outsized", pos: "adj.", p: "/ˌaʊtˈsaɪzd/", cn: "特大的；超常的" },
+      { w: "nursery", pos: "n.", p: "/ˈnɜːsəri/", cn: "托儿所；育儿室" },
+      { w: "yield", pos: "v.", p: "/jiːld/", cn: "产生；带来" },
+      { w: "security", pos: "n.", p: "/sɪˈkjʊərəti/", cn: "安全；安全感" },
+      { w: "consistent", pos: "adj.", p: "/kənˈsɪstənt/", cn: "一致的；一贯的" },
+      { w: "explore", pos: "v.", p: "/ɪkˈsplɔː(r)/", cn: "探索；探究" }
     ]
   },
   words: [
-    { w: "alienate", pos: "v.", p: "/ˈeɪliəneɪt/", cn: "使疏远；使隔离", ex: "His harsh criticism began to alienate his oldest friends.", exCn: "他尖刻的批评开始让最老的朋友与他疏远。" },
-    { w: "solitude", pos: "n.", p: "/ˈsɒlɪtjuːd/", cn: "独处；孤独", ex: "She enjoyed the solitude of the mountain cabin at weekends.", exCn: "她喜欢周末时山林小屋里的那份独处。" },
-    { w: "companionship", pos: "n.", p: "/kəmˈpænjənʃɪp/", cn: "陪伴；友谊", ex: "The old dog provided loyal companionship during his lonely years.", exCn: "那条老狗在他孤独的岁月里给予了忠实的陪伴。" },
-    { w: "estranged", pos: "adj.", p: "/ɪˈstreɪndʒd/", cn: "疏远的；不和的（尤指亲友）", ex: "After the argument, he remained estranged from his brother for years.", exCn: "那次争吵之后，他与兄弟多年互不往来。" },
-    { w: "gregarious", pos: "adj.", p: "/ɡrɪˈɡeəriəs/", cn: "爱交际的；合群的", ex: "As a gregarious child, she made friends wherever she went.", exCn: "作为一个爱交际的孩子，她走到哪里都能交到朋友。" },
-    { w: "reclusive", pos: "adj.", p: "/rɪˈkluːsɪv/", cn: "隐居的；离群索居的", ex: "The writer became increasingly reclusive and avoided all interviews.", exCn: "这位作家变得越来越隐居，回避一切采访。" },
-    { w: "rapport", pos: "n.", p: "/ræˈpɔː(r)/", cn: "融洽；默契（关系）", ex: "The teacher built a strong rapport with her students.", exCn: "这位老师与学生之间建立了深厚的融洽关系。" },
-    { w: "secluded", pos: "adj.", p: "/sɪˈkluːdɪd/", cn: "僻静的；隐蔽的", ex: "They found a secluded beach far from the tourist crowds.", exCn: "他们在远离游客群的地方找到了一片僻静的海滩。" },
-    { w: "seclusion", pos: "n.", p: "/sɪˈkluːʒn/", cn: "隐居；隔离（状态）", ex: "He retired to the seclusion of a countryside village.", exCn: "他退隐到一座乡村小村的僻静生活之中。" },
-    { w: "ostracize", pos: "v.", p: "/ˈɒstrəsaɪz/", cn: "排挤；排斥（某人）", ex: "Employees who spoke out were ostracized by their colleagues.", exCn: "那些敢于发声的员工遭到了同事的排挤。" },
-    { w: "shun", pos: "v.", p: "/ʃʌn/", cn: "回避；避开", ex: "After the scandal, he was shunned by his former allies.", exCn: "丑闻发生后，他昔日的盟友都对他避而远之。" },
-    { w: "sociable", pos: "adj.", p: "/ˈsəʊʃəbl/", cn: "好交际的；友善的", ex: "A sociable host ensures every guest feels welcome.", exCn: "好客的主人会让每位客人都感到受欢迎。" },
-    { w: "extrovert", pos: "n./adj.", p: "/ˈekstrəvɜːt/", cn: "外向者（的）", ex: "As a natural extrovert, he draws energy from being around people.", exCn: "作为一个天生的外向者，他在人群中能汲取能量。" },
-    { w: "introvert", pos: "n./adj.", p: "/ˈɪntrəvɜːt/", cn: "内向者（的）", ex: "The quiet introvert preferred reading to large parties.", exCn: "这位安静的内向者比起大型聚会，更偏爱读书。" },
-    { w: "ephemeral", pos: "adj.", p: "/ɪˈfemərəl/", cn: "短暂的；瞬息的", ex: "Fame can be ephemeral, fading as quickly as it arrives.", exCn: "名气可能转瞬即逝，来去都同样迅速。" },
-    { w: "solitary", pos: "adj.", p: "/ˈsɒlətri/", cn: "独自的；孤独的", ex: "A solitary figure walked along the empty beach at dawn.", exCn: "黎明时分，一个孤独的身影沿着空旷的海滩走去。" },
-    { w: "detached", pos: "adj.", p: "/dɪˈtætʃt/", cn: "超然的；冷漠的；分离的", ex: "He kept a detached attitude even during the crisis.", exCn: "即便在危机之中，他也保持着超然的态度。" },
-    { w: "disconnected", pos: "adj.", p: "/ˌdɪskəˈnektɪd/", cn: "断开的；脱离的", ex: "She felt disconnected from the community after moving abroad.", exCn: "移居国外后，她感到自己与这个社群断了联系。" },
-    { w: "atomization", pos: "n.", p: "/ˌætəmaɪˈzeɪʃn/", cn: "原子化；分散化（社会）", ex: "Urban life can lead to the atomization of families and neighbourhoods.", exCn: "城市生活可能导致家庭与邻里关系的原子化。" },
-    { w: "anonymity", pos: "n.", p: "/ˌænəˈnɪməti/", cn: "匿名；无名状态", ex: "The anonymity of the city allowed her to reinvent herself.", exCn: "城市的匿名性让她得以重塑自我。" },
-    { w: "rootless", pos: "adj.", p: "/ˈruːtləs/", cn: "无根的；漂泊的", ex: "Years of moving made him feel rootless and unsettled.", exCn: "多年的搬迁让他感到无依无靠、漂泊不定。" },
-    { w: "anomie", pos: "n.", p: "/ˈænəmi/", cn: "失范；社会规范缺失", ex: "Sociologists link anomie to rising rates of loneliness in cities.", exCn: "社会学家将『失范』与城市孤独率的上升联系起来。" },
-    { w: "desolate", pos: "adj.", p: "/ˈdesələt/", cn: "荒凉的；孤寂的", ex: "The desolate street felt unwelcoming after the shops closed.", exCn: "店铺打烊后，这条荒凉的街道令人感到冷清。" },
-    { w: "bereft", pos: "adj.", p: "/bɪˈreft/", cn: "丧失的；感到缺失的（of）", ex: "Bereft of companionship, she threw herself into her work.", exCn: "在缺少陪伴的情况下，她全身心投入了工作。" },
-    { w: "diffuse", pos: "adj./v.", p: "/dɪˈfjuːs/", cn: "分散的；弥漫的；扩散", ex: "The diffuse light of dawn slowly filled the room.", exCn: "黎明弥散的光线缓缓充满了房间。" },
-    { w: "fray", pos: "v.", p: "/freɪ/", cn: "磨损；（关系）紧张破裂", ex: "Years of arguments had frayed their once-close friendship.", exCn: "多年的争执使他们曾经亲密的友谊出现了裂痕。" },
-    { w: "ameliorate", pos: "v.", p: "/əˈmiːliəreɪt/", cn: "改善；缓和", ex: "New policies aim to ameliorate the living conditions of tenants.", exCn: "新政策旨在改善租户的生活条件。" },
-    { w: "reconcile", pos: "v.", p: "/ˈrekənsaɪl/", cn: "调和；使和解；使接受", ex: "He struggled to reconcile his career with his family life.", exCn: "他努力在事业与家庭生活之间求得平衡。" },
-    { w: "togetherness", pos: "n.", p: "/təˈɡeðənəs/", cn: "团聚；亲密无间", ex: "The festival promoted a sense of togetherness among neighbours.", exCn: "这个节日在邻里之间增进了团聚之感。" },
-    { w: "network", pos: "n.", p: "/ˈnetwɜːk/", cn: "网络；人际圈", ex: "She built a network of fellow writers to share advice.", exCn: "她建立了一个由同行作家组成的人际圈，以便交流经验。" }
+    { w: "rear", pos: "v.", p: "/rɪə(r)/", cn: "抚养；养育", ex: "A loving family helps rear a child with natural curiosity.", exCn: "充满爱的家庭有助于带着天生的好奇心把孩子抚养长大。" },
+    { w: "upbringing", pos: "n.", p: "/ˈʌpbrɪŋɪŋ/", cn: "养育；教养", ex: "Her strict upbringing taught her the value of discipline.", exCn: "她严格的成长教养让她懂得了自律的价值。" },
+    { w: "infancy", pos: "n.", p: "/ˈɪnfənsi/", cn: "婴儿期；初期", ex: "The project is still in its infancy and needs time to grow.", exCn: "这个项目仍处于初期，需要时间成长。" },
+    { w: "toddler", pos: "n.", p: "/ˈtɒdlə(r)/", cn: "学步儿童；幼童", ex: "The toddler took his first uncertain steps across the room.", exCn: "那个学步儿跌跌撞撞地迈出了穿过房间的第一步。" },
+    { w: "attachment", pos: "n.", p: "/əˈtætʃmənt/", cn: "依恋；依附", ex: "A secure attachment to parents builds a child's confidence.", exCn: "对父母的安全依恋能建立孩子的自信。" },
+    { w: "temperament", pos: "n.", p: "/ˈtemprəmənt/", cn: "性情；气质", ex: "Each baby has a distinct temperament from birth.", exCn: "每个婴儿从出生起就有独特的性情。" },
+    { w: "milestone", pos: "n.", p: "/ˈmaɪlstəʊn/", cn: "里程碑；重要阶段", ex: "Speaking the first word is a major milestone in infancy.", exCn: "说出第一个词是婴儿期的一个重要里程碑。" },
+    { w: "household", pos: "n./adj.", p: "/ˈhaʊshəʊld/", cn: "家庭（的）；家用的", ex: "Every household faces its own small daily challenges.", exCn: "每个家庭都面临自己日常的小挑战。" },
+    { w: "sibling", pos: "n.", p: "/ˈsɪblɪŋ/", cn: "兄弟；姐妹；同胞", ex: "The new baby brought joy to his older sibling.", exCn: "新生儿给他的哥哥（姐姐）带来了欢乐。" },
+    { w: "responsive", pos: "adj.", p: "/rɪˈspɒnsɪv/", cn: "反应迅速的；积极响应的", ex: "A responsive parent soothes a crying child with calm words.", exCn: "反应敏锐的父母会用平静的话语安抚哭泣的孩子。" },
+    { w: "affection", pos: "n.", p: "/əˈfekʃn/", cn: "喜爱；慈爱", ex: "Grandparents showed the child endless affection.", exCn: "祖父母对孩子表现出无尽的慈爱。" },
+    { w: "coddle", pos: "v.", p: "/ˈkɒdl/", cn: "娇惯；过度呵护", ex: "Parents who coddle their children may weaken their independence.", exCn: "过度娇惯孩子的父母可能会削弱孩子的独立性。" },
+    { w: "offspring", pos: "n.", p: "/ˈɒfsprɪŋ/", cn: "后代；子女", ex: "The couple worried about the future of their offspring.", exCn: "这对夫妇担忧他们子女的未来。" },
+    { w: "adolescence", pos: "n.", p: "/ˌædəˈlesns/", cn: "青春期", ex: "Adolescence is a period of rapid physical and emotional change.", exCn: "青春期是身心快速变化的阶段。" },
+    { w: "parental", pos: "adj.", p: "/pəˈrentl/", cn: "父母的；双亲的", ex: "Parental support is crucial during a child's early years.", exCn: "父母的支持在孩子的早年至关重要。" },
+    { w: "prenatal", pos: "adj.", p: "/ˌpriːˈneɪtl/", cn: "产前的；孕期的", ex: "Prenatal care improves the health of both mother and baby.", exCn: "产前护理能改善母婴双方的健康。" },
+    { w: "insecure", pos: "adj.", p: "/ˌɪnsɪˈkjʊə(r)/", cn: "缺乏安全感的；不安全的", ex: "A neglected child may grow up feeling insecure.", exCn: "被忽视的孩子长大后可能缺乏安全感。" },
+    { w: "developmental", pos: "adj.", p: "/dɪˌveləpˈmentl/", cn: "发展的；发育的", ex: "Reading aloud supports a child's developmental progress.", exCn: "朗读有助于孩子的发展进步。" },
+    { w: "scaffold", pos: "v./n.", p: "/ˈskæfəʊld/", cn: "搭建支架；循序渐进地辅助", ex: "Teachers scaffold learning by breaking tasks into steps.", exCn: "教师通过将任务分解来为学生搭建学习支架。" },
+    { w: "emulate", pos: "v.", p: "/ˈemjuleɪt/", cn: "效仿；模仿（以超越）", ex: "Young children emulate the behaviour of older siblings.", exCn: "年幼的孩子会效仿哥哥姐姐的行为。" },
+    { w: "innate", pos: "adj.", p: "/ɪˈneɪt/", cn: "天生的；固有的", ex: "Some argue that talent is innate rather than learned.", exCn: "有人主张天赋是天生的，而非后天习得的。" },
+    { w: "prosocial", pos: "adj.", p: "/ˌprəʊˈsəʊʃl/", cn: "亲社会的；有助他人的", ex: "Sharing toys is a prosocial behaviour encouraged in nurseries.", exCn: "分享玩具是托儿所里被鼓励的一种亲社会行为。" },
+    { w: "tantrum", pos: "n.", p: "/ˈtæntrəm/", cn: "（孩童的）发脾气；耍赖", ex: "The tired toddler threw a tantrum in the supermarket.", exCn: "那个疲倦的学步儿在超市里大发脾气。" },
+    { w: "overprotect", pos: "v.", p: "/ˌəʊvəprəˈtekt/", cn: "过度保护", ex: "To overprotect a child can hinder their self-confidence.", exCn: "过度保护孩子反而会妨害其自信。" },
+    { w: "pediatrician", pos: "n.", p: "/ˌpiːdiəˈtrɪʃn/", cn: "儿科医生", ex: "The pediatrician monitored the baby's growth each month.", exCn: "儿科医生每月监测婴儿的生长发育。" },
+    { w: "lullaby", pos: "n.", p: "/ˈlʌləbaɪ/", cn: "摇篮曲", ex: "She sang a soft lullaby to help the infant sleep.", exCn: "她唱起轻柔的摇篮曲哄婴儿入睡。" },
+    { w: "formative", pos: "adj.", p: "/ˈfɔːmətɪv/", cn: "形成期的；塑造性的", ex: "The formative years shape a person's character for life.", exCn: "成长塑造期会决定一个人终生的性格。" },
+    { w: "soothe", pos: "v.", p: "/suːð/", cn: "安慰；平息", ex: "A gentle voice can soothe a frightened child.", exCn: "温柔的声音能安抚受惊的孩子。" },
+    { w: "reassure", pos: "v.", p: "/ˌriːəˈʃʊə(r)/", cn: "使安心；安慰", ex: "The mother reassured her son that he was safe.", exCn: "母亲安慰儿子说他是安全的。" },
+    { w: "conscientious", pos: "adj.", p: "/ˌkɒnʃiˈenʃəs/", cn: "认真的；勤勉尽责的", ex: "A conscientious parent keeps learning how to care better.", exCn: "认真尽责的父母会不断学习如何更好地照护孩子。" }
   ],
   vocabArticle: {
-    title: "Maya's Search for Connection",
-    titleCn: "玛雅寻找联结的旅程",
+    title: "The Quiet Lessons of a Small Home",
+    titleCn: "一个小家的无声功课",
     paras: [
       {
-        en: "After moving to a new city for work, Maya felt rootless and disconnected from everyone she had ever known. The atomization of modern life meant that neighbours seldom spoke, and the once-warm street had grown desolate. Though she was sociable by nature, the constant anonymity of crowded trains left her strangely solitary. She began to understand the French sociologist's concept of anomie—a normless drift in which old bonds quietly fray.",
-        cn: "搬到新城市工作后，玛雅感到无依无靠，与所有相识的人失去了联系。现代生活的原子化意味着邻居几乎不再交谈，曾经温馨的街道变得冷清荒凉。尽管她天性合群，但在拥挤的列车上那种挥之不去的匿名感，却让她莫名地感到形单影只。她开始理解那位法国社会学家的「失范」概念——一种无规范的漂流状态，旧有的纽带在不知不觉中悄然磨损。"
+        en: "Ellen's household welcomed a newborn, and during his infancy she resolved to rear him with patience. As a toddler, he reached each milestone on schedule, his temperament calm and curious. Ellen's responsive smile and gentle affection gave the boy a secure attachment to his first carers. Her own upbringing had been strict, yet she chose warmth over the cold discipline she remembered.",
+        cn: "艾伦的家迎来了一个新生儿，在儿子襁褓之中，她决心以耐心去养育他。到了学步的年纪，他按部就班地达成了每个里程碑，性情安静而好奇。艾伦善解人意的微笑与温柔的慈爱，让孩子对最初的照料者产生了安全的依恋。她自己的成长经历曾是严厉的，但她选择了温暖，而非记忆中那种冷峻的管教。"
       },
       {
-        en: "Maya's gregarious colleague Leo, an extrovert who thrived on parties, could not imagine her quiet evenings. By contrast, her reclusive downstairs neighbour, a shy introvert, seemed content in seclusion. Yet even the most gregarious person can feel bereft when a close friend moves away. Maya noticed how a detached manner helped some cope, while others tried to shun anyone who reminded them of happier, more sociable times.",
-        cn: "玛雅那位爱交际的同事利奥是个外向者，在派对上如鱼得水，根本无法想象她安静的夜晚。相反，楼下那位离群索居的邻居是个腼腆的内向者，似乎在独处中自得其乐。然而，即便最外向的人，在密友搬走时也会感到失落空虚。玛雅注意到，有些人用一种超然冷淡的态度来应对，而另一些人则试图回避任何让他们想起更快乐、更合群时光的人。"
+        en: "Before this child, Ellen's older offspring—a daughter in adolescence—had felt uncertain about becoming a sibling. Prenatal classes taught Ellen that parental love need not be divided but multiplied. The daughter discovered an innate wish to protect the baby, behaving in surprisingly prosocial ways. Watching them, Ellen realised that rivalry was learned, not born, and that kindness could be modelled at home.",
+        cn: "在这个孩子到来之前，艾伦年长的子女——一个正处于青春期的女儿——曾对接纳一个弟妹感到不安。孕期课程让艾伦懂得，父母的爱不必分割，反而可以倍增。女儿发现自己天生就有保护婴儿的愿望，表现得惊人地亲社会。看着她们，艾伦意识到，争宠是习得的而非天生的，而善良可以在家中被示范出来。"
       },
       {
-        en: "Determined to ameliorate her situation, Maya built a small network of fellow newcomers. They met in a secluded café where the soft lighting encouraged rapport and easy togetherness. She learned to reconcile her love of solitude with a need for companionship, refusing to let loneliness alienate her from the world. Even the estranged woman next door slowly joined them, surprised that friendship could be rebuilt from such a diffuse, gentle beginning.",
-        cn: "决心改善处境的玛雅，建立了一个由同为异乡人的新朋友组成的小圈子。他们相约在一间僻静的咖啡馆，柔和的灯光促成了轻松的默契与团聚之感。她学会在热爱独处与渴望陪伴之间求得平衡，拒绝让孤独把她与世界隔绝。就连隔壁那位闹翻了的女人也慢慢加入进来，惊讶地发现友谊竟能从如此松散温和的开端中重建。"
+        en: "Ellen read that developmental progress depends on freedom as much as care. Rather than coddle or overprotect him, she would scaffold his small tasks so he could emulate older children. When the boy grew insecure after a tantrum, she would sing a lullaby to soothe him, then reassure him with calm words. She resisted the urge to shield him from every stumble, trusting that confidence grows through trial.",
+        cn: "艾伦读到，发展进步既取决于关怀，也取决于自由。她没有娇惯或过度保护他，而是为他的小任务搭建支架，好让他去效仿年长的孩子。当男孩在一次发脾气后变得没有安全感时，她会唱起摇篮曲安抚他，再用平静的话语让他安心。她克制住将他从每次磕绊中护住的冲动，相信自信是在尝试中生长出来的。"
       },
       {
-        en: "Not everyone welcomed the group. A few residents tried to ostracize them, fearing change in their quiet building. But Maya realised that online friendships, though sometimes ephemeral, could still ease the ache of separation. She refused to let the building's coldness define her, and instead chose connection over isolation. In the end, what began as a solitary struggle became proof that even the most detached city-dweller can find belonging.",
-        cn: "并非所有人都欢迎这个小团体。几位居民试图排挤他们，害怕这幢安静楼房里的变化。但玛雅意识到，网络上的友情尽管有时转瞬即逝，仍能让离别之痛得以缓解。她拒绝让这栋楼的冷漠定义自己，而是选择了联结而非孤立。最终，这场始于孤身挣扎的经历证明：即便最疏离的都市人，也能找到归属感。"
+        en: "At each visit, the pediatrician praised the boy's steady gains and reminded Ellen that the formative years shape a lifetime. A conscientious mother, she kept learning how best to guide him. From infancy to first steps, her household had become a place where love, not fear, set the tone—proof that early rearing, wisely given, echoes for decades.",
+        cn: "每次探访时，儿科医生都会称赞男孩稳步的进步，并提醒艾伦：那些塑造性的早年会影响一生。作为一位认真尽责的母亲，她不断学习如何最好地引导他。从婴儿期到迈开第一步，她的家已成为一个以爱而非恐惧定调的地方——这证明，早年明智给予的养育，会在数十年间回响。"
       }
     ]
   },
   grammar: [
     {
-      q: "___ to admit their loneliness, many sufferers hide it behind a busy public life.",
+      q: "___ his parents' patient guidance that shaped the boy's confident character.",
       options: [
-        "Rarely do they dare",
-        "Rarely they dare",
-        "They rarely dare",
-        "Do they rarely dare"
+        "It was",
+        "It is",
+        "Was it",
+        "There was"
       ],
       answer: 0,
-      explain: "考点：否定副词置于句首引起的部分倒装。否定副词 rarely（几乎不）放在句首时，句子须部分倒装，即把助动词/情态动词/be 动词提到主语之前；本句主语 they 后用实义动词 dare（敢于，此处作普通动词），需借助助动词 do 构成倒装，故为 Rarely do they dare。B（Rarely they dare）完全没有倒装，错误；C（They rarely dare）虽语法正确，但 rarely 不在句首，不符合『句首否定副词+倒装』的考点要求；D（Do they rarely dare）语序混乱——rarely 应紧邻 do 之前，且助动词已提前，主语 they 应紧随其后。扩展：常见触发句首倒装的否定词/短语还有 seldom, never, hardly, scarcely, not only, in no way, under no circumstances 等；倒装后主谓语序为『否定词 + 助动词 + 主语 + 谓语剩余部分』。"
+      explain: "考点：强调句型 It is/was + 被强调部分 + that/who + 其余部分。本句被强调的部分是 his parents' patient guidance（人或物组成的短语），强调人时可用 who，但含所有格的短语通常用 that 引导；所述『塑造性格』是已发生的过去事实，故用 was，构成 It was ... that。B（It is）时态错误，此处描述的是已经完成的塑造过程，应用过去时；C（Was it）是疑问语序，而本句是陈述性强调句，语序不符；D（There was）完全不是强调句型结构。扩展：强调句可强调主语、宾语、状语，但不能强调谓语动词；检验方法——去掉 It is/was ... that 后，剩余部分仍是一个完整通顺的句子，即为强调句。"
     },
     {
-      q: "She wishes she ___ more time with her neighbours before the building was sold.",
+      q: "Each of the twins ___ a distinct temperament, though they share the same household.",
       options: [
-        "had spent",
-        "has spent",
-        "spent",
-        "spends"
+        "has",
+        "have",
+        "having",
+        "are having"
       ],
       answer: 0,
-      explain: "考点：wish 后接宾语从句的虚拟语气。wish 表示『希望（与现实相反）』时，从句要用虚拟语气：与现在事实相反用一般过去时，与过去事实相反用过去完成时（had + 过去分词），与将来事实相反用 would/could + 动词原形。本句时间状语 before the building was sold 明确指向过去，且『与邻居多花时间』这一动作并未发生在过去，属与过去事实相反，故用 had spent。B（has spent）是现在完成时，表真实已发生，与虚拟语气冲突；C（spent）为一般过去时，在 wish 从句中仅表示与现在事实相反，无法对应句中的过去时间背景；D（spends）是一般现在时，既非虚拟形式也不合时态。扩展：类似需用虚拟语气的动词还有 suppose, imagine 以及 if only 句式；只要从句所述与既定事实相反，就要把时态『后退一步』。"
+      explain: "考点：主语为 each of + 复数名词时的主谓一致。each 作主语（或 each of 结构）强调整体中的每一个个体，谓语动词必须用单数，故本句用 has；of the twins 只是后置定语，不能决定谓语的数。B（have）受后面 twins 的干扰误用复数；C（having）是非谓语动词，不能单独充当谓语；D（are having）既错用复数，又把 have（表拥有、特征）误用于进行时态，have 表示『有/具有』时一般不用于进行时。扩展：类似一律接单数谓语的还有 every, either, neither, everyone, nobody 等不定代词；唯当 each 位于复数主语之后作同位语（如 They each have...）时，谓语才用复数。"
     }
   ]
 };
