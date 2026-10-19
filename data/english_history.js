@@ -287,5 +287,11 @@ window.ENGLISH_HISTORY = [
     topic: "Early Childhood Development & Parenting（儿童早期发展与科学育儿）",
     articleTitle: "The First Five Years: How Early Childhood Shapes a Lifetime",
     words: ["rear","upbringing","infancy","toddler","attachment","temperament","milestone","household","sibling","responsive","affection","coddle","offspring","adolescence","parental","prenatal","insecure","developmental","scaffold","emulate","innate","prosocial","tantrum","overprotect","pediatrician","lullaby","formative","soothe","reassure","conscientious"]
+  },
+  {
+    date: "2026-10-19",
+    topic: "Humour, Comedy & Why We Laugh（幽默、喜剧与我们为何发笑）",
+    articleTitle: "Why We Laugh: The Quiet Power of Humour",
+    words: ["humour","witty","satire","comic","laughter","anecdote","punchline","mock","mimic","ridiculous","amuse","entertain","hilarious","jest","wit","irony","parody","delight","chuckle","giggle","grin","slapstick","sketch","comedian","humorous","banter","quip","merriment","relieve","endear"]
   }
 ];
