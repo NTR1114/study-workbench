@@ -293,5 +293,11 @@ window.ENGLISH_HISTORY = [
     topic: "Humour, Comedy & Why We Laugh（幽默、喜剧与我们为何发笑）",
     articleTitle: "Why We Laugh: The Quiet Power of Humour",
     words: ["humour","witty","satire","comic","laughter","anecdote","punchline","mock","mimic","ridiculous","amuse","entertain","hilarious","jest","wit","irony","parody","delight","chuckle","giggle","grin","slapstick","sketch","comedian","humorous","banter","quip","merriment","relieve","endear"]
+  },
+  {
+    date: "2026-10-21",
+    topic: "Maps, Cartography & How We Picture the World（地图、制图与描绘世界的方式）",
+    articleTitle: "Drawing the World: How Maps Shape What We Know",
+    words: ["cartographer","atlas","coordinate","longitude","latitude","meridian","topography","terrain","geodesic","compass","globe","cartogram","surveyor","plot","scale","legend","contour","azimuth","nautical","gazetteer","cartouche","traverse","calibrate","delineate","graticule","panorama","vantage","orient","topographer","bearing"]
   }
 ];
