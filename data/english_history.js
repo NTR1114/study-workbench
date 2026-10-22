@@ -299,5 +299,11 @@ window.ENGLISH_HISTORY = [
     topic: "Maps, Cartography & How We Picture the World（地图、制图与描绘世界的方式）",
     articleTitle: "Drawing the World: How Maps Shape What We Know",
     words: ["cartographer","atlas","coordinate","longitude","latitude","meridian","topography","terrain","geodesic","compass","globe","cartogram","surveyor","plot","scale","legend","contour","azimuth","nautical","gazetteer","cartouche","traverse","calibrate","delineate","graticule","panorama","vantage","orient","topographer","bearing"]
+  },
+  {
+    date: "2026-10-22",
+    topic: "Pollinators, Bees & the Invisible Web of Life（传粉者、蜜蜂与看不见的生命之网）",
+    articleTitle: "The Quiet Workers: Why Pollinators Sustain Life on Earth",
+    words: ["pollinate","pollination","pollinator","nectar","forage","blossom","colony","cultivation","monoculture","interdependence","symbiotic","mutualism","apiarist","hive","agrochemical","plummet","vanish","burgeon","flora","meadow","reproduce","degradation","spray","orchard","agriculture","fragrance","indispensable","perish","abundance","wane"]
   }
 ];
