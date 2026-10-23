@@ -305,5 +305,11 @@ window.ENGLISH_HISTORY = [
     topic: "Pollinators, Bees & the Invisible Web of Life（传粉者、蜜蜂与看不见的生命之网）",
     articleTitle: "The Quiet Workers: Why Pollinators Sustain Life on Earth",
     words: ["pollinate","pollination","pollinator","nectar","forage","blossom","colony","cultivation","monoculture","interdependence","symbiotic","mutualism","apiarist","hive","agrochemical","plummet","vanish","burgeon","flora","meadow","reproduce","degradation","spray","orchard","agriculture","fragrance","indispensable","perish","abundance","wane"]
+  },
+  {
+    date: "2026-10-23",
+    topic: "Theatre, Drama & the Performing Arts（戏剧与表演艺术）",
+    articleTitle: "The Living Stage: Why Theatre Still Matters",
+    words: ["theatre","playwright","rehearsal","stage","script","cast","performance","audience","performer","costume","dialogue","monologue","character","prologue","scene","curtain","applause","tragedy","backdrop","encore","matinee","staging","mime","pantomime","spectacle","theatrical","soliloquy","dramatist","act","rehearse"]
   }
 ];

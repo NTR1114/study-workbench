@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-22",
-  topic: "Pollinators, Bees & the Invisible Web of Life（传粉者、蜜蜂与看不见的生命之网）",
+  date: "2026-10-23",
+  topic: "Theatre, Drama & the Performing Arts（戏剧与表演艺术）",
   article: {
-    title: "The Quiet Workers: Why Pollinators Sustain Life on Earth",
-    titleCn: "沉默的劳动者：传粉者为何维系着地球上的生命",
+    title: "The Living Stage: Why Theatre Still Matters",
+    titleCn: "活的舞台：戏剧为何依然重要",
     paras: [
       {
-        en: "Every spring, an invisible workforce begins its shift. Bees, butterflies, birds, and countless tiny creatures move from flower to flower, carrying pollen that allows plants to reproduce. Without this quiet labour, many of the fruits, nuts, and seeds we eat would simply vanish. Scientists estimate that roughly one in three bites of human food depends on animal pollination. Yet the urgency of their contribution is rarely matched by public awareness of how fragile the system has become.",
-        cn: "每年春天，一支看不见的劳动大军便开始上岗。蜜蜂、蝴蝶、鸟类以及无数微小的生物在花丛间穿梭，传送使植物得以繁殖的花粉。若没有这份安静的劳作，我们吃的许多水果、坚果与种子都将悄然消失。科学家估计，人类每三口食物中约有一口依赖动物传粉。然而，公众对其贡献紧迫性的认知，却很少与这一系统的脆弱程度相匹配。"
+        en: "Theatre is among the oldest of human arts, predating the printed book by millennia. In open courtyards and candle-lit halls, communities once gathered to witness stories enacted before their eyes. Unlike a film, a live performance unfolds in a single, unrepeatable moment, binding actors and spectators in shared breath. This immediacy is precisely what has kept theatre alive across cultures and centuries, even as newer media have risen to compete for our attention.",
+        cn: "戏剧是人类最古老的艺术之一，比印刷书籍早了数千年。在露天的庭院与烛光摇曳的大厅里，人们曾聚在一起，亲眼见证故事被演绎出来。与电影不同，现场演出在唯一、不可重复的瞬间展开，将演员与观众以共同的呼吸连结在一起。正是这种即时性，使戏剧跨越文化与世纪而生生不息，即便更新的媒介已崛起、争夺我们的注意力。"
       },
       {
-        en: "Modern agriculture has inadvertently placed this partnership under strain. Vast monocultures offer bees little but a single crop, while the widespread use of agrochemicals strips the landscape of the wildflowers they need. As natural meadows give way to uniform fields, foraging becomes harder and colonies weaken. Researchers have documented sharp declines in both wild and managed bee populations, prompting warnings that the loss of pollinators could threaten the stability of global food supplies within a generation.",
-        cn: "现代农业无意中让这种合作关系承受了压力。广袤的单一栽培除单一作物外几乎不给蜜蜂任何东西，而对农用化学品的广泛使用又剥去了它们所需的野花景观。当天然草甸让位于整齐划一的土地，觅食变得愈发艰难，蜂群也随之衰弱。研究者已记录到野生与家养蜂群数量的急剧下降，并据此警告：传粉者的丧失可能在一代人的时间内威胁全球粮食供应的稳定。"
+        en: "Economically, the performing arts form a quiet but substantial industry. A single production employs playwrights, designers, technicians, and venue staff, while drawing tourists who spend on hotels and meals. Studies suggest that for every ticket sold, several times its value circulates through the local economy. Cities from London to Tokyo now treat their theatres as cultural assets worth subsidising, recognising that a vibrant scene can regenerate neglected districts and project a confident image abroad.",
+        cn: "在经济层面，表演艺术构成了一个低调却可观的产业。一部制作同时雇用剧作家、设计师、技术人员与场地人员，并吸引在酒店与餐饮上消费的游客。研究表明，每售出一张票，其价值的数倍会在地方经济中循环。从伦敦到东京，城市如今把剧院视为值得补贴的文化资产，认识到一片充满活力的场景能复兴被忽视的街区，并在海外投射出自信的形象。"
       },
       {
-        en: "In response, communities from farmers to city dwellers are experimenting with small but meaningful fixes. Planting diverse flowering gardens, reducing pesticide sprays, and protecting roadside flora can rebuild the abundance that insects require. Some apiarists now move hives among orchards so bees meet a rotating succession of blossoms rather than a monotonous diet. Such measures may sound modest, yet their cumulative effect on local ecosystems can be surprisingly large when adopted at scale across a region.",
-        cn: "作为回应，从农民到城市居民的各种群体都在尝试微小却有意义的修复。种植多样化的开花花园、减少杀虫剂喷洒、保护路旁植物，都能重建昆虫所需的丰沛。一些养蜂人如今把蜂巢在果园间迁移，让蜜蜂依次遇到轮替绽放的花朵，而非单调的食物。这些措施看似微不足道，但若在一个地区被广泛采用，其对当地生态系统的累积效应却可能大得惊人。"
+        en: "Yet the art faces real pressures. Rising rents push small companies out of city centres, and public funding for the arts has grown uncertain in many countries. Critics warn that without support, theatre risks becoming a luxury for the wealthy, detached from the communities that gave it life. Digital streaming offers reach but cannot replicate the electric tension of bodies sharing one room. The challenge is to keep the live experience affordable while embracing new tools.",
+        cn: "然而这门艺术面临真实的压力。上涨的租金把小剧团挤出市中心，许多国家用于艺术的公共资金也变得不确定。批评者警告，若无支持，戏剧恐将成为富人的奢侈品，脱离赋予它生命力的社群。数字串流能带来触达，却无法复制众人身处一室时那种电流般的张力。挑战在于：在拥抱新工具的同时，让现场体验依然负担得起。"
       },
       {
-        en: "Ultimately, the fate of pollinators is inseparable from our own. Their decline signals a broader unraveling of interdependence between species that modern life tends to forget. Protecting them is not merely an act of conservation but a practical safeguard for the food we depend upon. If current trends are not reversed, the fragrance of a flowering spring—and the harvest it promises—may wane for good. The lesson is clear: without pollinators, our world would be emptied of abundance.",
-        cn: "归根结底，传粉者的命运与我们的命运密不可分。它们的衰退标志着物种间相互依存关系的更广泛瓦解，而现代生活往往遗忘了这一点。保护它们不只是一种保育行为，更是对我们所依赖食物的切实保障。若当前趋势得不到逆转，花开之春的芬芳——及其许诺的收成——或许将永久消退。教训很清楚：没有了传粉者，我们的世界将被掏空丰饶。"
+        en: "Looking ahead, many practitioners see hybrid forms as the future. Performances may blend live acting with projected imagery, or reach classrooms far away. Schools that integrate drama into the curriculum report gains in confidence and empathy among pupils. If societies invest in theatre as education rather than mere entertainment, the art may yet thrive. Its survival depends on generations who still believe some stories must be told together in a room while the lights dim.",
+        cn: "展望未来，许多从业者将混合形式视为出路。演出或许会把现场表演与投影影像融合，或触达远方的课堂。将戏剧纳入课程表的学校报告称，学生的自信与同理心均有提升。若社会把戏剧当作教育而非单纯的娱乐来投资，这门艺术或能继续繁荣。它的存续，取决于仍相信某些故事必须在一间屋子里、在灯光暗下、故事开始时，被共同讲述的一代代人。"
       }
     ],
     glossary: [
-      { w: "workforce", pos: "n.", p: "/ˈwɜːkfɔːs/", cn: "劳动力；劳动群体" },
-      { w: "pollen", pos: "n.", p: "/ˈpɒlɪn/", cn: "花粉" },
-      { w: "fragile", pos: "adj.", p: "/ˈfrædʒaɪl/", cn: "脆弱的；易损的" },
-      { w: "urgency", pos: "n.", p: "/ˈɜːdʒənsi/", cn: "紧迫性；急迫" },
-      { w: "inadvertently", pos: "adv.", p: "/ˌɪnədˈvɜːtəntli/", cn: "无意中；非故意地" },
-      { w: "partnership", pos: "n.", p: "/ˈpɑːtnəʃɪp/", cn: "伙伴关系；合作" },
-      { w: "strain", pos: "n.", p: "/streɪn/", cn: "压力；重负" },
-      { w: "vast", pos: "adj.", p: "/vɑːst/", cn: "广阔的；巨大的" },
-      { w: "widespread", pos: "adj.", p: "/ˈwaɪdspred/", cn: "普遍的；广泛的" },
-      { w: "landscape", pos: "n.", p: "/ˈlændskeɪp/", cn: "景观；地貌" },
-      { w: "uniform", pos: "adj.", p: "/ˈjuːnɪfɔːm/", cn: "单一的；一致的" },
-      { w: "documented", pos: "adj.", p: "/ˈdɒkjumentɪd/", cn: "有记录的；被证实的" },
-      { w: "stability", pos: "n.", p: "/stəˈbɪləti/", cn: "稳定性" },
-      { w: "cumulative", pos: "adj.", p: "/ˈkjuːmjələtɪv/", cn: "累积的；渐增的" },
-      { w: "succession", pos: "n.", p: "/səkˈseʃn/", cn: "（依次）更替；连续" },
-      { w: "monotonous", pos: "adj.", p: "/məˈnɒtənəs/", cn: "单调的；乏味的" },
-      { w: "inseparable", pos: "adj.", p: "/ɪnˈseprəbl/", cn: "不可分离的" },
-      { w: "unravel", pos: "v.", p: "/ʌnˈrævl/", cn: "瓦解；逐渐散开" },
-      { w: "safeguard", pos: "n.", p: "/ˈseɪfɡɑːd/", cn: "保障（措施）；保护" },
-      { w: "reverse", pos: "v.", p: "/rɪˈvɜːs/", cn: "逆转；反转" },
-      { w: "creature", pos: "n.", p: "/ˈkriːtʃə(r)/", cn: "生物；动物" },
-      { w: "flowering", pos: "adj.", p: "/ˈflaʊərɪŋ/", cn: "开花的" },
-      { w: "wildflower", pos: "n.", p: "/ˈwaɪldflaʊə(r)/", cn: "野花" },
-      { w: "dweller", pos: "n.", p: "/ˈdwelə(r)/", cn: "居民；栖居者" },
-      { w: "rotating", pos: "adj.", p: "/ˈrəʊteɪtɪŋ/", cn: "轮作的；旋转的" },
-      { w: "practical", pos: "adj.", p: "/ˈpræktɪkl/", cn: "实际的；实用的" },
-      { w: "modest", pos: "adj.", p: "/ˈmɒdɪst/", cn: "适度的；谦虚的" },
-      { w: "generation", pos: "n.", p: "/ˌdʒenəˈreɪʃn/", cn: "一代（人）；世代" }
+      { w: "millennia", pos: "n.", p: "/maɪˈleniə/", cn: "千年（millennium 的复数）" },
+      { w: "courtyard", pos: "n.", p: "/ˈkɔːtjɑːd/", cn: "庭院；院子" },
+      { w: "witness", pos: "v.", p: "/ˈwɪtnəs/", cn: "目睹；见证" },
+      { w: "enact", pos: "v.", p: "/ɪˈnækt/", cn: "上演；颁布（法律）" },
+      { w: "unrepeatable", pos: "adj.", p: "/ˌʌnrɪˈpiːtəbl/", cn: "不可重复的" },
+      { w: "immediacy", pos: "n.", p: "/ɪˈmiːdiəsi/", cn: "即时性；迫切感" },
+      { w: "spectator", pos: "n.", p: "/spekˈteɪtə(r)/", cn: "观众；旁观者" },
+      { w: "substantial", pos: "adj.", p: "/səbˈstænʃl/", cn: "大量的；实质的" },
+      { w: "production", pos: "n.", p: "/prəˈdʌkʃn/", cn: "制作；演出" },
+      { w: "technician", pos: "n.", p: "/tekˈnɪʃn/", cn: "技术人员" },
+      { w: "venue", pos: "n.", p: "/ˈvenjuː/", cn: "场所；场地" },
+      { w: "assets", pos: "n.", p: "/ˈæsets/", cn: "资产；宝贵品质" },
+      { w: "regenerate", pos: "v.", p: "/rɪˈdʒenəreɪt/", cn: "使复兴；再生" },
+      { w: "neglected", pos: "adj.", p: "/nɪˈɡlektɪd/", cn: "被忽视的" },
+      { w: "detached", pos: "adj.", p: "/dɪˈtætʃt/", cn: "脱离的；超然的" },
+      { w: "luxury", pos: "n.", p: "/ˈlʌkʃəri/", cn: "奢侈；奢侈品" },
+      { w: "replicate", pos: "v.", p: "/ˈreplɪkeɪt/", cn: "复制；重现" },
+      { w: "electric", pos: "adj.", p: "/ɪˈlektrɪk/", cn: "令人激动的；触电般的" },
+      { w: "tension", pos: "n.", p: "/ˈtenʃn/", cn: "紧张；张力" },
+      { w: "practitioner", pos: "n.", p: "/prækˈtɪʃənə(r)/", cn: "从业者；实践者" },
+      { w: "hybrid", pos: "adj./n.", p: "/ˈhaɪbrɪd/", cn: "混合的；混合体" },
+      { w: "imagery", pos: "n.", p: "/ˈɪmɪdʒəri/", cn: "意象；影像" },
+      { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程" },
+      { w: "empathy", pos: "n.", p: "/ˈempəθi/", cn: "同理心；共情" },
+      { w: "entertainment", pos: "n.", p: "/ˌentəˈteɪnmənt/", cn: "娱乐" },
+      { w: "vibrant", pos: "adj.", p: "/ˈvaɪbrənt/", cn: "充满活力的" },
+      { w: "confidence", pos: "n.", p: "/ˈkɒnfɪdəns/", cn: "自信" },
+      { w: "dim", pos: "v./adj.", p: "/dɪm/", cn: "变暗；昏暗的" }
     ]
   },
   words: [
-    { w: "pollinate", pos: "v.", p: "/ˈpɒlɪneɪt/", cn: "授粉；给…传粉", ex: "Bees pollinate crops that feed billions of people.", exCn: "蜜蜂为养活数十亿人的农作物授粉。" },
-    { w: "pollination", pos: "n.", p: "/ˌpɒlɪˈneɪʃn/", cn: "传粉（过程）", ex: "Pollination by wind is common among grasses.", exCn: "风媒传粉在草类中十分常见。" },
-    { w: "pollinator", pos: "n.", p: "/ˈpɒlɪneɪtə(r)/", cn: "传粉者（蜜蜂、蝴蝶等）", ex: "A single pollinator may visit thousands of flowers a day.", exCn: "一只传粉者一天可能造访上千朵花。" },
-    { w: "nectar", pos: "n.", p: "/ˈnektə(r)/", cn: "花蜜", ex: "The bee gathered nectar to carry back to the hive.", exCn: "蜜蜂采集花蜜带回蜂巢。" },
-    { w: "forage", pos: "v.", p: "/ˈfɒrɪdʒ/", cn: "（动物）觅食；觅花蜜", ex: "Butterflies forage among the wildflowers at dawn.", exCn: "蝴蝶在黎明时于野花间觅食。" },
-    { w: "blossom", pos: "n./v.", p: "/ˈblɒsəm/", cn: "花；开花", ex: "Each cherry tree burst into blossom in early spring.", exCn: "每棵樱桃树都在初春骤然绽放。" },
-    { w: "colony", pos: "n.", p: "/ˈkɒləni/", cn: "（蜂）群；群体", ex: "A healthy colony can contain tens of thousands of bees.", exCn: "一个健康的蜂群可容纳数万只蜜蜂。" },
-    { w: "cultivation", pos: "n.", p: "/ˌkʌltɪˈveɪʃn/", cn: "耕作；栽培", ex: "The cultivation of a single crop reduces local diversity.", exCn: "单一作物的耕作降低了当地的多样性。" },
-    { w: "monoculture", pos: "n.", p: "/ˈmɒnəkʌltʃə(r)/", cn: "单一栽培", ex: "Monoculture leaves little food for wild pollinators.", exCn: "单一栽培留给野生传粉者的食物极少。" },
-    { w: "interdependence", pos: "n.", p: "/ˌɪntədɪˈpendəns/", cn: "相互依存", ex: "The interdependence of plants and insects sustains ecosystems.", exCn: "植物与昆虫的相互依存维系着生态系统。" },
-    { w: "symbiotic", pos: "adj.", p: "/ˌsɪmbaɪˈɒtɪk/", cn: "共生的；互惠的", ex: "Their relationship is deeply symbiotic and mutually beneficial.", exCn: "它们的关系深度共生、互利互惠。" },
-    { w: "mutualism", pos: "n.", p: "/ˈmjuːtʃuəlɪzəm/", cn: "互利共生", ex: "Mutualism between bees and flowers is a classic case in nature.", exCn: "蜜蜂与花朵的互利共生是自然中的经典案例。" },
-    { w: "apiarist", pos: "n.", p: "/ˈeɪpiərɪst/", cn: "养蜂人", ex: "The apiarist checks each hive for signs of disease.", exCn: "养蜂人逐个检查蜂巢是否有病害迹象。" },
-    { w: "hive", pos: "n.", p: "/haɪv/", cn: "蜂巢；蜂箱", ex: "She placed a new hive at the edge of the orchard.", exCn: "她在果园边缘安放了一个新的蜂箱。" },
-    { w: "agrochemical", pos: "n.", p: "/ˌæɡrəʊˈkemɪkl/", cn: "农用化学品（农药、化肥等）", ex: "Excess agrochemical can poison the soil and its bees.", exCn: "过量的农用化学品会毒害土壤及其中的蜜蜂。" },
-    { w: "plummet", pos: "v.", p: "/ˈplʌmɪt/", cn: "骤降；暴跌", ex: "Bee numbers have plummeted across the region.", exCn: "该地区的蜜蜂数量已大幅骤降。" },
-    { w: "vanish", pos: "v.", p: "/ˈvænɪʃ/", cn: "消失；绝迹", ex: "Several local species may vanish within a decade.", exCn: "若干当地物种可能在一代人的时间内绝迹。" },
-    { w: "burgeon", pos: "v.", p: "/ˈbɜːdʒən/", cn: "迅速发展；繁荣", ex: "Wildflowers burgeon where the field is left uncut.", exCn: "在未被收割的田野里，野花迅速繁盛。" },
-    { w: "flora", pos: "n.", p: "/ˈflɔːrə/", cn: "植物群；植物区系", ex: "The island's flora includes many endemic flowers.", exCn: "该岛的植物群包含许多特有花卉。" },
-    { w: "meadow", pos: "n.", p: "/ˈmedəʊ/", cn: "草甸；草地", ex: "The meadow buzzed with insects on warm afternoons.", exCn: "温暖的午后，草甸上昆虫嗡嗡作响。" },
-    { w: "reproduce", pos: "v.", p: "/ˌriːprəˈdjuːs/", cn: "繁殖；生殖", ex: "Plants cannot reproduce without their pollinators.", exCn: "没有传粉者，植物便无法繁殖。" },
-    { w: "degradation", pos: "n.", p: "/ˌdeɡrəˈdeɪʃn/", cn: "（土地）退化；恶化", ex: "Soil degradation threatens long-term food security.", exCn: "土壤退化威胁着长期的粮食安全。" },
-    { w: "spray", pos: "v.", p: "/spreɪ/", cn: "喷洒（农药等）", ex: "Farmers spray the fields to control pests.", exCn: "农民向田地喷洒药剂以防治害虫。" },
-    { w: "orchard", pos: "n.", p: "/ˈɔːtʃəd/", cn: "果园", ex: "The apple orchard relied on bees for a good yield.", exCn: "这座苹果园依靠蜜蜂才能获得好收成。" },
-    { w: "agriculture", pos: "n.", p: "/ˈæɡrɪkʌltʃə(r)/", cn: "农业", ex: "Modern agriculture depends heavily on animal pollination.", exCn: "现代农业高度依赖动物传粉。" },
-    { w: "fragrance", pos: "n.", p: "/ˈfreɪɡrəns/", cn: "芳香；香味", ex: "The fragrance of blossom draws bees from far away.", exCn: "花朵的芬芳把蜜蜂从远处引来。" },
-    { w: "indispensable", pos: "adj.", p: "/ˌɪndɪˈspensəbl/", cn: "不可或缺的", ex: "Pollinators are indispensable to human food systems.", exCn: "传粉者对人类的粮食体系不可或缺。" },
-    { w: "perish", pos: "v.", p: "/ˈperɪʃ/", cn: "消亡；毁灭", ex: "Without nectar, the colony would slowly perish.", exCn: "若没有花蜜，蜂群将慢慢消亡。" },
-    { w: "abundance", pos: "n.", p: "/əˈbʌndəns/", cn: "丰富；充裕", ex: "An abundance of flowers supports a thriving hive.", exCn: "繁多的花朵支撑起兴旺的蜂群。" },
-    { w: "wane", pos: "v.", p: "/weɪn/", cn: "衰退；减弱", ex: "Public interest in bees began to wane after the crisis.", exCn: "危机过后，公众对蜜蜂的关注开始衰退。" }
+    { w: "theatre", pos: "n.", p: "/ˈθɪətə(r)/", cn: "剧院；戏剧", ex: "The new theatre attracted audiences from across the city.", exCn: "这座新剧院吸引了全城各地的观众。" },
+    { w: "playwright", pos: "n.", p: "/ˈpleɪraɪt/", cn: "剧作家", ex: "A good playwright understands the rhythm of dialogue.", exCn: "优秀的剧作家懂得对白的节奏。" },
+    { w: "rehearsal", pos: "n.", p: "/rɪˈhɜːsl/", cn: "排练；彩排", ex: "The cast arrived early for the final rehearsal.", exCn: "演员们提前到场参加最后一次排练。" },
+    { w: "stage", pos: "n.", p: "/steɪdʒ/", cn: "舞台；阶段", ex: "She stepped onto the stage and forgot her fear.", exCn: "她踏上台起，便忘了恐惧。" },
+    { w: "script", pos: "n.", p: "/skrɪpt/", cn: "剧本；手稿", ex: "He memorised every line of the script.", exCn: "他背下了剧本里的每一句台词。" },
+    { w: "cast", pos: "n.", p: "/kɑːst/", cn: "演员阵容；全体演员", ex: "The cast bowed as the curtain fell.", exCn: "幕落时全体演员鞠躬致谢。" },
+    { w: "performance", pos: "n.", p: "/pəˈfɔːməns/", cn: "演出；表现", ex: "Her performance moved the audience to tears.", exCn: "她的演出让观众感动落泪。" },
+    { w: "audience", pos: "n.", p: "/ˈɔːdiəns/", cn: "观众；听众", ex: "The audience laughed at the perfect timing.", exCn: "观众因恰到好处的时机而大笑。" },
+    { w: "performer", pos: "n.", p: "/pəˈfɔːmə(r)/", cn: "表演者；演员", ex: "Each performer brought a distinct energy to the role.", exCn: "每位表演者都为角色注入了独特的能量。" },
+    { w: "costume", pos: "n.", p: "/ˈkɒstjuːm/", cn: "戏服；服装", ex: "The elaborate costume weighed more than she expected.", exCn: "那套精致的戏服比她预想的更重。" },
+    { w: "dialogue", pos: "n.", p: "/ˈdaɪəlɒɡ/", cn: "对白；对话", ex: "Sharp dialogue kept the audience fully engaged.", exCn: "犀利的对白让观众全神贯注。" },
+    { w: "monologue", pos: "n.", p: "/ˈmɒnəlɒɡ/", cn: "独白", ex: "His opening monologue set the somber tone.", exCn: "他的开场独白定下了阴郁的基调。" },
+    { w: "character", pos: "n.", p: "/ˈkærəktə(r)/", cn: "角色；人物", ex: "She played a complex character with quiet strength.", exCn: "她以静默的力量演绎了一个复杂的角色。" },
+    { w: "prologue", pos: "n.", p: "/ˈprəʊlɒɡ/", cn: "序幕；开场白", ex: "The prologue sets the tone before the first act begins.", exCn: "序幕在第一幕开始前便定下了基调。" },
+    { w: "scene", pos: "n.", p: "/siːn/", cn: "场景；幕", ex: "The opening scene unfolds in a rain-soaked street.", exCn: "开场的场景在一场被雨浸透的街道上展开。" },
+    { w: "curtain", pos: "n.", p: "/ˈkɜːtn/", cn: "幕布；窗帘", ex: "As the curtain rose, the hall fell silent.", exCn: "幕布升起时，大厅陷入寂静。" },
+    { w: "applause", pos: "n.", p: "/əˈplɔːz/", cn: "掌声；喝彩", ex: "Thunderous applause greeted the final bow.", exCn: "雷鸣般的掌声迎接最后的谢幕。" },
+    { w: "tragedy", pos: "n.", p: "/ˈtrædʒədi/", cn: "悲剧；惨剧", ex: "The play explores a family tragedy across two wars.", exCn: "这部剧横跨两场战争，探讨一个家庭的悲剧。" },
+    { w: "backdrop", pos: "n.", p: "/ˈbækdrɒp/", cn: "背景幕；背景", ex: "A painted backdrop evoked a distant mountain village.", exCn: "一幅手绘背景幕唤起了远方山村的意象。" },
+    { w: "encore", pos: "n.", p: "/ˈɒŋkɔː(r)/", cn: "返场；加演", ex: "The singer returned for a brief encore.", exCn: "歌手返场，加演了短暂的一曲。" },
+    { w: "matinee", pos: "n.", p: "/ˈmætɪneɪ/", cn: "日场演出", ex: "A matinee was scheduled for school groups.", exCn: "为学童团体安排了一场日场演出。" },
+    { w: "staging", pos: "n.", p: "/ˈsteɪdʒɪŋ/", cn: "舞台调度；演出制作", ex: "The minimalist staging focused attention on the words.", exCn: "极简的舞台调度把注意力集中在台词上。" },
+    { w: "mime", pos: "n.", p: "/maɪm/", cn: "哑剧；默剧演员", ex: "The mime conveyed loss without uttering a word.", exCn: "那位默剧演员一言未发便传达了失落。" },
+    { w: "pantomime", pos: "n.", p: "/ˈpæntəmaɪm/", cn: "童话剧；哑剧", ex: "Children delighted in the festive pantomime.", exCn: "孩子们为这场节日的童话剧而欣喜。" },
+    { w: "spectacle", pos: "n.", p: "/ˈspektəkl/", cn: "壮观场面；奇观", ex: "The light show turned the finale into a spectacle.", exCn: "灯光秀把终曲变成了壮观的场面。" },
+    { w: "theatrical", pos: "adj.", p: "/θiˈætrɪkl/", cn: "戏剧的；夸张的", ex: "His gestures were deliberately theatrical.", exCn: "他的手势刻意带着戏剧性的夸张。" },
+    { w: "soliloquy", pos: "n.", p: "/səˈlɪləkwi/", cn: "独白（戏剧中）", ex: "The famous soliloquy reveals the hero's doubt.", exCn: "那段著名的独白揭示了主人公的疑虑。" },
+    { w: "dramatist", pos: "n.", p: "/ˈdræmətɪst/", cn: "剧作家；戏剧家", ex: "The dramatist drew on folk tales for the plot.", exCn: "这位剧作家从民间故事里汲取情节。" },
+    { w: "act", pos: "n.", p: "/ækt/", cn: "（戏剧的）幕；行为", ex: "The second act opens with a sudden storm.", exCn: "第二幕在一场骤起的暴风雨中开启。" },
+    { w: "rehearse", pos: "v.", p: "/rɪˈhɜːz/", cn: "排练；演练", ex: "They rehearse the duel scene every morning.", exCn: "他们每天早晨排练那场决斗戏。" }
   ],
   vocabArticle: {
-    title: "The Meadow That Remembered",
-    titleCn: "记得花开的草甸",
+    title: "The Meadow of Masks",
+    titleCn: "面具之甸",
     paras: [
       {
-        en: "In the valley, a young apiarist named Lila learned that every pollinator matters. She watched bees forage among the blossoms, sipping nectar before they pollinate the next flower. The symbiotic bond between insect and bloom is a quiet mutualism on which all cultivation depends, and without fertile meadows the strongest colony would struggle to reproduce.",
-        cn: "在山谷里，一位名叫莉拉的年轻养蜂人明白了：每一只传粉者都至关重要。她看着蜜蜂在花丛间觅食，啜饮花蜜，再去为下一朵花授粉。昆虫与花朵之间的共生纽带是一种安静的互利关系，一切耕作都依赖于它；而没有肥沃的草甸，再强壮的蜂群也难以繁殖。"
+        en: "In a small theatre by the river, a young playwright named Elias finished his first script. The dramatist had spent a year shaping the prologue, dividing the tale into five parts and mapping each scene onto the stage. He dreamed of a production that would fill the empty theatre with life, yet he feared no company would mount the work on a real stage. He believed the script, and its opening act, deserved a true performance.",
+        cn: "在河边一座小剧院里，一位名叫伊莱亚斯的年轻剧作家完成了他的第一部剧本。这位戏剧家花了一年时间打磨情节，把故事分成五部分，并把每一幕都安放到舞台之上。他梦想着一出能让空荡剧院充满生机的制作，却又担心没有剧团会在一座真正的舞台上搬演这部作品。他相信，这部剧本——连同它开篇的那一幕——值得一场真正的演出。"
       },
       {
-        en: "Lila saw the degradation of the land when farmers replaced diverse flora with a single monoculture. They would spray an agrochemical that made pollinator numbers plummet and local hives vanish. She argued that agriculture must protect the interdependence of species, not destroy it. The fragrance of a thriving orchard, she believed, was indispensable to every hive, and where wild flowers burgeon the whole colony prospers.",
-        cn: "当农民用单一栽培取代多样的植物群时，莉拉看到了土地退化。他们会喷洒农用化学品，令传粉者数量骤降、当地蜂巢消失。她主张农业必须保护物种间的相互依存，而非摧毁它。她相信，一座繁盛果园的芬芳对每一个蜂巢都不可或缺，而在野花勃发之处，整个蜂群都会兴旺。"
+        en: "The company agreed to present the work, and rehearsal began at once. The cast gathered nightly, each performer studying a character through long dialogue. A costume was sewn for every role, a painted backdrop rose behind the stage, and the staging grew more theatrical with every run. Elias watched the rehearsal with awe, learning how a written script becomes living breath only when voices meet under the lights.",
+        cn: "剧团同意搬演这部作品，排练随即开始。演员阵容每晚聚齐，每位表演者都通过冗长的对白去揣摩一个角色。每一份戏服都被缝制出来，一幅手绘背景幕在舞台后方升起，而舞台调度随着每一次走排愈发富有戏剧性。伊莱亚斯怀着敬畏观看排练，渐渐明白：只有当声音在灯光下交汇，写下的剧本才会化为活生生的呼吸。"
       },
       {
-        en: "Each spring, proper pollination fills the meadow with colour, and no blossom is left to perish unvisited. Lila mapped the abundance so the village could value what it could not see. When monoculture spread and flora grew scarce, she taught children that the pollinator's work is indispensable to survival, and even a small hive can help a whole field reproduce.",
-        cn: "每年春天，恰当的传粉让草甸缀满色彩，没有哪朵花会无人问津地凋零。莉拉把这份丰饶绘成地图，好让村庄珍视它看不见的价值。当单一栽培蔓延、植物群变得稀少，她告诉孩子们：传粉者的劳作对生存不可或缺，即便一个小小的蜂巢，也能帮整片田地繁殖生息。"
+        en: "On opening night the curtain lifted and the audience fell silent. A lone performer delivered a haunting monologue, then a soliloquy that turned the play from comedy toward tragedy. The mime held the crowd without a word, and the spectacle of light and motion drew loud applause. For Elias, the divide between page and stage vanished the moment the curtain fell and strangers rose to their feet.",
+        cn: "首演之夜，幕布升起，观众陷入沉寂。一位孤独的表演者念出一段令人难忘的独白，继而又是一段把剧情从喜剧引向悲剧的戏剧独白。那位默剧演员一言未发便抓住了人群，而光与动的壮观场面引来了响亮的掌声。对伊莱亚斯而言，在幕布落下、陌生人起立的那一刻，纸页与舞台之间的鸿沟便消失了。"
       },
       {
-        en: "Yet Lila feared that if people forgot the interdependence of all living things, the abundance of the valley would slowly wane. She urged farmers to welcome pollinators back into their fields, for a meadow in bloom is a promise of food. Her quiet lesson endures: protect the pollinator, and life's abundance will not perish from the earth.",
-        cn: "然而莉拉担心，倘若人们遗忘了万物间的相互依存，山谷的丰饶便会缓缓衰退。她敦促农民让传粉者重返田间，因为绽放的草甸是对食物的承诺。她那安静的教诲长存：护住传粉者，生命的丰饶便不会从大地上消亡。"
+        en: "Word spread, and a matinee was added for students who could not attend at night. The cast would rehearse by day and perform by evening, ending each show with an encore the audience demanded. One child tried a pantomime in the aisle, copying the performers she admired. Elias understood then that theatre is not a closed craft but a shared pulse; rehearse it well and a single script can unite a whole town.",
+        cn: "消息传开，为那些无法在夜间前来的学生，剧团加演了一场日场。演员阵容白天排练、傍晚登台，每场都以观众要求的返场作结。一个孩子在过道里试着来了一段童话哑剧，模仿着她仰慕的表演者们。伊莱亚斯那时才明白：戏剧不是一门封闭的技艺，而是一种共享的脉搏；只要用心排练，一部剧本便能把整座小镇凝聚在一起。"
       }
     ]
   },
   grammar: [
     {
-      q: "For decades, scientists ___ how pesticide exposure weakens wild bee colonies, and the evidence keeps growing.",
+      q: "The rehearsal ran late into the night, ___ the cast exhausted but proud of the first full run.",
       options: [
-        "have been studying",
-        "had studied",
-        "studied",
-        "are studying"
+        "leaving",
+        "left",
+        "to leave",
+        "having left"
       ],
       answer: 0,
-      explain: "考点：时态——现在完成进行时（present perfect continuous）。句首时间状语 'For decades' 表示动作从过去开始、持续到现在并仍在进行，且强调'一直研究、不断积累'的持续性，应用 have been studying。A 正确。B（had studied 过去完成时）表示'过去的过去'，与 keeps growing（现在）的时间线不符。C（studied 一般过去时）只表过去动作，无法体现与现在的联系。D（are studying 现在进行时）仅指当下，不能涵盖 decades 的时长跨度。扩展：现在完成进行时强调动作的持续性与未完成性，常与 for/since 连用；若强调'结果/经历'而非'持续过程'，则用现在完成时 have studied。"
+      explain: "考点：非谓语动词——现在分词作结果状语。主句谓语 ran 已结束，逗号后无并列连词，需用非谓语形式。现在分词 leaving 在此表示\"自然而然的结果\"（排练拖到深夜，结果让演员又累又自豪），其逻辑主语是整个主句所描述的情景，分词短语相当于 which left the cast...。A 正确。B（left 过去分词）表被动或完成，此处无被动含义。C（to leave 不定式）多表\"出乎意料的结果\"或目的，此处是自然结果，不符。D（having left 完成式分词）强调\"离开\"先于主句动作，语义不通。扩展：现在分词作结果状语常置于句末，表顺理成章的结果，如 The rain lasted for hours, leaving the streets flooded."
     },
     {
-      q: "___ the pollinators will survive the next decade remains deeply uncertain, despite recent conservation efforts.",
+      q: "So absorbed ___ in the monologue that the actress did not notice the curtain trembling.",
       options: [
-        "Whether",
-        "If",
-        "That",
-        "What"
+        "was she",
+        "she was",
+        "is she",
+        "she is"
       ],
       answer: 0,
-      explain: "考点：名词性从句——whether 引导的主语从句。主句谓语为 remains，前面是主语从句。whether 可引导主语从句，表示'是否'，且可置于句首（此时不能用 if）。A 正确。B（if）不能引导位于句首的主语从句（if 引导的名词性从句一般只作宾语，如 I don't know if...）。C（That）引导主语从句时只起连接作用、不充当成分且无意义，此处缺少'是否'的语义，且 that 从句作主语时陈述的是明确事实，与 uncertain 矛盾。D（What）在从句中需充当主语/宾语等成分，而从句 'the pollinators will survive...' 结构完整、不缺成分，故 what 不当。扩展：whether 还可与 or not 连用，或用于 'It is uncertain whether...' 的 it 形式主语结构。"
+      explain: "考点：倒装——\"so + 形容词\"置于句首引起的部分倒装。当 \"so + 形容词/副词\" 位于句首表示强调时，主句须部分倒装（助动词/be 动词/情态动词提到主语之前），结构为 so + adj. + be/助 + 主语 + that...。本句正常语序为 She was so absorbed...，倒装后为 So absorbed was she...。A 正确。B、D 未倒装，错误。C 时态错误（后接 didn't notice 为过去时，需用 was 而非 is）。扩展：类似结构还有 such...that 置于句首（Such was his talent that...），以及否定副词（never, seldom, hardly）开头的倒装。"
     }
   ]
 };
