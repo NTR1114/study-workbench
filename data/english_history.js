@@ -311,5 +311,11 @@ window.ENGLISH_HISTORY = [
     topic: "Theatre, Drama & the Performing Arts（戏剧与表演艺术）",
     articleTitle: "The Living Stage: Why Theatre Still Matters",
     words: ["theatre","playwright","rehearsal","stage","script","cast","performance","audience","performer","costume","dialogue","monologue","character","prologue","scene","curtain","applause","tragedy","backdrop","encore","matinee","staging","mime","pantomime","spectacle","theatrical","soliloquy","dramatist","act","rehearse"]
+  },
+  {
+    date: "2026-10-24",
+    topic: "Virtual Reality, Augmented Reality & the Blurring of Worlds（虚拟现实、增强现实与真实边界的消融）",
+    articleTitle: "When the Real and the Rendered Merge",
+    words: ["engrossing","render","simulation","headset","hologram","latency","overlay","embodiment","interactive","device","display","optical","dimension","spatial","presence","illusion","encompass","emanate","blur","distinction","indistinguishable","cumbersome","prototype","virtual","novelty","immersion","dissociate","seamlessly","acuity","fidelity"]
   }
 ];
