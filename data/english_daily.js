@@ -1,137 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-24",
-  topic: "Virtual Reality, Augmented Reality & the Blurring of Worlds（虚拟现实、增强现实与真实边界的消融）",
+  date: "2026-10-25",
+  topic: "Geology & the Restless Earth（地质学与不安分的地球）",
   article: {
-    title: "When the Real and the Rendered Merge",
-    titleCn: "当真实与渲染之物交融",
+    title: "Reading the Rocks: How Geology Reveals Earth's Story",
+    titleCn: "解读岩石：地质学如何揭示地球的故事",
     paras: [
       {
-        en: "Virtual reality and augmented reality have moved from science fiction into daily life, yet many still confuse the two. Virtual reality immerses users in a wholly constructed world, blocking out physical surroundings through a headset. Augmented reality, by contrast, layers digital information onto the real environment that users continue to see. Both technologies rely on sophisticated devices and software to reshape how people learn, play, and work. Their rise signals a quiet revolution in human-computer interaction.",
-        cn: "虚拟现实与增强现实已从科幻走入日常生活，但许多人仍把二者混为一谈。虚拟现实将用户浸入一个完全构建出来的世界，通过头显屏蔽掉周边的物理环境。相比之下，增强现实把数字信息叠加到用户持续看到的真实环境之上。这两种技术都依赖精密的设备与软件，去重塑人们学习、娱乐与工作的方式。它们的兴起，预示着一场人机交互的静默革命。"
+        en: "Earth is not the stable, unchanging ground beneath our feet that it appears to be. Beneath the surface, the planet is a dynamic, restless system driven by heat from its interior. The outer shell, or crust, is broken into enormous slabs of rock called tectonic plates, which float upon a softer layer and drift almost imperceptibly. Over millions of years, these slow movements reshape coastlines, raise mountains, and open new oceans, silently rewriting the map of the world.",
+        cn: "地球并非我们脚下那看似稳定不变的大地。在地表之下，这颗行星是一个由内部热量驱动的、不安分的动态系统。它的外壳，即地壳，被撕裂成若干巨大的岩石板块，称为构造板块；这些板块漂浮在较软的岩层之上，以几乎难以察觉的方式缓慢漂移。数百万年间，这些缓慢的运动重塑海岸线、隆起山脉、开辟新的海洋，无声地改写着世界的地图。"
       },
       {
-        en: "In education and medicine, these tools are proving remarkably useful. Surgeons now rehearse complex operations inside simulated environments before touching a patient, while students explore ancient ruins without leaving the classroom. Such applications extend far beyond entertainment, offering safe, repeatable practice that traditional methods cannot match. Companies likewise adopt virtual training to cut costs and reduce risk. As the technology matures, its practical value becomes harder to dismiss as mere novelty.",
-        cn: "在教育与医学领域，这些工具正被证明极为有用。外科医生如今会在接触病人之前，于模拟环境中演练复杂的手术；而学生们无需离开教室，便能探索古老的遗迹。此类应用远不止于娱乐，它提供了传统方法无法比拟的安全、可重复的实践机会。企业同样采用虚拟培训来削减成本、降低风险。随着技术走向成熟，其实际价值越来越难以被当作一时新奇而草草打发。"
+        en: "When plates collide or pull apart, the results can be dramatic. Immense pressure forces molten rock, known as magma, upward until it erupts through a vent and spills as lava, building volcanoes that may tower for kilometres. Elsewhere, the grinding of plates triggers earthquakes whose shockwaves radiate from a point called the epicentre. Such events, though destructive, are simply the planet's way of redistributing heat and relieving accumulated stress within the restless lithosphere.",
+        cn: "当板块相互碰撞或彼此分离时，结果可能十分剧烈。巨大的压力迫使一种称为岩浆的熔融岩石向上运动，直至它从喷口喷出并以熔岩的形式流淌，堆积成可能高达数公里的火山。在另一些地方，板块的相互磨蚀会引发地震，其冲击波从一个称为震中的点向四周扩散。这类事件尽管具有破坏性，却不过是行星重新分配热量、释放岩石圈内积聚压力的方式而已。"
       },
       {
-        en: "Nevertheless, critics raise valid concerns about widespread adoption. Prolonged headset use can cause eye strain and disorientation, and the cumbersome hardware remains expensive for ordinary households. There is also worry that constant immersion in synthetic worlds may weaken real-world social bonds and blur the line between fact and fiction. Privacy presents another quandary, since devices track users' movements and surroundings in unprecedented detail. Addressing these issues will require thoughtful regulation rather than blind enthusiasm.",
-        cn: "然而，批评者对这种技术的广泛普及提出了合理的担忧。长时间使用头显可能导致眼睛疲劳与方向感丧失，而笨重的硬件对普通家庭而言依然昂贵。也有人担心，持续沉浸于人造世界之中，会削弱现实中的社会纽带，并模糊事实与虚构之间的界线。隐私则构成了另一重困境，因为设备会以空前的细节追踪用户的动作与周遭环境。要应对这些问题，需要的是深思熟虑的监管，而非盲目的热情。"
+        en: "Not all change is violent. Wind, rain, and rivers constantly wear mountains down, and the broken fragments are carried away and eventually deposited in low-lying basins. Layer upon layer builds up, and over vast spans of time this deposition hardens into sedimentary rock, preserving within its strata a chronological record of past climates and creatures. Meanwhile, heat and pressure deep underground quietly transform other rocks into denser, crystalline metamorphic forms without ever melting them.",
+        cn: "并非所有的变化都如此剧烈。风、雨与河流持续侵蚀着山脉，破碎的碎屑被带走，最终沉积在低洼的盆地之中。一层叠着一层不断堆积，在漫长的岁月里，这种沉积逐渐硬化成沉积岩，并在其地层中保存下关于过往气候与生物的、按时间顺序排布的记录。与此同时，地下深处的热量与压力，悄然把其他岩石转变为更致密、呈结晶状的变质岩，却从不使其真正熔化。"
       },
       {
-        en: "Looking forward, the distinction between physical and virtual may continue to fade. Lighter, wireless headsets and sharper displays promise to make the experience seamless, while augmented overlays could guide workers through repairs or translate foreign signs in real time. If designers prioritise comfort and genuine usefulness over spectacle, these tools might quietly reshape everyday life. The challenge is to harness their power without losing touch with the unmediated world that remains, for now, our only shared reality.",
-        cn: "展望未来，物理与虚拟之间的差别或许会持续淡化。更轻、无线的头显与更清晰的显示屏，有望让体验变得无缝流畅；而增强现实的覆盖层，则可以在工人检修时加以引导，或实时翻译外文路牌。若设计者把舒适与真正的实用置于炫技之上，这些工具或许会悄然重塑日常生活。挑战在于：既要善用其力量，又不至于失去与那个未经中介的世界的联系——至少当下，那才是我们唯一共享的真实。"
+        en: "Understanding these processes matters because they shape the resources and hazards on which human life depends. The same forces that forge mountains also concentrate valuable ore within the crust and carve dramatic canyons and plateaus that define a region's character. By reading the exposed rock of an outcrop or drilling toward the planet's iron core, geologists reconstruct a four-billion-year story. Far from being dead, the Earth remains a living, churning engine beneath our feet.",
+        cn: "理解这些过程十分重要，因为它们塑造着人类生存所依赖的资源与灾害。那些锻造出山脉的相同力量，也会在 crust 中富集出 valuable 矿石，并刻蚀出塑造一个地区特质的壮丽峡谷与高原。通过研读露头裸露的岩石，或向行星的铁质地核钻探，地质学家得以重建一段长达四十亿年的故事。地球远非死寂，它始终是我们脚下那台活着、翻腾不息的引擎。"
       }
     ],
     glossary: [
-      { w: "engrossing", pos: "adj.", p: "/ɪnˈɡrəʊsɪŋ/", cn: "引人入胜的；令人全神贯注的" },
-      { w: "augmented", pos: "adj.", p: "/ɔːɡˈmentɪd/", cn: "增强的（augment 的过去分词）" },
-      { w: "surroundings", pos: "n.", p: "/səˈraʊndɪŋz/", cn: "周围环境；周遭事物" },
-      { w: "sophisticated", pos: "adj.", p: "/səˈfɪstɪkeɪtɪd/", cn: "精密的；老练的；复杂的" },
+      { w: "crust", pos: "n.", p: "/krʌst/", cn: "地壳；外皮" },
+      { w: "tectonic", pos: "adj.", p: "/tekˈtɒnɪk/", cn: "构造的；地壳构造的" },
+      { w: "imperceptibly", pos: "adv.", p: "/ˌɪmpəˈseptəbli/", cn: "难以察觉地；极微地" },
       { w: "reshape", pos: "v.", p: "/ˌriːˈʃeɪp/", cn: "重塑；改变形态" },
-      { w: "interaction", pos: "n.", p: "/ˌɪntərˈækʃn/", cn: "互动；相互作用" },
-      { w: "rehearse", pos: "v.", p: "/rɪˈhɜːs/", cn: "排练；演练" },
-      { w: "environments", pos: "n.", p: "/ɪnˈvaɪrənmənts/", cn: "环境（environment 的复数）" },
-      { w: "repeatable", pos: "adj.", p: "/rɪˈpiːtəbl/", cn: "可重复的" },
-      { w: "matures", pos: "v.", p: "/məˈtʃʊəz/", cn: "成熟（mature 的第三人称单数）" },
-      { w: "dismiss", pos: "v.", p: "/dɪsˈmɪs/", cn: "摒弃；不予理会；解散" },
-      { w: "novelty", pos: "n.", p: "/ˈnɒvlti/", cn: "新奇；新奇事物" },
-      { w: "widespread", pos: "adj.", p: "/ˈwaɪdspred/", cn: "广泛的；普遍的" },
-      { w: "adoption", pos: "n.", p: "/əˈdɒpʃn/", cn: "采用；采纳；领养" },
-      { w: "prolonged", pos: "adj.", p: "/prəˈlɒŋd/", cn: "延长的；长期的" },
-      { w: "disorientation", pos: "n.", p: "/dɪsˌɔːriənˈteɪʃn/", cn: "迷失方向；方向感丧失" },
-      { w: "cumbersome", pos: "adj.", p: "/ˈkʌmbəsəm/", cn: "笨重的；累赘的" },
-      { w: "households", pos: "n.", p: "/ˈhaʊshəʊldz/", cn: "家庭（household 的复数）" },
-      { w: "immersion", pos: "n.", p: "/ɪˈmɜːʃn/", cn: "沉浸；浸入" },
-      { w: "synthetic", pos: "adj.", p: "/sɪnˈθetɪk/", cn: "人造的；合成的" },
-      { w: "bonds", pos: "n.", p: "/bɒndz/", cn: "纽带；联系（bond 的复数）" },
-      { w: "blur", pos: "v./n.", p: "/blɜː(r)/", cn: "使模糊；模糊（之处）" },
-      { w: "quandary", pos: "n.", p: "/ˈkwɒndəri/", cn: "困境；两难境地" },
-      { w: "unprecedented", pos: "adj.", p: "/ʌnˈpresɪdentɪd/", cn: "前所未有的；空前的" },
-      { w: "thoughtful", pos: "adj.", p: "/ˈθɔːtfl/", cn: "深思熟虑的；体贴的" },
-      { w: "regulation", pos: "n.", p: "/ˌreɡjuˈleɪʃn/", cn: "监管；规章；调节" },
-      { w: "distinction", pos: "n.", p: "/dɪˈstɪŋkʃn/", cn: "区别；差别；卓越" },
-      { w: "seamless", pos: "adj.", p: "/ˈsiːmləs/", cn: "无缝的；流畅的" },
-      { w: "overlays", pos: "n./v.", p: "/ˌəʊvəˈleɪz/", cn: "覆盖层；叠加（overlay 的复数/三单）" },
-      { w: "unmediated", pos: "adj.", p: "/ʌnˈmiːdieɪtɪd/", cn: "未经中介的；直接的" }
+      { w: "coastlines", pos: "n.", p: "/ˈkəʊstlaɪnz/", cn: "海岸线（coastline 的复数）" },
+      { w: "molten", pos: "adj.", p: "/ˈməʊltən/", cn: "熔融的；熔化的" },
+      { w: "magma", pos: "n.", p: "/ˈmæɡmə/", cn: "岩浆" },
+      { w: "vent", pos: "n.", p: "/vent/", cn: "喷口；出口；通风口" },
+      { w: "lava", pos: "n.", p: "/ˈlɑːvə/", cn: "熔岩" },
+      { w: "volcanoes", pos: "n.", p: "/ˌvɒlˈkeɪnəʊz/", cn: "火山（volcano 的复数）" },
+      { w: "earthquakes", pos: "n.", p: "/ˈɜːθkweɪks/", cn: "地震（earthquake 的复数）" },
+      { w: "epicentre", pos: "n.", p: "/ˈepɪsentə(r)/", cn: "震中" },
+      { w: "lithosphere", pos: "n.", p: "/lɪˈθɒsfɪə(r)/", cn: "岩石圈" },
+      { w: "low-lying", pos: "adj.", p: "/ˌləʊ ˈlaɪɪŋ/", cn: "低洼的" },
+      { w: "basins", pos: "n.", p: "/ˈbeɪsnz/", cn: "盆地；流域（basin 的复数）" },
+      { w: "deposition", pos: "n.", p: "/ˌdepəˈzɪʃn/", cn: "沉积；沉积物" },
+      { w: "sedimentary", pos: "adj.", p: "/ˌsedɪˈmentri/", cn: "沉积的" },
+      { w: "strata", pos: "n.", p: "/ˈstrɑːtə/", cn: "地层（stratum 的复数）" },
+      { w: "chronological", pos: "adj.", p: "/ˌkrɒnəˈlɒdʒɪkl/", cn: "按时间顺序的；编年的" },
+      { w: "crystalline", pos: "adj.", p: "/ˈkrɪstəlaɪn/", cn: "结晶的；水晶般的" },
+      { w: "metamorphic", pos: "adj.", p: "/ˌmetəˈmɔːfɪk/", cn: "变质的（指岩石）" },
+      { w: "forge", pos: "v.", p: "/fɔːdʒ/", cn: "锻造；形成；锤炼" },
+      { w: "ore", pos: "n.", p: "/ɔː(r)/", cn: "矿石；矿砂" },
+      { w: "canyons", pos: "n.", p: "/ˈkænjənz/", cn: "峡谷（canyon 的复数）" },
+      { w: "plateaus", pos: "n.", p: "/ˈplætəʊz/", cn: "高原（plateau 的复数）" },
+      { w: "outcrop", pos: "n.", p: "/ˈaʊtkrɒp/", cn: "露头；露出地面的岩层" },
+      { w: "geologists", pos: "n.", p: "/ˌdʒiːəˈlɒdʒɪsts/", cn: "地质学家（geologist 的复数）" },
+      { w: "churning", pos: "adj.", p: "/ˈtʃɜːnɪŋ/", cn: "翻腾的；剧烈搅动的" }
     ]
   },
   words: [
-    { w: "engrossing", pos: "adj.", p: "/ɪnˈɡrəʊsɪŋ/", cn: "引人入胜的；全神贯注的", ex: "The engrossing game made players forget the room around them.", exCn: "那款引人入胜的游戏让玩家忘了周围的房间。" },
-    { w: "render", pos: "v.", p: "/ˈrendə(r)/", cn: "渲染；使成为", ex: "The software can render a 3D model in seconds.", exCn: "该软件能在数秒内渲染出一个三维模型。" },
-    { w: "simulation", pos: "n.", p: "/ˌsɪmjuˈleɪʃn/", cn: "模拟；仿真", ex: "Pilots train in a flight simulation before real takeoff.", exCn: "飞行员在真正起飞前会在飞行模拟中训练。" },
-    { w: "headset", pos: "n.", p: "/ˈhedset/", cn: "头戴式设备；头显", ex: "She put on the headset and entered a virtual world.", exCn: "她戴上头显，进入了一个虚拟世界。" },
-    { w: "hologram", pos: "n.", p: "/ˈhɒləɡræm/", cn: "全息图；全息影像", ex: "The museum displayed a hologram of a dinosaur skeleton.", exCn: "博物馆展出了一只恐龙骨架的全息影像。" },
-    { w: "latency", pos: "n.", p: "/ˈleɪtənsi/", cn: "延迟；潜伏期", ex: "Low latency is vital for a smooth virtual experience.", exCn: "低延迟对于流畅的虚拟体验至关重要。" },
-    { w: "overlay", pos: "n./v.", p: "/ˌəʊvəˈleɪ/", cn: "覆盖层；叠加", ex: "The app adds an overlay of directions onto the live view.", exCn: "这款应用在实时画面上叠加了一层导航指示。" },
-    { w: "embodiment", pos: "n.", p: "/ɪmˈbɒdimənt/", cn: "化身；体现", ex: "The statue is the embodiment of national pride.", exCn: "那座雕像是民族自豪感的化身。" },
-    { w: "interactive", pos: "adj.", p: "/ˌɪntərˈæktɪv/", cn: "交互式的；互动的", ex: "Children prefer interactive books that respond to touch.", exCn: "孩子们更喜欢会对触摸作出回应的互动书。" },
-    { w: "device", pos: "n.", p: "/dɪˈvaɪs/", cn: "设备；装置", ex: "The new device tracks sleep patterns automatically.", exCn: "这款新设备会自动记录睡眠模式。" },
-    { w: "display", pos: "n./v.", p: "/dɪˈspleɪ/", cn: "显示屏；展示", ex: "The phone's display shows vivid, clear colours.", exCn: "这部手机的显示屏呈现鲜艳清晰的色彩。" },
-    { w: "optical", pos: "adj.", p: "/ˈɒptɪkl/", cn: "光学的；视觉的", ex: "Optical fibre carries data at high speed.", exCn: "光纤以高速传输数据。" },
-    { w: "dimension", pos: "n.", p: "/daɪˈmenʃn/", cn: "维度；方面", ex: "Time is often called the fourth dimension.", exCn: "时间常被称为第四维度。" },
-    { w: "spatial", pos: "adj.", p: "/ˈspeɪʃl/", cn: "空间的", ex: "Good spatial awareness helps in driving.", exCn: "良好的空间意识有助于驾驶。" },
-    { w: "presence", pos: "n.", p: "/ˈprezns/", cn: "临场感；存在", ex: "Virtual reality creates a strong sense of presence.", exCn: "虚拟现实营造出强烈的临场感。" },
-    { w: "illusion", pos: "n.", p: "/ɪˈluːʒn/", cn: "错觉；幻觉", ex: "The mirror creates the illusion of a larger room.", exCn: "那面镜子营造出房间更大的错觉。" },
-    { w: "encompass", pos: "v.", p: "/ɪnˈkʌmpəs/", cn: "包含；包围", ex: "The course will encompass both theory and practice.", exCn: "这门课程将涵盖理论与实践两方面。" },
-    { w: "emanate", pos: "v.", p: "/ˈeməneɪt/", cn: "散发；发出", ex: "Warm light seemed to emanate from the lamp.", exCn: "温暖的光仿佛从那盏灯中散发出来。" },
-    { w: "blur", pos: "v./n.", p: "/blɜː(r)/", cn: "使模糊；模糊", ex: "Tears began to blur her vision.", exCn: "泪水开始模糊她的视线。" },
-    { w: "distinction", pos: "n.", p: "/dɪˈstɪŋkʃn/", cn: "区别；差别", ex: "He drew a clear distinction between the two ideas.", exCn: "他清晰区分了这两种观点。" },
-    { w: "indistinguishable", pos: "adj.", p: "/ˌɪndɪˈstɪŋɡwɪʃəbl/", cn: "无法区分的", ex: "The copy was almost indistinguishable from the original.", exCn: "那件复制品几乎与真品难以区分。" },
-    { w: "cumbersome", pos: "adj.", p: "/ˈkʌmbəsəm/", cn: "笨重的；累赘的", ex: "The old camera was heavy and cumbersome.", exCn: "那台旧相机又重又笨拙。" },
-    { w: "prototype", pos: "n.", p: "/ˈprəʊtətaɪp/", cn: "原型", ex: "They built a prototype to test the design.", exCn: "他们制作了一个原型来测试设计。" },
-    { w: "virtual", pos: "adj.", p: "/ˈvɜːtʃuəl/", cn: "虚拟的", ex: "The meeting was held in a virtual room.", exCn: "会议在一个虚拟房间里举行。" },
-    { w: "novelty", pos: "n.", p: "/ˈnɒvlti/", cn: "新奇；新奇事物", ex: "The novelty of the toy soon wore off.", exCn: "那件玩具的新鲜感很快就消失了。" },
-    { w: "immersion", pos: "n.", p: "/ɪˈmɜːʃn/", cn: "沉浸；浸入", ex: "Language immersion speeds up learning.", exCn: "语言沉浸式学习能加快掌握速度。" },
-    { w: "dissociate", pos: "v.", p: "/dɪˈsəʊʃieɪt/", cn: "使分离；脱离", ex: "He tried to dissociate himself from the scandal.", exCn: "他试图让自己与那桩丑闻撇清关系。" },
-    { w: "seamlessly", pos: "adv.", p: "/ˈsiːmləsli/", cn: "无缝地；流畅地", ex: "The two systems work together seamlessly.", exCn: "这两个系统无缝协作。" },
-    { w: "acuity", pos: "n.", p: "/əˈkjuːəti/", cn: "敏锐度", ex: "Her visual acuity is better than average.", exCn: "她的视觉敏锐度高于一般水平。" },
-    { w: "fidelity", pos: "n.", p: "/fɪˈdeləti/", cn: "保真度；忠实", ex: "The recording is prized for its high fidelity.", exCn: "这段录音因高保真度而备受推崇。" }
+    { w: "tectonic", pos: "adj.", p: "/tekˈtɒnɪk/", cn: "构造的；地壳构造的", ex: "The tectonic plates beneath the ocean are constantly shifting.", exCn: "海洋之下的构造板块始终在移动。" },
+    { w: "plate", pos: "n.", p: "/pleɪt/", cn: "板块； Plate（地壳板块）", ex: "A single plate can span thousands of kilometres.", exCn: "单一的板块可绵延数千公里。" },
+    { w: "mantle", pos: "n.", p: "/ˈmæntl/", cn: "地幔", ex: "Heat from the mantle drives much of Earth's geology.", exCn: "地幔的热量驱动着地球地质活动的大部分。" },
+    { w: "crust", pos: "n.", p: "/krʌst/", cn: "地壳；外壳", ex: "The crust is far thinner than the layers beneath it.", exCn: "地壳远比其下方的各层要薄。" },
+    { w: "magma", pos: "n.", p: "/ˈmæɡmə/", cn: "岩浆", ex: "Magma rises through cracks in the rock until it reaches the surface.", exCn: "岩浆沿岩石裂缝上升，直至抵达地表。" },
+    { w: "lava", pos: "n.", p: "/ˈlɑːvə/", cn: "熔岩", ex: "The lava cooled rapidly and formed black glassy rock.", exCn: "熔岩迅速冷却，形成了黑色的玻璃质岩石。" },
+    { w: "volcano", pos: "n.", p: "/vɒlˈkeɪnəʊ/", cn: "火山", ex: "An active volcano can erupt without warning.", exCn: "活火山可能毫无预兆地喷发。" },
+    { w: "earthquake", pos: "n.", p: "/ˈɜːθkweɪk/", cn: "地震", ex: "The earthquake reduced several buildings to rubble.", exCn: "那场地震把数栋建筑夷为瓦砾。" },
+    { w: "igneous", pos: "adj.", p: "/ˈɪɡniəs/", cn: "火成的（指岩石）", ex: "Granite is a common igneous rock formed from cooled magma.", exCn: "花岗岩是一种由冷却岩浆形成的常见火成岩。" },
+    { w: "metamorphic", pos: "adj.", p: "/ˌmetəˈmɔːfɪk/", cn: "变质的（指岩石）", ex: "Marble is a metamorphic rock derived from limestone.", exCn: "大理石是一种由石灰岩演变而来的变质岩。" },
+    { w: "sedimentary", pos: "adj.", p: "/ˌsedɪˈmentri/", cn: "沉积的", ex: "Fossils are most often found in sedimentary rock.", exCn: "化石最常发现于沉积岩中。" },
+    { w: "strata", pos: "n.", p: "/ˈstrɑːtə/", cn: "地层（stratum 的复数）", ex: "The strata revealed a clear record of ancient floods.", exCn: "这些地层清晰记录了古代的洪水。" },
+    { w: "lithosphere", pos: "n.", p: "/lɪˈθɒsfɪə(r)/", cn: "岩石圈", ex: "The lithosphere is broken into several major plates.", exCn: "岩石圈被分割成数个主要板块。" },
+    { w: "asthenosphere", pos: "n.", p: "/æsˈθenəsfɪə(r)/", cn: "软流圈", ex: "The asthenosphere flows slowly like a very thick fluid.", exCn: "软流圈像极黏稠的流体一样缓慢流动。" },
+    { w: "subduction", pos: "n.", p: "/səbˈdʌkʃn/", cn: "俯冲（板块运动）", ex: "Subduction occurs where one plate slides beneath another.", exCn: "俯冲发生在一个板块滑入另一板块之下时。" },
+    { w: "fault", pos: "n.", p: "/fɔːlt/", cn: "断层", ex: "A fault is a fracture where blocks of rock slip past each other.", exCn: "断层是岩块相互错动的破裂带。" },
+    { w: "outcrop", pos: "n.", p: "/ˈaʊtkrɒp/", cn: "露头；露出地面的岩层", ex: "We studied the rock outcrop to read its history.", exCn: "我们研究那处岩石露头以解读其历史。" },
+    { w: "bedrock", pos: "n.", p: "/ˈbedrɒk/", cn: "基岩；根本", ex: "The city's foundations rest on solid bedrock.", exCn: "这座城市的基础坐落于坚实的基岩之上。" },
+    { w: "continent", pos: "n.", p: "/ˈkɒntɪnənt/", cn: "大陆；洲", ex: "The continent drifted northward over millions of years.", exCn: "那片大陆在数百万年间向北漂移。" },
+    { w: "drift", pos: "v.", p: "/drɪft/", cn: "漂移；缓慢移动", ex: "Tectonic plates drift only a few centimetres each year.", exCn: "构造板块每年仅漂移几厘米。" },
+    { w: "canyon", pos: "n.", p: "/ˈkænjən/", cn: "峡谷", ex: "The river carved a spectacular canyon through the plateau.", exCn: "河流在高原上切割出壮观的峡谷。" },
+    { w: "plateau", pos: "n.", p: "/ˈplætəʊ/", cn: "高原", ex: "After climbing steeply, the road levelled onto a plateau.", exCn: "陡然爬升后，道路在一片高原上变得平缓。" },
+    { w: "basin", pos: "n.", p: "/ˈbeɪsn/", cn: "盆地；流域", ex: "Sediment slowly filled the ancient lake basin.", exCn: "沉积物逐渐填满了古老的湖盆。" },
+    { w: "deposition", pos: "n.", p: "/ˌdepəˈzɪʃn/", cn: "沉积；沉积物", ex: "Deposition of silt created fertile farmland.", exCn: "淤泥的沉积造就了肥沃的农田。" },
+    { w: "ore", pos: "n.", p: "/ɔː(r)/", cn: "矿石；矿砂", ex: "The mine yielded high-grade iron ore.", exCn: "这座矿产出高品位的铁矿石。" },
+    { w: "core", pos: "n.", p: "/kɔː(r)/", cn: "地核；核心", ex: "Probes have never reached the planet's metallic core.", exCn: "探测器从未抵达过这颗行星的金属地核。" },
+    { w: "vent", pos: "n.", p: "/vent/", cn: "喷口；出口", ex: "Steam escaped through a crack in the volcanic vent.", exCn: "蒸汽从火山喷口的裂缝中逸出。" },
+    { w: "epicentre", pos: "n.", p: "/ˈepɪsentə(r)/", cn: "震中", ex: "The town lay close to the earthquake's epicentre.", exCn: "那座小镇离地震震中很近。" },
+    { w: "Pangaea", pos: "n.", p: "/pænˈdʒiːə/", cn: "泛大陆（远古联合古陆）", ex: "Pangaea broke apart to form today's continents.", exCn: "泛大陆裂解，形成了现今的各大陆。" },
+    { w: "geologist", pos: "n.", p: "/ˌdʒiːəˈlɒdʒɪst/", cn: "地质学家", ex: "The geologist mapped the region's rock formations.", exCn: "那位地质学家绘制了该地区的岩层分布图。" }
   ],
   vocabArticle: {
-    title: "The Architect of Worlds",
-    titleCn: "造界者",
+    title: "The Geologist's Tale",
+    titleCn: "地质学家的故事",
     paras: [
       {
-        en: "Mira spends her days designing engrossing worlds that render entire cities inside a single headset. Her latest simulation lets visitors walk through a floating hologram of a lost temple, where an overlay of ancient text explains each carving. To make the experience feel like a true embodiment of the past, she fights every millisecond of latency, knowing that even a small delay shatters the spell.",
-        cn: "米拉日复一日地设计着沉浸式世界，仅凭一台头显便能在其中渲染出整座城市。她最新的模拟让访客穿行于一尊失落神庙的悬浮全息影像之间，层层叠加的古文注解解释着每一处雕刻。为了让体验真正化身为过去，她与每一毫秒的延迟较劲，因为她知道，即便再微小的延迟，也会击碎那道魔咒。"
+        en: "The geologist began by explaining that Earth's outer shell is the crust, a thin rocky layer sitting above the blazing mantle. Beneath the rigid lithosphere lies the soft asthenosphere, on which a single tectonic plate can slowly creep. Where one plate dives beneath another, a process called subduction takes place, and the continent above may gradually drift. Long ago, all land joined into one supercontinent named Pangaea.",
+        cn: "那位地质学家首先解释道：地球的外壳便是地壳，那是位于炽热地幔之上的一层薄薄岩石。在坚硬的岩石圈之下，静卧着柔软的软流圈；一整块构造板块便能在它之上缓缓蠕动。当一块板块俯冲到另一块之下时，便发生名为俯冲的过程，而其上方的大陆也可能逐渐漂移。在遥远的过去，所有陆地曾连成一片，名为泛大陆。"
       },
       {
-        en: "The room itself becomes spatial theatre once the interactive device wakes. On a curved display, optical tricks deepen the illusion of presence, so users believe they truly stand inside another dimension. Mira tests each build by donning the headset herself, measuring how strongly the sense of presence holds. When the interactive layer responds to a glance, the boundary between watcher and world grows thin.",
-        cn: "一旦那台交互式设备苏醒，房间本身就变成了空间剧场。在弧形的显示屏上，光学戏法加深了临场感的错觉，让用户相信自己真的站在另一个维度之中。米拉亲自戴上头显来测试每一个版本，衡量那份临场感能维持得多牢固。当交互层对一瞥作出回应时，观看者与世界之间的界限便悄然变薄。"
+        en: "When plates split or collide, magma rises from deep inside the planet and may burst through a vent at the surface. The flowing lava then cools and hardens into dark igneous rock. A volcano can also unleash a fierce earthquake, whose energy spreads from a point called the epicentre. Along a fractured fault, the ground shudders as pressure is abruptly released.",
+        cn: "当板块裂开或相撞时，岩浆会从行星深处升起，并可能从地表的一个喷口骤然迸出。流淌的熔岩随后冷却，硬化成深色的火成岩。火山也可能释放出猛烈的地震，其能量从一个称为震中的点向四周扩散。沿着破裂的断层，当地压骤然释放，大地便剧烈震颤。"
       },
       {
-        en: "Her ambition does not stop at games; she wants the work to encompass training, therapy, and education. Warm light seems to emanate from the virtual sun, while soft sound makes the blur between real and rendered almost total. The distinction that once separated classrooms from this studio is now indistinguishable. Still, the cumbersome prototype weighs heavy on the neck, and Mira wonders whether a lighter virtual rig will ever arrive.",
-        cn: "她的雄心不止于游戏；她希望这项工作能涵盖训练、治疗与教育。温暖的光仿佛从那轮虚拟的太阳中散发出来，而柔和的声音让真实与渲染之间的模糊几乎趋于彻底。曾经把教室与这间工作室分隔开来的差别，如今已难以分辨。然而，那台笨重的原型依旧沉沉压在脖颈上，米拉也在思忖：更轻的虚拟装备究竟何时才会到来。"
+        en: "Rain and rivers wear highlands down, sweeping particles that settle in a basin through deposition and turn into layered sedimentary rock. These horizontal strata tell of vanished ages, while miners dig for rich ore beside the exposed core of an ancient outcrop. Over centuries, a river can slice a deep canyon, and slow uplift lifts a wide plateau above the stubborn bedrock.",
+        cn: "雨水与河流侵蚀着高地，将微粒带走，经由沉积堆积于盆地之中，并化作层叠的沉积岩。那些水平的地层述说着消逝的岁月；而矿工们则在古老露头裸露的地核旁，开采着富饶的矿石。历经数百年，一条河流能切出幽深的峡谷，缓慢的抬升则把广阔的高原托举到顽固基岩之上。"
       },
       {
-        en: "For Mira, the novelty never fades, because each session offers deeper immersion. She can dissociate from the noisy office and enter a calm meadow seamlessly, her visual acuity untroubled by the headset's high fidelity. The device renders the grass so faithfully that she forgets the room. If technology keeps this promise, the line between here and elsewhere may finally dissolve.",
-        cn: "对米拉而言，新奇感从不褪色，因为每一次体验都带来更深的沉浸。她能脱离喧闹的办公室，无缝地走入一片静谧的草甸，而头显的高保真度丝毫不妨碍她的视觉敏锐。那台设备把草叶渲染得如此逼真，以至于她忘了自己身处房间。倘若技术守住了这份承诺，此处与他方之间的界线，或许终将消融。"
+        en: "Deep burial and fierce heat quietly change ordinary stone into metamorphic rock without ever melting it. The geologist smiled, noting that by studying such rock and the wandering plates, we learn to read the planet's long history and brace for its violent moods.",
+        cn: "深埋与酷热会悄然把普通的石头转变为变质岩，却从不使其真正熔化。那位地质学家微微一笑，说道：通过研究这类岩石与游移不定的板块，我们得以读懂这颗行星的悠长历史，并为它暴烈的脾气做好准备。"
       }
     ]
   },
   grammar: [
     {
-      q: "By next spring, the company ___ its lightweight headset in markets across three continents.",
+      q: "With seismic hazards still poorly understood in the region, it is high time that the government ___ a comprehensive geology survey.",
       options: [
-        "will launch",
-        "will have launched",
         "launches",
-        "is launching"
+        "launched",
+        "will launch",
+        "would launch"
       ],
       answer: 1,
-      explain: "考点：时态——将来完成时（future perfect）。句首时间状语 \"By next spring\"（到明年春天为止）表示一个在未来某时刻之前已经完成的动作，须用将来完成时 will have + 过去分词。本句意为\"到明年春天，这家公司将已在三大洲的市场上推出其轻量头显\"，强调在将来时间点前动作的完成，故 B（will have launched）正确。A（will launch）为一般将来时，只表将来发生，不体现\"在此之前已完成\"；C（launches）为一般现在时表按计划安排，与 by 短语不搭；D（is launching）为现在进行时表近期安排，同样无法表达\"到某时为止已完成\"。扩展：by + 将来时间用将来完成时；by + 过去时间用过去完成时（had done）。"
+      explain: "考点：虚拟语气——'It is high time (that)…' 结构。当表达'早该做某事而实际尚未做'的含义时，that 从句的谓语动词须用一般过去时（此处 launched）来表示与现在事实相反的虚拟语气。A（launches 一般现在时）与 C（will launch 一般将来时）都不表达虚拟含义；D（would launch）错误，因为 high time 结构后不接 would/should+动词原形。扩展：同类用法的还有 It is time (that)...、It is about time (that)...，从句均须用过去式。"
     },
     {
-      q: "___ the simulation for three hours, the engineer noticed a subtle flicker in the display.",
+      q: "___, the geologist kept climbing toward the volcano's crater to collect fresh samples.",
       options: [
-        "Having run",
-        "Run",
-        "To run",
-        "Being run"
+        "Exhausted as was he",
+        "Exhausted as he was",
+        "As he was exhausted",
+        "As exhausted he was"
       ],
-      answer: 0,
-      explain: "考点：非谓语动词——现在分词的完成式（perfect participle）作时间/原因状语。主句主语是 the engineer，他与\"运行模拟\"之间是主动关系，且运行模拟发生在\"注意到闪烁\"之前（for three hours 提示先于谓语的动作），故用现在分词完成式 Having run 表\"主动且先于谓语\"。A 正确。B（Run 过去分词）表被动或完成，但此处主语是主动运行模拟，逻辑不通。C（To run 不定式）多表目的或将来，无法表达\"已经运行了三小时\"的先于性。D（Being run 被动进行分词）表\"正在被运行\"，主语 engineer 与 run 为被动关系不符合事实（是工程师运行模拟，而非被运行）。扩展：现在分词完成式 having done 作状语，强调该动作在主句动作之前发生且主语为其执行者。"
+      answer: 1,
+      explain: "考点：状语从句——as 引导的让步状语从句须部分倒装，固定结构为'形容词/名词/副词 + as + 主语 + 动词'。本句将形容词 exhausted 置于 as 之前，主语 he 与系动词 was 保持正常语序，即 'Exhausted as he was'（尽管已筋疲力尽）。A 错误地将主语与动词倒置（as 之后只用'主语+动词'的正常语序）；C 是正常语序的原因/时间状语从句，并不表示倒装让步；D 语序混乱。扩展：as 让步倒装亦可用于名词（Child as he is）和副词（Much as I like it）。"
     }
   ]
 };

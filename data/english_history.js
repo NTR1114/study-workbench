@@ -317,5 +317,11 @@ window.ENGLISH_HISTORY = [
     topic: "Virtual Reality, Augmented Reality & the Blurring of Worlds（虚拟现实、增强现实与真实边界的消融）",
     articleTitle: "When the Real and the Rendered Merge",
     words: ["engrossing","render","simulation","headset","hologram","latency","overlay","embodiment","interactive","device","display","optical","dimension","spatial","presence","illusion","encompass","emanate","blur","distinction","indistinguishable","cumbersome","prototype","virtual","novelty","immersion","dissociate","seamlessly","acuity","fidelity"]
+  },
+  {
+    date: "2026-10-25",
+    topic: "Geology & the Restless Earth（地质学与不安分的地球）",
+    articleTitle: "Reading the Rocks: How Geology Reveals Earth's Story",
+    words: ["tectonic","plate","mantle","crust","magma","lava","volcano","earthquake","igneous","metamorphic","sedimentary","strata","lithosphere","asthenosphere","subduction","fault","outcrop","bedrock","continent","drift","canyon","plateau","basin","deposition","ore","core","vent","epicentre","Pangaea","geologist"]
   }
 ];
