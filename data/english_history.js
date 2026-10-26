@@ -323,5 +323,11 @@ window.ENGLISH_HISTORY = [
     topic: "Geology & the Restless Earth（地质学与不安分的地球）",
     articleTitle: "Reading the Rocks: How Geology Reveals Earth's Story",
     words: ["tectonic","plate","mantle","crust","magma","lava","volcano","earthquake","igneous","metamorphic","sedimentary","strata","lithosphere","asthenosphere","subduction","fault","outcrop","bedrock","continent","drift","canyon","plateau","basin","deposition","ore","core","vent","epicentre","Pangaea","geologist"]
+  },
+  {
+    date: "2026-10-26",
+    topic: "The Digital Divide（数字鸿沟）",
+    articleTitle: "The Unconnected Half: Why the Digital Divide Still Matters",
+    words: ["internet","broadband","connectivity","access","exclusion","socioeconomic","penetration","bandwidth","gap","widen","bridge","privilege","democratise","competence","subsidise","curriculum","embed","underprivileged","isolated","disenfranchise","gadget","framework","capability","communal","backbone","technically","invisible","compound","deepen","inclusivity"]
   }
 ];

@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-25",
-  topic: "Geology & the Restless Earth（地质学与不安分的地球）",
+  date: "2026-10-26",
+  topic: "The Digital Divide（数字鸿沟）",
   article: {
-    title: "Reading the Rocks: How Geology Reveals Earth's Story",
-    titleCn: "解读岩石：地质学如何揭示地球的故事",
+    title: "The Unconnected Half: Why the Digital Divide Still Matters",
+    titleCn: "未连接的半数：为何数字鸿沟依然重要",
     paras: [
       {
-        en: "Earth is not the stable, unchanging ground beneath our feet that it appears to be. Beneath the surface, the planet is a dynamic, restless system driven by heat from its interior. The outer shell, or crust, is broken into enormous slabs of rock called tectonic plates, which float upon a softer layer and drift almost imperceptibly. Over millions of years, these slow movements reshape coastlines, raise mountains, and open new oceans, silently rewriting the map of the world.",
-        cn: "地球并非我们脚下那看似稳定不变的大地。在地表之下，这颗行星是一个由内部热量驱动的、不安分的动态系统。它的外壳，即地壳，被撕裂成若干巨大的岩石板块，称为构造板块；这些板块漂浮在较软的岩层之上，以几乎难以察觉的方式缓慢漂移。数百万年间，这些缓慢的运动重塑海岸线、隆起山脉、开辟新的海洋，无声地改写着世界的地图。"
+        en: "The digital divide refers to the uneven distribution of access to information and communication technologies across societies. While affluent urban dwellers enjoy high-speed broadband and the latest devices, billions in rural and low-income regions remain effectively excluded. This gap is no longer merely about owning a computer; it increasingly determines who can learn, work, and participate in civic life. As essential services migrate online, disconnection has become a new form of marginalisation.",
+        cn: "数字鸿沟指的是社会内部信息与通信技术获取的不均衡分布。当富裕的城市居民享受着高速宽带与最新设备时，农村与低收入地区仍有数十亿人实际上被排除在外。这道鸿沟不再仅仅是拥有一台电脑的问题；它日益决定着谁能学习、工作并参与公民生活。随着各类基础服务转向线上，与网络隔绝已成为一种新的边缘化形式。"
       },
       {
-        en: "When plates collide or pull apart, the results can be dramatic. Immense pressure forces molten rock, known as magma, upward until it erupts through a vent and spills as lava, building volcanoes that may tower for kilometres. Elsewhere, the grinding of plates triggers earthquakes whose shockwaves radiate from a point called the epicentre. Such events, though destructive, are simply the planet's way of redistributing heat and relieving accumulated stress within the restless lithosphere.",
-        cn: "当板块相互碰撞或彼此分离时，结果可能十分剧烈。巨大的压力迫使一种称为岩浆的熔融岩石向上运动，直至它从喷口喷出并以熔岩的形式流淌，堆积成可能高达数公里的火山。在另一些地方，板块的相互磨蚀会引发地震，其冲击波从一个称为震中的点向四周扩散。这类事件尽管具有破坏性，却不过是行星重新分配热量、释放岩石圈内积聚压力的方式而已。"
+        en: "Several forces entrench the divide. In many developing areas, the physical backbone of networks—towers, fibre, and reliable electricity—is absent, making connection technically impossible. Even where infrastructure exists, the cost of devices and data plans places them beyond the reach of the poor. A further barrier is skills: without basic digital competence, ownership alone changes little. Consequently, socioeconomic status quietly dictates who benefits from the connected world.",
+        cn: "多重力量使这道鸿沟根深蒂固。在许多发展中地区，网络的实体骨干——信号塔、光纤与稳定电力——并不存在，使得连接技术在客观上无法实现。即便基础设施存在，设备与流量套餐的花费也令穷人难以企及。另一重障碍是技能：若缺乏基本的数字能力，仅拥有设备几乎于事无补。由此，社会经济地位悄然决定了谁能从互联世界中获益。"
       },
       {
-        en: "Not all change is violent. Wind, rain, and rivers constantly wear mountains down, and the broken fragments are carried away and eventually deposited in low-lying basins. Layer upon layer builds up, and over vast spans of time this deposition hardens into sedimentary rock, preserving within its strata a chronological record of past climates and creatures. Meanwhile, heat and pressure deep underground quietly transform other rocks into denser, crystalline metamorphic forms without ever melting them.",
-        cn: "并非所有的变化都如此剧烈。风、雨与河流持续侵蚀着山脉，破碎的碎屑被带走，最终沉积在低洼的盆地之中。一层叠着一层不断堆积，在漫长的岁月里，这种沉积逐渐硬化成沉积岩，并在其地层中保存下关于过往气候与生物的、按时间顺序排布的记录。与此同时，地下深处的热量与压力，悄然把其他岩石转变为更致密、呈结晶状的变质岩，却从不使其真正熔化。"
+        en: "The consequences are profound yet often invisible. Students without home internet fall behind as homework moves online, while jobseekers unable to submit applications digitally are screened out before interviews. Small businesses in unconnected towns cannot reach wider markets, and patients miss telehealth appointments. Over time, these disadvantages compound, leaving excluded communities less able to climb the economic ladder. The divide thus reproduces older inequalities under a new, technological guise.",
+        cn: "其后果深刻，却往往隐形。没有家庭网络的学生会因作业转向线上而掉队，而无法在线提交申请的求职者则在面试前便被筛除。未联网小镇上的小企业无法触及更广阔的市场，患者也会错过热线医疗预约。久而久之，这些劣势相互叠加，令被排斥的群体更难攀登经济阶梯。于是，数字鸿沟以一种崭新的技术外衣，复制了旧有的不平等。"
       },
       {
-        en: "Understanding these processes matters because they shape the resources and hazards on which human life depends. The same forces that forge mountains also concentrate valuable ore within the crust and carve dramatic canyons and plateaus that define a region's character. By reading the exposed rock of an outcrop or drilling toward the planet's iron core, geologists reconstruct a four-billion-year story. Far from being dead, the Earth remains a living, churning engine beneath our feet.",
-        cn: "理解这些过程十分重要，因为它们塑造着人类生存所依赖的资源与灾害。那些锻造出山脉的相同力量，也会在 crust 中富集出 valuable 矿石，并刻蚀出塑造一个地区特质的壮丽峡谷与高原。通过研读露头裸露的岩石，或向行星的铁质地核钻探，地质学家得以重建一段长达四十亿年的故事。地球远非死寂，它始终是我们脚下那台活着、翻腾不息的引擎。"
+        en: "Closing the gap demands coordinated action. Governments can subsidise rural broadband and supply public access points such as libraries and community hubs. Curriculum reform should embed digital skills from an early age, so competence is universal rather than privileged. International aid and private investment, meanwhile, help build the backbone where markets alone will not. Though no single measure suffices, sustained effort can gradually democratise opportunity and ensure the digital age leaves no one behind.",
+        cn: "弥合这道鸿沟需要协调一致的行动。政府可以补贴农村宽带，并提供图书馆与社区中心等公共接入点。课程改革应从幼年开始嵌入数字技能，使这种能力成为普遍素养而非少数人的特权。与此同时，国际援助与私人投资能在市场单独无能为力的地方帮着搭建骨干网络。尽管任何单一举措都不足以解决问题，但持续的努力能够逐步普及机会，确保数字时代不落下任何人。"
       }
     ],
     glossary: [
-      { w: "crust", pos: "n.", p: "/krʌst/", cn: "地壳；外皮" },
-      { w: "tectonic", pos: "adj.", p: "/tekˈtɒnɪk/", cn: "构造的；地壳构造的" },
-      { w: "imperceptibly", pos: "adv.", p: "/ˌɪmpəˈseptəbli/", cn: "难以察觉地；极微地" },
-      { w: "reshape", pos: "v.", p: "/ˌriːˈʃeɪp/", cn: "重塑；改变形态" },
-      { w: "coastlines", pos: "n.", p: "/ˈkəʊstlaɪnz/", cn: "海岸线（coastline 的复数）" },
-      { w: "molten", pos: "adj.", p: "/ˈməʊltən/", cn: "熔融的；熔化的" },
-      { w: "magma", pos: "n.", p: "/ˈmæɡmə/", cn: "岩浆" },
-      { w: "vent", pos: "n.", p: "/vent/", cn: "喷口；出口；通风口" },
-      { w: "lava", pos: "n.", p: "/ˈlɑːvə/", cn: "熔岩" },
-      { w: "volcanoes", pos: "n.", p: "/ˌvɒlˈkeɪnəʊz/", cn: "火山（volcano 的复数）" },
-      { w: "earthquakes", pos: "n.", p: "/ˈɜːθkweɪks/", cn: "地震（earthquake 的复数）" },
-      { w: "epicentre", pos: "n.", p: "/ˈepɪsentə(r)/", cn: "震中" },
-      { w: "lithosphere", pos: "n.", p: "/lɪˈθɒsfɪə(r)/", cn: "岩石圈" },
-      { w: "low-lying", pos: "adj.", p: "/ˌləʊ ˈlaɪɪŋ/", cn: "低洼的" },
-      { w: "basins", pos: "n.", p: "/ˈbeɪsnz/", cn: "盆地；流域（basin 的复数）" },
-      { w: "deposition", pos: "n.", p: "/ˌdepəˈzɪʃn/", cn: "沉积；沉积物" },
-      { w: "sedimentary", pos: "adj.", p: "/ˌsedɪˈmentri/", cn: "沉积的" },
-      { w: "strata", pos: "n.", p: "/ˈstrɑːtə/", cn: "地层（stratum 的复数）" },
-      { w: "chronological", pos: "adj.", p: "/ˌkrɒnəˈlɒdʒɪkl/", cn: "按时间顺序的；编年的" },
-      { w: "crystalline", pos: "adj.", p: "/ˈkrɪstəlaɪn/", cn: "结晶的；水晶般的" },
-      { w: "metamorphic", pos: "adj.", p: "/ˌmetəˈmɔːfɪk/", cn: "变质的（指岩石）" },
-      { w: "forge", pos: "v.", p: "/fɔːdʒ/", cn: "锻造；形成；锤炼" },
-      { w: "ore", pos: "n.", p: "/ɔː(r)/", cn: "矿石；矿砂" },
-      { w: "canyons", pos: "n.", p: "/ˈkænjənz/", cn: "峡谷（canyon 的复数）" },
-      { w: "plateaus", pos: "n.", p: "/ˈplætəʊz/", cn: "高原（plateau 的复数）" },
-      { w: "outcrop", pos: "n.", p: "/ˈaʊtkrɒp/", cn: "露头；露出地面的岩层" },
-      { w: "geologists", pos: "n.", p: "/ˌdʒiːəˈlɒdʒɪsts/", cn: "地质学家（geologist 的复数）" },
-      { w: "churning", pos: "adj.", p: "/ˈtʃɜːnɪŋ/", cn: "翻腾的；剧烈搅动的" }
+      { w: "divide", pos: "n.", p: "/dɪˈvaɪd/", cn: "分歧；鸿沟" },
+      { w: "uneven", pos: "adj.", p: "/ʌnˈiːvn/", cn: "不均衡的；不平坦的" },
+      { w: "distribution", pos: "n.", p: "/ˌdɪstrɪˈbjuːʃn/", cn: "分配；分布" },
+      { w: "affluent", pos: "adj.", p: "/ˈæfluənt/", cn: "富裕的；丰富的" },
+      { w: "broadband", pos: "n.", p: "/ˈbrɔːdbænd/", cn: "宽带" },
+      { w: "excluded", pos: "adj.", p: "/ɪkˈskluːdɪd/", cn: "被排除的；被排斥的" },
+      { w: "marginalisation", pos: "n.", p: "/ˌmɑːdʒɪnəlaɪˈzeɪʃn/", cn: "边缘化" },
+      { w: "entrench", pos: "v.", p: "/ɪnˈtrentʃ/", cn: "使根深蒂固；牢固确立" },
+      { w: "backbone", pos: "n.", p: "/ˈbækbəʊn/", cn: "骨干；支柱（此处指网络基础设施）" },
+      { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施" },
+      { w: "competence", pos: "n.", p: "/ˈkɒmpɪtəns/", cn: "能力；胜任" },
+      { w: "socioeconomic", pos: "adj.", p: "/ˌsəʊsɪəʊˌiːkəˈnɒmɪk/", cn: "社会经济的" },
+      { w: "invisible", pos: "adj.", p: "/ɪnˈvɪzəbl/", cn: "看不见的；隐形的" },
+      { w: "jobseeker", pos: "n.", p: "/ˈdʒɒbsiːkə(r)/", cn: "求职者" },
+      { w: "telehealth", pos: "n.", p: "/ˈtelɪhelθ/", cn: "远程医疗" },
+      { w: "compound", pos: "v.", p: "/kəmˈpaʊnd/", cn: "使加重；使恶化" },
+      { w: "reproduces", pos: "v.", p: "/ˌriːprəˈdjuːsɪz/", cn: "复制；再现" },
+      { w: "inequalities", pos: "n.", p: "/ˌɪnɪˈkwɒlətiz/", cn: "不平等（inequality 的复数）" },
+      { w: "subsidise", pos: "v.", p: "/ˈsʌbsɪdaɪz/", cn: "补贴；资助" },
+      { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程" },
+      { w: "embed", pos: "v.", p: "/ɪmˈbed/", cn: "嵌入；使扎根" },
+      { w: "privileged", pos: "adj.", p: "/ˈprɪvəlɪdʒd/", cn: "享有特权的" },
+      { w: "democratise", pos: "v.", p: "/dɪˈmɒkrətaɪz/", cn: "使普及；使民主化" },
+      { w: "coordinated", pos: "adj.", p: "/kəʊˈɔːdɪneɪtɪd/", cn: "协调的" },
+      { w: "universal", pos: "adj.", p: "/ˌjuːnɪˈvɜːsl/", cn: "普遍的；全体的" },
+      { w: "suffices", pos: "v.", p: "/səˈfaɪsɪz/", cn: "足够；足以" },
+      { w: "guise", pos: "n.", p: "/ɡaɪz/", cn: "伪装；外表" },
+      { w: "civic", pos: "adj.", p: "/ˈsɪvɪk/", cn: "公民的；市民的" }
     ]
   },
   words: [
-    { w: "tectonic", pos: "adj.", p: "/tekˈtɒnɪk/", cn: "构造的；地壳构造的", ex: "The tectonic plates beneath the ocean are constantly shifting.", exCn: "海洋之下的构造板块始终在移动。" },
-    { w: "plate", pos: "n.", p: "/pleɪt/", cn: "板块； Plate（地壳板块）", ex: "A single plate can span thousands of kilometres.", exCn: "单一的板块可绵延数千公里。" },
-    { w: "mantle", pos: "n.", p: "/ˈmæntl/", cn: "地幔", ex: "Heat from the mantle drives much of Earth's geology.", exCn: "地幔的热量驱动着地球地质活动的大部分。" },
-    { w: "crust", pos: "n.", p: "/krʌst/", cn: "地壳；外壳", ex: "The crust is far thinner than the layers beneath it.", exCn: "地壳远比其下方的各层要薄。" },
-    { w: "magma", pos: "n.", p: "/ˈmæɡmə/", cn: "岩浆", ex: "Magma rises through cracks in the rock until it reaches the surface.", exCn: "岩浆沿岩石裂缝上升，直至抵达地表。" },
-    { w: "lava", pos: "n.", p: "/ˈlɑːvə/", cn: "熔岩", ex: "The lava cooled rapidly and formed black glassy rock.", exCn: "熔岩迅速冷却，形成了黑色的玻璃质岩石。" },
-    { w: "volcano", pos: "n.", p: "/vɒlˈkeɪnəʊ/", cn: "火山", ex: "An active volcano can erupt without warning.", exCn: "活火山可能毫无预兆地喷发。" },
-    { w: "earthquake", pos: "n.", p: "/ˈɜːθkweɪk/", cn: "地震", ex: "The earthquake reduced several buildings to rubble.", exCn: "那场地震把数栋建筑夷为瓦砾。" },
-    { w: "igneous", pos: "adj.", p: "/ˈɪɡniəs/", cn: "火成的（指岩石）", ex: "Granite is a common igneous rock formed from cooled magma.", exCn: "花岗岩是一种由冷却岩浆形成的常见火成岩。" },
-    { w: "metamorphic", pos: "adj.", p: "/ˌmetəˈmɔːfɪk/", cn: "变质的（指岩石）", ex: "Marble is a metamorphic rock derived from limestone.", exCn: "大理石是一种由石灰岩演变而来的变质岩。" },
-    { w: "sedimentary", pos: "adj.", p: "/ˌsedɪˈmentri/", cn: "沉积的", ex: "Fossils are most often found in sedimentary rock.", exCn: "化石最常发现于沉积岩中。" },
-    { w: "strata", pos: "n.", p: "/ˈstrɑːtə/", cn: "地层（stratum 的复数）", ex: "The strata revealed a clear record of ancient floods.", exCn: "这些地层清晰记录了古代的洪水。" },
-    { w: "lithosphere", pos: "n.", p: "/lɪˈθɒsfɪə(r)/", cn: "岩石圈", ex: "The lithosphere is broken into several major plates.", exCn: "岩石圈被分割成数个主要板块。" },
-    { w: "asthenosphere", pos: "n.", p: "/æsˈθenəsfɪə(r)/", cn: "软流圈", ex: "The asthenosphere flows slowly like a very thick fluid.", exCn: "软流圈像极黏稠的流体一样缓慢流动。" },
-    { w: "subduction", pos: "n.", p: "/səbˈdʌkʃn/", cn: "俯冲（板块运动）", ex: "Subduction occurs where one plate slides beneath another.", exCn: "俯冲发生在一个板块滑入另一板块之下时。" },
-    { w: "fault", pos: "n.", p: "/fɔːlt/", cn: "断层", ex: "A fault is a fracture where blocks of rock slip past each other.", exCn: "断层是岩块相互错动的破裂带。" },
-    { w: "outcrop", pos: "n.", p: "/ˈaʊtkrɒp/", cn: "露头；露出地面的岩层", ex: "We studied the rock outcrop to read its history.", exCn: "我们研究那处岩石露头以解读其历史。" },
-    { w: "bedrock", pos: "n.", p: "/ˈbedrɒk/", cn: "基岩；根本", ex: "The city's foundations rest on solid bedrock.", exCn: "这座城市的基础坐落于坚实的基岩之上。" },
-    { w: "continent", pos: "n.", p: "/ˈkɒntɪnənt/", cn: "大陆；洲", ex: "The continent drifted northward over millions of years.", exCn: "那片大陆在数百万年间向北漂移。" },
-    { w: "drift", pos: "v.", p: "/drɪft/", cn: "漂移；缓慢移动", ex: "Tectonic plates drift only a few centimetres each year.", exCn: "构造板块每年仅漂移几厘米。" },
-    { w: "canyon", pos: "n.", p: "/ˈkænjən/", cn: "峡谷", ex: "The river carved a spectacular canyon through the plateau.", exCn: "河流在高原上切割出壮观的峡谷。" },
-    { w: "plateau", pos: "n.", p: "/ˈplætəʊ/", cn: "高原", ex: "After climbing steeply, the road levelled onto a plateau.", exCn: "陡然爬升后，道路在一片高原上变得平缓。" },
-    { w: "basin", pos: "n.", p: "/ˈbeɪsn/", cn: "盆地；流域", ex: "Sediment slowly filled the ancient lake basin.", exCn: "沉积物逐渐填满了古老的湖盆。" },
-    { w: "deposition", pos: "n.", p: "/ˌdepəˈzɪʃn/", cn: "沉积；沉积物", ex: "Deposition of silt created fertile farmland.", exCn: "淤泥的沉积造就了肥沃的农田。" },
-    { w: "ore", pos: "n.", p: "/ɔː(r)/", cn: "矿石；矿砂", ex: "The mine yielded high-grade iron ore.", exCn: "这座矿产出高品位的铁矿石。" },
-    { w: "core", pos: "n.", p: "/kɔː(r)/", cn: "地核；核心", ex: "Probes have never reached the planet's metallic core.", exCn: "探测器从未抵达过这颗行星的金属地核。" },
-    { w: "vent", pos: "n.", p: "/vent/", cn: "喷口；出口", ex: "Steam escaped through a crack in the volcanic vent.", exCn: "蒸汽从火山喷口的裂缝中逸出。" },
-    { w: "epicentre", pos: "n.", p: "/ˈepɪsentə(r)/", cn: "震中", ex: "The town lay close to the earthquake's epicentre.", exCn: "那座小镇离地震震中很近。" },
-    { w: "Pangaea", pos: "n.", p: "/pænˈdʒiːə/", cn: "泛大陆（远古联合古陆）", ex: "Pangaea broke apart to form today's continents.", exCn: "泛大陆裂解，形成了现今的各大陆。" },
-    { w: "geologist", pos: "n.", p: "/ˌdʒiːəˈlɒdʒɪst/", cn: "地质学家", ex: "The geologist mapped the region's rock formations.", exCn: "那位地质学家绘制了该地区的岩层分布图。" }
+    { w: "internet", pos: "n.", p: "/ˈɪntənet/", cn: "互联网；因特网", ex: "Rural schools gained internet access for the first time last year.", exCn: "去年，乡村学校首次接入了互联网。" },
+    { w: "broadband", pos: "n.", p: "/ˈbrɔːdbænd/", cn: "宽带", ex: "The government promised universal broadband within a decade.", exCn: "政府承诺在十年内实现宽带全覆盖。" },
+    { w: "connectivity", pos: "n.", p: "/ˌkɒnekˈtɪvəti/", cn: "连通性；连接能力", ex: "Poor connectivity prevents remote workers from joining meetings.", exCn: "糟糕的连通性使远程工作者无法加入会议。" },
+    { w: "access", pos: "n./v.", p: "/ˈækses/", cn: "获取；使用机会", ex: "Equal access to information is a cornerstone of fairness.", exCn: "平等获取信息是公平之基石。" },
+    { w: "exclusion", pos: "n.", p: "/ɪkˈskluːʒn/", cn: "排斥；排除", ex: "Digital exclusion traps the poor in a cycle of disadvantage.", exCn: "数字排斥将穷人困于劣势的循环之中。" },
+    { w: "socioeconomic", pos: "adj.", p: "/ˌsəʊsɪəʊˌiːkəˈnɒmɪk/", cn: "社会经济的", ex: "Socioeconomic gaps often mirror the digital divide.", exCn: "社会经济差距往往与数字鸿沟相互映照。" },
+    { w: "penetration", pos: "n.", p: "/ˌpenəˈtreɪʃn/", cn: "普及率；渗透", ex: "Mobile-phone penetration is high even in poor regions.", exCn: "即便在贫困地区的手机普及率也很高。" },
+    { w: "bandwidth", pos: "n.", p: "/ˈbændwɪdθ/", cn: "带宽", ex: "Low bandwidth makes video lessons impossible to stream.", exCn: "低带宽使视频课程无法流畅播放。" },
+    { w: "gap", pos: "n.", p: "/ɡæp/", cn: "差距；缺口", ex: "The wealth gap widens when jobs move online.", exCn: "当工作转向线上，贫富差距随之拉大。" },
+    { w: "widen", pos: "v.", p: "/ˈwaɪdn/", cn: "扩大；变宽", ex: "Without intervention, the divide will only widen.", exCn: "若不加以干预，鸿沟只会继续扩大。" },
+    { w: "bridge", pos: "v.", p: "/brɪdʒ/", cn: "弥合；跨越", ex: "Public libraries help bridge the connectivity gap.", exCn: "公共图书馆有助于弥合连通性差距。" },
+    { w: "privilege", pos: "n.", p: "/ˈprɪvəlɪdʒ/", cn: "特权；优待", ex: "Reliable internet has become a privilege, not a right.", exCn: "稳定的网络已成为一种特权，而非权利。" },
+    { w: "democratise", pos: "v.", p: "/dɪˈmɒkrətaɪz/", cn: "使普及；使民主化", ex: "Cheap smartphones democratised access to knowledge.", exCn: "廉价智能手机使知识获取得以普及。" },
+    { w: "competence", pos: "n.", p: "/ˈkɒmpɪtəns/", cn: "能力；胜任", ex: "Digital competence matters as much as device ownership.", exCn: "数字能力与拥有设备同样重要。" },
+    { w: "subsidise", pos: "v.", p: "/ˈsʌbsɪdaɪz/", cn: "补贴；资助", ex: "States should subsidise connections for the poorest households.", exCn: "国家应当为最贫困家庭补贴网络接入。" },
+    { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程", ex: "Schools must add digital skills to the curriculum.", exCn: "学校必须把数字技能纳入课程。" },
+    { w: "embed", pos: "v.", p: "/ɪmˈbed/", cn: "嵌入；使扎根", ex: "We should embed literacy early in childhood.", exCn: "我们应在童年早期便将素养教育扎根。" },
+    { w: "underprivileged", pos: "adj.", p: "/ˌʌndəˈprɪvəlɪdʒd/", cn: "贫困的；弱势的", ex: "Underprivileged pupils suffer most from school closures.", exCn: "弱势学生在停课中受冲击最重。" },
+    { w: "isolated", pos: "adj.", p: "/ˈaɪsəleɪtɪd/", cn: "孤立的；偏远的", ex: "Isolated villages need satellite links to connect.", exCn: "偏远的村庄需要卫星链路来联网。" },
+    { w: "disenfranchise", pos: "v.", p: "/ˌdɪsɪnˈfræntʃaɪz/", cn: "剥夺权利；使丧失能力", ex: "Lack of access disenfranchises citizens from public services.", exCn: "缺乏网络接入使公民被剥夺了公共服务。" },
+    { w: "gadget", pos: "n.", p: "/ˈɡædʒɪt/", cn: "小器具；电子设备", ex: "A basic gadget is enough to learn online.", exCn: "一台基础电子设备便足以在线学习。" },
+    { w: "framework", pos: "n.", p: "/ˈfreɪmwɜːk/", cn: "框架；体系", ex: "A policy framework can guide digital inclusion.", exCn: "政策框架可指导数字包容。" },
+    { w: "capability", pos: "n.", p: "/ˌkeɪpəˈbɪləti/", cn: "能力；性能", ex: "Network capability varies sharply between regions.", exCn: "网络能力在各区域间差异悬殊。" },
+    { w: "communal", pos: "adj.", p: "/kəˈmjuːnl/", cn: "公共的；共有的；社区的", ex: "Communal services increasingly depend on being online.", exCn: "公共服务如今日益有赖于在线状态。" },
+    { w: "backbone", pos: "n.", p: "/ˈbækbəʊn/", cn: "骨干；支柱（此处指基础设施）", ex: "Fibre forms the backbone of any modern network.", exCn: "光纤构成任何现代网络的骨干。" },
+    { w: "technically", pos: "adv.", p: "/ˈteknɪkli/", cn: "在技术（层面）上", ex: "The village is technically connected but painfully slow.", exCn: "该村在技术层面上已联网，却慢得令人难受。" },
+    { w: "invisible", pos: "adj.", p: "/ɪnˈvɪzəbl/", cn: "看不见的；隐形的", ex: "The divide is invisible to those already connected.", exCn: "对于那些已经联网的人，这道鸿沟是隐形的。" },
+    { w: "compound", pos: "v.", p: "/kəmˈpaʊnd/", cn: "使加重；使恶化", ex: "Exclusion compounds existing social problems.", exCn: "排斥会使既有的社会问题雪上加霜。" },
+    { w: "deepen", pos: "v.", p: "/ˈdiːpn/", cn: "加深；使变深", ex: "Each year of disconnect deepens the divide.", exCn: "每一年与网络隔绝都加深了这道鸿沟。" },
+    { w: "inclusivity", pos: "n.", p: "/ɪnˌkluːsɪvəti/", cn: "包容性； inclusiveness", ex: "True inclusivity means no community is left offline.", exCn: "真正的包容性意味着没有任何群体被留在离线世界之外。" }
   ],
   vocabArticle: {
-    title: "The Geologist's Tale",
-    titleCn: "地质学家的故事",
+    title: "Bridging the Gap",
+    titleCn: "弥合鸿沟",
     paras: [
       {
-        en: "The geologist began by explaining that Earth's outer shell is the crust, a thin rocky layer sitting above the blazing mantle. Beneath the rigid lithosphere lies the soft asthenosphere, on which a single tectonic plate can slowly creep. Where one plate dives beneath another, a process called subduction takes place, and the continent above may gradually drift. Long ago, all land joined into one supercontinent named Pangaea.",
-        cn: "那位地质学家首先解释道：地球的外壳便是地壳，那是位于炽热地幔之上的一层薄薄岩石。在坚硬的岩石圈之下，静卧着柔软的软流圈；一整块构造板块便能在它之上缓缓蠕动。当一块板块俯冲到另一块之下时，便发生名为俯冲的过程，而其上方的大陆也可能逐渐漂移。在遥远的过去，所有陆地曾连成一片，名为泛大陆。"
+        en: "The digital divide begins with unequal internet access. In wealthy districts, fast broadband and smooth connectivity are taken for granted, but the underprivileged in distant towns meet daily exclusion. This socioeconomic gap stays invisible to those already online, yet it quietly shapes who can study, earn, and belong in modern life.",
+        cn: "数字鸿沟始于不均衡的互联网接入。在富裕街区，高速宽带与顺畅的连通被视为理所当然，而偏远城镇里的弱势群体却日日遭遇排斥。这道社会经济的鸿沟对已经联网的人而言隐而不见，却悄然决定着谁能在现代生活中学习、谋生并找到归属。"
       },
       {
-        en: "When plates split or collide, magma rises from deep inside the planet and may burst through a vent at the surface. The flowing lava then cools and hardens into dark igneous rock. A volcano can also unleash a fierce earthquake, whose energy spreads from a point called the epicentre. Along a fractured fault, the ground shudders as pressure is abruptly released.",
-        cn: "当板块裂开或相撞时，岩浆会从行星深处升起，并可能从地表的一个喷口骤然迸出。流淌的熔岩随后冷却，硬化成深色的火成岩。火山也可能释放出猛烈的地震，其能量从一个称为震中的点向四周扩散。沿着破裂的断层，当地压骤然释放，大地便剧烈震颤。"
+        en: "Low network penetration and weak bandwidth leave isolated villages stranded. Without a reliable backbone of fibre, even a simple gadget cannot reach the world, and the place is only technically connected with little real capability. A clear policy framework should subsidise rural lines so connection stops being a privilege. Public access points help bridge the gap, making it a shared communal good.",
+        cn: "低下的网络普及率与薄弱的带宽，令偏远的村庄陷入孤立无援的境地。若没有光纤这类可靠的骨干网络，即便一台简单的电子设备也无法联通世界，这些地方仅仅是技术上连了网，却几无真正的网络能力。清晰的政策框架应当补贴农村线路，使联网不再是少数人的特权。公共接入点有助于弥合差距，让它成为共享的公民福祉。"
       },
       {
-        en: "Rain and rivers wear highlands down, sweeping particles that settle in a basin through deposition and turn into layered sedimentary rock. These horizontal strata tell of vanished ages, while miners dig for rich ore beside the exposed core of an ancient outcrop. Over centuries, a river can slice a deep canyon, and slow uplift lifts a wide plateau above the stubborn bedrock.",
-        cn: "雨水与河流侵蚀着高地，将微粒带走，经由沉积堆积于盆地之中，并化作层叠的沉积岩。那些水平的地层述说着消逝的岁月；而矿工们则在古老露头裸露的地核旁，开采着富饶的矿石。历经数百年，一条河流能切出幽深的峡谷，缓慢的抬升则把广阔的高原托举到顽固基岩之上。"
+        en: "Even with a signal, poor digital competence holds people back. Schools must embed these skills in the curriculum so that knowledge can democratise opportunity for everyone. Without such training, the disconnected are disenfranchised from jobs and care, and their disadvantage will compound year after year. Each lost year quietly deepens the divide and widens the gap between rich and poor.",
+        cn: "即便有信号，贫弱的数字能力也会拖累人们。学校必须将这些技能嵌入课程，使知识能够为所有人普及机会。缺乏此类训练，与世隔绝者便在就业与医疗上被剥夺了权利，其劣势将年复一年地累积叠加。每一个失落的年份都在悄然加深这道鸿沟，并拉富裕与贫穷之间的差距。"
       },
       {
-        en: "Deep burial and fierce heat quietly change ordinary stone into metamorphic rock without ever melting it. The geologist smiled, noting that by studying such rock and the wandering plates, we learn to read the planet's long history and brace for its violent moods.",
-        cn: "深埋与酷热会悄然把普通的石头转变为变质岩，却从不使其真正熔化。那位地质学家微微一笑，说道：通过研究这类岩石与游移不定的板块，我们得以读懂这颗行星的悠长历史，并为它暴烈的脾气做好准备。"
+        en: "Closing the gap is ultimately a test of inclusivity. When thoughtful policy, patient education, and steady investment align, the divide can finally shrink. Being online should be a basic right, not a privilege reserved for the fortunate. True progress means no child is left disconnected, and every community shares in the digital age.",
+        cn: "弥合差距终究是一场关于包容性的考验。当审慎的政策、耐心的教育与稳定的投资彼此协同，这道鸿沟终将收缩。联网应当是一项基本权利，而非留给幸运者的特权。真正的进步意味着没有任何一个孩子被遗落在网络之外，每一个社区都能共享这个数字时代。"
       }
     ]
   },
   grammar: [
     {
-      q: "With seismic hazards still poorly understood in the region, it is high time that the government ___ a comprehensive geology survey.",
+      q: "More than one rural household in the survey ___ been left without any internet connection.",
       options: [
-        "launches",
-        "launched",
-        "will launch",
-        "would launch"
+        "have",
+        "has",
+        "having",
+        "are"
       ],
       answer: 1,
-      explain: "考点：虚拟语气——'It is high time (that)…' 结构。当表达'早该做某事而实际尚未做'的含义时，that 从句的谓语动词须用一般过去时（此处 launched）来表示与现在事实相反的虚拟语气。A（launches 一般现在时）与 C（will launch 一般将来时）都不表达虚拟含义；D（would launch）错误，因为 high time 结构后不接 would/should+动词原形。扩展：同类用法的还有 It is time (that)...、It is about time (that)...，从句均须用过去式。"
+      explain: "考点：主谓一致——'more than one + 单数可数名词' 作主语时，谓语动词习惯上用单数形式。本句主语为 More than one rural household，因此助动词用 has（与 been 构成现在完成时）。A（have）为复数形式，违背该固定搭配；C（having）不能单独作谓语；D（are）为复数 be 动词，同样错误。扩展：类似用单数谓语的结构还有 'one or two...' 视就近原则用复数，而 'many a + 单数名词' 也用单数，如 Many a student finds the test hard。"
     },
     {
-      q: "___, the geologist kept climbing toward the volcano's crater to collect fresh samples.",
+      q: "This is the most remote village ___ we have successfully connected to the national network.",
       options: [
-        "Exhausted as was he",
-        "Exhausted as he was",
-        "As he was exhausted",
-        "As exhausted he was"
+        "which",
+        "that",
+        "where",
+        "what"
       ],
       answer: 1,
-      explain: "考点：状语从句——as 引导的让步状语从句须部分倒装，固定结构为'形容词/名词/副词 + as + 主语 + 动词'。本句将形容词 exhausted 置于 as 之前，主语 he 与系动词 was 保持正常语序，即 'Exhausted as he was'（尽管已筋疲力尽）。A 错误地将主语与动词倒置（as 之后只用'主语+动词'的正常语序）；C 是正常语序的原因/时间状语从句，并不表示倒装让步；D 语序混乱。扩展：as 让步倒装亦可用于名词（Child as he is）和副词（Much as I like it）。"
+      explain: "考点：定语从句——当先行词被形容词最高级（如 the most remote）修饰时，关系代词通常只用 that，而不用 which。本句先行词 village 被最高级 the most remote 修饰，故应选 that 引导定语从句（that 在从句中作 connected 的宾语）。A（which）在被最高级修饰时一般不用于限定性定语从句；C（where）是关系副词，在从句中作状语，但本从句缺宾语，故不适用；D（what）不能引导定语从句。扩展：序数词（the first / the last）及 'the only' 修饰先行词时， likewise 优先用 that。"
     }
   ]
 };
