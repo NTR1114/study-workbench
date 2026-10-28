@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-26",
-  topic: "The Digital Divide（数字鸿沟）",
+  date: "2026-10-28",
+  topic: "E-commerce & the Rise of Online Retail（电子商务与线上零售的崛起）",
   article: {
-    title: "The Unconnected Half: Why the Digital Divide Still Matters",
-    titleCn: "未连接的半数：为何数字鸿沟依然重要",
+    title: "From Clicks to Carts: The Rise of Online Retail",
+    titleCn: "从点击到购物车：线上零售的崛起",
     paras: [
       {
-        en: "The digital divide refers to the uneven distribution of access to information and communication technologies across societies. While affluent urban dwellers enjoy high-speed broadband and the latest devices, billions in rural and low-income regions remain effectively excluded. This gap is no longer merely about owning a computer; it increasingly determines who can learn, work, and participate in civic life. As essential services migrate online, disconnection has become a new form of marginalisation.",
-        cn: "数字鸿沟指的是社会内部信息与通信技术获取的不均衡分布。当富裕的城市居民享受着高速宽带与最新设备时，农村与低收入地区仍有数十亿人实际上被排除在外。这道鸿沟不再仅仅是拥有一台电脑的问题；它日益决定着谁能学习、工作并参与公民生活。随着各类基础服务转向线上，与网络隔绝已成为一种新的边缘化形式。"
+        en: "Online retail has reshaped how people buy, turning ordinary screens into bustling storefronts and shrinking the distance between makers and buyers. A generation ago, shopping required travelling to physical shops; today a few taps summon goods from across the globe within days. This shift, driven by faster internet and secure payment, has lifted countless small sellers into global markets. Yet it has also unsettled traditional high streets and altered consumer habits more permanently than any previous trend.",
+        cn: "线上零售重塑了人们的购买方式，把寻常的屏幕变成了熙熙攘攘的店面，也拉近了制造者与购买者之间的距离。一代人以前，购物意味着要去实体店铺；而今天，轻轻几下点击就能在数日内召来全球各地的商品。这一由更快的网络与更安全的支付所推动的转变，让无数小卖家进入了全球市场。然而，它也动摇了传统商业街，并以比以往任何潮流都更持久的方式改变了消费者的习惯。"
       },
       {
-        en: "Several forces entrench the divide. In many developing areas, the physical backbone of networks—towers, fibre, and reliable electricity—is absent, making connection technically impossible. Even where infrastructure exists, the cost of devices and data plans places them beyond the reach of the poor. A further barrier is skills: without basic digital competence, ownership alone changes little. Consequently, socioeconomic status quietly dictates who benefits from the connected world.",
-        cn: "多重力量使这道鸿沟根深蒂固。在许多发展中地区，网络的实体骨干——信号塔、光纤与稳定电力——并不存在，使得连接技术在客观上无法实现。即便基础设施存在，设备与流量套餐的花费也令穷人难以企及。另一重障碍是技能：若缺乏基本的数字能力，仅拥有设备几乎于事无补。由此，社会经济地位悄然决定了谁能从互联世界中获益。"
+        en: "Businesses now depend on data to predict demand and manage inventory with unusual precision. Sophisticated systems track what sells, then automatically reorder stock before shelves run empty. Meanwhile, logistics networks move parcels through warehouses at remarkable speed, while customer reviews shape the reputation of every brand. Smaller firms, once confined to local streets, can now reach distant buyers. The result is a marketplace where convenience increasingly outweighs the charm of browsing.",
+        cn: "如今，企业依靠数据来预测需求，并以非同寻常的精度管理库存。精密的系统追踪销售情况，随后在货架清空之前自动补货。与此同时，物流网络以惊人的速度经仓库运送包裹，而顾客评价则塑造着每一个品牌的声誉。曾经困于本地街区的小企业，如今也能触达遥远的买家。其结果是一个便利日益胜过浏览乐趣的市场。"
       },
       {
-        en: "The consequences are profound yet often invisible. Students without home internet fall behind as homework moves online, while jobseekers unable to submit applications digitally are screened out before interviews. Small businesses in unconnected towns cannot reach wider markets, and patients miss telehealth appointments. Over time, these disadvantages compound, leaving excluded communities less able to climb the economic ladder. The divide thus reproduces older inequalities under a new, technological guise.",
-        cn: "其后果深刻，却往往隐形。没有家庭网络的学生会因作业转向线上而掉队，而无法在线提交申请的求职者则在面试前便被筛除。未联网小镇上的小企业无法触及更广阔的市场，患者也会错过热线医疗预约。久而久之，这些劣势相互叠加，令被排斥的群体更难攀登经济阶梯。于是，数字鸿沟以一种崭新的技术外衣，复制了旧有的不平等。"
+        en: "Not everything online glitters, however. Counterfeit goods and misleading listings erode trust, while the collapse of footfall threatens brick-and-mortar shops on every high street. Regulators struggle to police cross-border sales, and returns pile up as buyers order several sizes to keep one. Environmental costs mount too, from cardboard waste to the emissions of countless deliveries. Balancing growth with responsibility has become the central dilemma of digital commerce.",
+        cn: "然而，并非线上的一切都闪闪发光。伪造商品与误导性商品列表侵蚀着信任，而客流的崩塌也威胁着每条商业街上的实体店铺。监管机构难以监管跨境销售，随着买家为留下一件而订购多个尺码，退货也越堆越多。环境代价同样在攀升——从纸箱废料到无数次配送的排放。在增长与责任之间取得平衡，已成为数字商业的核心难题。"
       },
       {
-        en: "Closing the gap demands coordinated action. Governments can subsidise rural broadband and supply public access points such as libraries and community hubs. Curriculum reform should embed digital skills from an early age, so competence is universal rather than privileged. International aid and private investment, meanwhile, help build the backbone where markets alone will not. Though no single measure suffices, sustained effort can gradually democratise opportunity and ensure the digital age leaves no one behind.",
-        cn: "弥合这道鸿沟需要协调一致的行动。政府可以补贴农村宽带，并提供图书馆与社区中心等公共接入点。课程改革应从幼年开始嵌入数字技能，使这种能力成为普遍素养而非少数人的特权。与此同时，国际援助与私人投资能在市场单独无能为力的地方帮着搭建骨干网络。尽管任何单一举措都不足以解决问题，但持续的努力能够逐步普及机会，确保数字时代不落下任何人。"
+        en: "Looking ahead, the boundary between online and offline continues to blur through omnichannel strategies that unite apps, websites, and physical stores. Personalized recommendations, powered by clever algorithms, anticipate needs before shoppers voice them. Yet genuine loyalty is earned slowly, not bought with discounts alone. As technology matures, the winners will be those who blend efficiency with trust, offering choice without overwhelming the customer. Commerce, in the end, remains a human conversation conducted at the speed of light.",
+        cn: "展望未来，线上与线下的边界通过全渠道策略持续模糊，将应用、网站与实体店融为一体。由巧妙算法驱动的个性化推荐，在购物者开口之前便预知其需求。然而，真正的忠诚是慢慢赢得的，而非仅靠折扣买来。随着技术走向成熟，赢家将是那些把效率与信任结合起来、在提供选择的同时不让顾客不知所措的人。商业，归根结底，仍是一场以光速进行的、人与人之间的对话。"
       }
     ],
     glossary: [
-      { w: "divide", pos: "n.", p: "/dɪˈvaɪd/", cn: "分歧；鸿沟" },
-      { w: "uneven", pos: "adj.", p: "/ʌnˈiːvn/", cn: "不均衡的；不平坦的" },
-      { w: "distribution", pos: "n.", p: "/ˌdɪstrɪˈbjuːʃn/", cn: "分配；分布" },
-      { w: "affluent", pos: "adj.", p: "/ˈæfluənt/", cn: "富裕的；丰富的" },
-      { w: "broadband", pos: "n.", p: "/ˈbrɔːdbænd/", cn: "宽带" },
-      { w: "excluded", pos: "adj.", p: "/ɪkˈskluːdɪd/", cn: "被排除的；被排斥的" },
-      { w: "marginalisation", pos: "n.", p: "/ˌmɑːdʒɪnəlaɪˈzeɪʃn/", cn: "边缘化" },
-      { w: "entrench", pos: "v.", p: "/ɪnˈtrentʃ/", cn: "使根深蒂固；牢固确立" },
-      { w: "backbone", pos: "n.", p: "/ˈbækbəʊn/", cn: "骨干；支柱（此处指网络基础设施）" },
-      { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施" },
-      { w: "competence", pos: "n.", p: "/ˈkɒmpɪtəns/", cn: "能力；胜任" },
-      { w: "socioeconomic", pos: "adj.", p: "/ˌsəʊsɪəʊˌiːkəˈnɒmɪk/", cn: "社会经济的" },
-      { w: "invisible", pos: "adj.", p: "/ɪnˈvɪzəbl/", cn: "看不见的；隐形的" },
-      { w: "jobseeker", pos: "n.", p: "/ˈdʒɒbsiːkə(r)/", cn: "求职者" },
-      { w: "telehealth", pos: "n.", p: "/ˈtelɪhelθ/", cn: "远程医疗" },
-      { w: "compound", pos: "v.", p: "/kəmˈpaʊnd/", cn: "使加重；使恶化" },
-      { w: "reproduces", pos: "v.", p: "/ˌriːprəˈdjuːsɪz/", cn: "复制；再现" },
-      { w: "inequalities", pos: "n.", p: "/ˌɪnɪˈkwɒlətiz/", cn: "不平等（inequality 的复数）" },
-      { w: "subsidise", pos: "v.", p: "/ˈsʌbsɪdaɪz/", cn: "补贴；资助" },
-      { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程" },
-      { w: "embed", pos: "v.", p: "/ɪmˈbed/", cn: "嵌入；使扎根" },
-      { w: "privileged", pos: "adj.", p: "/ˈprɪvəlɪdʒd/", cn: "享有特权的" },
-      { w: "democratise", pos: "v.", p: "/dɪˈmɒkrətaɪz/", cn: "使普及；使民主化" },
-      { w: "coordinated", pos: "adj.", p: "/kəʊˈɔːdɪneɪtɪd/", cn: "协调的" },
-      { w: "universal", pos: "adj.", p: "/ˌjuːnɪˈvɜːsl/", cn: "普遍的；全体的" },
-      { w: "suffices", pos: "v.", p: "/səˈfaɪsɪz/", cn: "足够；足以" },
-      { w: "guise", pos: "n.", p: "/ɡaɪz/", cn: "伪装；外表" },
-      { w: "civic", pos: "adj.", p: "/ˈsɪvɪk/", cn: "公民的；市民的" }
+      { w: "bustling", pos: "adj.", p: "/ˈbʌsliŋ/", cn: "熙熙攘攘的；繁忙的" },
+      { w: "summon", pos: "v.", p: "/ˈsʌmən/", cn: "召唤；召集" },
+      { w: "unsettled", pos: "adj.", p: "/ʌnˈsetld/", cn: "动荡的；不安定的" },
+      { w: "precision", pos: "n.", p: "/prɪˈsɪʒn/", cn: "精确；精准" },
+      { w: "reshaped", pos: "v.", p: "/ˌriːˈʃeɪpt/", cn: "重塑（reshape 的过去式）" },
+      { w: "parcels", pos: "n.", p: "/ˈpɑːslz/", cn: "包裹（parcel 的复数）" },
+      { w: "reputation", pos: "n.", p: "/ˌrepjuˈteɪʃn/", cn: "声誉；名声" },
+      { w: "glitters", pos: "v.", p: "/ˈɡlɪtəz/", cn: "闪亮（all that glitters 闪光的）" },
+      { w: "listings", pos: "n.", p: "/ˈlɪstɪŋz/", cn: "商品列表（listing 的复数）" },
+      { w: "footfall", pos: "n.", p: "/ˈfʊtfɔːl/", cn: "客流；人流（foot traffic）" },
+      { w: "brick-and-mortar", pos: "adj.", p: "/ˌbrɪk ən ˈmɔːtə(r)/", cn: "实体的（指线下实体店铺）" },
+      { w: "regulators", pos: "n.", p: "/ˈreɡjuleɪtəz/", cn: "监管机构（regulator 的复数）" },
+      { w: "cross-border", pos: "adj.", p: "/ˌkrɒs ˈbɔːdə(r)/", cn: "跨境的" },
+      { w: "emissions", pos: "n.", p: "/ɪˈmɪʃnz/", cn: "排放物（emission 的复数）" },
+      { w: "deliveries", pos: "n.", p: "/dɪˈlɪvəriz/", cn: "配送；投递（delivery 的复数）" },
+      { w: "commerce", pos: "n.", p: "/ˈkɒmɜːs/", cn: "商业；贸易" },
+      { w: "discounts", pos: "n.", p: "/ˈdɪskaʊnts/", cn: "折扣（discount 的复数）" },
+      { w: "matures", pos: "v.", p: "/məˈtʃʊəz/", cn: "成熟（mature 的第三人称单数）" },
+      { w: "overwhelming", pos: "adj.", p: "/ˌəʊvəˈwelmɪŋ/", cn: "令人不知所措的；压倒性的" },
+      { w: "boundary", pos: "n.", p: "/ˈbaʊndri/", cn: "边界；分界线" },
+      { w: "charm", pos: "n.", p: "/tʃɑːm/", cn: "魅力；吸引力" },
+      { w: "reorder", pos: "v.", p: "/ˌriːˈɔːdə(r)/", cn: "重新订货；再订购" },
+      { w: "convenience", pos: "n.", p: "/kənˈviːniəns/", cn: "便利；方便" },
+      { w: "outweighs", pos: "v.", p: "/ˌaʊtˈweɪz/", cn: "超过；比……更重要" },
+      { w: "reviews", pos: "n.", p: "/rɪˈvjuːz/", cn: "评价；评论（review 的复数）" },
+      { w: "strategies", pos: "n.", p: "/ˈstrætədʒiz/", cn: "策略（strategy 的复数）" },
+      { w: "conducted", pos: "v.", p: "/kənˈdʌktɪd/", cn: "进行（conduct 的过去式）" },
+      { w: "mount", pos: "v.", p: "/maʊnt/", cn: "增加；上升" }
     ]
   },
   words: [
-    { w: "internet", pos: "n.", p: "/ˈɪntənet/", cn: "互联网；因特网", ex: "Rural schools gained internet access for the first time last year.", exCn: "去年，乡村学校首次接入了互联网。" },
-    { w: "broadband", pos: "n.", p: "/ˈbrɔːdbænd/", cn: "宽带", ex: "The government promised universal broadband within a decade.", exCn: "政府承诺在十年内实现宽带全覆盖。" },
-    { w: "connectivity", pos: "n.", p: "/ˌkɒnekˈtɪvəti/", cn: "连通性；连接能力", ex: "Poor connectivity prevents remote workers from joining meetings.", exCn: "糟糕的连通性使远程工作者无法加入会议。" },
-    { w: "access", pos: "n./v.", p: "/ˈækses/", cn: "获取；使用机会", ex: "Equal access to information is a cornerstone of fairness.", exCn: "平等获取信息是公平之基石。" },
-    { w: "exclusion", pos: "n.", p: "/ɪkˈskluːʒn/", cn: "排斥；排除", ex: "Digital exclusion traps the poor in a cycle of disadvantage.", exCn: "数字排斥将穷人困于劣势的循环之中。" },
-    { w: "socioeconomic", pos: "adj.", p: "/ˌsəʊsɪəʊˌiːkəˈnɒmɪk/", cn: "社会经济的", ex: "Socioeconomic gaps often mirror the digital divide.", exCn: "社会经济差距往往与数字鸿沟相互映照。" },
-    { w: "penetration", pos: "n.", p: "/ˌpenəˈtreɪʃn/", cn: "普及率；渗透", ex: "Mobile-phone penetration is high even in poor regions.", exCn: "即便在贫困地区的手机普及率也很高。" },
-    { w: "bandwidth", pos: "n.", p: "/ˈbændwɪdθ/", cn: "带宽", ex: "Low bandwidth makes video lessons impossible to stream.", exCn: "低带宽使视频课程无法流畅播放。" },
-    { w: "gap", pos: "n.", p: "/ɡæp/", cn: "差距；缺口", ex: "The wealth gap widens when jobs move online.", exCn: "当工作转向线上，贫富差距随之拉大。" },
-    { w: "widen", pos: "v.", p: "/ˈwaɪdn/", cn: "扩大；变宽", ex: "Without intervention, the divide will only widen.", exCn: "若不加以干预，鸿沟只会继续扩大。" },
-    { w: "bridge", pos: "v.", p: "/brɪdʒ/", cn: "弥合；跨越", ex: "Public libraries help bridge the connectivity gap.", exCn: "公共图书馆有助于弥合连通性差距。" },
-    { w: "privilege", pos: "n.", p: "/ˈprɪvəlɪdʒ/", cn: "特权；优待", ex: "Reliable internet has become a privilege, not a right.", exCn: "稳定的网络已成为一种特权，而非权利。" },
-    { w: "democratise", pos: "v.", p: "/dɪˈmɒkrətaɪz/", cn: "使普及；使民主化", ex: "Cheap smartphones democratised access to knowledge.", exCn: "廉价智能手机使知识获取得以普及。" },
-    { w: "competence", pos: "n.", p: "/ˈkɒmpɪtəns/", cn: "能力；胜任", ex: "Digital competence matters as much as device ownership.", exCn: "数字能力与拥有设备同样重要。" },
-    { w: "subsidise", pos: "v.", p: "/ˈsʌbsɪdaɪz/", cn: "补贴；资助", ex: "States should subsidise connections for the poorest households.", exCn: "国家应当为最贫困家庭补贴网络接入。" },
-    { w: "curriculum", pos: "n.", p: "/kəˈrɪkjələm/", cn: "课程", ex: "Schools must add digital skills to the curriculum.", exCn: "学校必须把数字技能纳入课程。" },
-    { w: "embed", pos: "v.", p: "/ɪmˈbed/", cn: "嵌入；使扎根", ex: "We should embed literacy early in childhood.", exCn: "我们应在童年早期便将素养教育扎根。" },
-    { w: "underprivileged", pos: "adj.", p: "/ˌʌndəˈprɪvəlɪdʒd/", cn: "贫困的；弱势的", ex: "Underprivileged pupils suffer most from school closures.", exCn: "弱势学生在停课中受冲击最重。" },
-    { w: "isolated", pos: "adj.", p: "/ˈaɪsəleɪtɪd/", cn: "孤立的；偏远的", ex: "Isolated villages need satellite links to connect.", exCn: "偏远的村庄需要卫星链路来联网。" },
-    { w: "disenfranchise", pos: "v.", p: "/ˌdɪsɪnˈfræntʃaɪz/", cn: "剥夺权利；使丧失能力", ex: "Lack of access disenfranchises citizens from public services.", exCn: "缺乏网络接入使公民被剥夺了公共服务。" },
-    { w: "gadget", pos: "n.", p: "/ˈɡædʒɪt/", cn: "小器具；电子设备", ex: "A basic gadget is enough to learn online.", exCn: "一台基础电子设备便足以在线学习。" },
-    { w: "framework", pos: "n.", p: "/ˈfreɪmwɜːk/", cn: "框架；体系", ex: "A policy framework can guide digital inclusion.", exCn: "政策框架可指导数字包容。" },
-    { w: "capability", pos: "n.", p: "/ˌkeɪpəˈbɪləti/", cn: "能力；性能", ex: "Network capability varies sharply between regions.", exCn: "网络能力在各区域间差异悬殊。" },
-    { w: "communal", pos: "adj.", p: "/kəˈmjuːnl/", cn: "公共的；共有的；社区的", ex: "Communal services increasingly depend on being online.", exCn: "公共服务如今日益有赖于在线状态。" },
-    { w: "backbone", pos: "n.", p: "/ˈbækbəʊn/", cn: "骨干；支柱（此处指基础设施）", ex: "Fibre forms the backbone of any modern network.", exCn: "光纤构成任何现代网络的骨干。" },
-    { w: "technically", pos: "adv.", p: "/ˈteknɪkli/", cn: "在技术（层面）上", ex: "The village is technically connected but painfully slow.", exCn: "该村在技术层面上已联网，却慢得令人难受。" },
-    { w: "invisible", pos: "adj.", p: "/ɪnˈvɪzəbl/", cn: "看不见的；隐形的", ex: "The divide is invisible to those already connected.", exCn: "对于那些已经联网的人，这道鸿沟是隐形的。" },
-    { w: "compound", pos: "v.", p: "/kəmˈpaʊnd/", cn: "使加重；使恶化", ex: "Exclusion compounds existing social problems.", exCn: "排斥会使既有的社会问题雪上加霜。" },
-    { w: "deepen", pos: "v.", p: "/ˈdiːpn/", cn: "加深；使变深", ex: "Each year of disconnect deepens the divide.", exCn: "每一年与网络隔绝都加深了这道鸿沟。" },
-    { w: "inclusivity", pos: "n.", p: "/ɪnˌkluːsɪvəti/", cn: "包容性； inclusiveness", ex: "True inclusivity means no community is left offline.", exCn: "真正的包容性意味着没有任何群体被留在离线世界之外。" }
+    { w: "e-commerce", pos: "n.", p: "/ˈiː kɒmɜːs/", cn: "电子商务", ex: "Small artisans can now reach global buyers through e-commerce platforms.", exCn: "小手工业者如今能通过电子商务平台触达全球买家。" },
+    { w: "retailer", pos: "n.", p: "/ˈriːteɪlə(r)/", cn: "零售商", ex: "The retailer expanded from one shop to an online network of stores.", exCn: "这家零售商从一家门店扩展为线上门店网络。" },
+    { w: "checkout", pos: "n.", p: "/ˈtʃekaʊt/", cn: "结账；收银台", ex: "A smooth checkout process reduces the number of abandoned carts.", exCn: "流畅的结账流程能减少弃购购物车的数量。" },
+    { w: "warehouse", pos: "n.", p: "/ˈweəhaʊs/", cn: "仓库", ex: "The company built a vast warehouse to store goods closer to customers.", exCn: "该公司建了一座巨大的仓库，把商品存放在更靠近客户的地方。" },
+    { w: "shipment", pos: "n.", p: "/ˈʃɪpmənt/", cn: "货运；一批货物", ex: "Each shipment is tracked from the factory to the buyer's door.", exCn: "每一批货物从工厂到买家门口都被全程追踪。" },
+    { w: "procure", pos: "v.", p: "/prəˈkjʊə(r)/", cn: "采购；获取", ex: "Hospitals procure medical supplies through competitive online tenders.", exCn: "医院通过竞争性的线上招标来采购医疗物资。" },
+    { w: "merchandising", pos: "n.", p: "/ˈmɜːtʃəndaɪzɪŋ/", cn: "商品推销；营销陈列", ex: "Clever merchandising turns casual browsers into paying customers.", exCn: "巧妙的商品推销能把随意浏览者变成付费顾客。" },
+    { w: "cart", pos: "n.", p: "/kɑːt/", cn: "购物车", ex: "She added three books to her cart but bought only one.", exCn: "她往购物车里加了三本书，却只买了一本。" },
+    { w: "refund", pos: "n./v.", p: "/ˈriːfʌnd/", cn: "退款；退还", ex: "The store promised a full refund if the item arrived damaged.", exCn: "商家承诺若商品到货受损将全额退款。" },
+    { w: "marketplace", pos: "n.", p: "/ˈmɑːkɪtpleɪs/", cn: "集市；交易平台", ex: "The online marketplace connects millions of sellers with global buyers.", exCn: "这个线上交易平台将数百万卖家与全球买家连接起来。" },
+    { w: "vendor", pos: "n.", p: "/ˈvendə(r)/", cn: "供应商；小贩", ex: "The food vendor uses an app to manage daily orders.", exCn: "这位食品供应商用一款应用来管理每日订单。" },
+    { w: "inventory", pos: "n.", p: "/ˈɪnvəntri/", cn: "库存；存货清单", ex: "Accurate inventory data prevents both shortages and overstock.", exCn: "准确的库存数据可避免缺货与积压两种情况。" },
+    { w: "retailing", pos: "n./v.", p: "/ˈriːteɪlɪŋ/", cn: "零售业；零售", ex: "Retailing has shifted online as more shoppers prefer home delivery.", exCn: "随着更多顾客偏爱送货上门，零售业已转向线上。" },
+    { w: "wholesale", pos: "n./adj.", p: "/ˈhəʊlseɪl/", cn: "批发（的）", ex: "Wholesale prices fell, allowing small shops to stock more cheaply.", exCn: "批发价格下降，使小店能以更低的成本进货。" },
+    { w: "procurement", pos: "n.", p: "/prəˈkjʊəmənt/", cn: "采购；购置", ex: "Public procurement now favours suppliers with green credentials.", exCn: "公共采购如今更青睐具备环保资质的供应商。" },
+    { w: "counterfeit", pos: "adj./n.", p: "/ˈkaʊntəfɪt/", cn: "伪造的；赝品", ex: "Customs seized a shipment of counterfeit luxury handbags.", exCn: "海关查获了一批伪造的奢侈手袋货品。" },
+    { w: "reseller", pos: "n.", p: "/ˌriːˈselə(r)/", cn: "转售商；分销者", ex: "The reseller buys in bulk and sells to niche online communities.", exCn: "这位转售商批量进货，再卖给细分的小众线上社群。" },
+    { w: "affiliate", pos: "n./v.", p: "/əˈfɪlieɪt/", cn: "加盟者；附属机构", ex: "The blogger earns commission as an affiliate of the store.", exCn: "这位博主作为该商城的加盟推广者赚取佣金。" },
+    { w: "recommendation", pos: "n.", p: "/ˌrekəmenˈdeɪʃn/", cn: "推荐；建议", ex: "The app's recommendation engine suggests products based on past orders.", exCn: "这款应用的推荐引擎会根据过往订单推荐商品。" },
+    { w: "personalize", pos: "v.", p: "/ˈpɜːsənəlaɪz/", cn: "使个性化；量身定制", ex: "Shops personalize emails to match each customer's browsing history.", exCn: "商家对个人化邮件进行调整，以匹配每位顾客的浏览历史。" },
+    { w: "conversion", pos: "n.", p: "/kənˈvɜːʃn/", cn: "转化；转换", ex: "A clear returns policy improves the conversion of visitors into buyers.", exCn: "清晰的退换货政策能提升访客转化为买家的比例。" },
+    { w: "margin", pos: "n.", p: "/ˈmɑːdʒɪn/", cn: "利润；利润空间", ex: "Thin margins force online sellers to chase volume and efficiency.", exCn: "微薄的利润空间迫使线上卖家追求规模与效率。" },
+    { w: "showroom", pos: "n.", p: "/ˈʃəʊruːm/", cn: "陈列室；展示厅", ex: "The brand opened a city showroom where customers can touch the products.", exCn: "该品牌在市内开设了一间陈列室，顾客可以亲手触摸产品。" },
+    { w: "omnichannel", pos: "adj.", p: "/ˌɒmnɪˈtʃænl/", cn: "全渠道的", ex: "An omnichannel strategy links the website, app, and physical store.", exCn: "全渠道策略将网站、应用与实体店连接起来。" },
+    { w: "dropshipping", pos: "n.", p: "/ˈdrɒpʃɪpɪŋ/", cn: "代发货；一件代发", ex: "Dropshipping lets sellers offer goods without holding any inventory.", exCn: "代发货模式让卖家无需持有库存即可售卖商品。" },
+    { w: "storefront", pos: "n.", p: "/ˈstɔːfrʌnt/", cn: "店面；线上店铺门面", ex: "A polished storefront builds trust before a customer ever clicks buy.", exCn: "一个精致的店铺门面能在顾客点击购买前就建立信任。" },
+    { w: "catalog", pos: "n.", p: "/ˈkætəlɒɡ/", cn: "目录；商品目录", ex: "The winter catalog features more than two thousand items.", exCn: "这份冬季商品目录收录了超过两千件商品。" },
+    { w: "loyalty", pos: "n.", p: "/ˈlɔɪəlti/", cn: "忠诚；客户忠诚度", ex: "Loyalty programmes reward repeat buyers with points and perks.", exCn: "忠诚度计划用积分与福利回馈反复购买的顾客。" },
+    { w: "bespoke", pos: "adj.", p: "/bɪˈspəʊk/", cn: "定制的；量身打造的", ex: "The site offers bespoke suits measured through a short online quiz.", exCn: "该网站提供定制西装，通过一个简短的在线测试来量体。" },
+    { w: "testimonial", pos: "n.", p: "/ˌtestɪˈməʊniəl/", cn: "推荐信；客户证言", ex: "Glowing testimonials on the homepage reassure first-time shoppers.", exCn: "主页上亮眼的客户证言能让首次购物的顾客安心。" }
   ],
   vocabArticle: {
-    title: "Bridging the Gap",
-    titleCn: "弥合鸿沟",
+    title: "Mia's Online Store: A Small Seller's Journey",
+    titleCn: "米娅的网店：一位小卖家的旅程",
     paras: [
       {
-        en: "The digital divide begins with unequal internet access. In wealthy districts, fast broadband and smooth connectivity are taken for granted, but the underprivileged in distant towns meet daily exclusion. This socioeconomic gap stays invisible to those already online, yet it quietly shapes who can study, earn, and belong in modern life.",
-        cn: "数字鸿沟始于不均衡的互联网接入。在富裕街区，高速宽带与顺畅的连通被视为理所当然，而偏远城镇里的弱势群体却日日遭遇排斥。这道社会经济的鸿沟对已经联网的人而言隐而不见，却悄然决定着谁能在现代生活中学习、谋生并找到归属。"
+        en: "When Mia launched her e-commerce business, she began as a tiny retailer with a single online storefront. She listed her products on a large marketplace, joining thousands of other vendor accounts in one place. Shoppers browsed her catalog, added items to a cart, and completed checkout within seconds. Behind the scenes, she tracked inventory carefully so that popular goods never ran out. The simplicity of selling online surprised her at first.",
+        cn: "当米娅创办她的电子商务生意时，她只是一家小零售商，只有一个线上店面。她把产品列在一个大型交易平台上，与数千个其他供应商账号汇聚一处。购物者浏览她的商品目录，把商品加入购物车，几秒钟内就完成了结账。在后台，她仔细追踪库存，确保热门商品不会断货。线上销售的简便最初让她感到惊讶。"
       },
       {
-        en: "Low network penetration and weak bandwidth leave isolated villages stranded. Without a reliable backbone of fibre, even a simple gadget cannot reach the world, and the place is only technically connected with little real capability. A clear policy framework should subsidise rural lines so connection stops being a privilege. Public access points help bridge the gap, making it a shared communal good.",
-        cn: "低下的网络普及率与薄弱的带宽，令偏远的村庄陷入孤立无援的境地。若没有光纤这类可靠的骨干网络，即便一台简单的电子设备也无法联通世界，这些地方仅仅是技术上连了网，却几无真正的网络能力。清晰的政策框架应当补贴农村线路，使联网不再是少数人的特权。公共接入点有助于弥合差距，让它成为共享的公民福祉。"
+        en: "To fulfil orders quickly, Mia rented a small warehouse near the city. Each shipment left within a day, and she learned to procure stock through formal procurement channels rather than random buys. Buying at wholesale prices let her undercut rivals, while a local reseller helped distribute surplus. For items she did not keep in stock, she relied on dropshipping, so the supplier shipped directly to the buyer. A clear refund policy kept customers confident.",
+        cn: "为了快速履约，米娅在城郊租了一间小仓库。每批货物都在一天内发出，而她也学会了通过正式的采购渠道进货，而非随意购买。以批发价进货让她能压低价格击败对手，而一位本地转售商帮她分销多余库存。对于自己不囤积的商品，她采用代发货模式，由供应商直接寄给买家。清晰的退款政策让顾客始终保持信心。"
       },
       {
-        en: "Even with a signal, poor digital competence holds people back. Schools must embed these skills in the curriculum so that knowledge can democratise opportunity for everyone. Without such training, the disconnected are disenfranchised from jobs and care, and their disadvantage will compound year after year. Each lost year quietly deepens the divide and widens the gap between rich and poor.",
-        cn: "即便有信号，贫弱的数字能力也会拖累人们。学校必须将这些技能嵌入课程，使知识能够为所有人普及机会。缺乏此类训练，与世隔绝者便在就业与医疗上被剥夺了权利，其劣势将年复一年地累积叠加。每一个失落的年份都在悄然加深这道鸿沟，并拉富裕与贫穷之间的差距。"
+        en: "Mia improved her merchandising to lift the conversion of casual visitors into buyers. The site's recommendation system learned her customers' tastes and began to personalize the homepage for each one. She also joined an affiliate programme, paying partners who sent traffic her way, and she displayed a testimonial from a happy client on every page. To reward regulars, she launched a loyalty scheme, and later opened a physical showroom where clients could order bespoke gifts.",
+        cn: "米娅改进了商品推销，以提升随意访客转化为买家的比例。网站的推荐系统摸清了顾客的喜好，并开始为每个人个性化主页。她还加入了一个加盟推广计划，向为自己带来流量的合作者付费，并在每个页面展示一位满意客户的证言。为了回馈常客，她推出了忠诚度计划，后来又开了一间实体陈列室，顾客可在那里订购定制礼品。"
       },
       {
-        en: "Closing the gap is ultimately a test of inclusivity. When thoughtful policy, patient education, and steady investment align, the divide can finally shrink. Being online should be a basic right, not a privilege reserved for the fortunate. True progress means no child is left disconnected, and every community shares in the digital age.",
-        cn: "弥合差距终究是一场关于包容性的考验。当审慎的政策、耐心的教育与稳定的投资彼此协同，这道鸿沟终将收缩。联网应当是一项基本权利，而非留给幸运者的特权。真正的进步意味着没有任何一个孩子被遗落在网络之外，每一个社区都能共享这个数字时代。"
+        en: "As the brand grew, Mia studied the wider retailing landscape and discovered that thin margin was her biggest risk. She fought counterfeit copies of her designs by registering trademarks early, and she adopted an omnichannel approach that blended the website, app, and storefront into one experience. Looking back, she realised that trust, not tricks, built a lasting business. E-commerce had given a small retailer a truly global stage.",
+        cn: "随着品牌成长，米娅研究了更广阔的零售格局，发现微薄的利润空间是她最大的风险。她通过尽早注册商标来打击自己设计的伪造品，并采用全渠道策略，将网站、应用与店面融合为一体化体验。回首往事，她意识到建立长久生意靠的是信任而非花招。电子商务为这位小零售商提供了一个真正全球性的舞台。"
       }
     ]
   },
   grammar: [
     {
-      q: "More than one rural household in the survey ___ been left without any internet connection.",
+      q: "The committee ___ divided in their opinions about the new proposal, so no decision ___ reached yesterday.",
       options: [
-        "have",
-        "has",
-        "having",
-        "are"
+        "were; was",
+        "was; were",
+        "was; was",
+        "were; were"
       ],
-      answer: 1,
-      explain: "考点：主谓一致——'more than one + 单数可数名词' 作主语时，谓语动词习惯上用单数形式。本句主语为 More than one rural household，因此助动词用 has（与 been 构成现在完成时）。A（have）为复数形式，违背该固定搭配；C（having）不能单独作谓语；D（are）为复数 be 动词，同样错误。扩展：类似用单数谓语的结构还有 'one or two...' 视就近原则用复数，而 'many a + 单数名词' 也用单数，如 Many a student finds the test hard。"
+      answer: 0,
+      explain: "考点：集体名词的主谓一致。集体名词 committee 强调整体时谓语用单数，强调成员个体时用复数。第一空主语 the committee 后接 'divided in their opinions'（意见分歧，强调各位成员看法不同），故用复数 were；第二空 no decision 为单数主语，谓语用单数 was。因此正确项为 A（were; was）。B、C 把 committee 当作整体（was），但与 their opinions 矛盾；D 把 decision 误作复数。扩展：类似集体名词还有 family、team、staff、government，均遵循'强调成员用复、强调整体用单'的原则。"
     },
     {
-      q: "This is the most remote village ___ we have successfully connected to the national network.",
+      q: "He rushed to the station, ___ that the train had already left.",
       options: [
-        "which",
-        "that",
-        "where",
-        "what"
+        "only to find",
+        "only finding",
+        "to only find",
+        "and found"
       ],
-      answer: 1,
-      explain: "考点：定语从句——当先行词被形容词最高级（如 the most remote）修饰时，关系代词通常只用 that，而不用 which。本句先行词 village 被最高级 the most remote 修饰，故应选 that 引导定语从句（that 在从句中作 connected 的宾语）。A（which）在被最高级修饰时一般不用于限定性定语从句；C（where）是关系副词，在从句中作状语，但本从句缺宾语，故不适用；D（what）不能引导定语从句。扩展：序数词（the first / the last）及 'the only' 修饰先行词时， likewise 优先用 that。"
+      answer: 0,
+      explain: "考点：非谓语动词——'only to do' 作结果状语，表示一种出乎意料、往往令人失望的结果，须以 'only + 不定式' 紧邻的形式置于句末。本句'他冲到车站，却发现火车已经开走'表达事与愿违的结果，应用 only to find。B（only finding）现在分词作结果状语通常表示自然、顺理成章的结果（如 He died, leaving nothing behind），不表意外；C 语序错误，only 必须紧接 to do；D（and found）为并列谓语，语法虽可接受，但丢失了'出乎意料'的语气，且本题侧重非谓语考点。扩展：'only to do' 常用于叙述令人惊讶或带有反差的结局。"
     }
   ]
 };

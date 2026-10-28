@@ -329,5 +329,17 @@ window.ENGLISH_HISTORY = [
     topic: "The Digital Divide（数字鸿沟）",
     articleTitle: "The Unconnected Half: Why the Digital Divide Still Matters",
     words: ["internet","broadband","connectivity","access","exclusion","socioeconomic","penetration","bandwidth","gap","widen","bridge","privilege","democratise","competence","subsidise","curriculum","embed","underprivileged","isolated","disenfranchise","gadget","framework","capability","communal","backbone","technically","invisible","compound","deepen","inclusivity"]
+  },
+  {
+    date: "2026-10-27",
+    topic: "Animal Intelligence & Cognition（动物智力与认知）",
+    articleTitle: "Minds Without Words: What Animal Intelligence Reveals",
+    words: ["primate","ape","dolphin","echolocation","mimicry","territorial","dominance","self-awareness","mirror","neural","rationalise","dexterity","tactile","olfactory","puzzle","cooperate","survival","adaptation","memory","recall","recognise","observe","experiment","insight","innovate","scavenge","burrow","nocturnal","migratory","reasoning"]
+  },
+  {
+    date: "2026-10-28",
+    topic: "E-commerce & the Rise of Online Retail（电子商务与线上零售的崛起）",
+    articleTitle: "From Clicks to Carts: The Rise of Online Retail",
+    words: ["e-commerce","retailer","checkout","warehouse","shipment","procure","merchandising","cart","refund","marketplace","vendor","inventory","retailing","wholesale","procurement","counterfeit","reseller","affiliate","recommendation","personalize","conversion","margin","showroom","omnichannel","dropshipping","storefront","catalog","loyalty","bespoke","testimonial"]
   }
 ];
