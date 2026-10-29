@@ -341,5 +341,11 @@ window.ENGLISH_HISTORY = [
     topic: "E-commerce & the Rise of Online Retail（电子商务与线上零售的崛起）",
     articleTitle: "From Clicks to Carts: The Rise of Online Retail",
     words: ["e-commerce","retailer","checkout","warehouse","shipment","procure","merchandising","cart","refund","marketplace","vendor","inventory","retailing","wholesale","procurement","counterfeit","reseller","affiliate","recommendation","personalize","conversion","margin","showroom","omnichannel","dropshipping","storefront","catalog","loyalty","bespoke","testimonial"]
+  },
+  {
+    date: "2026-10-29",
+    topic: "Forests, Deforestation & The World's Living Carbon Sinks（森林、毁林与世界的有生命碳汇）",
+    articleTitle: "The Living Carbon Sinks: Why the World's Forests Matter",
+    words: ["afforestation","reforestation","canopy","woodland","biomass","sequestration","pristine","obliterate","endemic","fauna","vegetation","temperate","tropical","expansive","charcoal","logging","clearance","culprit","pulp","populace","shield","stem","unbridled","irreversible","disproportionately","conversely","underpin","exhaustible","imperative","hectare"]
   }
 ];

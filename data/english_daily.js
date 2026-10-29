@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-10-28",
-  topic: "E-commerce & the Rise of Online Retail（电子商务与线上零售的崛起）",
+  date: "2026-10-29",
+  topic: "Forests, Deforestation & The World's Living Carbon Sinks（森林、毁林与世界的有生命碳汇）",
   article: {
-    title: "From Clicks to Carts: The Rise of Online Retail",
-    titleCn: "从点击到购物车：线上零售的崛起",
+    title: "The Living Carbon Sinks: Why the World's Forests Matter",
+    titleCn: "有生命的碳汇：为何世界的森林至关重要",
     paras: [
       {
-        en: "Online retail has reshaped how people buy, turning ordinary screens into bustling storefronts and shrinking the distance between makers and buyers. A generation ago, shopping required travelling to physical shops; today a few taps summon goods from across the globe within days. This shift, driven by faster internet and secure payment, has lifted countless small sellers into global markets. Yet it has also unsettled traditional high streets and altered consumer habits more permanently than any previous trend.",
-        cn: "线上零售重塑了人们的购买方式，把寻常的屏幕变成了熙熙攘攘的店面，也拉近了制造者与购买者之间的距离。一代人以前，购物意味着要去实体店铺；而今天，轻轻几下点击就能在数日内召来全球各地的商品。这一由更快的网络与更安全的支付所推动的转变，让无数小卖家进入了全球市场。然而，它也动摇了传统商业街，并以比以往任何潮流都更持久的方式改变了消费者的习惯。"
+        en: "Few ecosystems rival the quiet power of forests, which cover nearly a third of the planet's land and sustain countless forms of life. These ancient woodlands act as the world's lungs, absorbing carbon dioxide and releasing the oxygen we breathe. Beyond their ecological role, forests shield local communities from floods and supply food, medicine, and timber. Yet across continents, this green infrastructure is vanishing faster than it can recover, raising urgent questions about our shared future.",
+        cn: "几乎没有哪种生态系统能与森林这种静默的力量相比——森林覆盖了地球近三分之一的陆地，并维系着无数生命形态。这些古老的林地如同地球的肺，吸收二氧化碳并释放我们呼吸的氧气。除了生态作用，森林还能保护当地社区免受洪水侵袭，并提供食物、药材与木材。然而在各大洲，这片绿色基础设施消失的速度超过了它自我恢复的能力，从而对我们共同的未来提出了紧迫的疑问。"
       },
       {
-        en: "Businesses now depend on data to predict demand and manage inventory with unusual precision. Sophisticated systems track what sells, then automatically reorder stock before shelves run empty. Meanwhile, logistics networks move parcels through warehouses at remarkable speed, while customer reviews shape the reputation of every brand. Smaller firms, once confined to local streets, can now reach distant buyers. The result is a marketplace where convenience increasingly outweighs the charm of browsing.",
-        cn: "如今，企业依靠数据来预测需求，并以非同寻常的精度管理库存。精密的系统追踪销售情况，随后在货架清空之前自动补货。与此同时，物流网络以惊人的速度经仓库运送包裹，而顾客评价则塑造着每一个品牌的声誉。曾经困于本地街区的小企业，如今也能触达遥远的买家。其结果是一个便利日益胜过浏览乐趣的市场。"
+        en: "Deforestation rarely happens by accident; it is driven by clear economic forces. Expansive tracts of tropical and temperate woodland are cleared for agriculture, logging, and charcoal production, while rapid clearance for pasture and pulp mills accelerates the damage. In many regions the culprit is uncontrolled commodity demand from abroad. Although these activities generate short-term income, they obliterate habitats that took centuries to form, leaving fauna and endemic plants exposed to irreversible decline.",
+        cn: "毁林很少是偶然发生的；它由明确的经济力量所驱动。大片热带与温带林地因农业、伐木与木炭生产而被清除，而为牧场和纸浆厂进行的快速砍伐则加速了破坏。在许多地区，罪魁祸首是来自国外的失控的商品需求。尽管这些活动带来了短期收入，它们却抹去了历经数百年才形成的栖息地，使动物群与特有植物面临不可逆转的衰退。"
       },
       {
-        en: "Not everything online glitters, however. Counterfeit goods and misleading listings erode trust, while the collapse of footfall threatens brick-and-mortar shops on every high street. Regulators struggle to police cross-border sales, and returns pile up as buyers order several sizes to keep one. Environmental costs mount too, from cardboard waste to the emissions of countless deliveries. Balancing growth with responsibility has become the central dilemma of digital commerce.",
-        cn: "然而，并非线上的一切都闪闪发光。伪造商品与误导性商品列表侵蚀着信任，而客流的崩塌也威胁着每条商业街上的实体店铺。监管机构难以监管跨境销售，随着买家为留下一件而订购多个尺码，退货也越堆越多。环境代价同样在攀升——从纸箱废料到无数次配送的排放。在增长与责任之间取得平衡，已成为数字商业的核心难题。"
+        en: "Forests function as vast carbon sinks, quietly absorbing greenhouse gases that would otherwise warm the planet. When vegetation is destroyed, that stored carbon returns to the atmosphere, so deforestation disproportionately fuels climate change. Conversely, protecting pristine forests and pursuing reforestation can sequester billions of tonnes of emissions. Yet the loss is often uneven: an impoverished populace near the forests bears the heaviest cost, while distant consumers enjoy the benefits. This imbalance underscores why forest protection is a global imperative.",
+        cn: "森林发挥着巨大碳汇的作用，悄然吸收着本会使地球变暖的温室气体。当植被遭到破坏，那些储存的碳便重回大气，因此毁林不成比例地加剧了气候变化。相反，保护原始森林并推行重新造林，能够封存数十亿吨的排放。然而损失往往并不均衡：森林附近的贫困民众承受着最沉重的代价，而遥远的消费者却享受着收益。这种失衡凸显了为何森林保护是一项全球当务之急。"
       },
       {
-        en: "Looking ahead, the boundary between online and offline continues to blur through omnichannel strategies that unite apps, websites, and physical stores. Personalized recommendations, powered by clever algorithms, anticipate needs before shoppers voice them. Yet genuine loyalty is earned slowly, not bought with discounts alone. As technology matures, the winners will be those who blend efficiency with trust, offering choice without overwhelming the customer. Commerce, in the end, remains a human conversation conducted at the speed of light.",
-        cn: "展望未来，线上与线下的边界通过全渠道策略持续模糊，将应用、网站与实体店融为一体。由巧妙算法驱动的个性化推荐，在购物者开口之前便预知其需求。然而，真正的忠诚是慢慢赢得的，而非仅靠折扣买来。随着技术走向成熟，赢家将是那些把效率与信任结合起来、在提供选择的同时不让顾客不知所措的人。商业，归根结底，仍是一场以光速进行的、人与人之间的对话。"
+        en: "Reversing the trend demands coordinated action. Afforestation and reforestation restore degraded land, while stricter rules can stem the tide of illegal logging. Protecting intact canopy and biomass helps local communities shield their livelihoods and underpins a stable climate. Because forest wealth is not exhaustible, unchecked felling remains an unbridled threat. Governments, businesses, and citizens must therefore treat forest conservation as imperative, recognising that these living systems underpin every breath we take and every economy we build.",
+        cn: "扭转这一趋势需要协调一致的行动。造林与重新造林能恢复退化的土地，而更严格的规定可以遏制非法伐木的浪潮。保护完整的树冠层与生物量有助于当地社区保护生计，并支撑稳定的气候。由于森林财富并非取之不尽，失控的砍伐仍是一种不受约束的威胁。因此，政府、企业与公民必须把森林保护视为当务之急，认识到这些生命系统支撑着我们每一次呼吸与我们所建立的每一种经济。"
       }
     ],
     glossary: [
-      { w: "bustling", pos: "adj.", p: "/ˈbʌsliŋ/", cn: "熙熙攘攘的；繁忙的" },
-      { w: "summon", pos: "v.", p: "/ˈsʌmən/", cn: "召唤；召集" },
-      { w: "unsettled", pos: "adj.", p: "/ʌnˈsetld/", cn: "动荡的；不安定的" },
-      { w: "precision", pos: "n.", p: "/prɪˈsɪʒn/", cn: "精确；精准" },
-      { w: "reshaped", pos: "v.", p: "/ˌriːˈʃeɪpt/", cn: "重塑（reshape 的过去式）" },
-      { w: "parcels", pos: "n.", p: "/ˈpɑːslz/", cn: "包裹（parcel 的复数）" },
-      { w: "reputation", pos: "n.", p: "/ˌrepjuˈteɪʃn/", cn: "声誉；名声" },
-      { w: "glitters", pos: "v.", p: "/ˈɡlɪtəz/", cn: "闪亮（all that glitters 闪光的）" },
-      { w: "listings", pos: "n.", p: "/ˈlɪstɪŋz/", cn: "商品列表（listing 的复数）" },
-      { w: "footfall", pos: "n.", p: "/ˈfʊtfɔːl/", cn: "客流；人流（foot traffic）" },
-      { w: "brick-and-mortar", pos: "adj.", p: "/ˌbrɪk ən ˈmɔːtə(r)/", cn: "实体的（指线下实体店铺）" },
-      { w: "regulators", pos: "n.", p: "/ˈreɡjuleɪtəz/", cn: "监管机构（regulator 的复数）" },
-      { w: "cross-border", pos: "adj.", p: "/ˌkrɒs ˈbɔːdə(r)/", cn: "跨境的" },
-      { w: "emissions", pos: "n.", p: "/ɪˈmɪʃnz/", cn: "排放物（emission 的复数）" },
-      { w: "deliveries", pos: "n.", p: "/dɪˈlɪvəriz/", cn: "配送；投递（delivery 的复数）" },
-      { w: "commerce", pos: "n.", p: "/ˈkɒmɜːs/", cn: "商业；贸易" },
-      { w: "discounts", pos: "n.", p: "/ˈdɪskaʊnts/", cn: "折扣（discount 的复数）" },
-      { w: "matures", pos: "v.", p: "/məˈtʃʊəz/", cn: "成熟（mature 的第三人称单数）" },
-      { w: "overwhelming", pos: "adj.", p: "/ˌəʊvəˈwelmɪŋ/", cn: "令人不知所措的；压倒性的" },
-      { w: "boundary", pos: "n.", p: "/ˈbaʊndri/", cn: "边界；分界线" },
-      { w: "charm", pos: "n.", p: "/tʃɑːm/", cn: "魅力；吸引力" },
-      { w: "reorder", pos: "v.", p: "/ˌriːˈɔːdə(r)/", cn: "重新订货；再订购" },
-      { w: "convenience", pos: "n.", p: "/kənˈviːniəns/", cn: "便利；方便" },
-      { w: "outweighs", pos: "v.", p: "/ˌaʊtˈweɪz/", cn: "超过；比……更重要" },
-      { w: "reviews", pos: "n.", p: "/rɪˈvjuːz/", cn: "评价；评论（review 的复数）" },
-      { w: "strategies", pos: "n.", p: "/ˈstrætədʒiz/", cn: "策略（strategy 的复数）" },
-      { w: "conducted", pos: "v.", p: "/kənˈdʌktɪd/", cn: "进行（conduct 的过去式）" },
-      { w: "mount", pos: "v.", p: "/maʊnt/", cn: "增加；上升" }
+      { w: "ecosystems", pos: "n.", p: "/ˈiːkəʊsɪstəmz/", cn: "生态系统（ecosystem 的复数）" },
+      { w: "rival", pos: "v.", p: "/ˈraɪvl/", cn: "比得上；与……相匹敌" },
+      { w: "woodlands", pos: "n.", p: "/ˈwʊdləndz/", cn: "林地（woodland 的复数）" },
+      { w: "oxygen", pos: "n.", p: "/ˈɒksɪdʒən/", cn: "氧气" },
+      { w: "ecological", pos: "adj.", p: "/ˌiːkəˈlɒdʒɪkl/", cn: "生态的" },
+      { w: "infrastructure", pos: "n.", p: "/ˈɪnfrəstrʌktʃə(r)/", cn: "基础设施" },
+      { w: "sustain", pos: "v.", p: "/səˈsteɪn/", cn: "维持；支撑" },
+      { w: "shield", pos: "v.", p: "/ʃiːld/", cn: "保护；庇护" },
+      { w: "vanish", pos: "v.", p: "/ˈvænɪʃ/", cn: "消失；消亡" },
+      { w: "tract", pos: "n.", p: "/trækt/", cn: "大片土地；地带" },
+      { w: "temperate", pos: "adj.", p: "/ˈtempərət/", cn: "温带的（气候温和的）" },
+      { w: "charcoal", pos: "n.", p: "/ˈtʃɑːkəʊl/", cn: "木炭" },
+      { w: "clearance", pos: "n.", p: "/ˈklɪərəns/", cn: "清理；砍伐（land clearance）" },
+      { w: "culprit", pos: "n.", p: "/ˈkʌlprɪt/", cn: "罪魁祸首；肇事者" },
+      { w: "obliterate", pos: "v.", p: "/əˈblɪtəreɪt/", cn: "彻底毁灭；抹去" },
+      { w: "fauna", pos: "n.", p: "/ˈfɔːnə/", cn: "动物群" },
+      { w: "endemic", pos: "adj.", p: "/enˈdemɪk/", cn: "某地特有的（动植物）" },
+      { w: "irreversible", pos: "adj.", p: "/ˌɪrɪˈvɜːsəbl/", cn: "不可逆转的" },
+      { w: "greenhouse", pos: "adj.", p: "/ˈɡriːnhaʊs/", cn: "温室的（greenhouse gas 温室气体）" },
+      { w: "vegetation", pos: "n.", p: "/ˌvedʒəˈteɪʃn/", cn: "植被" },
+      { w: "disproportionately", pos: "adv.", p: "/ˌdɪsprəˈpɔːʃənətli/", cn: "不成比例地" },
+      { w: "conversely", pos: "adv.", p: "/kənˈvɜːsli/", cn: "相反地；反过来" },
+      { w: "pristine", pos: "adj.", p: "/prɪˈstiːn/", cn: "原始未受破坏的" },
+      { w: "sequester", pos: "v.", p: "/sɪˈkwestə(r)/", cn: "隔离；封存（碳）" },
+      { w: "populace", pos: "n.", p: "/ˈpɒpjələs/", cn: "民众；百姓" },
+      { w: "imperative", pos: "adj./n.", p: "/ɪmˈperətɪv/", cn: "至关重要的；当务之急" },
+      { w: "afforestation", pos: "n.", p: "/əˌfɒrɪˈsteɪʃn/", cn: "造林（人工造林）" },
+      { w: "reforestation", pos: "n.", p: "/ˌriːfɒrɪˈsteɪʃn/", cn: "重新造林；森林修复" }
     ]
   },
   words: [
-    { w: "e-commerce", pos: "n.", p: "/ˈiː kɒmɜːs/", cn: "电子商务", ex: "Small artisans can now reach global buyers through e-commerce platforms.", exCn: "小手工业者如今能通过电子商务平台触达全球买家。" },
-    { w: "retailer", pos: "n.", p: "/ˈriːteɪlə(r)/", cn: "零售商", ex: "The retailer expanded from one shop to an online network of stores.", exCn: "这家零售商从一家门店扩展为线上门店网络。" },
-    { w: "checkout", pos: "n.", p: "/ˈtʃekaʊt/", cn: "结账；收银台", ex: "A smooth checkout process reduces the number of abandoned carts.", exCn: "流畅的结账流程能减少弃购购物车的数量。" },
-    { w: "warehouse", pos: "n.", p: "/ˈweəhaʊs/", cn: "仓库", ex: "The company built a vast warehouse to store goods closer to customers.", exCn: "该公司建了一座巨大的仓库，把商品存放在更靠近客户的地方。" },
-    { w: "shipment", pos: "n.", p: "/ˈʃɪpmənt/", cn: "货运；一批货物", ex: "Each shipment is tracked from the factory to the buyer's door.", exCn: "每一批货物从工厂到买家门口都被全程追踪。" },
-    { w: "procure", pos: "v.", p: "/prəˈkjʊə(r)/", cn: "采购；获取", ex: "Hospitals procure medical supplies through competitive online tenders.", exCn: "医院通过竞争性的线上招标来采购医疗物资。" },
-    { w: "merchandising", pos: "n.", p: "/ˈmɜːtʃəndaɪzɪŋ/", cn: "商品推销；营销陈列", ex: "Clever merchandising turns casual browsers into paying customers.", exCn: "巧妙的商品推销能把随意浏览者变成付费顾客。" },
-    { w: "cart", pos: "n.", p: "/kɑːt/", cn: "购物车", ex: "She added three books to her cart but bought only one.", exCn: "她往购物车里加了三本书，却只买了一本。" },
-    { w: "refund", pos: "n./v.", p: "/ˈriːfʌnd/", cn: "退款；退还", ex: "The store promised a full refund if the item arrived damaged.", exCn: "商家承诺若商品到货受损将全额退款。" },
-    { w: "marketplace", pos: "n.", p: "/ˈmɑːkɪtpleɪs/", cn: "集市；交易平台", ex: "The online marketplace connects millions of sellers with global buyers.", exCn: "这个线上交易平台将数百万卖家与全球买家连接起来。" },
-    { w: "vendor", pos: "n.", p: "/ˈvendə(r)/", cn: "供应商；小贩", ex: "The food vendor uses an app to manage daily orders.", exCn: "这位食品供应商用一款应用来管理每日订单。" },
-    { w: "inventory", pos: "n.", p: "/ˈɪnvəntri/", cn: "库存；存货清单", ex: "Accurate inventory data prevents both shortages and overstock.", exCn: "准确的库存数据可避免缺货与积压两种情况。" },
-    { w: "retailing", pos: "n./v.", p: "/ˈriːteɪlɪŋ/", cn: "零售业；零售", ex: "Retailing has shifted online as more shoppers prefer home delivery.", exCn: "随着更多顾客偏爱送货上门，零售业已转向线上。" },
-    { w: "wholesale", pos: "n./adj.", p: "/ˈhəʊlseɪl/", cn: "批发（的）", ex: "Wholesale prices fell, allowing small shops to stock more cheaply.", exCn: "批发价格下降，使小店能以更低的成本进货。" },
-    { w: "procurement", pos: "n.", p: "/prəˈkjʊəmənt/", cn: "采购；购置", ex: "Public procurement now favours suppliers with green credentials.", exCn: "公共采购如今更青睐具备环保资质的供应商。" },
-    { w: "counterfeit", pos: "adj./n.", p: "/ˈkaʊntəfɪt/", cn: "伪造的；赝品", ex: "Customs seized a shipment of counterfeit luxury handbags.", exCn: "海关查获了一批伪造的奢侈手袋货品。" },
-    { w: "reseller", pos: "n.", p: "/ˌriːˈselə(r)/", cn: "转售商；分销者", ex: "The reseller buys in bulk and sells to niche online communities.", exCn: "这位转售商批量进货，再卖给细分的小众线上社群。" },
-    { w: "affiliate", pos: "n./v.", p: "/əˈfɪlieɪt/", cn: "加盟者；附属机构", ex: "The blogger earns commission as an affiliate of the store.", exCn: "这位博主作为该商城的加盟推广者赚取佣金。" },
-    { w: "recommendation", pos: "n.", p: "/ˌrekəmenˈdeɪʃn/", cn: "推荐；建议", ex: "The app's recommendation engine suggests products based on past orders.", exCn: "这款应用的推荐引擎会根据过往订单推荐商品。" },
-    { w: "personalize", pos: "v.", p: "/ˈpɜːsənəlaɪz/", cn: "使个性化；量身定制", ex: "Shops personalize emails to match each customer's browsing history.", exCn: "商家对个人化邮件进行调整，以匹配每位顾客的浏览历史。" },
-    { w: "conversion", pos: "n.", p: "/kənˈvɜːʃn/", cn: "转化；转换", ex: "A clear returns policy improves the conversion of visitors into buyers.", exCn: "清晰的退换货政策能提升访客转化为买家的比例。" },
-    { w: "margin", pos: "n.", p: "/ˈmɑːdʒɪn/", cn: "利润；利润空间", ex: "Thin margins force online sellers to chase volume and efficiency.", exCn: "微薄的利润空间迫使线上卖家追求规模与效率。" },
-    { w: "showroom", pos: "n.", p: "/ˈʃəʊruːm/", cn: "陈列室；展示厅", ex: "The brand opened a city showroom where customers can touch the products.", exCn: "该品牌在市内开设了一间陈列室，顾客可以亲手触摸产品。" },
-    { w: "omnichannel", pos: "adj.", p: "/ˌɒmnɪˈtʃænl/", cn: "全渠道的", ex: "An omnichannel strategy links the website, app, and physical store.", exCn: "全渠道策略将网站、应用与实体店连接起来。" },
-    { w: "dropshipping", pos: "n.", p: "/ˈdrɒpʃɪpɪŋ/", cn: "代发货；一件代发", ex: "Dropshipping lets sellers offer goods without holding any inventory.", exCn: "代发货模式让卖家无需持有库存即可售卖商品。" },
-    { w: "storefront", pos: "n.", p: "/ˈstɔːfrʌnt/", cn: "店面；线上店铺门面", ex: "A polished storefront builds trust before a customer ever clicks buy.", exCn: "一个精致的店铺门面能在顾客点击购买前就建立信任。" },
-    { w: "catalog", pos: "n.", p: "/ˈkætəlɒɡ/", cn: "目录；商品目录", ex: "The winter catalog features more than two thousand items.", exCn: "这份冬季商品目录收录了超过两千件商品。" },
-    { w: "loyalty", pos: "n.", p: "/ˈlɔɪəlti/", cn: "忠诚；客户忠诚度", ex: "Loyalty programmes reward repeat buyers with points and perks.", exCn: "忠诚度计划用积分与福利回馈反复购买的顾客。" },
-    { w: "bespoke", pos: "adj.", p: "/bɪˈspəʊk/", cn: "定制的；量身打造的", ex: "The site offers bespoke suits measured through a short online quiz.", exCn: "该网站提供定制西装，通过一个简短的在线测试来量体。" },
-    { w: "testimonial", pos: "n.", p: "/ˌtestɪˈməʊniəl/", cn: "推荐信；客户证言", ex: "Glowing testimonials on the homepage reassure first-time shoppers.", exCn: "主页上亮眼的客户证言能让首次购物的顾客安心。" }
+    { w: "afforestation", pos: "n.", p: "/əˌfɒrɪˈsteɪʃn/", cn: "造林（人工造林）", ex: "Large-scale afforestation has turned barren hills into green slopes.", exCn: "大规模的造林把荒山变成了绿坡。" },
+    { w: "reforestation", pos: "n.", p: "/ˌriːfɒrɪˈsteɪʃn/", cn: "重新造林；森林修复", ex: "Reforestation after the fire slowly brought the woodland back to life.", exCn: "火灾后的重新造林让林地慢慢恢复了生机。" },
+    { w: "canopy", pos: "n.", p: "/ˈkænəpi/", cn: "树冠层；顶篷", ex: "The dense canopy blocked most sunlight from reaching the forest floor.", exCn: "茂密的树冠层挡住了大部分照射到森林地面的阳光。" },
+    { w: "woodland", pos: "n.", p: "/ˈwʊdlənd/", cn: "林地；树林", ex: "A narrow path wound through the ancient woodland.", exCn: "一条小径蜿蜒穿过那片古老的林地。" },
+    { w: "biomass", pos: "n.", p: "/ˈbaɪəʊmæs/", cn: "生物量；生物质", ex: "Fallen leaves add biomass to the soil as they decompose.", exCn: "落叶在腐烂时为土壤增加生物量。" },
+    { w: "sequestration", pos: "n.", p: "/ˌsiːkwəˈstreɪʃn/", cn: "封存；隔离（尤指碳）", ex: "Forest conservation aids the long-term sequestration of atmospheric carbon.", exCn: "森林保护有助于大气碳的长期封存。" },
+    { w: "pristine", pos: "adj.", p: "/prɪˈstiːn/", cn: "原始的；未受破坏的", ex: "The reserve remains in a pristine state, untouched by logging.", exCn: "该保护区仍处于原始状态，未受伐木影响。" },
+    { w: "obliterate", pos: "v.", p: "/əˈblɪtəreɪt/", cn: "彻底毁灭；抹去", ex: "Uncontrolled fires can obliterate habitats that took centuries to form.", exCn: "失控的火灾能抹去历经数百年形成的栖息地。" },
+    { w: "endemic", pos: "adj.", p: "/enˈdemɪk/", cn: "某地特有的（动植物）", ex: "This bird is endemic to the island and found nowhere else.", exCn: "这种鸟是该岛特有物种，其他地方找不到。" },
+    { w: "fauna", pos: "n.", p: "/ˈfɔːnə/", cn: "动物群", ex: "The region's fauna includes rare mammals and colourful amphibians.", exCn: "该地区的动物群包括珍稀哺乳动物和色彩斑斓的两栖动物。" },
+    { w: "vegetation", pos: "n.", p: "/ˌvedʒəˈteɪʃn/", cn: "植被", ex: "Drought caused the vegetation on the slopes to wither.", exCn: "干旱导致山坡上的植被枯萎。" },
+    { w: "temperate", pos: "adj.", p: "/ˈtempərət/", cn: "温带的；气候温和的", ex: "Temperate forests shed their leaves each autumn.", exCn: "温带森林每年秋天都会落叶。" },
+    { w: "tropical", pos: "adj.", p: "/ˈtrɒpɪkl/", cn: "热带的", ex: "Tropical rainforests host more species than any other biome.", exCn: "热带雨林拥有的物种比任何其他生物群落都多。" },
+    { w: "expansive", pos: "adj.", p: "/ɪkˈspænsɪv/", cn: "广阔的；辽阔的", ex: "Expansive plantations replaced the native woodland.", exCn: "广阔的种植园取代了原生林地。" },
+    { w: "charcoal", pos: "n.", p: "/ˈtʃɑːkəʊl/", cn: "木炭", ex: "Villagers burned wood to make charcoal for cooking fuel.", exCn: "村民烧木头制作木炭作为炊事燃料。" },
+    { w: "logging", pos: "n.", p: "/ˈlɒɡɪŋ/", cn: "伐木（业）", ex: "Illegal logging threatens the last intact forests.", exCn: "非法伐木威胁着最后一片完整的森林。" },
+    { w: "clearance", pos: "n.", p: "/ˈklɪərəns/", cn: "清理；砍伐（land clearance）", ex: "Land clearance for farms erased the original ecosystem.", exCn: "为农田进行的土地清理抹去了原有的生态系统。" },
+    { w: "culprit", pos: "n.", p: "/ˈkʌlprɪt/", cn: "罪魁祸首；肇事者", ex: "The main culprit behind the loss was uncontrolled demand.", exCn: "造成损失的主要罪魁祸首是失控的需求。" },
+    { w: "pulp", pos: "n.", p: "/pʌlp/", cn: "纸浆；浆状物", ex: "The mill turned timber into pulp for paper production.", exCn: "那家工厂把木材制成用于造纸的纸浆。" },
+    { w: "populace", pos: "n.", p: "/ˈpɒpjələs/", cn: "民众；百姓", ex: "The local populace depends on the forest for fuel and food.", exCn: "当地民众依赖森林获取燃料与食物。" },
+    { w: "shield", pos: "v.", p: "/ʃiːld/", cn: "保护；庇护", ex: "Coastal woods shield villages from destructive storms.", exCn: "沿海林木保护村庄免受破坏性风暴侵袭。" },
+    { w: "stem", pos: "v.", p: "/stem/", cn: "阻止；遏制", ex: "New laws aimed to stem the tide of illegal felling.", exCn: "新法律旨在遏制非法砍伐的浪潮。" },
+    { w: "unbridled", pos: "adj.", p: "/ʌnˈbraɪdld/", cn: "不受控制的；放纵的", ex: "Unbridled exploitation left the hills completely bare.", exCn: "不受控制的开发让山丘变得光秃秃。" },
+    { w: "irreversible", pos: "adj.", p: "/ˌɪrɪˈvɜːsəbl/", cn: "不可逆转的", ex: "Soil loss from erosion can be nearly irreversible.", exCn: "侵蚀造成的土壤流失几乎是不可逆转的。" },
+    { w: "disproportionately", pos: "adv.", p: "/ˌdɪsprəˈpɔːʃənətli/", cn: "不成比例地", ex: "The poor suffer disproportionately from environmental harm.", exCn: "穷人不成比例地承受着环境危害。" },
+    { w: "conversely", pos: "adv.", p: "/kənˈvɜːsli/", cn: "相反地；反过来", ex: "Cities emit carbon; conversely, forests help absorb it.", exCn: "城市排放碳；相反，森林有助于吸收碳。" },
+    { w: "underpin", pos: "v.", p: "/ˌʌndəˈpɪn/", cn: "支撑；是……的基础", ex: "Healthy forests underpin the stability of the whole region.", exCn: "健康的森林支撑着整个地区的稳定。" },
+    { w: "exhaustible", pos: "adj.", p: "/ɪɡˈzɔːstəbl/", cn: "可耗尽的", ex: "Unlike sunlight, forest wealth is ultimately exhaustible.", exCn: "与阳光不同，森林财富最终是可耗尽的。" },
+    { w: "imperative", pos: "adj.", p: "/ɪmˈperətɪv/", cn: "至关重要的；迫切的", ex: "It is imperative that we protect remaining primary forests.", exCn: "保护现存的原始森林是至关重要的。" },
+    { w: "hectare", pos: "n.", p: "/ˈhekteə(r)/", cn: "公顷", ex: "The project aims to plant trees on five hundred hectares.", exCn: "该项目旨在于五百公顷土地上植树。" }
   ],
   vocabArticle: {
-    title: "Mia's Online Store: A Small Seller's Journey",
-    titleCn: "米娅的网店：一位小卖家的旅程",
+    title: "The Green Return: Restoring a Scarred Hillside",
+    titleCn: "绿色的回归：修复一座伤痕累累的山坡",
     paras: [
       {
-        en: "When Mia launched her e-commerce business, she began as a tiny retailer with a single online storefront. She listed her products on a large marketplace, joining thousands of other vendor accounts in one place. Shoppers browsed her catalog, added items to a cart, and completed checkout within seconds. Behind the scenes, she tracked inventory carefully so that popular goods never ran out. The simplicity of selling online surprised her at first.",
-        cn: "当米娅创办她的电子商务生意时，她只是一家小零售商，只有一个线上店面。她把产品列在一个大型交易平台上，与数千个其他供应商账号汇聚一处。购物者浏览她的商品目录，把商品加入购物车，几秒钟内就完成了结账。在后台，她仔细追踪库存，确保热门商品不会断货。线上销售的简便最初让她感到惊讶。"
+        en: "In a temperate region once stripped by unbridled logging, a small team began an afforestation project on five hundred hectares of bare land. Across every hectare, they planted native woodland species beneath a protective canopy, hoping the new vegetation would soon shield the soil from erosion. Local fauna, including endemic birds thought to have vanished, slowly returned as the trees matured.",
+        cn: "在一个曾被不受约束的伐木耗尽的区域，一个小团队在五百公顷的荒地上启动了造林项目。他们在保护性的树冠层下种下原生林地树种，希望新的植被能很快保护土壤免受侵蚀。当地动物群——包括被认为已经消失的特有鸟类——随着树木成长慢慢归来。"
       },
       {
-        en: "To fulfil orders quickly, Mia rented a small warehouse near the city. Each shipment left within a day, and she learned to procure stock through formal procurement channels rather than random buys. Buying at wholesale prices let her undercut rivals, while a local reseller helped distribute surplus. For items she did not keep in stock, she relied on dropshipping, so the supplier shipped directly to the buyer. A clear refund policy kept customers confident.",
-        cn: "为了快速履约，米娅在城郊租了一间小仓库。每批货物都在一天内发出，而她也学会了通过正式的采购渠道进货，而非随意购买。以批发价进货让她能压低价格击败对手，而一位本地转售商帮她分销多余库存。对于自己不囤积的商品，她采用代发货模式，由供应商直接寄给买家。清晰的退款政策让顾客始终保持信心。"
+        en: "The project's leaders knew that pulp and charcoal industries had been the culprit behind the earlier clearance. To stem further loss, they blocked new logging roads and protected the remaining tropical remnants. Conversely, neighbouring villages embraced reforestation, turning barren slopes into thriving forest. Biomass in the soil rose as roots spread, and the once pristine hills began to recover from damage that had seemed irreversible.",
+        cn: "项目负责人知道，纸浆与木炭产业正是早先砍伐的罪魁祸首。为了遏制进一步的损失，他们封锁了新的伐木道路，并保护残存的热带林片段。相反，邻近村庄拥抱重新造林，把荒芜的山坡变成了繁茂的森林。随着根系延伸，土壤中的生物量上升，那些一度原始的丘陵开始从看似不可逆的破坏中恢复。"
       },
       {
-        en: "Mia improved her merchandising to lift the conversion of casual visitors into buyers. The site's recommendation system learned her customers' tastes and began to personalize the homepage for each one. She also joined an affiliate programme, paying partners who sent traffic her way, and she displayed a testimonial from a happy client on every page. To reward regulars, she launched a loyalty scheme, and later opened a physical showroom where clients could order bespoke gifts.",
-        cn: "米娅改进了商品推销，以提升随意访客转化为买家的比例。网站的推荐系统摸清了顾客的喜好，并开始为每个人个性化主页。她还加入了一个加盟推广计划，向为自己带来流量的合作者付费，并在每个页面展示一位满意客户的证言。为了回馈常客，她推出了忠诚度计划，后来又开了一间实体陈列室，顾客可在那里订购定制礼品。"
+        en: "Carbon sequestration became the scheme's proudest achievement, as growing trees absorbed emissions that would otherwise warm the planet. The benefits were disproportionately felt by the rural populace, who gained jobs and cleaner air. Expansive green corridors now link isolated woods, allowing wildlife to migrate safely. This success underpinned a wider belief that nature, if respected, can repair what careless industry once tried to obliterate.",
+        cn: "碳封存成了该计划最值得骄傲的成就，因为成长的树木吸收了本会使地球变暖的排放。农村民众不成比例地感受到了这些益处，他们获得了工作与更清洁的空气。广阔的绿色廊道如今连接起孤立的林地，让野生动物得以安全迁徙。这一成功支撑了一种更普遍的信念：只要受到尊重，自然能够修复粗心工业曾试图抹去的一切。"
       },
       {
-        en: "As the brand grew, Mia studied the wider retailing landscape and discovered that thin margin was her biggest risk. She fought counterfeit copies of her designs by registering trademarks early, and she adopted an omnichannel approach that blended the website, app, and storefront into one experience. Looking back, she realised that trust, not tricks, built a lasting business. E-commerce had given a small retailer a truly global stage.",
-        cn: "随着品牌成长，米娅研究了更广阔的零售格局，发现微薄的利润空间是她最大的风险。她通过尽早注册商标来打击自己设计的伪造品，并采用全渠道策略，将网站、应用与店面融合为一体化体验。回首往事，她意识到建立长久生意靠的是信任而非花招。电子商务为这位小零售商提供了一个真正全球性的舞台。"
+        en: "Today the restored forest stands as an imperative lesson for policymakers everywhere. Because forest wealth is not exhaustible, protecting what remains is urgent. The team's model shows that afforestation and reforestation, done well, can shield both climate and community. As the canopy grows denser each year, the region proves that even landscapes once scarred can be healed, provided we treat their survival as nothing less than imperative and as the principle that will underpin every future choice.",
+        cn: "如今，这片修复的森林成为各地决策者的一个至关重要的启示。由于森林财富并非取之不尽，保护现存的森林迫在眉睫。该团队的模型表明，做得好的造林与重新造林能够同时保护气候与社区。随着树冠逐年变得浓密，该地区证明，即便是曾经伤痕累累的地貌也能被治愈——前提是我们把它们的存续视为不折不扣的当务之急。"
       }
     ]
   },
   grammar: [
     {
-      q: "The committee ___ divided in their opinions about the new proposal, so no decision ___ reached yesterday.",
+      q: "The ground is soaked and the river has risen; it ___ have rained heavily during the night.",
       options: [
-        "were; was",
-        "was; were",
-        "was; was",
-        "were; were"
+        "must",
+        "can",
+        "should",
+        "would"
       ],
       answer: 0,
-      explain: "考点：集体名词的主谓一致。集体名词 committee 强调整体时谓语用单数，强调成员个体时用复数。第一空主语 the committee 后接 'divided in their opinions'（意见分歧，强调各位成员看法不同），故用复数 were；第二空 no decision 为单数主语，谓语用单数 was。因此正确项为 A（were; was）。B、C 把 committee 当作整体（was），但与 their opinions 矛盾；D 把 decision 误作复数。扩展：类似集体名词还有 family、team、staff、government，均遵循'强调成员用复、强调整体用单'的原则。"
+      explain: "考点：情态动词对过去情况的推测。当句中有表明事实的现在证据（地面湿透、河水上涨），要对已经发生的过去动作作出'肯定'推测，须用 'must have + 过去分词'，表示'一定/肯定发生过'。本句'地面湿透、河水上涨'是现在证据，推断昨晚一定下过大雨，故选 must。B（can）表推测时多用于否定或疑问句（can't have done 表不可能）；C（should have done）意为'本应该做却没做'，含责备或遗憾，不表推测；D（would have done）常用于虚拟语气结果句，不用于基于证据的推测。扩展：对过去'否定'推测用 can't/couldn't have done，'可能'用 may/might have done。"
     },
     {
-      q: "He rushed to the station, ___ that the train had already left.",
+      q: "The newly protected reserve is ___ the old one in terms of total area.",
       options: [
-        "only to find",
-        "only finding",
-        "to only find",
-        "and found"
+        "twice as large as",
+        "twice larger as",
+        "twice large than",
+        "twice as larger as"
       ],
       answer: 0,
-      explain: "考点：非谓语动词——'only to do' 作结果状语，表示一种出乎意料、往往令人失望的结果，须以 'only + 不定式' 紧邻的形式置于句末。本句'他冲到车站，却发现火车已经开走'表达事与愿违的结果，应用 only to find。B（only finding）现在分词作结果状语通常表示自然、顺理成章的结果（如 He died, leaving nothing behind），不表意外；C 语序错误，only 必须紧接 to do；D（and found）为并列谓语，语法虽可接受，但丢失了'出乎意料'的语气，且本题侧重非谓语考点。扩展：'only to do' 常用于叙述令人惊讶或带有反差的结局。"
+      explain: "考点：倍数表达与比较结构。英语中表示倍数比较的标准结构是 '倍数 + as + 形容词/副词原级 + as'（如 twice as large as），故 A 正确。B（twice larger as）错误：用比较级 larger 时应搭配 than 而非 as；C（twice large than）错误：原级 large 前缺 as，且 than 不能与原级搭配；D（twice as larger as）错误：as...as 中间必须用原级，不能填比较级 larger。扩展：另一常见正确形式是 '倍数 + 比较级 + than'（如 twice larger than），但本题选项中无此正确项，须牢记 as...as 用原级、than 接比较级的对应规则。"
     }
   ]
 };
