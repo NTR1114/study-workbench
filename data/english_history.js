@@ -347,5 +347,17 @@ window.ENGLISH_HISTORY = [
     topic: "Forests, Deforestation & The World's Living Carbon Sinks（森林、毁林与世界的有生命碳汇）",
     articleTitle: "The Living Carbon Sinks: Why the World's Forests Matter",
     words: ["afforestation","reforestation","canopy","woodland","biomass","sequestration","pristine","obliterate","endemic","fauna","vegetation","temperate","tropical","expansive","charcoal","logging","clearance","culprit","pulp","populace","shield","stem","unbridled","irreversible","disproportionately","conversely","underpin","exhaustible","imperative","hectare"]
+  },
+  {
+    date: "2026-10-30",
+    topic: "Nanotechnology & Advanced Materials（纳米科技与先进材料）",
+    articleTitle: "The Very Small Revolution: How Nanotechnology Reshapes Materials",
+    words: ["nanoparticle","atom","graphene","polymer","conductivity","nanoscale","aerogel","composite","coating","semiconductor","quantum","lattice","catalyst","porous","filament","ceramic","alloy","malleable","impermeable","component","fabrication","microscopic","macroscopic","nanotube","breakthrough","scalable","throughput","precision","propel","assemble"]
+  },
+  {
+    date: "2026-11-01",
+    topic: "Air Pollution & Public Health（空气污染与公众健康）",
+    articleTitle: "The Air We Cannot See: Confronting Urban Air Pollution",
+    words: ["particulate","smog","inhale","respiratory","asthma","fumes","aerosol","ozone","combustion","morbidity","mortality","airborne","noxious","suffocate","stringent","legislate","mask","indoor","outdoor","permissible","aggravate","prevalence","incidence","monitor","quantify","permeate","linger","dispersal","benign","deleterious"]
   }
 ];
