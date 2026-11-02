@@ -359,5 +359,11 @@ window.ENGLISH_HISTORY = [
     topic: "Air Pollution & Public Health（空气污染与公众健康）",
     articleTitle: "The Air We Cannot See: Confronting Urban Air Pollution",
     words: ["particulate","smog","inhale","respiratory","asthma","fumes","aerosol","ozone","combustion","morbidity","mortality","airborne","noxious","suffocate","stringent","legislate","mask","indoor","outdoor","permissible","aggravate","prevalence","incidence","monitor","quantify","permeate","linger","dispersal","benign","deleterious"]
+  },
+  {
+    date: "2026-11-02",
+    topic: "Astronomy & the Expanding Universe（天文学与不断膨胀的宇宙）",
+    articleTitle: "Eyes on the Universe: How Astronomy Maps the Cosmos",
+    words: ["astronomy","astronomer","cosmos","galaxy","nebula","exoplanet","orbit","gravity","telescope","constellation","luminous","stellar","celestial","cosmic","photon","spectrum","wavelength","electromagnetic","observatory","astrophysicist","pulsar","quasar","redshift","infrared","equator","axis","velocity","interstellar","radiate","gravitational"]
   }
 ];
