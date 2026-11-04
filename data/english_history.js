@@ -365,5 +365,17 @@ window.ENGLISH_HISTORY = [
     topic: "Astronomy & the Expanding Universe（天文学与不断膨胀的宇宙）",
     articleTitle: "Eyes on the Universe: How Astronomy Maps the Cosmos",
     words: ["astronomy","astronomer","cosmos","galaxy","nebula","exoplanet","orbit","gravity","telescope","constellation","luminous","stellar","celestial","cosmic","photon","spectrum","wavelength","electromagnetic","observatory","astrophysicist","pulsar","quasar","redshift","infrared","equator","axis","velocity","interstellar","radiate","gravitational"]
+  },
+  {
+    date: "2026-11-03",
+    topic: "Chronobiology & the Human Body Clock（生物钟与人体时间生物学）",
+    articleTitle: "The Inner Clock: How Chronobiology Explains Our Days",
+    words: ["circadian","regulate","detect","secrete","gland","awaken","slumber","vigilant","lethargic","periodic","oscillate","entrain","hibernate","dictate","turmoil","coincide","discrepancy","tune","signal","lag","surrogate","drowsy","invigorate","erratic","refresh","lucid","postulate","tenacious","optimum","reminder"]
+  },
+  {
+    date: "2026-11-04",
+    topic: "Happiness & the Science of Well-being（幸福与幸福科学）",
+    articleTitle: "The Measure of a Good Life: What Science Says About Happiness",
+    words: ["contentment","gratification","eudaimonic","hedonic","flourishing","associate","causal","subjective","indicator","metric","gauge","resilient","fortitude","hardship","meaningful","purpose","sincere","acceptance","connection","gratitude","mindful","cherish","momentary","enduring","paradox","counterintuitive","thriving","pastime","superficial","inextricably"]
   }
 ];
