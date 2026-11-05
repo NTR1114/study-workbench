@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-04",
-  topic: "Happiness & the Science of Well-being（幸福与幸福科学）",
+  date: "2026-11-05",
+  topic: "Bilingualism & the Cognitive Edge of Multilingual Minds（双语能力与多语思维的认知优势）",
   article: {
-    title: "The Measure of a Good Life: What Science Says About Happiness",
-    titleCn: "美好生活的标尺：科学如何看待幸福",
+    title: "More Than Words: The Hidden Benefits of a Multilingual Mind",
+    titleCn: "不止于词：多语思维潜藏的益处",
     paras: [
       {
-        en: "Happiness has moved from philosophy into science. Psychologists once treated well-being as too private to measure, yet large surveys now track it across nations and decades. Two traditions shape the field: one asks how pleasant a life feels, the other whether it is meaningful. Researchers argue that both matter, and that policy should aim beyond mere economic growth. This shift has turned an ancient question into a measurable, shareable science.",
-        cn: "幸福已经从哲学走进了科学。心理学家曾认为幸福感过于私人化而难以测量，然而如今大型调查已在跨越国界与数十年的尺度上追踪它。两大传统塑造了这一领域：一个追问生活感觉有多愉悦，另一个追问生活是否有意义。研究者主张二者都重要，且政策目标应超越单纯的经济增长。这一转变将一个古老的问题变成了一门可测量、可共享的科学。"
+        en: "Across the world, millions grow up speaking more than one language, yet for decades educators treated bilingualism as a handicap rather than a gift. Recent research has overturned that view. Scientists now suggest that managing two language systems trains the brain in ways that reach far beyond mere conversation. Far from confusing the mind, early exposure to several tongues may sharpen it. This shift has turned a once-doubted skill into a serious object of study.",
+        cn: "在全世界范围内，数以百万计的人从小便说不止一种语言，然而数十年来，教育者们曾把双语能力当作一种缺陷而非天赋。近来的研究推翻了这种看法。科学家现在认为，同时驾驭两套语言系统，对大脑的锻炼远超单纯的对话范畴。接触多种语言非但不会扰乱心智，反而可能在早期就使之更加敏锐。这一转变，已将一项一度受质疑的技能变成严肃的研究对象。"
       },
       {
-        en: "Money buys comfort, but its link to happiness is weaker than many expect. The Easterlin paradox notes that, within a country, richer people report more joy, yet across time rising wealth rarely lifts national mood. Experiences—travel, learning, time with friends—often outlast objects in memory. Scholars therefore caution against equating income with a good life. They suggest that security and freedom, not endless buying, form the firmer base of everyday contentment.",
-        cn: "金钱能买来舒适，但它与幸福之间的联系却比许多人预期的更弱。伊斯特林悖论指出：在一个国家内部，更富有的人确实报告了更多的快乐，但随着时间推移，不断增长的财富却很少提升整个国民的情绪。旅行、学习、与朋友相处这类经历，在记忆中往往比物品留存得更久。因此学者告诫不要把收入等同于美好生活。他们认为，构成日常满足更坚实基础的是安全感与自由，而非无休止的购买。"
+        en: "Studies report that bilingual children often outperform peers on tasks requiring focus and self-control. Switching between languages seems to build mental agility, letting speakers ignore distraction and hold information in mind. Some researchers argue this 'cognitive reserve' also delays the onset of dementia in later life. While debates continue, the pattern is striking: the effort of juggling words appears to strengthen, not strain, the ageing brain.",
+        cn: "研究报告指出，在需要专注与自控力的任务上，双语儿童往往表现优于同龄人。在两种语言之间切换，似乎能培养思维的敏捷，让使用者得以忽略干扰、在脑中留存信息。一些研究者认为，这种「认知储备」还能推迟晚年痴呆的发病。尽管争论仍在继续，这一规律仍令人瞩目：在词语间腾挪的费力感，似乎是在强化而非损耗老化中的大脑。"
       },
       {
-        en: "Strong relationships rival wealth as predictors of well-being. Studies of long-lived communities find that belonging, trust, and daily contact guard against stress and illness. Loneliness, by contrast, harms health as much as smoking. Modern life, with its screens and long commutes, can thin these ties just as we need them most. Rebuilding local friendship and shared ritual appears to lift mood more reliably than another purchase, reminding us that people, not products, sustain a good life.",
-        cn: "牢固的人际关系作为幸福感的预测因素，可与财富相匹敌。对长寿社群的研究发现，归属感、信任与日常接触能抵御压力与疾病。相比之下，孤独对健康的危害不亚于吸烟。现代生活伴随着屏幕与漫长的通勤，恰恰在我们最需要对这些纽带时将它们削弱。重建本地友谊与共享的仪式，似乎比再多一次购买更能可靠地提升情绪——这提醒我们，是「人」而非「物」在支撑着美好生活。"
+        en: "Beyond the brain, multiple languages open windows onto other cultures. A second tongue carries its own politeness and unspoken rules, fostering a tolerance that monolingual lives may miss. Travellers who greet locals in their own language often report warmer bonds and fewer misunderstandings. In an age of migration and global trade, such cross-cultural ease is not a luxury but a practical asset for work and peace alike.",
+        cn: "除了对大脑的好处，多种语言也为我们打开了一扇扇通往其他文化的窗。第二种语言承载着它特有的礼貌与未言明的规则，培育出一种单语生活可能错失的包容。用当地语言向居民问好的旅人，往往能收获更温暖的联结与更少的误解。在迁移与全球贸易时代，这种跨文化的从容并非奢侈，而是对工作与和平都切实有用的优势。"
       },
       {
-        en: "Governments are starting to listen. Bhutan measures 'gross national happiness', and several nations now trial well-being budgets that fund parks, childcare, and mental-health care. Critics warn that mood is hard to compare and easy to game. Yet the trend reflects a deeper truth: progress need not mean only more output. If societies track what truly matters, they may build not just richer, but genuinely happier, populations—proof that science can serve the oldest human aim.",
-        cn: "各国政府正开始倾听。不丹衡量「国民幸福总值」，若干国家如今也正试行以幸福感为导向的预算，为公园、儿童保育与心理健康照护提供资金。批评者警告，情绪难以比较，也容易被操纵。然而这一趋势反映了一个更深的真相：进步未必只意味着更多的产出。如果社会追踪真正重要的东西，它们所建立的或许不仅是更富裕、更是真正更幸福的人群——这证明科学也能服务于人类最古老的目标。"
+        en: "Schools increasingly treat language learning as core, not optional. Immersion programmes, where lessons are taught in a foreign tongue, show promising results in both fluency and confidence. Critics warn of costs and uneven access, yet the broader trend is clear. As borders soften and economies intertwine, the multilingual mind is less an exception and more a quiet advantage—one that helps individuals, and perhaps whole societies, think a little more freely.",
+        cn: "学校日益将语言学习视为核心，而非可选项。在沉浸式课程中，课程以外语讲授，无论在流利度还是自信心上都展现出可喜的成果。批评者警告其成本与获取的不均衡，但更宏观的趋势是清晰的。随着边界消融、经济彼此交织，多语思维越来越少地属于例外，而更多地成为一种悄然的优势——它既裨益个人，或许也能让整个社会都思考得略微更自由一些。"
       }
     ],
     glossary: [
-      { w: "well-being", pos: "n.", p: "/ˌwelˈbiːɪŋ/", cn: "幸福；福祉；安康" },
-      { w: "philosophy", pos: "n.", p: "/fəˈlɒsəfi/", cn: "哲学" },
-      { w: "measurable", pos: "adj.", p: "/ˈmeʒərəbl/", cn: "可测量的" },
-      { w: "tradition", pos: "n.", p: "/trəˈdɪʃn/", cn: "传统；惯例" },
-      { w: "policy", pos: "n.", p: "/ˈpɒləsi/", cn: "政策；方针" },
-      { w: "economic", pos: "adj.", p: "/ˌiːkəˈnɒmɪk/", cn: "经济的；经济上的" },
-      { w: "growth", pos: "n.", p: "/ɡrəʊθ/", cn: "增长；发展" },
-      { w: "comfort", pos: "n.", p: "/ˈkʌmfət/", cn: "舒适；安逸" },
-      { w: "national", pos: "adj.", p: "/ˈnæʃnəl/", cn: "国家的；全国的" },
-      { w: "experience", pos: "n./v.", p: "/ɪkˈspɪəriəns/", cn: "经历；体验" },
-      { w: "caution", pos: "v./n.", p: "/ˈkɔːʃn/", cn: "警告；告诫" },
-      { w: "equate", pos: "v.", p: "/ɪˈkweɪt/", cn: "等同于；使相等" },
-      { w: "income", pos: "n.", p: "/ˈɪnkʌm/", cn: "收入；所得" },
-      { w: "security", pos: "n.", p: "/sɪˈkjʊərəti/", cn: "安全；保障" },
-      { w: "relationship", pos: "n.", p: "/rɪˈleɪʃnʃɪp/", cn: "关系；联系" },
-      { w: "predictor", pos: "n.", p: "/prɪˈdɪktə(r)/", cn: "预测因素；预言物" },
-      { w: "trust", pos: "n./v.", p: "/trʌst/", cn: "信任；信赖" },
-      { w: "loneliness", pos: "n.", p: "/ˈləʊnlinəs/", cn: "孤独；寂寞" },
-      { w: "commute", pos: "n./v.", p: "/kəˈmjuːt/", cn: "通勤；上下班路程" },
-      { w: "ritual", pos: "n.", p: "/ˈrɪtʃuəl/", cn: "仪式；惯例" },
-      { w: "rival", pos: "v./n.", p: "/ˈraɪvl/", cn: "与……相匹敌；竞争对手" },
-      { w: "gross", pos: "adj.", p: "/ɡrəʊs/", cn: "总的；毛的（如 gross national happiness）" },
-      { w: "budget", pos: "n.", p: "/ˈbʌdʒɪt/", cn: "预算" },
-      { w: "childcare", pos: "n.", p: "/ˈtʃaɪldkeə(r)/", cn: "儿童保育；育儿" },
-      { w: "trend", pos: "n.", p: "/trend/", cn: "趋势；动向" },
-      { w: "progress", pos: "n./v.", p: "/ˈprəʊɡres/", cn: "进步；进展" },
-      { w: "output", pos: "n.", p: "/ˈaʊtpʊt/", cn: "产出；产量" },
-      { w: "genuinely", pos: "adv.", p: "/ˈdʒenjʊɪnli/", cn: "真正地；真诚地" }
+      { w: "bilingualism", pos: "n.", p: "/baɪˈlɪŋɡwəlɪzəm/", cn: "双语能力；双语现象" },
+      { w: "handicap", pos: "n.", p: "/ˈhændikæp/", cn: "障碍；不利条件" },
+      { w: "overturned", pos: "v.", p: "/ˌəʊvəˈtɜːnd/", cn: "推翻；颠覆（overturn 的过去式）" },
+      { w: "agility", pos: "n.", p: "/əˈdʒɪləti/", cn: "敏捷；灵活（指思维）" },
+      { w: "cognitive reserve", pos: "n.", p: "/ˈkɒɡnətɪv rɪˈzɜːv/", cn: "认知储备（大脑对抗衰老的缓冲力）" },
+      { w: "onset", pos: "n.", p: "/ˈɒnset/", cn: "开始；发作" },
+      { w: "dementia", pos: "n.", p: "/dɪˈmenʃə/", cn: "痴呆；失智" },
+      { w: "juggling", pos: "v.", p: "/ˈdʒʌɡlɪŋ/", cn: "同时应付；腾挪（juggle 的现在分词）" },
+      { w: "tolerance", pos: "n.", p: "/ˈtɒlərəns/", cn: "宽容；包容" },
+      { w: "monolingual", pos: "adj.", p: "/ˌmɒnəˈlɪŋɡwəl/", cn: "单语的" },
+      { w: "unspoken", pos: "adj.", p: "/ʌnˈspəʊkən/", cn: "未言明的；心照不宣的" },
+      { w: "misunderstanding", pos: "n.", p: "/ˌmɪsʌndəˈstændɪŋ/", cn: "误解" },
+      { w: "migration", pos: "n.", p: "/maɪˈɡreɪʃn/", cn: "迁移；移居" },
+      { w: "cross-cultural", pos: "adj.", p: "/ˌkrɒsˈkʌltʃərəl/", cn: "跨文化的" },
+      { w: "asset", pos: "n.", p: "/ˈæset/", cn: "资产；优势" },
+      { w: "immersion", pos: "n.", p: "/ɪˈmɜːʃn/", cn: "沉浸；沉浸式（学习）" },
+      { w: "fluency", pos: "n.", p: "/ˈfluːənsi/", cn: "流利；流畅" },
+      { w: "intertwine", pos: "v.", p: "/ˌɪntəˈtwaɪn/", cn: "交织；缠绕" },
+      { w: "exception", pos: "n.", p: "/ɪkˈsepʃn/", cn: "例外" },
+      { w: "core", pos: "adj./n.", p: "/kɔː(r)/", cn: "核心的；核心" },
+      { w: "optional", pos: "adj.", p: "/ˈɒpʃənl/", cn: "可选的；非强制的" },
+      { w: "promising", pos: "adj.", p: "/ˈprɒmɪsɪŋ/", cn: "有前景的；大有希望的" },
+      { w: "uneven", pos: "adj.", p: "/ʌnˈiːvn/", cn: "不均衡的；参差不齐的" },
+      { w: "self-control", pos: "n.", p: "/ˌself kənˈtrəʊl/", cn: "自控力；自制" },
+      { w: "outperform", pos: "v.", p: "/ˌaʊtpəˈfɔːm/", cn: "胜过；表现优于" },
+      { w: "peers", pos: "n.", p: "/pɪəz/", cn: "同辈；同龄人" },
+      { w: "distraction", pos: "n.", p: "/dɪˈstrækʃn/", cn: "分心；干扰" },
+      { w: "ageing", pos: "adj./n.", p: "/ˈeɪdʒɪŋ/", cn: "衰老的；老龄化" }
     ]
   },
   words: [
-    { w: "contentment", pos: "n.", p: "/kənˈtentmənt/", cn: "满足；知足", ex: "A simple routine can bring a quiet sense of contentment.", exCn: "简单的日常能带来一种安静的满足感。" },
-    { w: "gratification", pos: "n.", p: "/ˌɡrætɪfɪˈkeɪʃn/", cn: "满足；喜悦", ex: "Instant gratification often fades faster than we expect.", exCn: "即时的满足感往往比我们预期的消退得更快。" },
-    { w: "eudaimonic", pos: "adj.", p: "/ˌjuːdaɪˈmɒnɪk/", cn: "实现自我潜能的（幸福学：eudaimonic well-being 指通过意义与目标获得的幸福）", ex: "Eudaimonic well-being grows from purpose, not just pleasure.", exCn: "实现论幸福源于目标与意义，而非仅仅源于享乐。" },
-    { w: "hedonic", pos: "adj.", p: "/hɪˈdɒnɪk/", cn: "享乐的（hedonic well-being 指由愉悦体验带来的幸福）", ex: "Hedonic happiness peaks during a holiday but may not last.", exCn: "享乐型幸福在假期中达到顶点，却未必持久。" },
-    { w: "flourishing", pos: "adj./n.", p: "/ˈflʌrɪʃɪŋ/", cn: "蓬勃发展的；蓬勃发展", ex: "Communities that share meals are often flourishing.", exCn: "共享餐食的社群往往蓬勃发展。" },
-    { w: "associate", pos: "v.", p: "/əˈsəʊʃieɪt/", cn: "使关联；联系", ex: "Exercise is often associated with better mood.", exCn: "运动常常与更好的情绪相关联。" },
-    { w: "causal", pos: "adj.", p: "/ˈkɔːzl/", cn: "因果的", ex: "A link is not always causal; it may be coincidence.", exCn: "关联未必是因果的，可能只是巧合。" },
-    { w: "subjective", pos: "adj.", p: "/səbˈdʒektɪv/", cn: "主观的", ex: "Happiness is subjective and hard to compare across people.", exCn: "幸福是主观的，难以在人与人之间比较。" },
-    { w: "indicator", pos: "n.", p: "/ˈɪndɪkeɪtə(r)/", cn: "指标；标志", ex: "Life satisfaction is a common indicator of well-being.", exCn: "生活满意度是幸福感的一个常见指标。" },
-    { w: "metric", pos: "n.", p: "/ˈmetrɪk/", cn: "衡量标准；指标", ex: "No single metric captures the full quality of a life.", exCn: "没有任何单一指标能涵盖生活的全部质量。" },
-    { w: "gauge", pos: "v.", p: "/ɡeɪdʒ/", cn: "衡量；估计", ex: "Surveys help gauge how satisfied people feel.", exCn: "调查有助于衡量人们的满意程度。" },
-    { w: "resilient", pos: "adj.", p: "/rɪˈzɪliənt/", cn: "有韧性的；能复原的", ex: "Children who feel safe tend to be more resilient.", exCn: "感到安全的孩子往往更有韧性。" },
-    { w: "fortitude", pos: "n.", p: "/ˈfɔːtɪtjuːd/", cn: "坚韧；刚毅", ex: "Inner fortitude helps people face long struggles.", exCn: "内在的坚韧助人面对长期的困境。" },
-    { w: "hardship", pos: "n.", p: "/ˈhɑːdʃɪp/", cn: "艰难；困苦", ex: "Shared hardship can bring a community closer.", exCn: "共渡难关能让一个社群更加紧密。" },
-    { w: "meaningful", pos: "adj.", p: "/ˈmiːnɪŋfl/", cn: "有意义的", ex: "A meaningful task gives the day a clear purpose.", exCn: "一项有意义的任务能让一天具备清晰的目标。" },
-    { w: "purpose", pos: "n.", p: "/ˈpɜːpəs/", cn: "目标；意义", ex: "A sense of purpose protects mental health.", exCn: "目标感能保护心理健康。" },
-    { w: "sincere", pos: "adj.", p: "/sɪnˈsɪə(r)/", cn: "真诚的；诚恳的", ex: "Sincere friends offer support without keeping score.", exCn: "真诚的朋友给予支持而不计较得失。" },
-    { w: "acceptance", pos: "n.", p: "/əkˈseptəns/", cn: "接纳；认同", ex: "A sense of acceptance protects self-esteem.", exCn: "被接纳的感觉能保护自尊。" },
-    { w: "connection", pos: "n.", p: "/kəˈnekʃn/", cn: "联结；联系", ex: "A daily phone call keeps the family connection strong.", exCn: "每日一通电话能让家庭的联结保持牢固。" },
-    { w: "gratitude", pos: "n.", p: "/ˈɡrætɪtjuːd/", cn: "感恩；感激", ex: "Writing a thank-you note can raise one's gratitude.", exCn: "写一封感谢信能提升一个人的感恩之心。" },
-    { w: "mindful", pos: "adj.", p: "/ˈmaɪndfl/", cn: "留心的；正念的", ex: "Stay mindful of small joys during a busy week.", exCn: "在繁忙的一周里，要对微小的快乐保持觉察。" },
-    { w: "cherish", pos: "v.", p: "/ˈtʃerɪʃ/", cn: "珍视；珍爱", ex: "We should cherish quiet evenings with friends.", exCn: "我们应当珍视与朋友共度的安静夜晚。" },
-    { w: "momentary", pos: "adj.", p: "/ˈməʊmənteri/", cn: "短暂的；片刻的", ex: "A momentary pleasure may not bring lasting joy.", exCn: "片刻的愉悦未必带来持久的快乐。" },
-    { w: "enduring", pos: "adj.", p: "/ɪnˈdjʊərɪŋ/", cn: "持久的；耐久的", ex: "Enduring happiness rests on stable relationships.", exCn: "持久的幸福建立在稳定的人际关系之上。" },
-    { w: "paradox", pos: "n.", p: "/ˈpærədɒks/", cn: "悖论；自相矛盾", ex: "The paradox is that spending on others boosts joy.", exCn: "悖论在于：为他人花钱反而增进了快乐。" },
-    { w: "counterintuitive", pos: "adj.", p: "/ˌkaʊntərɪnˈtjuːɪtɪv/", cn: "反直觉的", ex: "It is counterintuitive, yet less choice can mean more ease.", exCn: "这虽反直觉，但更少的选择反而意味着更轻松。" },
-    { w: "thriving", pos: "adj.", p: "/ˈθraɪvɪŋ/", cn: "兴旺的；繁荣的", ex: "Thriving towns invest in parks and schools.", exCn: "兴旺的城镇会投资于公园与学校。" },
-    { w: "pastime", pos: "n.", p: "/ˈpɑːstaɪm/", cn: "消遣；业余爱好", ex: "Gardening became her favourite pastime in retirement.", exCn: "园艺成了她退休后最喜爱的消遣。" },
-    { w: "superficial", pos: "adj.", p: "/ˌsuːpəˈfɪʃl/", cn: "肤浅的；表面的", ex: "Superficial gains seldom bring deep satisfaction.", exCn: "肤浅的收获很少带来深切的满足。" },
-    { w: "inextricably", pos: "adv.", p: "/ˌɪnekˈstrɪkəbli/", cn: "不可分割地", ex: "Well-being is inextricably tied to social life.", exCn: "幸福感与社会生活不可分割地联系在一起。" }
+    { w: "polyglot", pos: "n./adj.", p: "/ˈpɒliɡlɒt/", cn: "通晓多种语言的人；多语的", ex: "A true polyglot can switch between five languages with ease.", exCn: "真正的通晓多语者能轻松在五种语言间切换。" },
+    { w: "multilingualism", pos: "n.", p: "/ˌmʌltiˈlɪŋɡwəlɪzəm/", cn: "多语现象；多语能力", ex: "Multilingualism is increasingly seen as a cognitive asset.", exCn: "多语能力正日益被视为一种认知优势。" },
+    { w: "monolingual", pos: "adj.", p: "/ˌmɒnəˈlɪŋɡwəl/", cn: "单语的", ex: "A monolingual child hears only one linguistic system at home.", exCn: "单语儿童在家里只听到一套语言系统。" },
+    { w: "cognate", pos: "n./adj.", p: "/ˈkɒɡneɪt/", cn: "同源词；同词根的", ex: "English 'father' and German 'Vater' are cognates.", exCn: "英语的 father 与德语的 Vater 是同源词。" },
+    { w: "lexicon", pos: "n.", p: "/ˈleksɪkən/", cn: "词汇；词典；语汇", ex: "Each language carries its own rich lexicon of feeling.", exCn: "每种语言都承载着自己丰富的情感语汇。" },
+    { w: "idiom", pos: "n.", p: "/ˈɪdiəm/", cn: "习语；成语；惯用语", ex: "A strange idiom can confuse even advanced learners.", exCn: "一句古怪的习语连高阶学习者也会困惑。" },
+    { w: "eloquence", pos: "n.", p: "/ˈeləkwəns/", cn: "口才；雄辩", ex: "Daily practice slowly builds real eloquence.", exCn: "日复一日的练习会慢慢造就真正的口才。" },
+    { w: "enunciate", pos: "v.", p: "/ɪˈnʌnsieɪt/", cn: "清晰发音；阐明", ex: "Try to enunciate each syllable with care.", exCn: "试着字斟句酌地把每个音节发清楚。" },
+    { w: "communicative", pos: "adj.", p: "/kəˈmjuːnɪkətɪv/", cn: "交际的；健谈的", ex: "Children become more communicative through play.", exCn: "儿童在游戏中会变得更善于交流。" },
+    { w: "adaptability", pos: "n.", p: "/əˌdæptəˈbɪləti/", cn: "适应性；应变能力", ex: "Mental adaptability helps us face new settings.", exCn: "思维的适应性帮助我们应对新环境。" },
+    { w: "nimble", pos: "adj.", p: "/ˈnɪmbl/", cn: "（思维）敏捷的；灵活的", ex: "A nimble mind copes well with sudden change.", exCn: "敏捷的头脑能很好地应对突如其来的变化。" },
+    { w: "acumen", pos: "n.", p: "/ˈækjəmən/", cn: "敏锐；洞察力", ex: "Language study sharpens one's social acumen.", exCn: "语言学习能磨炼一个人的社交洞察力。" },
+    { w: "dementia", pos: "n.", p: "/dɪˈmenʃə/", cn: "痴呆；失智", ex: "Bilingualism may delay the onset of dementia.", exCn: "双语能力或许能推迟痴呆的发病。" },
+    { w: "mastery", pos: "n.", p: "/ˈmɑːstəri/", cn: "精通；掌握", ex: "Mastery of a tongue takes years of patient use.", exCn: "掌握一门语言需要多年的耐心运用。" },
+    { w: "nuance", pos: "n.", p: "/ˈnjuːɑːns/", cn: "细微差别；微妙之处", ex: "She caught the nuance behind his polite reply.", exCn: "她捕捉到了他客气答复背后的微妙。" },
+    { w: "lexis", pos: "n.", p: "/ˈleksɪs/", cn: "词汇（总称）；语汇", ex: "A larger lexis aids both reading and writing.", exCn: "更丰富的词汇有助于阅读与写作。" },
+    { w: "fluidity", pos: "n.", p: "/ˈluːɪdəti/", cn: "流畅；流动感", ex: "Her fluency gradually gained real fluidity.", exCn: "她的流利度逐渐变得真正流畅自然。" },
+    { w: "trilingual", pos: "adj.", p: "/traɪˈlɪŋɡwəl/", cn: "通晓三种语言的", ex: "A trilingual guide switched codes with ease.", exCn: "一位通三语的导游轻松切换语码。" },
+    { w: "ancestral", pos: "adj.", p: "/ænˈsestrəl/", cn: "祖传的；祖先的", ex: "He relearned his ancestral tongue as an adult.", exCn: "他成年后重新学起了祖辈的语言。" },
+    { w: "transliterate", pos: "v.", p: "/trænzˈlɪtəreɪt/", cn: "音译；转写", ex: "We transliterate the name since it has no exact match.", exCn: "因为没有对应词，我们把它音译过来。" },
+    { w: "construe", pos: "v.", p: "/kənˈstruː/", cn: "理解；诠释", ex: "One may construe the phrase in two ways.", exCn: "这句话可以有两种理解方式。" },
+    { w: "subtlety", pos: "n.", p: "/ˈsʌtlti/", cn: "微妙；精细之处", ex: "Tone carries a subtlety that grammar cannot teach.", exCn: "语气承载着语法无法传授的微妙。" },
+    { w: "worldview", pos: "n.", p: "/ˈwɜːldvjuː/", cn: "世界观", ex: "A second language reshapes one's worldview.", exCn: "第二种语言会重塑一个人的世界观。" },
+    { w: "affinity", pos: "n.", p: "/əˈfɪnəti/", cn: "亲近感；共鸣；亲和", ex: "She felt an instant affinity with the locals.", exCn: "她对当地人产生了一种即刻的亲近感。" },
+    { w: "receptiveness", pos: "n.", p: "/rɪˈseptɪvnəs/", cn: "接受度；开放态度", ex: "Receptiveness matters more than perfect grammar.", exCn: "开放的态度比完美的语法更重要。" },
+    { w: "outlook", pos: "n.", p: "/ˈaʊtlʊk/", cn: "看法；前景；世界观", ex: "Travel broadens a person's outlook on life.", exCn: "旅行能拓宽一个人对生活的看法。" },
+    { w: "persona", pos: "n.", p: "/pəˈsəʊnə/", cn: "人格形象；表象自我", ex: "He adopts a calm persona in meetings.", exCn: "他在会议中展现出一种冷静的人格形象。" },
+    { w: "affiliation", pos: "n.", p: "/əˌfɪliˈeɪʃn/", cn: "归属；隶属；联结", ex: "Language builds a real affiliation with a group.", exCn: "语言能在一个群体中建立起真正的归属。" },
+    { w: "intellectual", pos: "adj.", p: "/ˌɪntəˈlektʃuəl/", cn: "智力的；理智的", ex: "The task demands real intellectual effort.", exCn: "这项任务需要真正的智力付出。" },
+    { w: "command", pos: "n.", p: "/kəˈmɑːnd/", cn: "掌握；驾驭（a command of）", ex: "She has a good command of three languages.", exCn: "她能熟练驾驭三种语言。" }
   ],
   vocabArticle: {
-    title: "The Quiet Ingredients of a Happy Life",
-    titleCn: "幸福生活的隐性要素",
+    title: "The Quiet Gifts of a Multilingual Life",
+    titleCn: "多语生活潜藏的馈赠",
     paras: [
       {
-        en: "Researchers now agree that happiness is not a single feeling but two distinct kinds. The first, called hedonic well-being, seeks pleasure and momentary gratification; the second, eudaimonic well-being, grows from a meaningful life and long-term flourishing. Because joy is subjective, scientists use careful surveys to gauge it. In many nations, higher income brings only momentary contentment, showing that money alone cannot explain why some people keep flourishing while others do not.",
-        cn: "研究者如今达成共识：幸福并非单一的感觉，而是两种不同的类型。第一种被称为享乐型幸福，追求愉悦与片刻的满足；第二种即实现论幸福，源于有意义的人生与长期的蓬勃发展。由于快乐是主观的，科学家借助严谨的调查来量化它。在许多国家，更高的收入只带来转瞬即逝的满足，这表明单靠金钱无法解释为何有些人持续蓬勃发展，而另一些人却不能。"
+        en: "A true polyglot often describes multilingualism not as a burden but as a lens. Where a monolingual speaker relies on one lexicon, a multilingual mind holds several, and each new language adds to the shared lexis. Learning a cognate or an unfamiliar idiom feels like finding a cousin in another tongue. With patient study, even a beginner can command basic greetings and read simple signs abroad, opening doors that once stayed shut.",
+        cn: "真正的通晓多语者常把多语能力形容为不是负担，而是一副透镜。单语使用者只依赖一套词汇，而多语思维却掌握好几套，每学一种新语言，共享的语汇便随之扩充。学习一个同源词或一句陌生的习语，就像在另一种语言里寻得一位表亲。只要耐心学习，即便是初学者也能驾驭基本的问候、读懂异国的简单标识，推开曾经紧闭的大门。"
       },
       {
-        en: "Studies associate strong social bonds with better health, yet the link is not always causal. A common metric is life satisfaction, an indicator that rises when people feel their days are meaningful. Those who stay resilient through hardship often show greater fortitude later. Still, a single number cannot capture the full picture, so researchers combine several measures to see which habits truly help a person remain resilient when life turns hard.",
-        cn: "研究将牢固的社会纽带与更好的健康联系起来，然而这种关联并不总具因果性。一个常见的衡量标准是生活满意度——当人们的日子有意义时，这一指标便会上升。那些在逆境中保持韧性的人，日后往往展现出更强的恢复力。不过，单一数字无法捕捉全貌，因此研究者综合多种测量，以看清哪些习惯能真正帮助一个人在生活变艰难时依然保持韧性。"
+        en: "Practice also builds eloquence. Learners who enunciate clearly become more communicative, and their speech gains a welcome fluidity. They notice the nuance behind a polite phrase and the subtlety of tone that a trilingual friend may miss. Some even learn to transliterate a name they cannot spell, or to construe a sentence from half-known words. Bit by bit, the hesitant tourist turns into a confident speaker.",
+        cn: "练习还能造就口才。发音清晰的学习者会变得更具交流意愿，其言语也获得一种可喜的流畅感。他们能察觉一句客气话背后的细微差别，以及某种三语朋友可能忽略的语气微妙。有些人甚至学会把拼不出的名字音译出来，或凭着半知半解的词去诠释一句话。一点一滴之间，迟疑的旅人变成了自信的言说者。"
       },
       {
-        en: "Having a clear purpose and a sense of acceptance protects the mind. A warm connection with others, built on sincere care, lets people cherish small moments instead of chasing more. Practising gratitude and staying mindful of today can lift mood more than extra wealth. The paradox is striking: those who spend on others often feel happier than those who keep everything. A mindful life helps us cherish what we already hold.",
-        cn: "拥有清晰的目标与归属感能保护心智。与他人之间温暖的联结，建立在真诚关怀之上，让人珍视微小瞬间，而非一味追逐更多。践行感恩、对当下保持正念觉察，比额外的财富更能提振情绪。这一悖论令人惊心：为他人花钱的人，往往比把一切据为己有的人更快乐。正念式的生活，帮我们珍视已经拥有的东西。"
+        en: "A nimble, trained mind shows real intellectual acumen. Studies link such mental adaptability to a later onset of dementia, suggesting that keeping the brain busy protects it. A person who learns an ancestral language may feel a deep affinity with grandparents they barely knew. This shift in worldview changes the outlook on strangers: the foreign stops feeling threatening and starts feeling familiar, widening one's circle of trust.",
+        cn: "经过训练而敏捷的头脑，会展现出真正的智力洞察。研究将这种思维的适应力与更晚罹患痴呆联系起来，表明让大脑保持忙碌便能保护它。一个学习祖辈语言的人，或许会对几乎不认识的祖父母生出深切的亲近。这种世界观的转变，改变了对陌生人的看法：异质之物不再令人畏惧，反而变得熟悉，从而拓宽了信任的圈子。"
       },
       {
-        en: "Some findings are counterintuitive: enduring happiness rarely comes from superficial gains. Communities that share a pastime and support one another tend to be thriving, because well-being is inextricably tied to social life. Even a simple hobby can build enduring calm. In the end, a thriving society is one where people feel both free and connected, proving that happiness is less a lucky chance than a skill we can learn.",
-        cn: "某些发现有违直觉：持久的幸福很少来自肤浅的所得。共享一项消遣、彼此扶持的社群往往兴旺繁荣，因为幸福感与社会生活不可分割地相连。即便是一个简单的爱好，也能筑起持久的平静。归根结底，一个兴旺的社会，是让民众既感到自由又彼此联结的社会——这证明幸福与其说是幸运的偶然，不如说是一项我们可习得的技能。"
+        en: "Mastery, however, is more than grammar. It asks for a flexible persona that can switch between cultures without losing itself, and for a genuine affiliation with the people whose tongue one borrows. Above all, it needs receptiveness—a willingness to be wrong and to laugh at the mistake. In the end, the multilingual life rewards not perfection but openness, turning every conversation into a small act of bridge-building.",
+        cn: "然而，精通远不止语法。它要求一种能在不同文化间切换而不迷失自我的灵活人格形象，也要求与你所借用其语言的人们建立真切的归属。最重要的是，它需要一种开放的态度——愿意犯错，也愿意为错误一笑置之。归根结底，多语生活嘉奖的并非完美，而是开放，它把每一次对话都变成一座小小的搭桥之举。"
       }
     ]
   },
   grammar: [
     {
-      q: "I would rather you ___ the meeting tomorrow, since the report is not ready yet.",
+      q: "The researcher claimed that bilingual children ___ better at ignoring distractions than their monolingual peers.",
       options: [
-        "attend",
-        "attended",
-        "will attend",
-        "would attend"
+        "perform",
+        "performed",
+        "have performed",
+        "will perform"
       ],
       answer: 1,
-      explain: "考点：虚拟语气中 would rather 后的从句。would rather 表示『宁愿 / 更希望』时，其后的 that 从句（that 常省略）要用一般过去时，表示与现在或将来事实相反的愿望，即此处用 attended 而非动词原形 attend。本句意为『我宁愿你明天不去（或去）开会』，动作虽发生在将来，但虚拟语气中仍用过去式 attended 表达。A（attend）为动词原形，属陈述语气的现在时或祈使，不符合 would rather 的虚拟要求；C（will attend）为一般将来时，虚拟语气中不用 will；D（would attend）重复使用 would，结构错误。扩展：类似用过去式表虚拟的还有 wish / if only 后接过去式（与现在、将来相反）、It is (high) time (that) 后接过去式。"
+      explain: "考点：间接引语（reported speech）中的时态呼应（退后 / backshift）。主句谓语 claimed 为一般过去时，当转述他人过去的某一具体陈述或研究发现时，从句时态通常要『后退一步』：现在时→过去时、现在完成→过去完成等。此处『双语儿童更擅长排除干扰』是研究者当时提出的具体结论，并非永恒的客观真理，故从句用一般过去时 performed（B）。A（perform）为现在时，未退后，仅在引述永恒真理或普遍规律时可保留；C（have performed）现在完成时不符合退后规则；D（will perform）将来时亦未退后。扩展：若从句陈述的是客观真理（如 He said the earth moves around the sun），则可保留现在时不变。"
     },
     {
-      q: "Hardly ___ the railway station when the heavy rain began to pour.",
+      q: "There is a stage in language learning ___ learners can understand a great deal but still hesitate to speak.",
       options: [
-        "we had left",
-        "had we left",
-        "we left",
-        "did we leave"
+        "which",
+        "that",
+        "where",
+        "when"
       ],
-      answer: 1,
-      explain: "考点：半否定副词置于句首引起的部分倒装。hardly（几乎不）属半否定词，放在句首时，主句须实行『助动词 / 情态动词 / be 动词提到主语之前』的部分倒装，即 had we left（had 提前至主语 we 之前）。固定搭配 hardly...when 表示『一……就……』，主句用过去完成时（had left），when 引导的从句用一般过去时（began）。A（we had left）为正常的陈述语序，未倒装，错误；C（we left）既未倒装，时态也不符（主句需过去完成）；D（did we leave）虽倒装，但用了一般过去时 did，无法与 hardly...when 的过去完成结构匹配。扩展：同类半否定词还有 seldom、rarely、never、no sooner（常配 than）等，置于句首均须部分倒装。"
+      answer: 2,
+      explain: "考点：定语从句中关系副词 where 用于『抽象地点 / 情境』。先行词 stage（阶段）、point、situation、case、extent 等虽字面上表时间或程度，但在定语从句中常被视为一种『情境 / 场合』，需用关系副词 where 引导，在从句中作状况状语，相当于 in which。本句 stage 表示『学习者能听懂很多却仍不敢开口』的学习情境，故用 where（C）。A（which）/ B（that）为关系代词，在从句中须充当主语或宾语，而此处从句主谓宾完整（learners can understand ... but hesitate ...），并不缺主宾，故不能选；D（when）表时间，与 stage 作为『情境』的语义不符。扩展：类似用法如 There comes a point where... / a situation where..."
     }
   ]
 };

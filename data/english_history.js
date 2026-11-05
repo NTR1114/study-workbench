@@ -377,5 +377,11 @@ window.ENGLISH_HISTORY = [
     topic: "Happiness & the Science of Well-being（幸福与幸福科学）",
     articleTitle: "The Measure of a Good Life: What Science Says About Happiness",
     words: ["contentment","gratification","eudaimonic","hedonic","flourishing","associate","causal","subjective","indicator","metric","gauge","resilient","fortitude","hardship","meaningful","purpose","sincere","acceptance","connection","gratitude","mindful","cherish","momentary","enduring","paradox","counterintuitive","thriving","pastime","superficial","inextricably"]
+  },
+  {
+    date: "2026-11-05",
+    topic: "Bilingualism & the Cognitive Edge of Multilingual Minds（双语能力与多语思维的认知优势）",
+    articleTitle: "More Than Words: The Hidden Benefits of a Multilingual Mind",
+    words: ["polyglot","multilingualism","monolingual","cognate","lexicon","idiom","eloquence","enunciate","communicative","adaptability","nimble","acumen","dementia","mastery","nuance","lexis","fluidity","trilingual","ancestral","transliterate","construe","subtlety","worldview","affinity","receptiveness","outlook","persona","affiliation","intellectual","command"]
   }
 ];
