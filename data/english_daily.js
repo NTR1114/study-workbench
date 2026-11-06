@@ -1,135 +1,134 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-05",
-  topic: "Bilingualism & the Cognitive Edge of Multilingual Minds（双语能力与多语思维的认知优势）",
+  date: "2026-11-06",
+  topic: "Memory, Forgetting & the Science of Human Recall（记忆、遗忘与人类回忆的科学）",
   article: {
-    title: "More Than Words: The Hidden Benefits of a Multilingual Mind",
-    titleCn: "不止于词：多语思维潜藏的益处",
+    title: "The Fragile Archive: How Human Memory Really Works",
+    titleCn: "脆弱的档案：人类记忆究竟如何运作",
     paras: [
       {
-        en: "Across the world, millions grow up speaking more than one language, yet for decades educators treated bilingualism as a handicap rather than a gift. Recent research has overturned that view. Scientists now suggest that managing two language systems trains the brain in ways that reach far beyond mere conversation. Far from confusing the mind, early exposure to several tongues may sharpen it. This shift has turned a once-doubted skill into a serious object of study.",
-        cn: "在全世界范围内，数以百万计的人从小便说不止一种语言，然而数十年来，教育者们曾把双语能力当作一种缺陷而非天赋。近来的研究推翻了这种看法。科学家现在认为，同时驾驭两套语言系统，对大脑的锻炼远超单纯的对话范畴。接触多种语言非但不会扰乱心智，反而可能在早期就使之更加敏锐。这一转变，已将一项一度受质疑的技能变成严肃的研究对象。"
+        en: "Most people imagine memory as a faithful video recorder, yet the science of mind tells a different story. Rather than storing events whole, the brain keeps fragments and later rebuilds them at the moment of recall. This reconstructive habit explains why two witnesses to one incident often describe it differently. Far from a passive archive, memory is an active, fallible system that blends fact with inference, leaving it open to suggestion and surprisingly easy to mislead.",
+        cn: "大多数人把记忆想象成一台忠实的录像机，然而心智科学却讲述了另一番故事。大脑并非完整地存储事件，而是保留碎片，并在回忆的那一刻将其重新拼合。这种重构的习性解释了为何同一事件的两名目击者常常给出不同的描述。记忆远非一个被动的档案库，而是一个主动且易错的系统，它将事实与推断相混融，从而容易受到暗示的影响，也出奇地容易被误导。"
       },
       {
-        en: "Studies report that bilingual children often outperform peers on tasks requiring focus and self-control. Switching between languages seems to build mental agility, letting speakers ignore distraction and hold information in mind. Some researchers argue this 'cognitive reserve' also delays the onset of dementia in later life. While debates continue, the pattern is striking: the effort of juggling words appears to strengthen, not strain, the ageing brain.",
-        cn: "研究报告指出，在需要专注与自控力的任务上，双语儿童往往表现优于同龄人。在两种语言之间切换，似乎能培养思维的敏捷，让使用者得以忽略干扰、在脑中留存信息。一些研究者认为，这种「认知储备」还能推迟晚年痴呆的发病。尽管争论仍在继续，这一规律仍令人瞩目：在词语间腾挪的费力感，似乎是在强化而非损耗老化中的大脑。"
+        en: "Forgetting is not the simple erasure of a file but a slow fading shaped by time and interference. The pioneer Hermann Ebbinghaus found that we lose most new material within days unless we rehearse it. Later study can also disrupt older learning, a process called retroactive interference. Sleep, by contrast, protects what we learn, quietly strengthening fragile traces into a more lasting form while the body rests.",
+        cn: "遗忘并非简单地抹去一份文件，而是一种受时间与干扰影响的缓慢消退。先驱赫尔曼·艾宾浩斯发现，除非加以复述，我们会在数日内遗忘大部分新学的内容。后续的学习也可能扰乱更早的所学，这一过程被称为倒摄抑制。相比之下，睡眠会守护我们学到的东西，在身体休息时悄然把脆弱的痕迹强化为更持久的形态。"
       },
       {
-        en: "Beyond the brain, multiple languages open windows onto other cultures. A second tongue carries its own politeness and unspoken rules, fostering a tolerance that monolingual lives may miss. Travellers who greet locals in their own language often report warmer bonds and fewer misunderstandings. In an age of migration and global trade, such cross-cultural ease is not a luxury but a practical asset for work and peace alike.",
-        cn: "除了对大脑的好处，多种语言也为我们打开了一扇扇通往其他文化的窗。第二种语言承载着它特有的礼貌与未言明的规则，培育出一种单语生活可能错失的包容。用当地语言向居民问好的旅人，往往能收获更温暖的联结与更少的误解。在迁移与全球贸易时代，这种跨文化的从容并非奢侈，而是对工作与和平都切实有用的优势。"
+        en: "Psychologists divide memory into distinct systems built for different ends. Sensory registers catch transient impressions for a split second, while working memory holds a few items we are actively using. The broadest store, long-term memory, splits further into episodic recollection of events and semantic knowledge of facts. Each system runs on its own machinery, which is why someone may recognise a face yet fail to retrieve the name that belongs with it.",
+        cn: "心理学家将记忆划分为服务于不同目的的各个系统。感觉记录器会在瞬息之间捕捉短暂的印象，而工作记忆则保存着我们正在使用的少数几项内容。最庞大的存储库——长时记忆——又可进一步分为对事件的情景性回忆与对事实的语义性知识。每个系统都依照自身的机制运转，这也解释了为何有人能认出一张面孔，却想不起与之对应的名字。"
       },
       {
-        en: "Schools increasingly treat language learning as core, not optional. Immersion programmes, where lessons are taught in a foreign tongue, show promising results in both fluency and confidence. Critics warn of costs and uneven access, yet the broader trend is clear. As borders soften and economies intertwine, the multilingual mind is less an exception and more a quiet advantage—one that helps individuals, and perhaps whole societies, think a little more freely.",
-        cn: "学校日益将语言学习视为核心，而非可选项。在沉浸式课程中，课程以外语讲授，无论在流利度还是自信心上都展现出可喜的成果。批评者警告其成本与获取的不均衡，但更宏观的趋势是清晰的。随着边界消融、经济彼此交织，多语思维越来越少地属于例外，而更多地成为一种悄然的优势——它既裨益个人，或许也能让整个社会都思考得略微更自由一些。"
+        en: "Perhaps most striking is how firmly we can remember events that never occurred. Through suggestion, leading questions, or mere repetition, people form false memories that feel completely real. Researchers turn this weakness to advantage with methods like spaced practice and elaborative study to lift retention. Grasping memory's limits matters well beyond the lab: it shapes courtrooms, classrooms, and the personal stories we tell ourselves about who we are.",
+        cn: "或许最令人惊讶的是，我们能如此笃定地记住从未发生过的事。通过暗示、诱导性的提问，或仅仅是重复，人们会构筑出感觉完全真实的虚假记忆。研究者将这一弱点转化为优势，借助间隔练习与精细化学习等方法来提升记忆保持。理解记忆的局限，其意义远不止于实验室：它塑造着法庭、课堂，以及我们向自己讲述的、关于『我是谁』的个人叙事。"
       }
     ],
     glossary: [
-      { w: "bilingualism", pos: "n.", p: "/baɪˈlɪŋɡwəlɪzəm/", cn: "双语能力；双语现象" },
-      { w: "handicap", pos: "n.", p: "/ˈhændikæp/", cn: "障碍；不利条件" },
-      { w: "overturned", pos: "v.", p: "/ˌəʊvəˈtɜːnd/", cn: "推翻；颠覆（overturn 的过去式）" },
-      { w: "agility", pos: "n.", p: "/əˈdʒɪləti/", cn: "敏捷；灵活（指思维）" },
-      { w: "cognitive reserve", pos: "n.", p: "/ˈkɒɡnətɪv rɪˈzɜːv/", cn: "认知储备（大脑对抗衰老的缓冲力）" },
-      { w: "onset", pos: "n.", p: "/ˈɒnset/", cn: "开始；发作" },
-      { w: "dementia", pos: "n.", p: "/dɪˈmenʃə/", cn: "痴呆；失智" },
-      { w: "juggling", pos: "v.", p: "/ˈdʒʌɡlɪŋ/", cn: "同时应付；腾挪（juggle 的现在分词）" },
-      { w: "tolerance", pos: "n.", p: "/ˈtɒlərəns/", cn: "宽容；包容" },
-      { w: "monolingual", pos: "adj.", p: "/ˌmɒnəˈlɪŋɡwəl/", cn: "单语的" },
-      { w: "unspoken", pos: "adj.", p: "/ʌnˈspəʊkən/", cn: "未言明的；心照不宣的" },
-      { w: "misunderstanding", pos: "n.", p: "/ˌmɪsʌndəˈstændɪŋ/", cn: "误解" },
-      { w: "migration", pos: "n.", p: "/maɪˈɡreɪʃn/", cn: "迁移；移居" },
-      { w: "cross-cultural", pos: "adj.", p: "/ˌkrɒsˈkʌltʃərəl/", cn: "跨文化的" },
-      { w: "asset", pos: "n.", p: "/ˈæset/", cn: "资产；优势" },
-      { w: "immersion", pos: "n.", p: "/ɪˈmɜːʃn/", cn: "沉浸；沉浸式（学习）" },
-      { w: "fluency", pos: "n.", p: "/ˈfluːənsi/", cn: "流利；流畅" },
-      { w: "intertwine", pos: "v.", p: "/ˌɪntəˈtwaɪn/", cn: "交织；缠绕" },
-      { w: "exception", pos: "n.", p: "/ɪkˈsepʃn/", cn: "例外" },
-      { w: "core", pos: "adj./n.", p: "/kɔː(r)/", cn: "核心的；核心" },
-      { w: "optional", pos: "adj.", p: "/ˈɒpʃənl/", cn: "可选的；非强制的" },
-      { w: "promising", pos: "adj.", p: "/ˈprɒmɪsɪŋ/", cn: "有前景的；大有希望的" },
-      { w: "uneven", pos: "adj.", p: "/ʌnˈiːvn/", cn: "不均衡的；参差不齐的" },
-      { w: "self-control", pos: "n.", p: "/ˌself kənˈtrəʊl/", cn: "自控力；自制" },
-      { w: "outperform", pos: "v.", p: "/ˌaʊtpəˈfɔːm/", cn: "胜过；表现优于" },
-      { w: "peers", pos: "n.", p: "/pɪəz/", cn: "同辈；同龄人" },
-      { w: "distraction", pos: "n.", p: "/dɪˈstrækʃn/", cn: "分心；干扰" },
-      { w: "ageing", pos: "adj./n.", p: "/ˈeɪdʒɪŋ/", cn: "衰老的；老龄化" }
+      { w: "rebuild", pos: "v.", p: "/ˌriːˈbɪld/", cn: "重建；重新拼合（rebuild 的第三人称）" },
+      { w: "reconstructive", pos: "adj.", p: "/ˌriːkənˈstrʌktɪv/", cn: "重构的；重建的" },
+      { w: "blend", pos: "v.", p: "/blend/", cn: "混融；融合（blend 的第三人称）" },
+      { w: "fallible", pos: "adj.", p: "/ˈfæləbl/", cn: "易犯错的；不可靠的" },
+      { w: "inference", pos: "n.", p: "/ˈɪnfərəns/", cn: "推断；推论" },
+      { w: "suggestion", pos: "n.", p: "/səˈdʒestʃən/", cn: "暗示；诱导（心理暗示）" },
+      { w: "erasure", pos: "n.", p: "/ɪˈreɪʒə(r)/", cn: "擦除；消除" },
+      { w: "fading", pos: "n.", p: "/ˈfeɪdɪŋ/", cn: "消退；逐渐消失" },
+      { w: "interference", pos: "n.", p: "/ˌɪntəˈfɪərəns/", cn: "干扰；妨碍" },
+      { w: "pioneer", pos: "n.", p: "/ˌpaɪəˈnɪə(r)/", cn: "先驱；开创者" },
+      { w: "strengthen", pos: "v.", p: "/ˈstreŋθn/", cn: "强化；加强；巩固" },
+      { w: "retroactive", pos: "adj.", p: "/ˌretrəʊˈæktɪv/", cn: "倒行的；起反作用的（retroactive interference 倒摄抑制）" },
+      { w: "mislead", pos: "v.", p: "/ˌmɪsˈliːd/", cn: "误导；使误解（mislead 的第三人称）" },
+      { w: "impression", pos: "n.", p: "/ɪmˈpreʃn/", cn: "印象；感觉" },
+      { w: "episodic", pos: "adj.", p: "/ˌepɪˈsɒdɪk/", cn: "情景的（episodic memory 情景记忆）" },
+      { w: "semantic", pos: "adj.", p: "/sɪˈmæntɪk/", cn: "语义的（semantic memory 语义记忆）" },
+      { w: "recollection", pos: "n.", p: "/ˌrekəˈlekʃn/", cn: "回忆；往事" },
+      { w: "courtroom", pos: "n.", p: "/ˈkɔːtruːm/", cn: "法庭；审判室" },
+      { w: "elaborative", pos: "adj.", p: "/ɪˈlæbərətɪv/", cn: "精细的；详尽的（elaborative study 精细学习）" },
+      { w: "lasting", pos: "adj.", p: "/ˈlɑːstɪŋ/", cn: "持久的；持续的" },
+      { w: "machinery", pos: "n.", p: "/məˈʃiːnəri/", cn: "机制；机械装置" },
+      { w: "register", pos: "n.", p: "/ˈredʒɪstə(r)/", cn: "记录器；登记表（sensory register 感觉记录器）" },
+      { w: "repetition", pos: "n.", p: "/ˌrepəˈtɪʃn/", cn: "重复；反复" },
+      { w: "faithful", pos: "adj.", p: "/ˈfeɪθfl/", cn: "忠实的；如实的" },
+      { w: "trace", pos: "n.", p: "/treɪs/", cn: "痕迹；踪迹" },
+      { w: "recorder", pos: "n.", p: "/rɪˈkɔːdə(r)/", cn: "记录器；录音/录像机" },
+      { w: "incident", pos: "n.", p: "/ˈɪnsɪdənt/", cn: "事件；事故" }
     ]
   },
   words: [
-    { w: "polyglot", pos: "n./adj.", p: "/ˈpɒliɡlɒt/", cn: "通晓多种语言的人；多语的", ex: "A true polyglot can switch between five languages with ease.", exCn: "真正的通晓多语者能轻松在五种语言间切换。" },
-    { w: "multilingualism", pos: "n.", p: "/ˌmʌltiˈlɪŋɡwəlɪzəm/", cn: "多语现象；多语能力", ex: "Multilingualism is increasingly seen as a cognitive asset.", exCn: "多语能力正日益被视为一种认知优势。" },
-    { w: "monolingual", pos: "adj.", p: "/ˌmɒnəˈlɪŋɡwəl/", cn: "单语的", ex: "A monolingual child hears only one linguistic system at home.", exCn: "单语儿童在家里只听到一套语言系统。" },
-    { w: "cognate", pos: "n./adj.", p: "/ˈkɒɡneɪt/", cn: "同源词；同词根的", ex: "English 'father' and German 'Vater' are cognates.", exCn: "英语的 father 与德语的 Vater 是同源词。" },
-    { w: "lexicon", pos: "n.", p: "/ˈleksɪkən/", cn: "词汇；词典；语汇", ex: "Each language carries its own rich lexicon of feeling.", exCn: "每种语言都承载着自己丰富的情感语汇。" },
-    { w: "idiom", pos: "n.", p: "/ˈɪdiəm/", cn: "习语；成语；惯用语", ex: "A strange idiom can confuse even advanced learners.", exCn: "一句古怪的习语连高阶学习者也会困惑。" },
-    { w: "eloquence", pos: "n.", p: "/ˈeləkwəns/", cn: "口才；雄辩", ex: "Daily practice slowly builds real eloquence.", exCn: "日复一日的练习会慢慢造就真正的口才。" },
-    { w: "enunciate", pos: "v.", p: "/ɪˈnʌnsieɪt/", cn: "清晰发音；阐明", ex: "Try to enunciate each syllable with care.", exCn: "试着字斟句酌地把每个音节发清楚。" },
-    { w: "communicative", pos: "adj.", p: "/kəˈmjuːnɪkətɪv/", cn: "交际的；健谈的", ex: "Children become more communicative through play.", exCn: "儿童在游戏中会变得更善于交流。" },
-    { w: "adaptability", pos: "n.", p: "/əˌdæptəˈbɪləti/", cn: "适应性；应变能力", ex: "Mental adaptability helps us face new settings.", exCn: "思维的适应性帮助我们应对新环境。" },
-    { w: "nimble", pos: "adj.", p: "/ˈnɪmbl/", cn: "（思维）敏捷的；灵活的", ex: "A nimble mind copes well with sudden change.", exCn: "敏捷的头脑能很好地应对突如其来的变化。" },
-    { w: "acumen", pos: "n.", p: "/ˈækjəmən/", cn: "敏锐；洞察力", ex: "Language study sharpens one's social acumen.", exCn: "语言学习能磨炼一个人的社交洞察力。" },
-    { w: "dementia", pos: "n.", p: "/dɪˈmenʃə/", cn: "痴呆；失智", ex: "Bilingualism may delay the onset of dementia.", exCn: "双语能力或许能推迟痴呆的发病。" },
-    { w: "mastery", pos: "n.", p: "/ˈmɑːstəri/", cn: "精通；掌握", ex: "Mastery of a tongue takes years of patient use.", exCn: "掌握一门语言需要多年的耐心运用。" },
-    { w: "nuance", pos: "n.", p: "/ˈnjuːɑːns/", cn: "细微差别；微妙之处", ex: "She caught the nuance behind his polite reply.", exCn: "她捕捉到了他客气答复背后的微妙。" },
-    { w: "lexis", pos: "n.", p: "/ˈleksɪs/", cn: "词汇（总称）；语汇", ex: "A larger lexis aids both reading and writing.", exCn: "更丰富的词汇有助于阅读与写作。" },
-    { w: "fluidity", pos: "n.", p: "/ˈluːɪdəti/", cn: "流畅；流动感", ex: "Her fluency gradually gained real fluidity.", exCn: "她的流利度逐渐变得真正流畅自然。" },
-    { w: "trilingual", pos: "adj.", p: "/traɪˈlɪŋɡwəl/", cn: "通晓三种语言的", ex: "A trilingual guide switched codes with ease.", exCn: "一位通三语的导游轻松切换语码。" },
-    { w: "ancestral", pos: "adj.", p: "/ænˈsestrəl/", cn: "祖传的；祖先的", ex: "He relearned his ancestral tongue as an adult.", exCn: "他成年后重新学起了祖辈的语言。" },
-    { w: "transliterate", pos: "v.", p: "/trænzˈlɪtəreɪt/", cn: "音译；转写", ex: "We transliterate the name since it has no exact match.", exCn: "因为没有对应词，我们把它音译过来。" },
-    { w: "construe", pos: "v.", p: "/kənˈstruː/", cn: "理解；诠释", ex: "One may construe the phrase in two ways.", exCn: "这句话可以有两种理解方式。" },
-    { w: "subtlety", pos: "n.", p: "/ˈsʌtlti/", cn: "微妙；精细之处", ex: "Tone carries a subtlety that grammar cannot teach.", exCn: "语气承载着语法无法传授的微妙。" },
-    { w: "worldview", pos: "n.", p: "/ˈwɜːldvjuː/", cn: "世界观", ex: "A second language reshapes one's worldview.", exCn: "第二种语言会重塑一个人的世界观。" },
-    { w: "affinity", pos: "n.", p: "/əˈfɪnəti/", cn: "亲近感；共鸣；亲和", ex: "She felt an instant affinity with the locals.", exCn: "她对当地人产生了一种即刻的亲近感。" },
-    { w: "receptiveness", pos: "n.", p: "/rɪˈseptɪvnəs/", cn: "接受度；开放态度", ex: "Receptiveness matters more than perfect grammar.", exCn: "开放的态度比完美的语法更重要。" },
-    { w: "outlook", pos: "n.", p: "/ˈaʊtlʊk/", cn: "看法；前景；世界观", ex: "Travel broadens a person's outlook on life.", exCn: "旅行能拓宽一个人对生活的看法。" },
-    { w: "persona", pos: "n.", p: "/pəˈsəʊnə/", cn: "人格形象；表象自我", ex: "He adopts a calm persona in meetings.", exCn: "他在会议中展现出一种冷静的人格形象。" },
-    { w: "affiliation", pos: "n.", p: "/əˌfɪliˈeɪʃn/", cn: "归属；隶属；联结", ex: "Language builds a real affiliation with a group.", exCn: "语言能在一个群体中建立起真正的归属。" },
-    { w: "intellectual", pos: "adj.", p: "/ˌɪntəˈlektʃuəl/", cn: "智力的；理智的", ex: "The task demands real intellectual effort.", exCn: "这项任务需要真正的智力付出。" },
-    { w: "command", pos: "n.", p: "/kəˈmɑːnd/", cn: "掌握；驾驭（a command of）", ex: "She has a good command of three languages.", exCn: "她能熟练驾驭三种语言。" }
+    { w: "recollection", pos: "n.", p: "/ˌrekəˈlekʃn/", cn: "回忆；往事；记忆的提取", ex: "Recollection of the trip came back in pieces.", exCn: "关于那次旅行的回忆一碎片一碎片地回来了。" },
+    { w: "memorisation", pos: "n.", p: "/ˌmeməraɪˈzeɪʃn/", cn: "记忆；背诵；记住的过程", ex: "Spaced memorisation beats last-minute cramming.", exCn: "分散式记忆优于临阵突击。" },
+    { w: "reminiscence", pos: "n.", p: "/ˌremɪˈnɪsns/", cn: "回忆；怀旧；往事追忆", ex: "The old photo stirred a flood of reminiscence.", exCn: "那张旧照片勾起了一阵阵回忆。" },
+    { w: "amnesia", pos: "n.", p: "/æmˈniːziə/", cn: "失忆；记忆丧失", ex: "The accident left him with partial amnesia.", exCn: "那场事故让他患上了部分失忆。" },
+    { w: "interference", pos: "n.", p: "/ˌɪntəˈfɪərəns/", cn: "干扰；妨碍", ex: "Background noise causes interference in recall.", exCn: "背景噪音会对回忆造成干扰。" },
+    { w: "retroactive", pos: "adj.", p: "/ˌretrəʊˈæktɪv/", cn: "倒行的；起反作用的（retroactive interference 倒摄抑制）", ex: "Retroactive interference blurs memories formed earlier.", exCn: "倒摄抑制会模糊更早形成的记忆。" },
+    { w: "evanescent", pos: "adj.", p: "/ˌiːvəˈnesnt/", cn: "易逝的；转瞬即逝的", ex: "The evanescent trace faded within seconds.", exCn: "那道转瞬即逝的痕迹几秒内便消散了。" },
+    { w: "episodic", pos: "adj.", p: "/ˌepɪˈsɒdɪk/", cn: "情景的；片段的（episodic memory 情景记忆）", ex: "Episodic memory stores personal events in time.", exCn: "情景记忆按时间存储个人的亲身经历。" },
+    { w: "semantic", pos: "adj.", p: "/sɪˈmæntɪk/", cn: "语义的（semantic memory 语义记忆）", ex: "Semantic memory holds general facts and meanings.", exCn: "语义记忆储存普遍的事实与含义。" },
+    { w: "procedural", pos: "adj.", p: "/prəˈsiːdʒərəl/", cn: "程序性的（procedural memory 程序记忆）", ex: "Riding a bike relies on procedural memory.", exCn: "骑自行车依赖于程序记忆。" },
+    { w: "mnemonic", pos: "adj./n.", p: "/nɪˈmɒnɪk/", cn: "助记的；记忆术", ex: "A mnemonic helps learners recall long lists.", exCn: "记忆术能帮助学习者记住长串列表。" },
+    { w: "chunking", pos: "n.", p: "/ˈtʃʌŋkɪŋ/", cn: "组块化（记忆策略）", ex: "Chunking turns 10 digits into three easy groups.", exCn: "组块化把 10 个数字变成三组易记的单元。" },
+    { w: "elaboration", pos: "n.", p: "/ɪˌlæbəˈreɪʃn/", cn: "精细加工；详尽阐述", ex: "Elaboration links new facts to what we know.", exCn: "精细加工把新事实与我们已知的内容联系起来。" },
+    { w: "retrieval", pos: "n.", p: "/rɪˈtriːvl/", cn: "提取；检索", ex: "Successful retrieval depends on a good cue.", exCn: "成功的提取依赖于一个良好的线索。" },
+    { w: "clue", pos: "n.", p: "/kluː/", cn: "线索；提示", ex: "A single clue can unlock a buried memory.", exCn: "一条线索便可能解开被掩埋的记忆。" },
+    { w: "confabulation", pos: "n.", p: "/kənˌfæbjuˈleɪʃn/", cn: "虚谈；错构（无意识地填补记忆空白）", ex: "Brain injury may lead to confabulation.", exCn: "脑损伤可能导致虚谈（错构）。" },
+    { w: "suggestibility", pos: "n.", p: "/səˌdʒestəˈbɪləti/", cn: "受暗示性；易受影响性", ex: "High suggestibility makes memories easy to alter.", exCn: "高度的受暗示性使记忆容易被篡改。" },
+    { w: "eyewitness", pos: "n./adj.", p: "/ˈaɪwɪtnəs/", cn: "目击者（的）", ex: "The eyewitness gave a vivid but flawed account.", exCn: "那位目击者提供了一份生动却有缺陷的陈述。" },
+    { w: "repression", pos: "n.", p: "/rɪˈpreʃn/", cn: "压抑；抑制（心理防御）", ex: "Repression may hide a painful early memory.", exCn: "压抑可能会掩藏一段痛苦的早期记忆。" },
+    { w: "flashbulb", pos: "adj.", p: "/ˈflæʃbʌlb/", cn: "闪光灯式的（flashbulb memory 闪光灯记忆）", ex: "A flashbulb memory feels vivid and exact.", exCn: "闪光灯记忆让人觉得鲜明而确切。" },
+    { w: "primacy", pos: "n.", p: "/ˈpraɪməsi/", cn: "首要性；首因（primacy effect 首因效应）", ex: "The primacy effect aids recall of first items.", exCn: "首因效应有助于回忆开头的项目。" },
+    { w: "recency", pos: "n.", p: "/ˈriːsnsi/", cn: "近因；新近性（recency effect 近因效应）", ex: "The recency effect boosts the last items heard.", exCn: "近因效应会强化最后听到的项目。" },
+    { w: "spacing", pos: "n.", p: "/ˈspeɪsɪŋ/", cn: "间隔；间距（spacing effect 间隔效应）", ex: "Spacing study over days beats cramming.", exCn: "把学习间隔数天优于临时突击。" },
+    { w: "metamemory", pos: "n.", p: "/ˌmetəˈmeməri/", cn: "元记忆（对自身记忆的监控）", ex: "Good metamemory lets you judge what you know.", exCn: "良好的元记忆让人能判断自己知道什么。" },
+    { w: "familiarity", pos: "n.", p: "/fəˌmɪliˈærəti/", cn: "熟悉感；亲近", ex: "Familiarity can feel like real recall.", exCn: "熟悉感有时会被误当成真正的回忆。" },
+    { w: "schema", pos: "n.", p: "/ˈskiːmə/", cn: "图式；认知框架", ex: "A schema helps us organise new information.", exCn: "图式帮助我们组织新信息。" },
+    { w: "fallible", pos: "adj.", p: "/ˈfæləbl/", cn: "易犯错的；不可靠的", ex: "Human memory is thoroughly fallible.", exCn: "人类的记忆是十足易错的。" },
+    { w: "explicit", pos: "adj.", p: "/ɪkˈsplɪsɪt/", cn: "外显的；明确的（explicit memory 外显记忆）", ex: "Explicit memory needs conscious effort to access.", exCn: "外显记忆需要有意努力才能提取。" },
+    { w: "engram", pos: "n.", p: "/ˈeŋɡræm/", cn: "记忆痕迹； engram（生理基础）", ex: "The engram is the brain's physical memory trace.", exCn: "记忆痕迹是大脑中记忆的生理印记。" },
+    { w: "implicit", pos: "adj.", p: "/ɪmˈplɪsɪt/", cn: "内隐的（implicit memory 内隐记忆）", ex: "Implicit memory works without awareness.", exCn: "内隐记忆在毫无觉察中运作。" }
   ],
   vocabArticle: {
-    title: "The Quiet Gifts of a Multilingual Life",
-    titleCn: "多语生活潜藏的馈赠",
+    title: "The Quiet Mechanics of Remembering",
+    titleCn: "记忆运作的隐性机制",
     paras: [
       {
-        en: "A true polyglot often describes multilingualism not as a burden but as a lens. Where a monolingual speaker relies on one lexicon, a multilingual mind holds several, and each new language adds to the shared lexis. Learning a cognate or an unfamiliar idiom feels like finding a cousin in another tongue. With patient study, even a beginner can command basic greetings and read simple signs abroad, opening doors that once stayed shut.",
-        cn: "真正的通晓多语者常把多语能力形容为不是负担，而是一副透镜。单语使用者只依赖一套词汇，而多语思维却掌握好几套，每学一种新语言，共享的语汇便随之扩充。学习一个同源词或一句陌生的习语，就像在另一种语言里寻得一位表亲。只要耐心学习，即便是初学者也能驾驭基本的问候、读懂异国的简单标识，推开曾经紧闭的大门。"
+        en: "Memory begins the moment we summon recollection of a childhood scene or measure our memorisation of a new name. Such reminiscence feels effortless, yet it draws on three separate stores: episodic memory keeps personal events, semantic memory holds bare facts, and procedural memory guides skills we perform without thought. Beneath all three lies the engram, the physical trace each experience leaves, fragile until repetition makes it last.",
+        cn: "记忆始于我们唤起对童年某个场景的回忆、或衡量自己对新名字的记忆程度的那一刻。这种追忆看似毫不费力，却动用了三套彼此独立的存储：情景记忆保存亲身经历，语义记忆承载赤裸的事实，而程序记忆则引导那些无需思考便能完成的技能。三者之下潜伏着记忆痕迹——每一次经历在大脑中留下的生理印记，在被反复巩固之前都脆弱易逝。"
       },
       {
-        en: "Practice also builds eloquence. Learners who enunciate clearly become more communicative, and their speech gains a welcome fluidity. They notice the nuance behind a polite phrase and the subtlety of tone that a trilingual friend may miss. Some even learn to transliterate a name they cannot spell, or to construe a sentence from half-known words. Bit by bit, the hesitant tourist turns into a confident speaker.",
-        cn: "练习还能造就口才。发音清晰的学习者会变得更具交流意愿，其言语也获得一种可喜的流畅感。他们能察觉一句客气话背后的细微差别，以及某种三语朋友可能忽略的语气微妙。有些人甚至学会把拼不出的名字音译出来，或凭着半知半解的词去诠释一句话。一点一滴之间，迟疑的旅人变成了自信的言说者。"
+        en: "Forgetting is normal, not a flaw. New learning often creates interference, and retroactive interference occurs when later material blurs what came before. An evanescent tip-of-the-tongue state shows how fragile recollection can be, while amnesia reveals memory's total loss after injury. Scientists separate implicit memory, which works below awareness, from explicit memory, which we consciously summon—both can fail, yet in different ways.",
+        cn: "遗忘是正常的，并非缺陷。新的学习常常制造干扰，而当后来的内容模糊了先前的所学，便产生了倒摄抑制。一种转瞬即逝的『话到嘴边』状态，显示了回忆可以多么脆弱；而失忆则暴露了受伤后记忆的彻底丧失。科学家将无需觉察即可运作的内隐记忆，与我们有意调用的外显记忆区分开来——二者都会失灵，却以不同的方式。"
       },
       {
-        en: "A nimble, trained mind shows real intellectual acumen. Studies link such mental adaptability to a later onset of dementia, suggesting that keeping the brain busy protects it. A person who learns an ancestral language may feel a deep affinity with grandparents they barely knew. This shift in worldview changes the outlook on strangers: the foreign stops feeling threatening and starts feeling familiar, widening one's circle of trust.",
-        cn: "经过训练而敏捷的头脑，会展现出真正的智力洞察。研究将这种思维的适应力与更晚罹患痴呆联系起来，表明让大脑保持忙碌便能保护它。一个学习祖辈语言的人，或许会对几乎不认识的祖父母生出深切的亲近。这种世界观的转变，改变了对陌生人的看法：异质之物不再令人畏惧，反而变得熟悉，从而拓宽了信任的圈子。"
+        en: "Students improve memorisation through simple tricks. A mnemonic turns a list into a catchy phrase, and chunking groups isolated digits into manageable blocks. Elaboration, by linking new facts to old ones, eases later retrieval, especially when a strong clue sparks the answer. The spacing of study sessions beats cramming, while the primacy and recency effects explain why we remember beginnings and ends best. A clear schema then slots the knowledge into place.",
+        cn: "学生借助简单的窍门来改善记忆。记忆术能把一串清单变成顺口的短句，组块化则把孤立的数字归并为易于处理的单元。精细加工通过把新事实与旧知识相连，让日后的提取变得轻松——尤其当一个有力的线索点燃答案之时。学习的间隔安排优于临时突击，而首因与近因效应则解释了为何我们记得开头与结尾最好。一个清晰的图式随后将知识安放进恰当的位置。"
       },
       {
-        en: "Mastery, however, is more than grammar. It asks for a flexible persona that can switch between cultures without losing itself, and for a genuine affiliation with the people whose tongue one borrows. Above all, it needs receptiveness—a willingness to be wrong and to laugh at the mistake. In the end, the multilingual life rewards not perfection but openness, turning every conversation into a small act of bridge-building.",
-        cn: "然而，精通远不止语法。它要求一种能在不同文化间切换而不迷失自我的灵活人格形象，也要求与你所借用其语言的人们建立真切的归属。最重要的是，它需要一种开放的态度——愿意犯错，也愿意为错误一笑置之。归根结底，多语生活嘉奖的并非完美，而是开放，它把每一次对话都变成一座小小的搭桥之举。"
+        en: "Memory also betrays us. Under pressure, a witness may produce confabulation, filling gaps with invented detail, and high suggestibility lets leading questions rewrite a memory. An eyewitness account, though vivid, can be wrong; repression may bury a painful scene, while a flashbulb memory of a tragedy feels exact yet often is not. We trust familiarity over truth, and poor metamemory leaves us fallible, sure of things we merely imagine.",
+        cn: "记忆也会背叛我们。在压力之下，目击者可能产生虚谈，用编造的细节填补空白；而高度的受暗示性会让诱导性的提问改写一段记忆。一份目击陈述尽管生动，却可能出错；压抑或许会掩埋痛苦的场景，而关于某场悲剧的闪光灯记忆虽觉确切，却常常并非如此。我们宁可信赖熟悉感而非真相，薄弱的元记忆又让我们变得易错——对我们仅仅臆想出来的东西确信不疑。"
       }
     ]
   },
   grammar: [
     {
-      q: "The researcher claimed that bilingual children ___ better at ignoring distractions than their monolingual peers.",
+      q: "The witness's description was ___ detailed that the jury found it easy to picture the whole scene.",
       options: [
-        "perform",
-        "performed",
-        "have performed",
-        "will perform"
+        "such",
+        "so",
+        "very",
+        "too"
       ],
       answer: 1,
-      explain: "考点：间接引语（reported speech）中的时态呼应（退后 / backshift）。主句谓语 claimed 为一般过去时，当转述他人过去的某一具体陈述或研究发现时，从句时态通常要『后退一步』：现在时→过去时、现在完成→过去完成等。此处『双语儿童更擅长排除干扰』是研究者当时提出的具体结论，并非永恒的客观真理，故从句用一般过去时 performed（B）。A（perform）为现在时，未退后，仅在引述永恒真理或普遍规律时可保留；C（have performed）现在完成时不符合退后规则；D（will perform）将来时亦未退后。扩展：若从句陈述的是客观真理（如 He said the earth moves around the sun），则可保留现在时不变。"
+      explain: "考点：so...that 引导结果状语从句。so 之后接形容词或副词，that 引出结果；本句 detailed 为形容词，故用 so（B）。A（such）后须接名词，结构为 such (a/an) + 形容词 + 名词，不能直接修饰形容词 detailed；C（very）只表程度，不能接 that 结果从句；D（too）通常搭配 to do 构成 too...to（太……而不能），不接 that。扩展：so...that 与 such...that 互换时需注意中心词，如本句可改写为 such a detailed description that the jury...。"
     },
     {
-      q: "There is a stage in language learning ___ learners can understand a great deal but still hesitate to speak.",
+      q: "By the end of last year, researchers ___ the memory performance of the same group of students for over a decade.",
       options: [
-        "which",
-        "that",
-        "where",
-        "when"
+        "studied",
+        "have studied",
+        "had been studying",
+        "were studying"
       ],
       answer: 2,
-      explain: "考点：定语从句中关系副词 where 用于『抽象地点 / 情境』。先行词 stage（阶段）、point、situation、case、extent 等虽字面上表时间或程度，但在定语从句中常被视为一种『情境 / 场合』，需用关系副词 where 引导，在从句中作状况状语，相当于 in which。本句 stage 表示『学习者能听懂很多却仍不敢开口』的学习情境，故用 where（C）。A（which）/ B（that）为关系代词，在从句中须充当主语或宾语，而此处从句主谓宾完整（learners can understand ... but hesitate ...），并不缺主宾，故不能选；D（when）表时间，与 stage 作为『情境』的语义不符。扩展：类似用法如 There comes a point where... / a situation where..."
+      explain: "考点：过去完成进行时 had been doing，表示在过去某一时间或动作之前一直持续进行（且常强调延续性与过程）。时间状语 'By the end of last year' 把参照点设在过去，而 'for over a decade' 强调时长，故用 had been studying（C）。A（studied）一般过去时只表过去发生过，无法体现『持续到该过去时点为止』的过程；B（have studied）现在完成时把参照点放在现在，与过去时间状语矛盾；D（were studying）过去进行时只表过去某刻正在进行，不强调到过去某点为止的持续性。扩展：had been doing 与 had done 的区别在于前者强调动作的延续与进行，后者强调完成的结果。"
     }
   ]
 };

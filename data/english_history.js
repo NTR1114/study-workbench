@@ -383,5 +383,11 @@ window.ENGLISH_HISTORY = [
     topic: "Bilingualism & the Cognitive Edge of Multilingual Minds（双语能力与多语思维的认知优势）",
     articleTitle: "More Than Words: The Hidden Benefits of a Multilingual Mind",
     words: ["polyglot","multilingualism","monolingual","cognate","lexicon","idiom","eloquence","enunciate","communicative","adaptability","nimble","acumen","dementia","mastery","nuance","lexis","fluidity","trilingual","ancestral","transliterate","construe","subtlety","worldview","affinity","receptiveness","outlook","persona","affiliation","intellectual","command"]
+  },
+  {
+    date: "2026-11-06",
+    topic: "Memory, Forgetting & the Science of Human Recall（记忆、遗忘与人类回忆的科学）",
+    articleTitle: "The Fragile Archive: How Human Memory Really Works",
+    words: ["recollection","memorisation","reminiscence","amnesia","interference","retroactive","evanescent","episodic","semantic","procedural","mnemonic","chunking","elaboration","retrieval","clue","confabulation","suggestibility","eyewitness","repression","flashbulb","primacy","recency","spacing","metamemory","familiarity","schema","fallible","explicit","engram","implicit"]
   }
 ];
