@@ -389,5 +389,17 @@ window.ENGLISH_HISTORY = [
     topic: "Memory, Forgetting & the Science of Human Recall（记忆、遗忘与人类回忆的科学）",
     articleTitle: "The Fragile Archive: How Human Memory Really Works",
     words: ["recollection","memorisation","reminiscence","amnesia","interference","retroactive","evanescent","episodic","semantic","procedural","mnemonic","chunking","elaboration","retrieval","clue","confabulation","suggestibility","eyewitness","repression","flashbulb","primacy","recency","spacing","metamemory","familiarity","schema","fallible","explicit","engram","implicit"]
+  },
+  {
+    date: "2026-11-07",
+    topic: "Digital Learning, Edtech & the Reinvention of Schooling（数字化学习、教育科技与学校的重塑）",
+    articleTitle: "Learning Without Walls: How Digital Tools Reshape Schooling",
+    words: ["tutorial","webinar","synchronous","asynchronous","digitize","adaptive","gamification","feedback","module","tutor","lecturer","diploma","certificate","accreditation","interactivity","dropout","screen","offline","online","dashboard","multimedia","repository","peer","rubric","plagiarism","proctor","benchmark","cohort","attendance","seminar"]
+  },
+  {
+    date: "2026-11-08",
+    topic: "Light Pollution & the Vanishing Night（光污染与夜空的消失）",
+    articleTitle: "The Vanishing Night: How Light Pollution Reshapes Our World",
+    words: ["illuminate","glare","twilight","radiance","starlight","skyglow","luminescent","glow","floodlight","wattage","fixture","dimmable","melatonin","disturbance","disoriented","insect","moth","turtle","seabird","stargazing","obscurity","obscure","visibility","hinder","endanger","intrude","obtrusive","wasteful","frugal","enlighten"]
   }
 ];
