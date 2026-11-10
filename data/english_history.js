@@ -401,5 +401,11 @@ window.ENGLISH_HISTORY = [
     topic: "Light Pollution & the Vanishing Night（光污染与夜空的消失）",
     articleTitle: "The Vanishing Night: How Light Pollution Reshapes Our World",
     words: ["illuminate","glare","twilight","radiance","starlight","skyglow","luminescent","glow","floodlight","wattage","fixture","dimmable","melatonin","disturbance","disoriented","insect","moth","turtle","seabird","stargazing","obscurity","obscure","visibility","hinder","endanger","intrude","obtrusive","wasteful","frugal","enlighten"]
+  },
+  {
+    date: "2026-11-09",
+    topic: "Cryptocurrency & the Rise of Digital Money（加密货币与数字货币的兴起）",
+    articleTitle: "The Rise of Digital Money: Promise and Peril of Cryptocurrency",
+    words: ["cryptocurrency","blockchain","decentralise","ledger","turbulent","speculative","transparent","mining","exchange","regulator","trace","swing","eroding","substitute","underlying","frenzy","prohibition","legitimate","secure","transfer","bitcoin","adoption","distributed","unstable","proponents","payments","wallet","token","bubble","consensus"]
   }
 ];
