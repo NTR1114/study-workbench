@@ -407,5 +407,11 @@ window.ENGLISH_HISTORY = [
     topic: "Cryptocurrency & the Rise of Digital Money（加密货币与数字货币的兴起）",
     articleTitle: "The Rise of Digital Money: Promise and Peril of Cryptocurrency",
     words: ["cryptocurrency","blockchain","decentralise","ledger","turbulent","speculative","transparent","mining","exchange","regulator","trace","swing","eroding","substitute","underlying","frenzy","prohibition","legitimate","secure","transfer","bitcoin","adoption","distributed","unstable","proponents","payments","wallet","token","bubble","consensus"]
+  },
+  {
+    date: "2026-11-10",
+    topic: "Community Journalism & the Crisis of Local News（社区新闻业与地方新闻的危机）",
+    articleTitle: "The Vanishing Front Page: Why Local News Still Matters",
+    words: ["journalism","newspaper","editorial","newsroom","headline","correspondent","outlet","subscriber","paywall","coverage","advertiser","trustworthy","watchdog","review","investigative","scoop","circulation","closure","reporting","citizen","local","democracy","openness","impartial","neutral","sensationalism","champion","crumble","tenuous","sturdy"]
   }
 ];

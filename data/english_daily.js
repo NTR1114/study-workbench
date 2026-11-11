@@ -1,115 +1,127 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-09",
-  topic: "Cryptocurrency & the Rise of Digital Money（加密货币与数字货币的兴起）",
+  date: "2026-11-10",
+  topic: "Community Journalism & the Crisis of Local News（社区新闻业与地方新闻的危机）",
   article: {
-    title: "The Rise of Digital Money: Promise and Peril of Cryptocurrency",
-    titleCn: "数字货币的崛起：加密货币的承诺与风险",
+    title: "The Vanishing Front Page: Why Local News Still Matters",
+    titleCn: "消失的头版：为什么地方新闻依然重要",
     paras: [
       {
-        en: "For most of human history, money meant coins, notes, or entries in a bank ledger. Today, a new form of value is emerging from computer code. Cryptocurrencies such as bitcoin use decentralised blockchain networks to record transactions without banks or governments. Proponents argue this offers faster, cheaper, and more transparent payments across borders. Critics, however, warn that such assets remain volatile, speculative, and poorly understood by ordinary users.",
-        cn: "在人类历史的大部分时间里，货币意味着硬币、纸币，或银行账本上的记录。如今，一种新形态的价值正从计算机代码中浮现。诸如比特币之类的加密货币，利用去中心化的区块链网络，在没有银行或政府参与的情况下记录交易。支持者认为，这提供了更快、更便宜、且更透明的跨境支付。然而批评者警告，这类资产依然波动剧烈、充满投机性，且普通用户很难真正理解。"
+        en: "For more than a century, local newspapers served as the heartbeat of towns, reporting council decisions, school closures, and neighbourhood events that national media ignored. A trusted local outlet gave citizens the information they needed to hold leaders accountable. Yet across many countries, this fragile ecosystem is now crumbling as readership migrates online and advertising revenue collapses. Communities are left with fewer independent voices than ever before.",
+        cn: "一个多世纪以来，地方报纸一直是城镇的命脉，报道市政决策、学校停办，以及全国性媒体忽视的社区活动。一家值得信赖的地方媒体，为市民提供了监督领导者所需的信息。然而在许多国家，随着读者转向网络、广告收入崩塌，这一脆弱的生态系统正在瓦解。社区留下的独立声音比以往任何时候都更少。"
       },
       {
-        en: "Unlike traditional currencies issued by central banks, most cryptocurrencies are created through mining, a process where powerful computers solve complex mathematical problems. This distributed system, secured by cryptography, allows users to transfer funds directly. Supporters claim it helps people excluded from formal banking, especially in regions with unstable local money. Yet the same features can also attract illegal activity, since transactions are harder for regulators to trace.",
-        cn: "与中央银行发行的传统货币不同，大多数加密货币通过『挖矿』产生——在这个过程中，强大的计算机求解复杂的数学难题。这一由密码学保护的分布式系统，让用户能够直接转账。支持者声称，它帮助了被正规银行体系排除在外的人群，尤其是在本地货币不稳定的地区。然而，同样的特征也可能吸引非法活动，因为交易更难被监管机构追踪。"
+        en: "The decline is driven less by a lack of interest than by a sudden loss of income. Classified advertising, once the financial lifeblood of regional papers, migrated to free websites and tech platforms. Without that revenue, newsrooms shrank, veteran correspondents were laid off, and investigative reporting all but vanished. Some titles tried paywalls, yet most readers refused to pay for news they had long expected to be free, accelerating the crisis.",
+        cn: "这种衰退与其说是源于兴趣缺失，不如说是源于收入的骤降。曾经作为地方报纸财政命脉的分类广告，迁移到了免费网站和科技平台。没了这笔收入，新闻编辑部被迫缩编，资深记者被解雇，调查报道几近消失。一些报刊尝试付费墙，但多数读者拒绝为长期以来被视为免费的新闻买单，从而加速了危机。"
       },
       {
-        en: "The price of digital assets can swing dramatically within days, eroding ordinary investors' savings and alarming financial authorities. Several governments have moved to ban or tightly regulate trading, citing risks to consumers and the broader economy. The heavy energy consumed by mining has also drawn environmental criticism. Yet some nations now explore central bank digital currencies as a safer alternative, suggesting the technology may outlast the speculative frenzy that first made it famous.",
-        cn: "数字资产的价格可能在数日内剧烈波动，侵蚀普通投资者的储蓄，并令金融当局警觉。一些政府已经着手禁止或严格监管交易，理由是这对消费者和整体经济构成风险。挖矿消耗的大量能源也招致了环境批评。然而，一些国家如今正在探索中央银行数字货币作为一种更安全的替代方案，这表明其底层技术或许比最初令它声名大噪的投机狂热更为持久。"
+        en: "When a town loses its newspaper, the cost is not merely cultural but democratic. Studies link the closure of local outlets to higher borrowing costs for municipalities and weaker oversight of public spending. Corruption flourishes where no watchdog remains to ask awkward questions. Citizens become less informed about candidates and less willing to engage with civic life, leaving decisions to unelected officials and narrowing the spaces where a community can recognise itself.",
+        cn: "当一个城镇失去自己的报纸，代价不仅仅是文化上的，更是民主层面的。研究将地方媒体停刊与市政府借款成本上升、公共支出监管弱化联系起来。当再没有监督者提出尖锐问题时，腐败便得以滋生。市民对候选人的了解减少，也愈发不愿参与公共生活，于是决策权落入非民选官员之手，社区赖以自我认知的空间也被压缩。"
       },
       {
-        en: "Looking ahead, the future of cryptocurrency remains uncertain but undeniably significant. Its decentralised design challenges traditional notions of trust and control, while scandals and crashes have burned inexperienced users. Many analysts believe regulation, not prohibition, will shape what survives. If digital money becomes both secure and legitimate, it could quietly redefine how the world saves, spends, and transfers value for decades to come.",
-        cn: "展望未来，加密货币的前景仍不确定，但无疑意义重大。其去中心化的设计挑战了关于信任与控制的传统观念，而丑闻与崩盘也已灼伤了缺乏经验的用户。许多分析人士认为，决定何种形态存续的将是监管而非禁令。如果数字货币既安全又规范合法，它或许会悄然重塑世界未来数十年的储蓄、消费与价值转移方式。"
+        en: "Hope, however, is not lost. A new generation of non-profit newsrooms, civic start-ups, and citizen reporters is experimenting with sustainable models. Some are funded by charitable grants or member subscriptions; others partner with universities to train local correspondents. Policymakers in several nations now debate tax breaks and public-interest subsidies to keep trustworthy journalism alive. If readers value impartial news enough to support it, the local press may yet prove more sturdy than its obituary suggests.",
+        cn: "然而，希望并未消失。新一代的非营利新闻编辑部、社区初创企业与公民记者，正在试验可持续的运营模式。有的依靠慈善拨款或会员订阅获得资金；有的与高校合作，培养地方记者。多个国家的决策者如今在讨论税收减免与公共利益补贴，以维持值得信赖的新闻业。如果读者足够重视并支持公正的新闻，地方媒体或许会比讣告所预言的更加坚挺。"
       }
     ],
     glossary: [
-      { w: "cryptocurrency", pos: "n.", p: "/ˌkrɪptəʊˈkʌrənsi/", cn: "加密货币" },
-      { w: "decentralised", pos: "adj.", p: "/diːˈsentrəlaɪzd/", cn: "去中心化的" },
-      { w: "blockchain", pos: "n.", p: "/ˈblɒktʃeɪn/", cn: "区块链" },
-      { w: "ledger", pos: "n.", p: "/ˈledʒə(r)/", cn: "账本；总账" },
-      { w: "proponents", pos: "n.", p: "/prəˈpəʊnənts/", cn: "支持者；倡导者（复数）" },
-      { w: "volatile", pos: "adj.", p: "/ˈvɒlətaɪl/", cn: "剧烈波动的；不稳定的" },
-      { w: "speculative", pos: "adj.", p: "/ˈspekjələtɪv/", cn: "投机性的" },
-      { w: "transparent", pos: "adj.", p: "/trænsˈpærənt/", cn: "透明的；公开透明的" },
-      { w: "mining", pos: "n.", p: "/ˈmaɪnɪŋ/", cn: "（加密货币）挖矿" },
-      { w: "distributed", pos: "adj.", p: "/dɪˈstrɪbjuːtɪd/", cn: "分布式的" },
-      { w: "cryptography", pos: "n.", p: "/krɪpˈtɒɡrəfi/", cn: "密码学" },
-      { w: "unstable", pos: "adj.", p: "/ʌnˈsteɪbl/", cn: "不稳定的" },
-      { w: "regulator", pos: "n.", p: "/ˈreɡjuleɪtə(r)/", cn: "监管机构；监管者" },
-      { w: "trace", pos: "v.", p: "/treɪs/", cn: "追踪；追溯" },
-      { w: "swing", pos: "v.", p: "/swɪŋ/", cn: "（价格）剧烈波动" },
-      { w: "eroding", pos: "v.", p: "/ɪˈrəʊdɪŋ/", cn: "侵蚀；削弱（erode 的现在分词）" },
-      { w: "alternative", pos: "n./adj.", p: "/ɔːlˈtɜːnətɪv/", cn: "替代物；可替代的" },
-      { w: "underlying", pos: "adj.", p: "/ˌʌndəˈlaɪɪŋ/", cn: "潜在的；根本的" },
-      { w: "frenzy", pos: "n.", p: "/ˈfrenzi/", cn: "狂热；疯狂" },
-      { w: "prohibition", pos: "n.", p: "/ˌprəʊɪˈbɪʃn/", cn: "禁止；禁令" },
-      { w: "legitimate", pos: "adj.", p: "/lɪˈdʒɪtɪmət/", cn: "合法的；合理的" },
-      { w: "secure", pos: "adj./v.", p: "/səˈkjʊə(r)/", cn: "安全的；确保" },
-      { w: "transfer", pos: "v./n.", p: "/trænsˈfɜː(r)/", cn: "转移；转账" },
-      { w: "scandals", pos: "n.", p: "/ˈskændlz/", cn: "丑闻（复数）" },
-      { w: "bitcoin", pos: "n.", p: "/ˈbɪtkɔɪn/", cn: "比特币" },
-      { w: "central", pos: "adj.", p: "/ˈsentrəl/", cn: "中央的；中心的（central banks 中央银行）" },
-      { w: "payments", pos: "n.", p: "/ˈpeɪmənts/", cn: "支付；付款（复数）" }
+      { w: "heartbeat", pos: "n.", p: "/ˈhɑːtbiːt/", cn: "心跳；（喻）核心；命脉" },
+      { w: "outlet", pos: "n.", p: "/ˈaʊtlet/", cn: "媒体机构；发布渠道" },
+      { w: "accountable", pos: "adj.", p: "/əˈkaʊntəbl/", cn: "负有责任的；应作解释的" },
+      { w: "readership", pos: "n.", p: "/ˈriːdəʃɪp/", cn: "读者群；读者人数" },
+      { w: "revenue", pos: "n.", p: "/ˈrevənjuː/", cn: "收入；收益" },
+      { w: "classified", pos: "n./adj.", p: "/ˈklæsɪfaɪd/", cn: "分类广告（classified advertising）" },
+      { w: "lifeblood", pos: "n.", p: "/ˈlaɪfblʌd/", cn: "生命线；命脉" },
+      { w: "migrate", pos: "v.", p: "/maɪˈɡreɪt/", cn: "迁移；转移" },
+      { w: "platform", pos: "n.", p: "/ˈplætfɔːm/", cn: "平台" },
+      { w: "newsroom", pos: "n.", p: "/ˈnjuːzruːm/", cn: "新闻编辑部" },
+      { w: "veteran", pos: "adj./n.", p: "/ˈvetərən/", cn: "资深的；老练的（veteran correspondents 资深记者）" },
+      { w: "correspondent", pos: "n.", p: "/ˌkɒrəˈspɒndənt/", cn: "记者；通讯员" },
+      { w: "investigative", pos: "adj.", p: "/ɪnˈvestɪɡətɪv/", cn: "调查性的（investigative reporting 调查报道）" },
+      { w: "paywall", pos: "n.", p: "/ˈpeɪwɔːl/", cn: "付费墙" },
+      { w: "closure", pos: "n.", p: "/ˈkləʊʒə(r)/", cn: "关闭；停刊" },
+      { w: "municipality", pos: "n.", p: "/mjuːˌnɪsɪˈpæləti/", cn: "市政府；自治市" },
+      { w: "trusted", pos: "adj.", p: "/ˈtrʌstɪd/", cn: "受信任的；可信赖的" },
+      { w: "watchdog", pos: "n.", p: "/ˈwɒtʃdɒɡ/", cn: "监察者；监督机构" },
+      { w: "corruption", pos: "n.", p: "/kəˈrʌpʃn/", cn: "腐败" },
+      { w: "democratic", pos: "adj.", p: "/ˌdeməˈkrætɪk/", cn: "民主的" },
+      { w: "neighbourhood", pos: "n.", p: "/ˈneɪbəhʊd/", cn: "社区；街坊" },
+      { w: "non-profit", pos: "adj./n.", p: "/ˌnɒnˈprɒfɪt/", cn: "非营利的；非营利组织" },
+      { w: "subscription", pos: "n.", p: "/səbˈskrɪpʃn/", cn: "订阅；订阅费" },
+      { w: "impartial", pos: "adj.", p: "/ɪmˈpɑːʃl/", cn: "公正的；不偏不倚的" },
+      { w: "obituary", pos: "n.", p: "/əˈbɪtʃuəri/", cn: "讣告；（喻）消亡预言（its obituary 对消亡的预言）" },
+      { w: "grant", pos: "n.", p: "/ɡrɑːnt/", cn: "拨款；资助" },
+      { w: "independent", pos: "adj.", p: "/ˌɪndɪˈpendənt/", cn: "独立的" },
+      { w: "start-up", pos: "n.", p: "/ˈstɑːtʌp/", cn: "初创企业" }
     ]
   },
   words: [
-    { w: "cryptocurrency", pos: "n.", p: "/ˌkrɪptəʊˈkʌrənsi/", cn: "加密货币", ex: "Many shops now accept cryptocurrency as payment.", exCn: "许多商店现在接受加密货币作为支付。" },
-    { w: "blockchain", pos: "n.", p: "/ˈblɒktʃeɪn/", cn: "区块链", ex: "A blockchain stores data across many computers at once.", exCn: "区块链将数据同时存储在许多台计算机上。" },
-    { w: "decentralise", pos: "v.", p: "/diːˈsentrəlaɪz/", cn: "使去中心化；分散", ex: "The system aims to decentralise control away from banks.", exCn: "该系统旨在将控制权从银行分散出去。" },
-    { w: "ledger", pos: "n.", p: "/ˈledʒə(r)/", cn: "账本；总账", ex: "Every payment is written into a public ledger.", exCn: "每一笔付款都被记录进公共账本。" },
-    { w: "turbulent", pos: "adj.", p: "/ˈtɜːbjələnt/", cn: "动荡的；剧烈波动的", ex: "The crypto market remains turbulent and hard to predict.", exCn: "加密货币市场依然动荡，难以预测。" },
-    { w: "speculative", pos: "adj.", p: "/ˈspekjələtɪv/", cn: "投机性的", ex: "Much of the trade is purely speculative.", exCn: "其中大部分交易纯粹是投机性的。" },
-    { w: "transparent", pos: "adj.", p: "/trænsˈpærənt/", cn: "透明的；公开透明的", ex: "A transparent system lets anyone check the records.", exCn: "一个透明的系统让任何人都能核查记录。" },
-    { w: "mining", pos: "n.", p: "/ˈmaɪnɪŋ/", cn: "（加密货币）挖矿", ex: "Mining new coins consumes a great deal of electricity.", exCn: "挖掘新币消耗大量电力。" },
-    { w: "exchange", pos: "n.", p: "/ɪksˈtʃeɪndʒ/", cn: "交易所；兑换", ex: "A licensed exchange must verify every user's identity.", exCn: "持牌交易所必须核实每位用户的身份。" },
-    { w: "regulator", pos: "n.", p: "/ˈreɡjuleɪtə(r)/", cn: "监管机构；监管者", ex: "A regulator may require exchanges to verify users.", exCn: "监管机构可能要求交易所核实用户身份。" },
-    { w: "trace", pos: "v.", p: "/treɪs/", cn: "追踪；追溯", ex: "Experts can trace most transfers on the public chain.", exCn: "专家能在公共链上追踪大部分转账。" },
-    { w: "swing", pos: "v.", p: "/swɪŋ/", cn: "（价格）剧烈波动", ex: "The value can swing by twenty percent in a day.", exCn: "其价值一天之内可能波动百分之二十。" },
-    { w: "eroding", pos: "v.", p: "/ɪˈrəʊdɪŋ/", cn: "侵蚀；削弱（erode 的现在分词）", ex: "Inflation is slowly eroding the value of savings.", exCn: "通胀正缓慢侵蚀储蓄的价值。" },
-    { w: "substitute", pos: "n./v.", p: "/ˈsʌbstɪtjuːt/", cn: "替代品；替代", ex: "Some see it as a substitute for traditional banking.", exCn: "一些人将它视为传统银行的替代品。" },
-    { w: "underlying", pos: "adj.", p: "/ˌʌndəˈlaɪɪŋ/", cn: "潜在的；根本的", ex: "The underlying code decides how the system runs.", exCn: "底层代码决定了系统如何运行。" },
-    { w: "frenzy", pos: "n.", p: "/ˈfrenzi/", cn: "狂热；疯狂", ex: "A buying frenzy pushed prices to record highs.", exCn: "一场买入狂热将价格推至历史高点。" },
-    { w: "prohibition", pos: "n.", p: "/ˌprəʊɪˈbɪʃn/", cn: "禁止；禁令", ex: "A total prohibition proved hard to enforce.", exCn: "全面禁令被证明难以执行。" },
-    { w: "legitimate", pos: "adj.", p: "/lɪˈdʒɪtɪmət/", cn: "合法的；合理的", ex: "Regulators want the market to become legitimate.", exCn: "监管机构希望该市场变得合法规范。" },
-    { w: "secure", pos: "adj./v.", p: "/səˈkjʊə(r)/", cn: "安全的；确保", ex: "Strong passwords help secure your wallet.", exCn: "强密码有助于保护你的钱包安全。" },
-    { w: "transfer", pos: "v./n.", p: "/trænsˈfɜː(r)/", cn: "转移；转账", ex: "You can transfer funds in seconds, day or night.", exCn: "你可以不分昼夜地秒级转账。" },
-    { w: "bitcoin", pos: "n.", p: "/ˈbɪtkɔɪn/", cn: "比特币", ex: "Bitcoin was the first widely used cryptocurrency.", exCn: "比特币是第一种被广泛使用的加密货币。" },
-    { w: "adoption", pos: "n.", p: "/əˈdɒpʃn/", cn: "采用；采纳", ex: "Slow adoption limited its use at first.", exCn: "早期的缓慢采用限制了它的使用。" },
-    { w: "distributed", pos: "adj.", p: "/dɪˈstrɪbjuːtɪd/", cn: "分布式的", ex: "A distributed network has no single point of failure.", exCn: "分布式网络没有单点故障。" },
-    { w: "unstable", pos: "adj.", p: "/ʌnˈsteɪbl/", cn: "不稳定的", ex: "Unstable local money drives people to alternatives.", exCn: "不稳定的本地货币促使人们转向替代方案。" },
-    { w: "proponents", pos: "n.", p: "/prəˈpəʊnənts/", cn: "支持者；倡导者（复数）", ex: "Proponents say it empowers the unbanked.", exCn: "支持者称它赋能了没有银行账户的人。" },
-    { w: "payments", pos: "n.", p: "/ˈpeɪmənts/", cn: "支付；付款（复数）", ex: "Cross-border payments become far cheaper.", exCn: "跨境支付变得便宜得多。" },
-    { w: "wallet", pos: "n.", p: "/ˈwɒlɪt/", cn: "（数字）钱包", ex: "She keeps her coins in a hardware wallet.", exCn: "她把币存放在硬件钱包里。" },
-    { w: "token", pos: "n.", p: "/ˈtəʊkən/", cn: "代币；令牌", ex: "Each token represents a small unit of value.", exCn: "每个代币代表一小单位价值。" },
-    { w: "bubble", pos: "n.", p: "/ˈbʌbl/", cn: "（价格）泡沫", ex: "Many fear the market is one large bubble.", exCn: "许多人担心这个市场是一个大泡沫。" },
-    { w: "consensus", pos: "n.", p: "/kənˈsensəs/", cn: "共识", ex: "The network reaches consensus without a central server.", exCn: "该网络无需中心服务器即可达成共识。" }
+    { w: "journalism", pos: "n.", p: "/ˈdʒɜːnəlɪzəm/", cn: "新闻业；新闻报道", ex: "Local journalism keeps a community informed about itself.", exCn: "地方新闻业让一个社区了解自身。" },
+    { w: "newspaper", pos: "n.", p: "/ˈnjuːzpeɪpə(r)/", cn: "报纸", ex: "The evening newspaper closed after sixty years.", exCn: "这份晚报在办了六十年后停刊了。" },
+    { w: "editorial", pos: "n./adj.", p: "/ˌedɪˈtɔːriəl/", cn: "社论；编辑的", ex: "The editorial defended the paper's independence.", exCn: "这篇社论捍卫了该报的独立性。" },
+    { w: "newsroom", pos: "n.", p: "/ˈnjuːzruːm/", cn: "新闻编辑部", ex: "The newsroom worked through the night on the story.", exCn: "编辑部彻夜赶这篇报道。" },
+    { w: "headline", pos: "n.", p: "/ˈhedlaɪn/", cn: "标题；头条", ex: "A bold headline warned of the budget cut.", exCn: "醒目的标题警示了预算削减。" },
+    { w: "correspondent", pos: "n.", p: "/ˌkɒrəˈspɒndənt/", cn: "记者；通讯员", ex: "A local correspondent covered the council meeting.", exCn: "一位地方记者报道了市政会议。" },
+    { w: "outlet", pos: "n.", p: "/ˈaʊtlet/", cn: "媒体机构；发布渠道", ex: "The town had no independent news outlet left.", exCn: "这座小镇已没有任何独立的新闻机构。" },
+    { w: "subscriber", pos: "n.", p: "/səbˈskraɪbə(r)/", cn: "订阅者", ex: "Each subscriber helps fund the non-profit paper.", exCn: "每一位订阅者都在资助这家非营利报纸。" },
+    { w: "paywall", pos: "n.", p: "/ˈpeɪwɔːl/", cn: "付费墙", ex: "A strict paywall frightened away casual readers.", exCn: "一道严格的付费墙吓退了随性阅读的读者。" },
+    { w: "coverage", pos: "n.", p: "/ˈkʌvərɪdʒ/", cn: "报道；覆盖范围", ex: "The paper's coverage of schools was unmatched.", exCn: "该报对学校的报道无人能及。" },
+    { w: "advertiser", pos: "n.", p: "/ˈædvətaɪzə(r)/", cn: "广告商", ex: "The local advertiser moved its budget online.", exCn: "这家地方广告商把预算转移到了线上。" },
+    { w: "trustworthy", pos: "adj.", p: "/ˈtrʌstwɜːði/", cn: "值得信赖的", ex: "A trustworthy outlet earns the public's confidence.", exCn: "一家值得信赖的媒体赢得公众的信任。" },
+    { w: "watchdog", pos: "n.", p: "/ˈwɒtʃdɒɡ/", cn: "监察者；监督机构", ex: "The press acts as a watchdog on power.", exCn: "新闻界充当监督权力的看门狗。" },
+    { w: "review", pos: "n.", p: "/rɪˈvjuː/", cn: "审查；复查", ex: "A weak review of public spending invites waste.", exCn: "对公共支出审查不力会助长浪费。" },
+    { w: "investigative", pos: "adj.", p: "/ɪnˈvestɪɡətɪv/", cn: "调查性的", ex: "Investigative reporting exposed the scandal.", exCn: "调查报道揭发了这桩丑闻。" },
+    { w: "scoop", pos: "n.", p: "/skuːp/", cn: "独家新闻；抢先报道", ex: "The rookie scored a major scoop on the mayor.", exCn: "这名新手拿到了关于市长的重大独家。" },
+    { w: "circulation", pos: "n.", p: "/ˌsɜːkjəˈleɪʃn/", cn: "发行量；流通", ex: "Circulation fell by half in five years.", exCn: "五年内发行量下降了一半。" },
+    { w: "closure", pos: "n.", p: "/ˈkləʊʒə(r)/", cn: "关闭；停刊", ex: "The closure left the county with no daily paper.", exCn: "停刊让这个县再无日报。" },
+    { w: "reporting", pos: "n.", p: "/rɪˈpɔːtɪŋ/", cn: "报道；新闻报道", ex: "His reporting changed how the town voted.", exCn: "他的报道改变了小镇的投票走向。" },
+    { w: "citizen", pos: "n.", p: "/ˈsɪtɪzn/", cn: "公民；市民", ex: "A citizen reporter filmed the protest.", exCn: "一名公民记者拍下了抗议活动。" },
+    { w: "local", pos: "adj.", p: "/ˈləʊkl/", cn: "地方的；当地的", ex: "Local news shapes local democracy.", exCn: "地方新闻塑造地方民主。" },
+    { w: "democracy", pos: "n.", p: "/dɪˈmɒkrəsi/", cn: "民主；民主制度", ex: "A free press is vital to any democracy.", exCn: "自由的新闻界对任何民主制度都至关重要。" },
+    { w: "openness", pos: "n.", p: "/ˈəʊpənnəs/", cn: "公开；坦诚", ex: "Openness about sources builds trust.", exCn: "对消息来源的坦诚能建立信任。" },
+    { w: "impartial", pos: "adj.", p: "/ɪmˈpɑːʃl/", cn: "公正的；不偏不倚的", ex: "Courts expect impartial coverage of trials.", exCn: "法庭期望对审判作出公正报道。" },
+    { w: "neutral", pos: "adj.", p: "/ˈnjuːtrəl/", cn: "中立的；中性的", ex: "The editor stayed neutral on the dispute.", exCn: "编辑在这起争议中保持中立。" },
+    { w: "sensationalism", pos: "n.", p: "/senˈseɪʃənəlɪzəm/", cn: "煽情；哗众取宠", ex: "Sensationalism erodes a paper's credibility.", exCn: "煽情报道会损害报纸的可信度。" },
+    { w: "champion", pos: "v.", p: "/ˈtʃæmpiən/", cn: "拥护；捍卫", ex: "Readers must champion the news they value.", exCn: "读者必须声援他们看重的新闻。" },
+    { w: "crumble", pos: "v.", p: "/ˈkrʌmbl/", cn: "崩塌；瓦解", ex: "Trust in media can crumble overnight.", exCn: "对媒体的信任可能一夜之间崩塌。" },
+    { w: "tenuous", pos: "adj.", p: "/ˈtenjuəs/", cn: "脆弱的；微弱的", ex: "The link to local democracy grew tenuous.", exCn: "与地方民主的联系变得微弱。" },
+    { w: "sturdy", pos: "adj.", p: "/ˈstɜːdi/", cn: "坚固的；强健的", ex: "A sturdy press outlasts passing trends.", exCn: "一个坚韧的新闻界能比一时的潮流更持久。" }
   ],
   vocabArticle: {
-    title: "Money Reimagined: A Short Guide to Cryptocurrency",
-    titleCn: "被重新想象的钱：加密货币简明指南",
+    title: "Saving the Small-Town Story: A Short Guide to Local News",
+    titleCn: "拯救小镇故事：地方新闻简明指南",
     paras: [
       {
-        en: "When people first hear about cryptocurrency, they often wonder how a bitcoin can hold value without a bank. The answer lies in the blockchain, a shared public ledger that records every deal. To decentralise control, the system relies on cryptography and a distributed network that no single exchange can switch off. Miners earn rewards through mining, while proponents praise a transparent system that anyone can inspect. Early adoption was slow, but the idea spread fast among tech enthusiasts.",
-        cn: "当人们第一次听说加密货币时，常常疑惑一枚比特币如何在没有银行的情况下保有价值。答案在于区块链——一个记录每一笔交易的共享公共账本。为了将控制权去中心化，该系统依赖密码学与分布式计算机网络。矿工通过挖矿获得奖励，而支持者则称赞这种任何人都能核查的透明系统。早期的采用十分缓慢，但这个想法在科技爱好者中迅速传播。"
+        en: "When a community loses its only newspaper, local journalism loses its daily heartbeat. The editorial team that once filled the front page with neighbourhood headlines now dissolves, and the newsroom falls silent. Without reliable coverage, the citizen who once trusted a familiar outlet must search elsewhere for truth. The closure of a single title can leave an entire town with no one to report on council meetings or school budgets.",
+        cn: "当一个社区失去它唯一的报纸，地方新闻业便失去了每天的脉搏。曾经用社区头条填满头版的编辑团队如今解散，编辑部陷入沉寂。没有了可靠的报道，曾经信赖熟悉媒体的市民只能到别处寻找真相。一份报刊的停刊，可能让整座城镇再无人报道市政会议或学校预算。"
       },
       {
-        en: "Fans argue that this technology lets users transfer money across borders in minutes, with lower payments than banks charge. A digital wallet stores coins safely and lets owners send a token to anyone, anywhere. Because the network is transparent, anyone can trace a payment and confirm it reached the right person. Supporters say it gives the unbanked a secure way to join the world market, free from unstable local money.",
-        cn: "爱好者们主张，这项技术让用户能在几分钟内跨境转账，手续费比银行更低。一个数字钱包安全地储存币，并让拥有者向任何地方的任何人发送一个代币。由于网络是透明的，任何人都能追踪一笔付款并确认它到达了正确的人手中。支持者说，它给没有银行账户的人提供了一种安全的方式，让他们融入世界市场，摆脱不稳定的本地货币。"
+        en: "A veteran correspondent may try to launch an independent outlet, but few subscribers will climb the paywall when news feels free. The local advertiser that once funded coverage has fled to global platforms, and circulation keeps falling. Investigative reporting gives way to recycled press releases, while the watchdog that provided review of public money grows quiet. Democracy weakens when no one is left to ask why a contract was awarded.",
+        cn: "一位资深记者或许会尝试创办一家独立媒体，但当新闻看似免费时，鲜有订阅者愿意翻越付费墙。曾经资助报道的地方广告商已逃往全球平台，发行量持续下滑。调查报道让位于重复利用的新闻稿，而监督公共资金的看门狗也渐归沉寂。当再无人追问一份合同为何授出，民主便被削弱。"
       },
       {
-        en: "Yet the market is turbulent, and prices can swing wildly from one week to the next. Critics call much of the trade speculative, warning that a sudden crash could burst the bubble and ruin savers. They also fear bad actors misuse the system to hide dirty money, though a careful regulator can still trace most flows. The frenzy of get-rich-quick stories keeps drawing newcomers who rarely read the underlying code.",
-        cn: "然而，市场是波动的，价格可能在一周之内疯狂摇摆。批评者称其中大量交易属于投机，并警告突如其来的崩盘可能刺破泡沫、毁掉储户。他们也担心不法分子滥用该系统藏匿脏钱，不过谨慎的监管机构仍能追踪大部分资金流向。快速致富故事引发的狂热不断吸引新来者，而他们很少去阅读底层代码。"
+        en: "Some citizen reporters chase a scoop with more enthusiasm than accuracy, blurring the line between neutral facts and sensationalism. A trustworthy paper earns its name by staying impartial and resisting the temptation to inflame. Openness about sources and methods builds the public's confidence far better than a clever headline. When reporting serves the community rather than a proprietor, even a small outlet can become a sturdy pillar of local life.",
+        cn: "一些公民记者追逐独家新闻的热情超过了对准确性的追求，模糊了中立事实与煽情之间的界线。一家值得信赖的报纸靠保持公正、抵制煽风点火来赢得名声。对消息来源与方法的坦诚，远比一个巧妙的标题更能建立公众信心。当报道服务于社区而非某个老板，即便一家小媒体也能成为地方生活中坚实的支柱。"
       },
       {
-        en: "In the long run, a clear consensus is forming that prohibition rarely works and smarter rules matter more. If coins become legitimate and well regulated, they may offer a real substitute for old payment rails. The underlying technology will likely survive even if today's speculative frenzy fades. What stays uncertain is whether cryptocurrency is eroding public trust or slowly earning it — but its distributed design is already reshaping how the world moves money.",
-        cn: "从长远来看，一种清晰的共识正在形成：禁令很少奏效，更聪明的规则才更重要。如果代币变得合法且受到良好监管，它们或许能成为旧有支付通道的真正替代方案。即便当今的投机狂热退去，其底层技术也很可能存续。尚不确定的是，加密货币究竟是在侵蚀公众信任还是在慢慢赢得信任——但它的分布式设计已经正在重塑世界转移资金的方式。"
+        en: "Readers must champion the outlets they value and pay for the news they consume, or local journalism will crumble altogether. Where the link between a free press and a healthy democracy is tenuous, civic groups can subsidise reporting directly. A vigilant watchdog need not be a large newsroom; a single committed correspondent can hold power to account. If communities treat trustworthy local coverage as essential, the fragile ecosystem may yet prove more sturdy than the pessimists predict.",
+        cn: "为了阻止地方新闻业崩塌，读者必须声援他们看重的媒体，并为所消费的新闻付费。在自由新闻与健康民主之间的联系尚且微弱之处，民间团体可以直接补贴报道。警惕的监督者未必需要庞大的编辑部；一名坚定的记者就能让权力接受问责。如果社区把值得信赖的地方报道视为必需品，这个脆弱的生态系统或许会比悲观者的预测更加坚挺。"
       }
     ]
   },
   grammar: [
     {
-      q: "The volatility of crypto assets, not the promised convenience, ___ why many regulators remain cautious about this market.",
+      q: "Regularly reading a local newspaper ___ citizens feel more connected to the place where they live.",
+      options: [
+        "make",
+        "makes",
+        "made",
+        "have made"
+      ],
+      answer: 1,
+      explain: "考点：非谓语动词——动名词短语作主语时，谓语动词用单数。本句主语是动名词短语 'Regularly reading a local newspaper'（定期阅读地方报纸），表示一个整体概念，谓语应用单数第三人称 makes。A（make）/D（have made）为复数形式，主谓不一致；C（made）时态错误，此处陈述一般事实，应用一般现在时。扩展：单个动名词、不定式或主语从句作主语时，谓语一律用单数；只有当主语是并列的多个动名词/不定式时才用复数。"
+    },
+    {
+      q: "What many towns have lost with the closure of their newspaper ___ just a source of news, but a shared sense of community.",
       options: [
         "are",
         "is",
@@ -117,18 +129,7 @@ window.ENGLISH_DAILY = {
         "have been"
       ],
       answer: 1,
-      explain: "考点：主谓一致——插入成分不影响主语。本句的主语是单数名词短语 the volatility（波动性），中间的 'not the promised convenience' 是插入的否定成分，不属于主语，谓语动词应与真正的主语 volatility 保持一致，用单数 is。A（are）/C（were）误将插入的复数名词 convenience 当成了主语；D（have been）为现在完成时复数形式，既主谓不一致，时态也不恰当。扩展：当主语后跟 with / together with / along with / as well as / not 等插入语时，谓语始终与前面真正的主语一致（就远原则）。"
-    },
-    {
-      q: "We have reached a stage ___ governments must choose between tight regulation and outright prohibition of digital currencies.",
-      options: [
-        "which",
-        "that",
-        "where",
-        "what"
-      ],
-      answer: 2,
-      explain: "考点：定语从句——关系副词 where 引导定语从句，修饰表示『阶段、情形、地步』的抽象地点名词（如 stage, point, situation, case）。先行词 stage 在从句 'governments must choose...' 中不作主语或宾语，而是指代『在这一阶段』，相当于 at which，故用关系副词 where 作状语。A（which）/B（that）为关系代词，需在从句中充当主语或宾语，但本从句主谓宾完整，不能填入；D（what）不引导定语从句，而是引导名词性从句。扩展：当先行词是抽象地点名词且从句成分完整（不缺主宾）时，优先用 where；若从句缺主语或宾语，则仍用 which / that。"
+      explain: "考点：名词性从句——what 引导主语从句 + 主谓一致。主语是由 what 引导的主语从句 'What many towns have lost with the closure of their newspaper'，what 在从句中作 have lost 的宾语，整个从句视为单数，谓语用 is。表语 'just a source of news, but a shared sense of community' 虽为并列结构，但主语从句作单数，故谓语用 is 而非 are。A（are）/C（were）误将后面并列表语当成主语；D（have been）主谓不一致。扩展：what 引导名词性从句时在从句中充当主语、宾语或表语，不可换为 that（that 不充当成分，只起连接作用）。"
     }
   ]
 };
