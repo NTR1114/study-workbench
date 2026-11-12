@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-10",
-  topic: "Community Journalism & the Crisis of Local News（社区新闻业与地方新闻的危机）",
+  date: "2026-11-12",
+  topic: "Animal Testing & the Ethics of Experimentation（动物实验与实验伦理）",
   article: {
-    title: "The Vanishing Front Page: Why Local News Still Matters",
-    titleCn: "消失的头版：为什么地方新闻依然重要",
+    title: "Behind the Laboratory Door: The Ethics of Animal Testing",
+    titleCn: "实验室之门后：动物实验的伦理之辩",
     paras: [
       {
-        en: "For more than a century, local newspapers served as the heartbeat of towns, reporting council decisions, school closures, and neighbourhood events that national media ignored. A trusted local outlet gave citizens the information they needed to hold leaders accountable. Yet across many countries, this fragile ecosystem is now crumbling as readership migrates online and advertising revenue collapses. Communities are left with fewer independent voices than ever before.",
-        cn: "一个多世纪以来，地方报纸一直是城镇的命脉，报道市政决策、学校停办，以及全国性媒体忽视的社区活动。一家值得信赖的地方媒体，为市民提供了监督领导者所需的信息。然而在许多国家，随着读者转向网络、广告收入崩塌，这一脆弱的生态系统正在瓦解。社区留下的独立声音比以往任何时候都更少。"
+        en: "Each year, tens of millions of animals are confined in laboratories and subjected to experimentation for the sake of medical research and the development of new cosmetics. Proponents maintain that such testing has driven major advances in human health, from vaccines to surgical techniques. Yet the sheer scale of the practice has ignited a fierce ethical debate that shows no sign of fading.",
+        cn: "每年有数千万只动物被关进实验室，并因医学研究和新化妆品的研发而遭受实验。支持者认为，这类实验推动了人类健康的重大进步，从疫苗到外科手术技术皆然。然而，这一做法的庞大规模已经引发了一场激烈的伦理之争，且毫无消退的迹象。"
       },
       {
-        en: "The decline is driven less by a lack of interest than by a sudden loss of income. Classified advertising, once the financial lifeblood of regional papers, migrated to free websites and tech platforms. Without that revenue, newsrooms shrank, veteran correspondents were laid off, and investigative reporting all but vanished. Some titles tried paywalls, yet most readers refused to pay for news they had long expected to be free, accelerating the crisis.",
-        cn: "这种衰退与其说是源于兴趣缺失，不如说是源于收入的骤降。曾经作为地方报纸财政命脉的分类广告，迁移到了免费网站和科技平台。没了这笔收入，新闻编辑部被迫缩编，资深记者被解雇，调查报道几近消失。一些报刊尝试付费墙，但多数读者拒绝为长期以来被视为免费的新闻买单，从而加速了危机。"
+        en: "Supporters of animal testing point to its practical contributions. Before any new drug reaches a patient, it is tested on animals to establish a safe dosage and to identify toxic effects that might otherwise remain hidden. Many life-saving treatments, including insulin and cancer therapies, were first validated through animal studies. Researchers argue that, given current scientific limits, no wholly reliable substitute exists for assessing how a living mammal responds to a compound.",
+        cn: "动物实验的支持者指出其实际贡献。在任何新药到达患者之前，都要先在动物身上进行测试，以确定安全的剂量，并识别那些原本可能被隐藏的毒性反应。许多挽救生命的治疗手段，包括胰岛素与癌症疗法，最初都是通过动物研究得到验证的。研究人员认为，鉴于当前科学的局限，尚不存在完全可靠的替代品来评估活体哺乳动物对某种化合物的反应。"
       },
       {
-        en: "When a town loses its newspaper, the cost is not merely cultural but democratic. Studies link the closure of local outlets to higher borrowing costs for municipalities and weaker oversight of public spending. Corruption flourishes where no watchdog remains to ask awkward questions. Citizens become less informed about candidates and less willing to engage with civic life, leaving decisions to unelected officials and narrowing the spaces where a community can recognise itself.",
-        cn: "当一个城镇失去自己的报纸，代价不仅仅是文化上的，更是民主层面的。研究将地方媒体停刊与市政府借款成本上升、公共支出监管弱化联系起来。当再没有监督者提出尖锐问题时，腐败便得以滋生。市民对候选人的了解减少，也愈发不愿参与公共生活，于是决策权落入非民选官员之手，社区赖以自我认知的空间也被压缩。"
+        en: "Opponents, however, condemn the practice as needless cruelty. They stress that animals are sentient beings capable of fear and suffering, and that inflicting pain for a cosmetic ingredient is difficult to justify. Critics further note that results from rodents do not always translate to humans, leaving some treatments ineffective or even dangerous. For these reasons, a growing number of scientists and citizens regard the routine use of living specimens as a moral conflict that demands serious reflection.",
+        cn: "然而，反对者谴责这种做法是无谓的残忍。他们强调，动物是具有恐惧与痛苦感知能力的生命，而为了一种化妆品成分施加痛苦很难被正当化。批评者进一步指出，啮齿动物的实验结果未必能转化到人类身上，使得某些疗法无效甚至危险。正因如此，越来越多的科学家与公民将活体标本的常规使用视为一种值得严肃反思的道德冲突。"
       },
       {
-        en: "Hope, however, is not lost. A new generation of non-profit newsrooms, civic start-ups, and citizen reporters is experimenting with sustainable models. Some are funded by charitable grants or member subscriptions; others partner with universities to train local correspondents. Policymakers in several nations now debate tax breaks and public-interest subsidies to keep trustworthy journalism alive. If readers value impartial news enough to support it, the local press may yet prove more sturdy than its obituary suggests.",
-        cn: "然而，希望并未消失。新一代的非营利新闻编辑部、社区初创企业与公民记者，正在试验可持续的运营模式。有的依靠慈善拨款或会员订阅获得资金；有的与高校合作，培养地方记者。多个国家的决策者如今在讨论税收减免与公共利益补贴，以维持值得信赖的新闻业。如果读者足够重视并支持公正的新闻，地方媒体或许会比讣告所预言的更加坚挺。"
+        en: "Governments have begun to respond. A number of countries have enacted laws that forbid cosmetic testing on animals and oblige firms to seek alternatives, while independent bodies oversee laboratory standards. Campaigners urge legislators to abolish outdated rules and to widen the ban to medical research where valid alternatives exist. Although a complete end remains a distant goal, the shift toward humane, evidence-based science reflects a changing conscience and a resolve to assuage unnecessary harm.",
+        cn: "各国政府已经开始回应。一些国家已制定法律，禁止以动物进行化妆品测试，并要求企业寻求替代方案，同时由独立机构监督实验室标准。活动人士敦促立法者废除过时的规定，并在存在有效替代方法的医学研究领域扩大禁令。尽管彻底终结仍是一个遥远的目标，但转向人道、循证科学的趋势，反映出一种正在变化的良知，以及消弭不必要伤害的坚定决心。"
       }
     ],
     glossary: [
-      { w: "heartbeat", pos: "n.", p: "/ˈhɑːtbiːt/", cn: "心跳；（喻）核心；命脉" },
-      { w: "outlet", pos: "n.", p: "/ˈaʊtlet/", cn: "媒体机构；发布渠道" },
-      { w: "accountable", pos: "adj.", p: "/əˈkaʊntəbl/", cn: "负有责任的；应作解释的" },
-      { w: "readership", pos: "n.", p: "/ˈriːdəʃɪp/", cn: "读者群；读者人数" },
-      { w: "revenue", pos: "n.", p: "/ˈrevənjuː/", cn: "收入；收益" },
-      { w: "classified", pos: "n./adj.", p: "/ˈklæsɪfaɪd/", cn: "分类广告（classified advertising）" },
-      { w: "lifeblood", pos: "n.", p: "/ˈlaɪfblʌd/", cn: "生命线；命脉" },
-      { w: "migrate", pos: "v.", p: "/maɪˈɡreɪt/", cn: "迁移；转移" },
-      { w: "platform", pos: "n.", p: "/ˈplætfɔːm/", cn: "平台" },
-      { w: "newsroom", pos: "n.", p: "/ˈnjuːzruːm/", cn: "新闻编辑部" },
-      { w: "veteran", pos: "adj./n.", p: "/ˈvetərən/", cn: "资深的；老练的（veteran correspondents 资深记者）" },
-      { w: "correspondent", pos: "n.", p: "/ˌkɒrəˈspɒndənt/", cn: "记者；通讯员" },
-      { w: "investigative", pos: "adj.", p: "/ɪnˈvestɪɡətɪv/", cn: "调查性的（investigative reporting 调查报道）" },
-      { w: "paywall", pos: "n.", p: "/ˈpeɪwɔːl/", cn: "付费墙" },
-      { w: "closure", pos: "n.", p: "/ˈkləʊʒə(r)/", cn: "关闭；停刊" },
-      { w: "municipality", pos: "n.", p: "/mjuːˌnɪsɪˈpæləti/", cn: "市政府；自治市" },
-      { w: "trusted", pos: "adj.", p: "/ˈtrʌstɪd/", cn: "受信任的；可信赖的" },
-      { w: "watchdog", pos: "n.", p: "/ˈwɒtʃdɒɡ/", cn: "监察者；监督机构" },
-      { w: "corruption", pos: "n.", p: "/kəˈrʌpʃn/", cn: "腐败" },
-      { w: "democratic", pos: "adj.", p: "/ˌdeməˈkrætɪk/", cn: "民主的" },
-      { w: "neighbourhood", pos: "n.", p: "/ˈneɪbəhʊd/", cn: "社区；街坊" },
-      { w: "non-profit", pos: "adj./n.", p: "/ˌnɒnˈprɒfɪt/", cn: "非营利的；非营利组织" },
-      { w: "subscription", pos: "n.", p: "/səbˈskrɪpʃn/", cn: "订阅；订阅费" },
-      { w: "impartial", pos: "adj.", p: "/ɪmˈpɑːʃl/", cn: "公正的；不偏不倚的" },
-      { w: "obituary", pos: "n.", p: "/əˈbɪtʃuəri/", cn: "讣告；（喻）消亡预言（its obituary 对消亡的预言）" },
-      { w: "grant", pos: "n.", p: "/ɡrɑːnt/", cn: "拨款；资助" },
-      { w: "independent", pos: "adj.", p: "/ˌɪndɪˈpendənt/", cn: "独立的" },
-      { w: "start-up", pos: "n.", p: "/ˈstɑːtʌp/", cn: "初创企业" }
+      { w: "confined", pos: "v.", p: "/kənˈfaɪnd/", cn: "关押；限制" },
+      { w: "subjected", pos: "v.", p: "/səbˈdʒektɪd/", cn: "使遭受；使服从" },
+      { w: "experimentation", pos: "n.", p: "/ɪkˌsperɪmenˈteɪʃn/", cn: "实验；试验" },
+      { w: "cosmetics", pos: "n.", p: "/kɒzˈmetɪks/", cn: "化妆品" },
+      { w: "proponents", pos: "n.", p: "/prəˈpəʊnənts/", cn: "支持者；倡导者" },
+      { w: "sheer", pos: "adj.", p: "/ʃɪə(r)/", cn: "完全的；纯粹的" },
+      { w: "fierce", pos: "adj.", p: "/fɪəs/", cn: "激烈的；猛烈的" },
+      { w: "compound", pos: "n.", p: "/ˈkɒmpaʊnd/", cn: "化合物；混合物" },
+      { w: "validated", pos: "v.", p: "/ˈvælɪdeɪtɪd/", cn: "验证；证实" },
+      { w: "wholly", pos: "adv.", p: "/ˈhəʊlli/", cn: "完全地；全部" },
+      { w: "condemn", pos: "v.", p: "/kənˈdem/", cn: "谴责；指责" },
+      { w: "needless", pos: "adj.", p: "/ˈniːdləs/", cn: "不必要的；无谓的" },
+      { w: "inflicting", pos: "v.", p: "/ɪnˈflɪktɪŋ/", cn: "施加；造成（痛苦）" },
+      { w: "ingredient", pos: "n.", p: "/ɪnˈɡriːdiənt/", cn: "成分；配料" },
+      { w: "translate", pos: "v.", p: "/trænsˈleɪt/", cn: "（使）转化；翻译" },
+      { w: "routine", pos: "adj.", p: "/ruːˈtiːn/", cn: "常规的；日常的" },
+      { w: "reflection", pos: "n.", p: "/rɪˈflekʃn/", cn: "反思；反映" },
+      { w: "independent", pos: "adj.", p: "/ˌɪndɪˈpendənt/", cn: "独立的；自主的" },
+      { w: "campaigners", pos: "n.", p: "/kæmˈpeɪnəz/", cn: "运动人士；倡导者" },
+      { w: "legislators", pos: "n.", p: "/ˈledʒɪsleɪtəz/", cn: "立法者；议员" },
+      { w: "outdated", pos: "adj.", p: "/ˌaʊtˈdeɪtɪd/", cn: "过时的；陈旧的" },
+      { w: "evidence-based", pos: "adj.", p: "/ˈevɪdəns beɪst/", cn: "基于证据的" },
+      { w: "resolve", pos: "n./v.", p: "/rɪˈzɒlv/", cn: "决心；解决" },
+      { w: "unnecessary", pos: "adj.", p: "/ʌnˈnesəsəri/", cn: "不必要的；多余的" },
+      { w: "surgical", pos: "adj.", p: "/ˈsɜːdʒɪkl/", cn: "外科的；手术的" },
+      { w: "insulin", pos: "n.", p: "/ˈɪnsjəlɪn/", cn: "胰岛素" },
+      { w: "therapies", pos: "n.", p: "/ˈθerəpiz/", cn: "治疗；疗法" },
+      { w: "limits", pos: "n.", p: "/ˈlɪmɪts/", cn: "局限；限制" }
     ]
   },
   words: [
-    { w: "journalism", pos: "n.", p: "/ˈdʒɜːnəlɪzəm/", cn: "新闻业；新闻报道", ex: "Local journalism keeps a community informed about itself.", exCn: "地方新闻业让一个社区了解自身。" },
-    { w: "newspaper", pos: "n.", p: "/ˈnjuːzpeɪpə(r)/", cn: "报纸", ex: "The evening newspaper closed after sixty years.", exCn: "这份晚报在办了六十年后停刊了。" },
-    { w: "editorial", pos: "n./adj.", p: "/ˌedɪˈtɔːriəl/", cn: "社论；编辑的", ex: "The editorial defended the paper's independence.", exCn: "这篇社论捍卫了该报的独立性。" },
-    { w: "newsroom", pos: "n.", p: "/ˈnjuːzruːm/", cn: "新闻编辑部", ex: "The newsroom worked through the night on the story.", exCn: "编辑部彻夜赶这篇报道。" },
-    { w: "headline", pos: "n.", p: "/ˈhedlaɪn/", cn: "标题；头条", ex: "A bold headline warned of the budget cut.", exCn: "醒目的标题警示了预算削减。" },
-    { w: "correspondent", pos: "n.", p: "/ˌkɒrəˈspɒndənt/", cn: "记者；通讯员", ex: "A local correspondent covered the council meeting.", exCn: "一位地方记者报道了市政会议。" },
-    { w: "outlet", pos: "n.", p: "/ˈaʊtlet/", cn: "媒体机构；发布渠道", ex: "The town had no independent news outlet left.", exCn: "这座小镇已没有任何独立的新闻机构。" },
-    { w: "subscriber", pos: "n.", p: "/səbˈskraɪbə(r)/", cn: "订阅者", ex: "Each subscriber helps fund the non-profit paper.", exCn: "每一位订阅者都在资助这家非营利报纸。" },
-    { w: "paywall", pos: "n.", p: "/ˈpeɪwɔːl/", cn: "付费墙", ex: "A strict paywall frightened away casual readers.", exCn: "一道严格的付费墙吓退了随性阅读的读者。" },
-    { w: "coverage", pos: "n.", p: "/ˈkʌvərɪdʒ/", cn: "报道；覆盖范围", ex: "The paper's coverage of schools was unmatched.", exCn: "该报对学校的报道无人能及。" },
-    { w: "advertiser", pos: "n.", p: "/ˈædvətaɪzə(r)/", cn: "广告商", ex: "The local advertiser moved its budget online.", exCn: "这家地方广告商把预算转移到了线上。" },
-    { w: "trustworthy", pos: "adj.", p: "/ˈtrʌstwɜːði/", cn: "值得信赖的", ex: "A trustworthy outlet earns the public's confidence.", exCn: "一家值得信赖的媒体赢得公众的信任。" },
-    { w: "watchdog", pos: "n.", p: "/ˈwɒtʃdɒɡ/", cn: "监察者；监督机构", ex: "The press acts as a watchdog on power.", exCn: "新闻界充当监督权力的看门狗。" },
-    { w: "review", pos: "n.", p: "/rɪˈvjuː/", cn: "审查；复查", ex: "A weak review of public spending invites waste.", exCn: "对公共支出审查不力会助长浪费。" },
-    { w: "investigative", pos: "adj.", p: "/ɪnˈvestɪɡətɪv/", cn: "调查性的", ex: "Investigative reporting exposed the scandal.", exCn: "调查报道揭发了这桩丑闻。" },
-    { w: "scoop", pos: "n.", p: "/skuːp/", cn: "独家新闻；抢先报道", ex: "The rookie scored a major scoop on the mayor.", exCn: "这名新手拿到了关于市长的重大独家。" },
-    { w: "circulation", pos: "n.", p: "/ˌsɜːkjəˈleɪʃn/", cn: "发行量；流通", ex: "Circulation fell by half in five years.", exCn: "五年内发行量下降了一半。" },
-    { w: "closure", pos: "n.", p: "/ˈkləʊʒə(r)/", cn: "关闭；停刊", ex: "The closure left the county with no daily paper.", exCn: "停刊让这个县再无日报。" },
-    { w: "reporting", pos: "n.", p: "/rɪˈpɔːtɪŋ/", cn: "报道；新闻报道", ex: "His reporting changed how the town voted.", exCn: "他的报道改变了小镇的投票走向。" },
-    { w: "citizen", pos: "n.", p: "/ˈsɪtɪzn/", cn: "公民；市民", ex: "A citizen reporter filmed the protest.", exCn: "一名公民记者拍下了抗议活动。" },
-    { w: "local", pos: "adj.", p: "/ˈləʊkl/", cn: "地方的；当地的", ex: "Local news shapes local democracy.", exCn: "地方新闻塑造地方民主。" },
-    { w: "democracy", pos: "n.", p: "/dɪˈmɒkrəsi/", cn: "民主；民主制度", ex: "A free press is vital to any democracy.", exCn: "自由的新闻界对任何民主制度都至关重要。" },
-    { w: "openness", pos: "n.", p: "/ˈəʊpənnəs/", cn: "公开；坦诚", ex: "Openness about sources builds trust.", exCn: "对消息来源的坦诚能建立信任。" },
-    { w: "impartial", pos: "adj.", p: "/ɪmˈpɑːʃl/", cn: "公正的；不偏不倚的", ex: "Courts expect impartial coverage of trials.", exCn: "法庭期望对审判作出公正报道。" },
-    { w: "neutral", pos: "adj.", p: "/ˈnjuːtrəl/", cn: "中立的；中性的", ex: "The editor stayed neutral on the dispute.", exCn: "编辑在这起争议中保持中立。" },
-    { w: "sensationalism", pos: "n.", p: "/senˈseɪʃənəlɪzəm/", cn: "煽情；哗众取宠", ex: "Sensationalism erodes a paper's credibility.", exCn: "煽情报道会损害报纸的可信度。" },
-    { w: "champion", pos: "v.", p: "/ˈtʃæmpiən/", cn: "拥护；捍卫", ex: "Readers must champion the news they value.", exCn: "读者必须声援他们看重的新闻。" },
-    { w: "crumble", pos: "v.", p: "/ˈkrʌmbl/", cn: "崩塌；瓦解", ex: "Trust in media can crumble overnight.", exCn: "对媒体的信任可能一夜之间崩塌。" },
-    { w: "tenuous", pos: "adj.", p: "/ˈtenjuəs/", cn: "脆弱的；微弱的", ex: "The link to local democracy grew tenuous.", exCn: "与地方民主的联系变得微弱。" },
-    { w: "sturdy", pos: "adj.", p: "/ˈstɜːdi/", cn: "坚固的；强健的", ex: "A sturdy press outlasts passing trends.", exCn: "一个坚韧的新闻界能比一时的潮流更持久。" }
+    { w: "cosmetic", pos: "adj./n.", p: "/kɒzˈmetɪk/", cn: "化妆品的；美容的；化妆品", ex: "Many countries have banned cosmetic testing on animals for ethical reasons.", exCn: "许多国家出于伦理原因已禁止化妆品动物实验。" },
+    { w: "laboratory", pos: "n.", p: "/ləˈbɒrətri/", cn: "实验室；研究室", ex: "The new laboratory was built to study alternatives to animal tests.", exCn: "这座新实验室用于研究动物实验的替代方法。" },
+    { w: "specimen", pos: "n.", p: "/ˈspesɪmɪn/", cn: "标本；样本", ex: "Each specimen was labelled and observed for signs of distress.", exCn: "每个标本都被标记并观察是否有痛苦迹象。" },
+    { w: "anaesthetic", pos: "n./adj.", p: "/ˌænəsˈθetɪk/", cn: "麻醉剂；麻醉的", ex: "The animal was given an anaesthetic before the procedure began.", exCn: "手术开始前给这只动物注射了麻醉剂。" },
+    { w: "humane", pos: "adj.", p: "/hjuːˈmeɪn/", cn: "人道的；仁慈的", ex: "A humane approach seeks to minimise pain wherever possible.", exCn: "人道的方法力求尽可能减轻痛苦。" },
+    { w: "inhumane", pos: "adj.", p: "/ˌɪnhjuːˈmeɪn/", cn: "不人道的；残忍的", ex: "Many consider the caging of primates for cosmetics inherently inhumane.", exCn: "许多人认为为化妆品圈养灵长类动物本质上是不人道的。" },
+    { w: "cruelty", pos: "n.", p: "/ˈkruːəlti/", cn: "残忍；残酷", ex: "The documentary exposed the cruelty hidden inside unregulated labs.", exCn: "这部纪录片揭露了不受监管实验室中隐藏的残忍。" },
+    { w: "suffering", pos: "n.", p: "/ˈsʌfərɪŋ/", cn: "痛苦；折磨", ex: "Reducing animal suffering is a stated goal of modern research ethics.", exCn: "减轻动物痛苦是现代研究伦理的既定目标。" },
+    { w: "ethics", pos: "n.", p: "/ˈeθɪks/", cn: "伦理学；道德准则", ex: "The committee reviews every project on grounds of medical ethics.", exCn: "委员会依据医学伦理审查每一个项目。" },
+    { w: "morality", pos: "n.", p: "/məˈræləti/", cn: "道德；道义", ex: "Public morality now questions the cost of certain experiments.", exCn: "公共道德如今质疑某些实验的代价。" },
+    { w: "dosage", pos: "n.", p: "/ˈdəʊsɪdʒ/", cn: "剂量；用量", ex: "Finding a safe dosage often requires extensive animal trials.", exCn: "确定安全剂量往往需要大量动物试验。" },
+    { w: "medical", pos: "adj.", p: "/ˈmedɪkl/", cn: "医学的；医疗的", ex: "Medical progress has relied heavily on animal models for centuries.", exCn: "数百年来医学进步严重依赖动物模型。" },
+    { w: "rodent", pos: "n.", p: "/ˈrəʊdnt/", cn: "啮齿动物", ex: "The common rodent is the most frequently used subject in labs.", exCn: "常见的啮齿动物是实验室中最常用的受试对象。" },
+    { w: "vivisection", pos: "n.", p: "/ˌvɪvɪˈsekʃn/", cn: "活体解剖", ex: "Vivisection remains legal in many places despite growing opposition.", exCn: "尽管反对声渐起，活体解剖在许多地方依然合法。" },
+    { w: "conscience", pos: "n.", p: "/ˈkɒnʃəns/", cn: "良心；良知", ex: "His conscience troubled him after witnessing the tests.", exCn: "目睹实验后，他的良心备受煎熬。" },
+    { w: "warrant", pos: "v.", p: "/ˈwɒrənt/", cn: "证明…正当；使有必要", ex: "Does the benefit to humans warrant the harm to animals?", exCn: "对人类的益处能否证明对动物造成的伤害是正当的？" },
+    { w: "abolish", pos: "v.", p: "/əˈbɒlɪʃ/", cn: "废除；废止", ex: "Campaigners want to abolish all testing for cosmetic purposes.", exCn: "活动人士希望废除一切以化妆品为目的的实验。" },
+    { w: "outlaw", pos: "v.", p: "/ˈaʊtlɔː/", cn: "宣布…为非法；禁止", ex: "The new law will outlaw the sale of animal-tested products.", exCn: "新法律将禁止销售经动物实验的产品。" },
+    { w: "obligatory", pos: "adj.", p: "/əˈblɪɡətri/", cn: "义务的；必须履行的", ex: "Training in alternatives is now obligatory for lab staff.", exCn: "接受替代方法培训如今是实验室人员的必修课。" },
+    { w: "rationale", pos: "n.", p: "/ˌræʃəˈnɑːl/", cn: "根本原因；逻辑依据", ex: "The rationale for the ban rests on both science and ethics.", exCn: "禁令的理由既基于科学也基于伦理。" },
+    { w: "assuage", pos: "v.", p: "/əˈsweɪdʒ/", cn: "减轻（痛苦、担忧）", ex: "Better transparency may assuage public fears about testing.", exCn: "更高的透明度或许能缓解公众对实验的担忧。" },
+    { w: "valid", pos: "adj.", p: "/ˈvælɪd/", cn: "有效的；合理的", ex: "No valid alternative existed at the time of the study.", exCn: "在研究进行时并不存在有效的替代方法。" },
+    { w: "flaw", pos: "n.", p: "/flɔː/", cn: "缺陷；瑕疵", ex: "A fatal flaw in the method led to misleading results.", exCn: "该方法的一个致命缺陷导致了误导性结果。" },
+    { w: "inconclusive", pos: "adj.", p: "/ˌɪnkənˈkluːsɪv/", cn: "无定论的；非决定性的", ex: "The trial proved inconclusive and had to be repeated.", exCn: "该试验没有定论，不得不重复进行。" },
+    { w: "oversee", pos: "v.", p: "/ˌəʊvəˈsiː/", cn: "监督；监管", ex: "An independent board must oversee all animal experiments.", exCn: "独立委员会必须监督所有动物实验。" },
+    { w: "enact", pos: "v.", p: "/ɪˈnækt/", cn: "制定（法律）；颁布", ex: "Parliaments have begun to enact stricter protection laws.", exCn: "各国议会已开始制定更严格的保护法。" },
+    { w: "forbid", pos: "v.", p: "/fəˈbɪd/", cn: "禁止；不许", ex: "Rules forbid the use of great apes in most research.", exCn: "规定禁止在大多数研究中使用类人猿。" },
+    { w: "vital", pos: "adj.", p: "/ˈvaɪtl/", cn: "至关重要的；必不可少的", ex: "Public trust is vital if science is to keep its licence.", exCn: "若科学要保住其许可，公众信任至关重要。" },
+    { w: "quandary", pos: "n.", p: "/ˈkwɒndəri/", cn: "困境；左右为难", ex: "Society faces a quandary between cure and compassion.", exCn: "社会在治愈与仁爱之间面临两难。" },
+    { w: "conflict", pos: "n.", p: "/ˈkɒnflɪkt/", cn: "冲突；矛盾", ex: "The conflict between utility and mercy shapes the debate.", exCn: "效用与仁慈之间的冲突塑造了这场争论。" }
   ],
   vocabArticle: {
-    title: "Saving the Small-Town Story: A Short Guide to Local News",
-    titleCn: "拯救小镇故事：地方新闻简明指南",
+    title: "The Case for Change: Rethinking Animal Experiments",
+    titleCn: "变革之辩：重新思考动物实验",
     paras: [
       {
-        en: "When a community loses its only newspaper, local journalism loses its daily heartbeat. The editorial team that once filled the front page with neighbourhood headlines now dissolves, and the newsroom falls silent. Without reliable coverage, the citizen who once trusted a familiar outlet must search elsewhere for truth. The closure of a single title can leave an entire town with no one to report on council meetings or school budgets.",
-        cn: "当一个社区失去它唯一的报纸，地方新闻业便失去了每天的脉搏。曾经用社区头条填满头版的编辑团队如今解散，编辑部陷入沉寂。没有了可靠的报道，曾经信赖熟悉媒体的市民只能到别处寻找真相。一份报刊的停刊，可能让整座城镇再无人报道市政会议或学校预算。"
+        en: "In a typical laboratory, a small rodent is given a measured dosage of a new medical compound before researchers record its response. Critics argue that vivisection inflicts pain that an anaesthetic cannot always numb, and that millions of specimen animals die for results of doubtful worth. Even a cosmetic tested this way may later prove unsafe in people, raising the question of whether the suffering is justified at all.",
+        cn: "在典型的实验室里，一只小小的啮齿动物会被施以某种新化合物的精确剂量，然后研究人员记录它的反应。批评者认为，活体解剖造成的痛苦并非麻醉剂总能麻痹，而数百万用作标本的动物死去的，只是换来了价值可疑的结果。即使是这样测试过的某种化妆品，日后也可能在人身上被证明不安全，这让人质疑：这种痛苦到底是否值得。"
       },
       {
-        en: "A veteran correspondent may try to launch an independent outlet, but few subscribers will climb the paywall when news feels free. The local advertiser that once funded coverage has fled to global platforms, and circulation keeps falling. Investigative reporting gives way to recycled press releases, while the watchdog that provided review of public money grows quiet. Democracy weakens when no one is left to ask why a contract was awarded.",
-        cn: "一位资深记者或许会尝试创办一家独立媒体，但当新闻看似免费时，鲜有订阅者愿意翻越付费墙。曾经资助报道的地方广告商已逃往全球平台，发行量持续下滑。调查报道让位于重复利用的新闻稿，而监督公共资金的看门狗也渐归沉寂。当再无人追问一份合同为何授出，民主便被削弱。"
+        en: "The cruelty of such tests troubles our conscience, for many see the pain as inhumane and a stain on our morality. Some defend the work by appealing to ethics, claiming that saving human lives does warrant the cost. Yet others insist no goal can outlaw the basic duty to reduce suffering. The conflict between utility and morality leaves society in a quandary that no simple rule can settle.",
+        cn: "这类实验的残忍令我们的良知不安，因为许多人认为这种痛苦是不人道的，也是对我们道德的一种玷污。一些人诉诸伦理来为这项工作辩护，声称挽救人类生命确实值得付出这样的代价。然而另一些人坚持，没有任何目标可以否定减轻痛苦这一基本义务。效用与道德之间的冲突，让社会陷入一种任何简单规则都无法化解的两难。"
       },
       {
-        en: "Some citizen reporters chase a scoop with more enthusiasm than accuracy, blurring the line between neutral facts and sensationalism. A trustworthy paper earns its name by staying impartial and resisting the temptation to inflame. Openness about sources and methods builds the public's confidence far better than a clever headline. When reporting serves the community rather than a proprietor, even a small outlet can become a sturdy pillar of local life.",
-        cn: "一些公民记者追逐独家新闻的热情超过了对准确性的追求，模糊了中立事实与煽情之间的界线。一家值得信赖的报纸靠保持公正、抵制煽风点火来赢得名声。对消息来源与方法的坦诚，远比一个巧妙的标题更能建立公众信心。当报道服务于社区而非某个老板，即便一家小媒体也能成为地方生活中坚实的支柱。"
+        en: "It is now obligatory in several nations to oversee animal labs and to forbid needless procedures. Lawmakers enacted bans after trials proved inconclusive, exposing a fatal flaw in old methods. A flawed study wastes lives without valid gain, so campaigners press to abolish the cruellest tests. Their rationale is clear: if a method is unreliable, no ethics board should enact rules that protect a clear flaw.",
+        cn: "如今在若干国家，监督动物实验室并禁止无谓的操作已成法定义务。立法者在试验被证明没有定论、暴露出旧方法的致命缺陷之后，制定了禁令。一项有缺陷的研究只会白白牺牲生命而毫无有效收益，因此活动人士力促废除最残酷的实验。他们的逻辑依据很清楚：若一种方法并不可靠，任何伦理委员会都不应制定规则来保护一个明显的漏洞。"
       },
       {
-        en: "Readers must champion the outlets they value and pay for the news they consume, or local journalism will crumble altogether. Where the link between a free press and a healthy democracy is tenuous, civic groups can subsidise reporting directly. A vigilant watchdog need not be a large newsroom; a single committed correspondent can hold power to account. If communities treat trustworthy local coverage as essential, the fragile ecosystem may yet prove more sturdy than the pessimists predict.",
-        cn: "为了阻止地方新闻业崩塌，读者必须声援他们看重的媒体，并为所消费的新闻付费。在自由新闻与健康民主之间的联系尚且微弱之处，民间团体可以直接补贴报道。警惕的监督者未必需要庞大的编辑部；一名坚定的记者就能让权力接受问责。如果社区把值得信赖的地方报道视为必需品，这个脆弱的生态系统或许会比悲观者的预测更加坚挺。"
+        en: "Moving toward a humane science is vital, not optional. Where valid alternatives exist, firms must assuage public concern by ending cruel tests and showing a clear conscience. The moral conflict will not vanish overnight, yet a humane path is vital to restore trust. By replacing pain with reason, we assuage doubt and honour the ethics that demand better.",
+        cn: "走向一门人道的科学至关重要，而非可有可无。在存在有效替代方法的地方，企业必须终止残酷的实验、展现清白的良知，以缓解公众的担忧。这种道德冲突不会在一夜之间消失，但一条人道的道路对于重建信任至关重要。用理性取代痛苦，我们便能消除疑虑，并尊崇那要求做得更好的伦理。"
       }
     ]
   },
   grammar: [
     {
-      q: "Regularly reading a local newspaper ___ citizens feel more connected to the place where they live.",
+      q: "One period ___ the use of animals in cosmetic testing was widely outlawed also saw a boom in alternative research methods.",
       options: [
-        "make",
-        "makes",
-        "made",
-        "have made"
+        "which",
+        "that",
+        "when",
+        "where"
       ],
-      answer: 1,
-      explain: "考点：非谓语动词——动名词短语作主语时，谓语动词用单数。本句主语是动名词短语 'Regularly reading a local newspaper'（定期阅读地方报纸），表示一个整体概念，谓语应用单数第三人称 makes。A（make）/D（have made）为复数形式，主谓不一致；C（made）时态错误，此处陈述一般事实，应用一般现在时。扩展：单个动名词、不定式或主语从句作主语时，谓语一律用单数；只有当主语是并列的多个动名词/不定式时才用复数。"
+      answer: 2,
+      explain: "考点：定语从句——关系副词 when 的用法。本句先行词是 period（时期），表示时间，后面的定语从句 'the use of animals in cosmetic testing was widely outlawed' 是一个结构完整的主谓句（不缺主语或宾语），因此需要一个在从句中作时间状语的关系词，故用 when（相当于 in which / during which）。A（which）和 B（that）是关系代词，在从句中作主语或宾语，但本从句并不缺主宾，若填入 which/that 则成分多余，语法不通；D（where）是关系副词，用于修饰表示地点的先行词，而 period 是时间名词而非地点，排除。扩展：当先行词为时间名词（time, day, year, period 等）且从句缺时间状语时用 when；若从句缺主语或宾语，则用 which/that。例：I remember the day when we first met.（when 作时间状语）；I remember the day that we spent together.（that 作 spent 的宾语）。"
     },
     {
-      q: "What many towns have lost with the closure of their newspaper ___ just a source of news, but a shared sense of community.",
+      q: "A series of rigorous experiments on rodents ___ conducted to assess the validity of the new anaesthetic.",
       options: [
-        "are",
-        "is",
+        "was",
         "were",
-        "have been"
+        "have been",
+        "has been"
       ],
-      answer: 1,
-      explain: "考点：名词性从句——what 引导主语从句 + 主谓一致。主语是由 what 引导的主语从句 'What many towns have lost with the closure of their newspaper'，what 在从句中作 have lost 的宾语，整个从句视为单数，谓语用 is。表语 'just a source of news, but a shared sense of community' 虽为并列结构，但主语从句作单数，故谓语用 is 而非 are。A（are）/C（were）误将后面并列表语当成主语；D（have been）主谓不一致。扩展：what 引导名词性从句时在从句中充当主语、宾语或表语，不可换为 that（that 不充当成分，只起连接作用）。"
+      answer: 0,
+      explain: "考点：主谓一致——'a series of + 复数名词' 结构。该结构中，中心词是单数名词 series（一系列），其后的 of 短语只是修饰语，谓语动词应与 series 保持一致，用单数。句意为'一系列严格的啮齿动物实验被开展'，描述的是过去发生的动作，故用一般过去时 was。B（were）错误地把 rodents 当作主语而用了复数，忽略了 a series of 整体为单数的性质；C（have been）和 D（has been）为现在完成时，与句中描述已完成的过去实验这一语境不符，且 D 虽为单数但时态错误。扩展：类似结构还有 a kind of, a type of, a portion of, a pair of 等，谓语通常与 of 前的单数名词一致；需特别区分 'a number of + 复数名词'（谓语用复数，中心词隐含 many）与 'the number of + 复数名词'（谓语用单数）。"
     }
   ]
 };

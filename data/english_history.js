@@ -413,5 +413,17 @@ window.ENGLISH_HISTORY = [
     topic: "Community Journalism & the Crisis of Local News（社区新闻业与地方新闻的危机）",
     articleTitle: "The Vanishing Front Page: Why Local News Still Matters",
     words: ["journalism","newspaper","editorial","newsroom","headline","correspondent","outlet","subscriber","paywall","coverage","advertiser","trustworthy","watchdog","review","investigative","scoop","circulation","closure","reporting","citizen","local","democracy","openness","impartial","neutral","sensationalism","champion","crumble","tenuous","sturdy"]
+  },
+  {
+    date: "2026-11-11",
+    topic: "Plastic Pollution & the Throwaway Culture（塑料污染与一次性文化）",
+    articleTitle: "Drowning in Plastic: The Throwaway Culture Behind the Crisis",
+    words: ["microplastic","synthetic","ingestion","entangle","lasting","accumulation","disposable","single-use","container","beverage","pellet","impose","surcharge","degrade","leach","toxin","contaminant","aquatic","biota","additive","menace","combat","alarm","fine","restrict","replacement","reusable","scatter","resin","petrochemical"]
+  },
+  {
+    date: "2026-11-12",
+    topic: "Animal Testing & the Ethics of Experimentation（动物实验与实验伦理）",
+    articleTitle: "Behind the Laboratory Door: The Ethics of Animal Testing",
+    words: ["cosmetic","laboratory","specimen","anaesthetic","humane","inhumane","cruelty","suffering","ethics","morality","dosage","medical","rodent","vivisection","conscience","warrant","abolish","outlaw","obligatory","rationale","assuage","valid","flaw","inconclusive","oversee","enact","forbid","vital","quandary","conflict"]
   }
 ];
