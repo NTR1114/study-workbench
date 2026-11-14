@@ -425,5 +425,17 @@ window.ENGLISH_HISTORY = [
     topic: "Animal Testing & the Ethics of Experimentation（动物实验与实验伦理）",
     articleTitle: "Behind the Laboratory Door: The Ethics of Animal Testing",
     words: ["cosmetic","laboratory","specimen","anaesthetic","humane","inhumane","cruelty","suffering","ethics","morality","dosage","medical","rodent","vivisection","conscience","warrant","abolish","outlaw","obligatory","rationale","assuage","valid","flaw","inconclusive","oversee","enact","forbid","vital","quandary","conflict"]
+  },
+  {
+    date: "2026-11-13",
+    topic: "3D Printing & the Manufacturing Revolution（3D打印与制造革命）",
+    articleTitle: "Printing the Future: How 3D Printing Reshapes Manufacturing",
+    words: ["printer","strand","extrude","layer","fused","feedstock","nozzle","thermoplastic","customize","matrix","implant","prosthesis","spare","toolkit","model","design","material","workspace","iterate","affordable","sector","aerospace","dental","efficient","supply","chain","startup","industry","niche","regional"]
+  },
+  {
+    date: "2026-11-14",
+    topic: "Video Games & the Rise of Interactive Entertainment（电子游戏与互动娱乐的崛起）",
+    articleTitle: "More Than a Game: How Video Games Won the World",
+    words: ["gameplay","console","esports","avatar","gamer","controller","multiplayer","handheld","pixel","storyline","quest","mod","graphics","competitive","cooperative","reward","involvement","perceptual","collaborative","creativity","relaxation","pursuit","diversion","agency","interaction","medium","participation","negotiation","assumption","player"]
   }
 ];
