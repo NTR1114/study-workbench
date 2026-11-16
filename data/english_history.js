@@ -437,5 +437,11 @@ window.ENGLISH_HISTORY = [
     topic: "Video Games & the Rise of Interactive Entertainment（电子游戏与互动娱乐的崛起）",
     articleTitle: "More Than a Game: How Video Games Won the World",
     words: ["gameplay","console","esports","avatar","gamer","controller","multiplayer","handheld","pixel","storyline","quest","mod","graphics","competitive","cooperative","reward","involvement","perceptual","collaborative","creativity","relaxation","pursuit","diversion","agency","interaction","medium","participation","negotiation","assumption","player"]
+  },
+  {
+    date: "2026-11-15",
+    topic: "Dance: Movement, Culture and the Human Body（舞蹈：律动、文化与人体）",
+    articleTitle: "The Living Language of the Body: Why Dance Still Matters",
+    words: ["choreography","dancer","ballet","posture","flexibility","pirouette","choreographer","graceful","expressive","technique","gesture","limb","synchronize","elevate","nonverbal","kinesthetic","poise","refine","dynamic","cadence","virtuoso","elegance","intensity","participant","ballroom","choreograph","gala","fluid","tone","inspire"]
   }
 ];
