@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-15",
-  topic: "Dance: Movement, Culture and the Human Body（舞蹈：律动、文化与人体）",
+  date: "2026-11-17",
+  topic: "The Science of Flavour: Taste, Smell and the Food We Love（风味的科学：味觉、嗅觉与我们喜爱的食物）",
   article: {
-    title: "The Living Language of the Body: Why Dance Still Matters",
-    titleCn: "身体的活语言：舞蹈为何依然重要",
+    title: "More Than Taste: The Science of Flavour",
+    titleCn: "不止于味道：风味的科学",
     paras: [
       {
-        en: "Dance is among the oldest and most universal forms of human expression, practised in every known culture as a way to celebrate, mourn, and tell stories. Long before written language, communities used rhythmic movement to bind people together and pass down beliefs. Today, from classical ballet to street dance, this art form still thrives, proving that the body itself can be a powerful instrument of communication.",
-        cn: "舞蹈是人类最古老、最普遍的表达形式之一，在每一种已知的文化中都被用来庆祝、哀悼与讲述故事。早在文字出现之前，社群就借助有节奏的肢体动作将人们凝聚在一起，并传递信仰。如今，从古典芭蕾到街头舞蹈，这门艺术依然蓬勃发展，证明身体本身就可以成为强大的沟通工具。"
+        en: "Flavour is far more than a property of food; it is a construction of the human senses. The tongue detects only a handful of basic tastes, such as sweetness, bitterness, sourness and saltiness, while the nose identifies thousands of volatile compounds. When we eat, aromas travel from the mouth up the back of the throat, and the brain merges these signals into one seamless impression. This is why a blocked nose can make even a favourite meal taste strangely flat.",
+        cn: "风味远不只是食物本身的一种属性，它是人类感官共同构建的结果。舌头只能辨别寥寥几种基本味道，如甜、苦、酸、咸，而鼻子却能识别成千上万种挥发性化合物。进食时，香气从口腔沿喉咙后部上行，大脑把这些信号融合成一个完整连贯的印象。这也解释了为什么鼻子堵塞时，就连最爱的一餐尝起来也会奇怪地淡而无味。"
       },
       {
-        en: "Beyond its cultural role, dance delivers remarkable physical benefits. Regular practice improves balance, flexibility, and cardiovascular health, while demanding the coordination of mind and muscle. Studies suggest that learning choreography can sharpen memory and lift mood more effectively than many solitary exercises. Because it fuses effort with enjoyment, dance offers a sustainable route to fitness that people are far more likely to maintain over the years.",
-        cn: "除了文化角色之外，舞蹈还带来显著的身体益处。规律的练习能改善平衡、柔韧性与心血管健康，同时要求心智与肌肉协调配合。研究表明，学习编舞比许多独自进行的运动更能增强记忆、提振情绪。由于它将付出与乐趣融合在一起，舞蹈提供了一种可持续的健身途径，人们更有可能长年坚持下去。"
+        en: "Researchers have long known that smell contributes most of what we call taste. Receptor cells in the nose respond to airborne molecules released during chewing, and these signals reach the brain together with input from the tongue. Surprisingly, the nose distinguishes far more subtleties than the tongue: people can often name a fruit from its scent alone. This explains why chefs speak of building aroma as carefully as they balance salt or acidity in a dish.",
+        cn: "研究者早就知道，我们所谓的“味道”大部分其实来自嗅觉。鼻腔中的感受器细胞会对咀嚼时释放的空气传播分子作出反应，这些信号与来自舌头的输入一同抵达大脑。令人惊讶的是，鼻子能分辨的细微差别远多于舌头：人们往往单凭气味就能说出一种水果的名字。这也解释了为什么厨师谈起营造香气时，会像平衡一道菜里的盐分或酸度一样小心翼翼。"
       },
       {
-        en: "Dance also strengthens social bonds. Group classes and communal performances create a sense of belonging, dissolving the isolation that modern life so often imposes on individuals. Partner dances, in particular, teach trust, patience, and the subtle art of nonverbal dialogue. For many participants, the studio becomes a welcoming community where anxieties fade and confidence grows. In this way, movement serves not only the body but also the emotional life of a person.",
-        cn: "舞蹈还能增进社会纽带。团体课程与集体演出营造出归属感，消解现代生活常常强加于个体的孤独感。尤其是双人舞，能教会信任、耐心以及非语言对话的微妙艺术。对许多参与者而言，舞蹈教室成了一个让人感到温暖的社群，焦虑在此消散，自信在此生长。如此一来，律动不仅服务于身体，也服务于一个人的情感生活。"
+        en: "Preferences for particular flavours are learned rather than inborn. Children initially reject bitter vegetables, yet repeated exposure can turn dislike into enjoyment, and adults in different cultures develop very different palates. A pungent spice cherished in one country may seem unbearable in another. Food writers argue that such variation is not a matter of superior or inferior taste, but of familiarity: what we eat often becomes what we love.",
+        cn: "对特定风味的偏好是习得的，而非天生的。儿童起初会拒绝苦味蔬菜，但反复接触能把厌恶变成喜爱，不同文化中的成年人也会形成截然不同的口味。在某一个国家备受珍爱的辛辣香料，在另一个国家可能让人难以忍受。美食评论家认为，这种差异并非口味有高下之分，而是熟悉程度不同：我们常吃的东西，往往就会变成我们所爱的东西。"
       },
       {
-        en: "Despite its benefits, dance faces real pressures in a fast-changing world. Shrinking arts budgets in many schools have reduced formal training, and screen-based leisure now competes for young attention. Yet the art is adapting: online tutorials spread technique globally, while interdisciplinary projects blend dance with technology and science. If societies value well-rounded development, they should protect this living heritage. After all, few activities unite physical health, culture, and joy as naturally as dance does.",
-        cn: "尽管益处良多，舞蹈在快速变化的世界中仍面临实实在在的压力。许多学校不断缩减的艺术预算削减了正规训练，而以屏幕为基础的休闲方式如今也在争夺年轻人的注意力。然而这门艺术正在自我调适：线上教程将技巧传播到全球，跨学科项目则把舞蹈与科技、科学融合在一起。如果社会重视全面发展，就应当保护这份鲜活的传统。毕竟，鲜有活动能像舞蹈这样自然地将身体健康、文化与快乐融为一体。"
+        en: "The food industry has exploited this knowledge for decades, engineering snacks with precise levels of salt, sugar and aroma to maximize pleasure. Critics worry that such products encourage overeating, because unnatural combinations of texture and seasoning can overwhelm the body's signals of fullness. A growing number of nutritionists therefore recommend slower eating, urging people to notice flavour rather than consume quickly. Understanding how flavour works may help us make wiser, more enjoyable choices.",
+        cn: "食品工业利用这些知识已有数十年之久，通过精确调配盐、糖和香气的含量来设计零食，以最大化愉悦感。批评者担心这类产品会助长过量进食，因为质地与调味的非自然组合会压倒身体发出的饱腹信号。因此，越来越多的营养学家建议放慢进食速度，敦促人们去细细感受风味，而不是匆匆吞下。理解风味的运作方式，或许能帮助我们做出更明智、更愉快的选择。"
       }
     ],
     glossary: [
-      { w: "expression", pos: "n.", p: "/ɪkˈspreʃn/", cn: "表达；表情" },
-      { w: "rhythmic", pos: "adj.", p: "/ˈrɪðmɪk/", cn: "有节奏的；韵律的" },
-      { w: "movement", pos: "n.", p: "/ˈmuːvmənt/", cn: "动作；运动" },
-      { w: "instrument", pos: "n.", p: "/ˈɪnstrəmənt/", cn: "工具；手段" },
-      { w: "communication", pos: "n.", p: "/kəˌmjuːnɪˈkeɪʃn/", cn: "沟通；交流" },
-      { w: "remarkable", pos: "adj.", p: "/rɪˈmɑːkəbl/", cn: "显著的；非凡的" },
-      { w: "cardiovascular", pos: "adj.", p: "/ˌkɑːdiəʊˈvæskjələ(r)/", cn: "心血管的" },
-      { w: "balance", pos: "n.", p: "/ˈbæləns/", cn: "平衡；均衡" },
-      { w: "sharpen", pos: "v.", p: "/ˈʃɑːpn/", cn: "使敏锐；磨快" },
-      { w: "mood", pos: "n.", p: "/muːd/", cn: "情绪；心情" },
-      { w: "sustainable", pos: "adj.", p: "/səˈsteɪnəbl/", cn: "可持续的" },
-      { w: "confidence", pos: "n.", p: "/ˈkɒnfɪdəns/", cn: "自信；信心" },
-      { w: "fast-changing", pos: "adj.", p: "/ˌfɑːst ˈtʃeɪndʒɪŋ/", cn: "快速变化的" },
-      { w: "shrinking", pos: "adj.", p: "/ˈʃrɪŋkɪŋ/", cn: "萎缩的；缩小的" },
-      { w: "budgets", pos: "n.", p: "/ˈbʌdʒɪts/", cn: "预算（复数）" },
-      { w: "screen-based", pos: "adj.", p: "/ˈskriːn beɪst/", cn: "以屏幕为基础的" },
-      { w: "competes", pos: "v.", p: "/kəmˈpiːts/", cn: "竞争；争夺（第三人称）" },
-      { w: "interdisciplinary", pos: "adj.", p: "/ˌɪntəˈdɪsəplɪnəri/", cn: "跨学科的" },
-      { w: "well-rounded", pos: "adj.", p: "/ˌwel ˈraʊndɪd/", cn: "全面发展的" },
-      { w: "naturally", pos: "adv.", p: "/ˈnætʃrəli/", cn: "自然地" },
-      { w: "dissolving", pos: "v.", p: "/dɪˈzɒlvɪŋ/", cn: "消解；使溶解" },
-      { w: "subtle", pos: "adj.", p: "/ˈsʌtl/", cn: "微妙的；精细的" },
-      { w: "dialogue", pos: "n.", p: "/ˈdaɪəlɒɡ/", cn: "对话；交流" },
-      { w: "welcoming", pos: "adj.", p: "/ˈwelkəmɪŋ/", cn: "热情的；令人感到温暖的" },
-      { w: "pressures", pos: "n.", p: "/ˈpreʃəz/", cn: "压力（复数）" },
-      { w: "tutorials", pos: "n.", p: "/tjuːˈtɔːriəlz/", cn: "教程；辅导课（复数）" },
-      { w: "formal", pos: "adj.", p: "/ˈfɔːml/", cn: "正规的；正式的" },
-      { w: "globally", pos: "adv.", p: "/ˈɡləʊbəli/", cn: "全球地； worldwide" }
+      { w: "construction", pos: "n.", p: "/kənˈstrʌkʃn/", cn: "构建；构造；建筑物" },
+      { w: "volatile", pos: "adj.", p: "/ˈvɒlətaɪl/", cn: "易挥发的；不稳定的" },
+      { w: "compounds", pos: "n.", p: "/ˈkɒmpaʊndz/", cn: "化合物（复数）" },
+      { w: "merges", pos: "v.", p: "/mɜːdʒɪz/", cn: "融合；合并（第三人称）" },
+      { w: "seamless", pos: "adj.", p: "/ˈsiːmləs/", cn: "无缝的；连贯完整的" },
+      { w: "impression", pos: "n.", p: "/ɪmˈpreʃn/", cn: "印象；感受" },
+      { w: "blocked", pos: "adj.", p: "/blɒkt/", cn: "堵塞的；受阻的" },
+      { w: "flat", pos: "adj.", p: "/flæt/", cn: "平淡的；淡而无味的" },
+      { w: "contributes", pos: "v.", p: "/kənˈtrɪbjuːts/", cn: "贡献；促成（第三人称）" },
+      { w: "airborne", pos: "adj.", p: "/ˈeəbɔːn/", cn: "空气传播的；空中的" },
+      { w: "molecules", pos: "n.", p: "/ˈmɒlɪkjuːlz/", cn: "分子（复数）" },
+      { w: "chewing", pos: "n.", p: "/ˈtʃuːɪŋ/", cn: "咀嚼" },
+      { w: "subtleties", pos: "n.", p: "/ˈsʌtltiz/", cn: "细微差别；微妙之处（复数）" },
+      { w: "acidity", pos: "n.", p: "/əˈsɪdəti/", cn: "酸度；酸性" },
+      { w: "inborn", pos: "adj.", p: "/ˌɪnˈbɔːn/", cn: "天生的；先天的" },
+      { w: "exposure", pos: "n.", p: "/ɪkˈspəʊʒə(r)/", cn: "接触；暴露" },
+      { w: "cherished", pos: "adj.", p: "/ˈtʃerɪʃt/", cn: "备受珍爱的；珍视的" },
+      { w: "unbearable", pos: "adj.", p: "/ʌnˈbeərəbl/", cn: "难以忍受的" },
+      { w: "superior", pos: "adj.", p: "/suːˈpɪəriə(r)/", cn: "更好的；优越的" },
+      { w: "inferior", pos: "adj.", p: "/ɪnˈfɪəriə(r)/", cn: "较差的；低劣的" },
+      { w: "familiarity", pos: "n.", p: "/fəˌmɪliˈærəti/", cn: "熟悉；熟悉程度" },
+      { w: "exploited", pos: "v.", p: "/ɪkˈsplɔɪtɪd/", cn: "利用；开发（过去式/过去分词）" },
+      { w: "engineering", pos: "v.", p: "/ˌendʒɪˈnɪərɪŋ/", cn: "精心设计；设计制造（现在分词）" },
+      { w: "maximize", pos: "v.", p: "/ˈmæksɪmaɪz/", cn: "使最大化；充分利用" },
+      { w: "overwhelm", pos: "v.", p: "/ˌəʊvəˈwelm/", cn: "压倒；使不知所措" },
+      { w: "fullness", pos: "n.", p: "/ˈfʊlnəs/", cn: "饱腹感；充满" },
+      { w: "nutritionists", pos: "n.", p: "/njuˈtrɪʃənɪsts/", cn: "营养学家（复数）" },
+      { w: "urging", pos: "v.", p: "/ˈɜːdʒɪŋ/", cn: "敦促；力劝（现在分词）" }
     ]
   },
   words: [
-    { w: "choreography", pos: "n.", p: "/ˌkɒriˈɒɡrəfi/", cn: "编舞；舞蹈设计", ex: "The choreography for the finale took three months to perfect.", exCn: "终场的编舞花了三个月才打磨到位。" },
-    { w: "dancer", pos: "n.", p: "/ˈdɑːnsə(r)/", cn: "舞者；舞蹈演员", ex: "A skilled dancer makes difficult steps look effortless.", exCn: "技艺娴熟的舞者能让高难度的舞步看起来毫不费力。" },
-    { w: "ballet", pos: "n.", p: "/ˈbæleɪ/", cn: "芭蕾舞", ex: "She trained in ballet from the age of five.", exCn: "她从五岁起就开始接受芭蕾训练。" },
-    { w: "posture", pos: "n.", p: "/ˈpɒstʃə(r)/", cn: "姿势；姿态", ex: "Good posture protects the back during long rehearsals.", exCn: "良好的姿势能在漫长排练中保护背部。" },
-    { w: "flexibility", pos: "n.", p: "/ˌfleksəˈbɪləti/", cn: "柔韧性；灵活性", ex: "Daily stretching improves a dancer's flexibility.", exCn: "每日拉伸能提升舞者的柔韧性。" },
-    { w: "pirouette", pos: "n./v.", p: "/ˌpɪruˈet/", cn: "（芭蕾）单脚尖旋转；做旋转", ex: "The dancer finished with a perfect pirouette.", exCn: "舞者以一个完美的单脚旋转收尾。" },
-    { w: "choreographer", pos: "n.", p: "/ˌkɒriˈɒɡrəfə(r)/", cn: "编舞者；舞蹈设计者", ex: "The choreographer reshaped the scene to fit the music.", exCn: "编舞者根据音乐重新设计了这段场景。" },
-    { w: "graceful", pos: "adj.", p: "/ˈɡreɪsfl/", cn: "优雅的；优美的", ex: "Her graceful movements held the audience's attention.", exCn: "她优雅的舞姿牢牢吸引了观众的目光。" },
-    { w: "expressive", pos: "adj.", p: "/ɪkˈspresɪv/", cn: "富有表现力的", ex: "The dance was strikingly expressive despite its simplicity.", exCn: "这支舞虽简单，却极具表现力。" },
-    { w: "technique", pos: "n.", p: "/tekˈniːk/", cn: "技巧；技术", ex: "Solid technique matters more than raw talent.", exCn: "扎实的技巧比单纯的天赋更重要。" },
-    { w: "gesture", pos: "n.", p: "/ˈdʒestʃə(r)/", cn: "手势；姿态", ex: "A single gesture can convey an entire emotion.", exCn: "一个手势就能传达整一种情绪。" },
-    { w: "limb", pos: "n.", p: "/lɪm/", cn: "肢体；四肢", ex: "Every limb must follow the rhythm precisely.", exCn: "每一处肢体都必须精准地跟上节奏。" },
-    { w: "synchronize", pos: "v.", p: "/ˈsɪŋkrənaɪz/", cn: "使同步；协调一致", ex: "The troupe learned to synchronize their steps perfectly.", exCn: "剧团学会了让舞步完美同步。" },
-    { w: "elevate", pos: "v.", p: "/ˈelɪveɪt/", cn: "提升；抬高", ex: "The finale elevates the whole performance.", exCn: "终场将整场演出提升到了新高度。" },
-    { w: "nonverbal", pos: "adj.", p: "/ˌnɒnˈvɜːbl/", cn: "非语言的", ex: "Dance is a powerful nonverbal form of communication.", exCn: "舞蹈是一种强有力的非语言沟通形式。" },
-    { w: "kinesthetic", pos: "adj.", p: "/ˌkɪnəsˈθetɪk/", cn: "动觉的；身体感知的", ex: "Kinesthetic awareness helps dancers control their balance.", exCn: "动觉意识能帮助舞者控制平衡。" },
-    { w: "poise", pos: "n.", p: "/pɔɪz/", cn: "镇定；优雅从容", ex: "Years of training gave her remarkable poise on stage.", exCn: "多年的训练让她在台上格外从容镇定。" },
-    { w: "refine", pos: "v.", p: "/rɪˈfaɪn/", cn: "精炼；打磨；改进", ex: "They refined the routine until it felt natural.", exCn: "他们反复打磨这套动作，直到它显得自然。" },
-    { w: "dynamic", pos: "adj.", p: "/daɪˈnæmɪk/", cn: "充满活力的；动态的", ex: "The piece needs dynamic contrasts between stillness and motion.", exCn: "这支作品需要静与动之间的活力对比。" },
-    { w: "cadence", pos: "n.", p: "/ˈkeɪdns/", cn: "节奏；韵律", ex: "The drummer set a steady cadence for the dancers.", exCn: "鼓手为舞者定下了稳定的节奏。" },
-    { w: "virtuoso", pos: "n.", p: "/ˌvɜːtʃuˈəʊsəʊ/", cn: "大师；技艺高超者", ex: "The young virtuoso received a standing ovation.", exCn: "这位年轻的技艺大师赢得了全场起立鼓掌。" },
-    { w: "elegance", pos: "n.", p: "/ˈelɪɡəns/", cn: "优雅；雅致", ex: "The elegance of the motion came from years of practice.", exCn: "这份动作的优雅源自多年的练习。" },
-    { w: "intensity", pos: "n.", p: "/ɪnˈtensəti/", cn: "强度；强烈程度", ex: "The dance builds in intensity toward the climax.", exCn: "这支舞在走向高潮时不断加大强度。" },
-    { w: "participant", pos: "n.", p: "/pɑːˈtɪsɪpənt/", cn: "参与者", ex: "Each participant performed a short solo.", exCn: "每位参与者都表演了一段独舞。" },
-    { w: "ballroom", pos: "n.", p: "/ˈbɔːlruːm/", cn: "舞厅；交际舞大厅", ex: "The ballroom filled with couples practising together.", exCn: "舞厅里满是成双成对在练习的舞伴。" },
-    { w: "choreograph", pos: "v.", p: "/ˈkɒriəɡrɑːf/", cn: "编排（舞蹈）", ex: "He was asked to choreograph the school musical.", exCn: "他受邀为学校音乐剧编舞。" },
-    { w: "gala", pos: "n.", p: "/ˈɡɑːlə/", cn: "庆典；盛会", ex: "The annual dance gala attracts thousands of fans.", exCn: "一年一度的舞蹈庆典吸引了数千名观众。" },
-    { w: "fluid", pos: "adj.", p: "/ˈfluːɪd/", cn: "流畅的；流动的", ex: "Her fluid transitions made the dance look seamless.", exCn: "她流畅的衔接让整支舞看起来浑然一体。" },
-    { w: "tone", pos: "n.", p: "/təʊn/", cn: "基调；氛围；色调", ex: "The lighting set a somber tone for the piece.", exCn: "灯光为这支作品定下了沉重的基调。" },
-    { w: "inspire", pos: "v.", p: "/ɪnˈspaɪə(r)/", cn: "激励；启发", ex: "Great dancers inspire the next generation.", exCn: "杰出的舞者能激励下一代。" }
+    { w: "palate", pos: "n.", p: "/ˈpælət/", cn: "味觉；口味；上颚", ex: "Years of travelling had given her a remarkably adventurous palate.", exCn: "多年的旅行为她造就了极为敢于尝试的口味。" },
+    { w: "flavour", pos: "n.", p: "/ˈfleɪvə(r)/", cn: "风味；味道；滋味", ex: "The soup lacked flavour until she added a little more salt.", exCn: "这锅汤直到她多加了一点盐才有味道。" },
+    { w: "aroma", pos: "n.", p: "/əˈrəʊmə/", cn: "香气；芳香", ex: "The rich aroma of freshly baked bread filled the whole street.", exCn: "刚烤好的面包散发出的浓郁香气弥漫了整条街。" },
+    { w: "gustatory", pos: "adj.", p: "/ˈɡʌstətəri/", cn: "味觉的；尝味的", ex: "The gustatory nerves send signals to the brain within seconds.", exCn: "味觉神经会在几秒内把信号传送到大脑。" },
+    { w: "savoury", pos: "adj.", p: "/ˈseɪvəri/", cn: "咸香的；可口的；非甜味的", ex: "She prefers savoury snacks to sweet ones in the afternoon.", exCn: "下午她更喜欢咸香的小吃，而不是甜食。" },
+    { w: "pungent", pos: "adj.", p: "/ˈpʌndʒənt/", cn: "刺鼻的；辛辣的；尖锐的", ex: "A pungent smell of garlic drifted out of the kitchen.", exCn: "一股刺鼻的大蒜味从厨房里飘了出来。" },
+    { w: "bland", pos: "adj.", p: "/blænd/", cn: "清淡的；乏味的；温和的", ex: "The hospital food was nourishing but rather bland.", exCn: "医院的饭菜很有营养，但相当清淡。" },
+    { w: "scent", pos: "n.", p: "/sent/", cn: "气味；香味；香气", ex: "The scent of rain on dry earth is oddly comforting.", exCn: "雨水落在干土地上的气味出人意料地令人安心。" },
+    { w: "odour", pos: "n.", p: "/ˈəʊdə(r)/", cn: "气味；臭味（尤指难闻的）", ex: "An unpleasant odour was coming from the bottom of the bin.", exCn: "一股难闻的气味从垃圾桶底部散发出来。" },
+    { w: "nostril", pos: "n.", p: "/ˈnɒstrəl/", cn: "鼻孔", ex: "The smoke was so thick that it stung both nostrils.", exCn: "烟太浓了，刺痛了两个鼻孔。" },
+    { w: "receptor", pos: "n.", p: "/rɪˈseptə(r)/", cn: "感受器；受体", ex: "Each receptor on the tongue responds to a different chemical.", exCn: "舌头上的每个感受器都会对不同的化学物质作出反应。" },
+    { w: "seasoning", pos: "n.", p: "/ˈsiːzənɪŋ/", cn: "调味料；调味品", ex: "A little seasoning can transform a plain bowl of soup.", exCn: "一点点调味料就能让一碗清汤焕然一新。" },
+    { w: "condiment", pos: "n.", p: "/ˈkɒndɪmənt/", cn: "调味品；佐料", ex: "Every table had a small bottle of his favourite condiment.", exCn: "每张桌子上都放着一瓶他最爱的调味品。" },
+    { w: "culinary", pos: "adj.", p: "/ˈkʌlɪnəri/", cn: "烹饪的；厨艺的", ex: "Her culinary skills improved after a year in Paris.", exCn: "在巴黎待了一年后，她的厨艺提高了。" },
+    { w: "ingredient", pos: "n.", p: "/ɪnˈɡriːdiənt/", cn: "配料；成分；要素", ex: "Freshness is the most important ingredient in this recipe.", exCn: "新鲜度是这份食谱中最重要的要素。" },
+    { w: "ferment", pos: "v.", p: "/fəˈment/", cn: "发酵；酝酿", ex: "The beans ferment slowly for several weeks before roasting.", exCn: "这些豆子在烘焙前要缓慢发酵数周。" },
+    { w: "texture", pos: "n.", p: "/ˈtekstʃə(r)/", cn: "质地；口感；纹理", ex: "The cake had a light texture and a crisp outer layer.", exCn: "这块蛋糕质地轻盈，外层酥脆。" },
+    { w: "appetizing", pos: "adj.", p: "/ˈæpɪtaɪzɪŋ/", cn: "开胃的；诱人的；令人食欲大增的", ex: "The dish looked so appetizing that everyone reached for a fork.", exCn: "这道菜看起来太诱人了，人人都伸手拿叉子。" },
+    { w: "palatable", pos: "adj.", p: "/ˈpælətəbl/", cn: "可口的；合口味的；可接受的", ex: "The medicine was made more palatable with a hint of honey.", exCn: "加了一点蜂蜜后，这种药变得更易入口。" },
+    { w: "delectable", pos: "adj.", p: "/dɪˈlektəbl/", cn: "美味的；宜人的", ex: "She served a delectable dessert of pears and dark chocolate.", exCn: "她端上了一道梨配黑巧克力的美味甜点。" },
+    { w: "aromatic", pos: "adj.", p: "/ˌærəˈmætɪk/", cn: "芳香的；有香气的", ex: "The market was full of aromatic herbs and dried flowers.", exCn: "市场里满是芳香的草药和干花。" },
+    { w: "digestion", pos: "n.", p: "/dɪˈdʒestʃən/", cn: "消化；消化能力", ex: "Eating slowly is said to aid digestion considerably.", exCn: "据说细嚼慢咽能大大帮助消化。" },
+    { w: "delicacy", pos: "n.", p: "/ˈdelɪkəsi/", cn: "美味佳肴；珍馐；精致", ex: "This rare cheese is considered a local delicacy.", exCn: "这种稀有奶酪被视为当地的一道珍馐。" },
+    { w: "tangy", pos: "adj.", p: "/ˈtæŋi/", cn: "酸辣的；味道浓烈的；开胃的", ex: "A tangy sauce lifted the flavour of the grilled fish.", exCn: "一种酸辣的酱汁提升了烤鱼的风味。" },
+    { w: "umami", pos: "n.", p: "/uːˈmɑːmi/", cn: "鲜味（第五种基本味觉）", ex: "Tomatoes and mushrooms are rich in natural umami.", exCn: "番茄和蘑菇富含天然的鲜味。" },
+    { w: "aftertaste", pos: "n.", p: "/ˈɑːftəteɪst/", cn: "余味；回味", ex: "The tea left a pleasant aftertaste that lasted for minutes.", exCn: "这种茶留下了持续数分钟的宜人回味。" },
+    { w: "piquancy", pos: "n.", p: "/ˈpiːkənsi/", cn: "辛辣；刺激性；趣味", ex: "A squeeze of lemon added piquancy to the otherwise mild soup.", exCn: "挤一点柠檬给原本清淡的汤增添了辛辣风味。" },
+    { w: "essence", pos: "n.", p: "/ˈesns/", cn: "精华；本质；香精", ex: "Vanilla essence is used in a surprising number of desserts.", exCn: "香草精被用于数量惊人的甜点之中。" },
+    { w: "infusion", pos: "n.", p: "/ɪnˈfjuːʒn/", cn: "浸泡；泡制；注入", ex: "A slow infusion of spices gives the broth its depth.", exCn: "香料的缓慢浸泡赋予了高汤醇厚的层次。" },
+    { w: "lingering", pos: "adj.", p: "/ˈlɪŋɡərɪŋ/", cn: "持久的；挥之不去的；徘徊的", ex: "A lingering smell of smoke followed us into the street.", exCn: "一股挥之不去的烟味跟着我们来到了街上。" }
   ],
   vocabArticle: {
-    title: "A Day in the Studio（舞蹈教室里的一天）",
-    titleCn: "舞蹈教室里的一天",
+    title: "A Feast for the Senses（感官的盛宴）",
+    titleCn: "感官的盛宴",
     paras: [
       {
-        en: "In a bright ballroom, a young dancer begins her daily ballet class, paying close attention to her posture. She knows that good flexibility and a clean pirouette separate a competent performer from a struggling one. Her choreographer watches, then asks her to refine a slow turn until it looks graceful.",
-        cn: "在一间明亮的舞蹈教室里，一位年轻的舞者开始了她每天的芭蕾课，并格外留意自己的姿态。她深知，良好的柔韧性与协调性，是区分称职表演者与新手的关窍。编舞老师在一旁观看，随后让她反复打磨一个缓慢的转身，直到它看起来优雅自如。"
+        en: "A person's palate determines how they judge every flavour. Some diners love a robust aroma, while others prefer a bland dish that offends no one. A gustatory impression begins on the tongue, but a savoury smell or a pungent spice can change it completely. Even before the first bite, the scent of bread or the faint odour of smoke entering each nostril prepares the brain for what is coming.",
+        cn: "一个人的味觉决定了他如何评判每一种风味。有些食客热爱浓郁的香气，另一些人则偏爱清淡、不得罪任何人的菜。味觉印象始于舌头，但一股咸香的气味或一种辛辣的香料能彻底改变它。甚至在咬第一口之前，面包的香味或进入每个鼻孔的淡淡烟味，就已让大脑为即将到来的味道做好准备。"
       },
       {
-        en: "The choreography grows more expressive with each rehearsal, demanding that every limb move in time. To synchronize the group, the instructor counts a steady cadence and elevate the intensity when the music swells. Even a virtuoso must respect the technique.",
-        cn: "这段编舞在每一次排练中都变得更加富有表现力，要求每一个肢体都踩准节拍。为了让团队步调一致，老师数着稳定的节奏，并在音乐渐强时提升强度。即便是一位大师，也必须尊重技巧本身。"
+        en: "Specialist cells act as a receptor for each airborne molecule, and seasoning can transform a humble ingredient. In every culinary tradition, a cook adds a condiment or two, allows sauces to ferment, and carefully controls texture so that a meal feels as good as it tastes. The fifth basic taste, umami, gives cooked tomatoes and aged cheese their deeper, satisfying quality.",
+        cn: "专门的细胞充当每一种空气传播分子的感受器，而调味料能改变一种不起眼的配料。在每一种烹饪传统中，厨师都会加上一两种调味品，让酱汁发酵，并仔细控制质地，使一餐的口感与味道同样出色。第五种基本味道——鲜味，赋予熟番茄和陈年奶酪更醇厚、更令人满足的特质。"
       },
       {
-        en: "Through nonverbal cues and a small gesture, the dancers convey elegance without a single word. Their kinesthetic sense guides each fluid motion, while dynamic contrasts keep the audience alert. Such poise is earned, not given.",
-        cn: "通过非语言的暗示与细微的手势，舞者无需一言一语便能传递优雅。他们动觉的感知引导着每一次流畅的动作，而富于变化的力度对比则让观众保持专注。这样的镇定从容是练出来的，而非天生。"
+        en: "An appetizing plate is rarely accidental. A chef seeks something palatable and delectable, using an aromatic herb or a tangy sauce to lift a simple delicacy. The essence of a good recipe may lie in a slow infusion of spices, and a touch of piquancy keeps the palate interested from the first mouthful to the last.",
+        cn: "一盘令人食欲大增的菜很少是偶然得来的。厨师追求可口而美味的成品，用一种芳香的香草或酸辣的酱汁来提升一道简单的佳肴。好食谱的精髓或许在于香料的缓慢浸泡，而一丝辛辣能让味觉从第一口到最后一口都保持兴趣。"
       },
       {
-        en: "To inspire the next generation, the school will host a gala where every participant can choreograph a short piece. Tone and timing matter as much as the steps themselves.",
-        cn: "为了激励下一代，这所学校将举办一场庆典，每位参与者都能自行编创一小段作品。基调与时机，与舞步本身同样重要。"
+        en: "Good digestion begins long before food reaches the stomach, because pleasure itself aids the process. A lingering aftertaste can turn an ordinary meal into a memory, while a harsh or artificial note spoils it. That is why thoughtful cooks respect both science and instinct when they compose a dish.",
+        cn: "良好的消化早在食物到达胃部之前就已开始，因为愉悦感本身会有助于这一过程。持久的余味能把一顿寻常的饭变成一段记忆，而刺鼻或人造的味道则会毁掉它。正因如此，有心的厨师在创作一道菜时，既尊重科学，也尊重直觉。"
       }
     ]
   },
   grammar: [
     {
-      q: "When Sarah first moved to the city, she ___ live in a small village, so the noise took her a while to accept.",
+      q: "The way ___ the brain combines taste and smell varies surprisingly from person to person.",
       options: [
-        "used to",
-        "was used to",
-        "got used to",
-        "is used to"
+        "which",
+        "that",
+        "what",
+        "how"
       ],
-      answer: 0,
-      explain: "考点：used to / be used to / get used to 的用法辨析。used to + 动词原形，表示“过去常常（而现在不再）”；be used to + 名词/动名词，表示“习惯于……”；get used to + 名词/动名词，表示“逐渐习惯……”。本句说 Sarah 刚搬来城市时“过去住”在小村庄，强调的是与现在不同的过去状态，故用 used to live（A）。B（was used to）后须接名词或动名词（如 was used to the noise），不能直接接动词原形 live；C（got used to）强调“逐渐习惯”的过程，与“过去住在村庄”的语义不符，且同样不能接原形；D（is used to）是现在时，与 moved / first 的过去语境冲突，且 to 为介词不能接原形。扩展：be / get used to 中的 to 是介词，务必接 -ing 或名词。"
+      answer: 1,
+      explain: "考点：定语从句——先行词为 way 时的关系词选择。当先行词是 way，且定语从句中缺少的是方式状语（即“以某种方式”）时，可用 in which 或 that 引导，也常直接省略关系词，但不能用 what（what 不引导定语从句，且自身包含先行词），更不能用 how（how 不能引导定语从句）。本句中 the way that the brain combines taste and smell 意为“大脑把味觉与嗅觉结合起来的方式”，that 在从句中作方式状语。A（which）也不成立：若用 which，它须在从句中作主语或宾语，而本句主谓宾齐全，缺少的是状语，此时必须说 in which。扩展：the way in which...、the way that...、the way... 三种表达都正确；但若从句缺主语或宾语，则只能用 that / which 并在从句中充当该成分，不可省略。"
     },
     {
-      q: "The school ___ the old wooden floor repaired before the competition began.",
+      q: "Freshly ground coffee is generally ___ instant coffee when it comes to flavour.",
       options: [
-        "had",
-        "has had",
-        "have",
-        "having"
+        "more superior than",
+        "superior than",
+        "superior to",
+        "more superior to"
       ],
-      answer: 0,
-      explain: "考点：使役结构 “have something done”（请/让别人做某事，或某事由他人完成）。句型为 have + 宾语 + 过去分词。本句语境为过去（before the competition began），故用 had the floor repaired，意为“学校请人把旧木地板修缮好”。B（has had）是现在完成时的使役，与 began 的过去时间不符；C（have）动词原形不能作谓语，且主语 school 为单数、语境为过去；D（having）是非谓语形式，不能单独充当句子谓语。扩展：同义结构还有 “get something done”（get the floor repaired），口语中更常见；二者都强调“主语自己不做，而是让别人做”。"
+      answer: 2,
+      explain: "考点：比较结构——本身已含比较意义的形容词后接 to 而非 than。superior（更好的）、inferior（较差的）、senior（级别较高的）、junior（级别较低的）、prior（先于……的）等词本身已含比较意义，没有比较级和最高级形式，不与 more 连用，也不搭配 than，其固定结构是 superior to / inferior to 等。因此 A（more superior than）与 D（more superior to）都错在冗余地加了 more；B（superior than）错在误用了 than。正确答案为 C（superior to）。扩展：还可插入方面状语，如 These beans are superior in aroma to those on the shelf.（这些豆子在香气上优于货架上的那些。）此时比较对象依然由 to 引出，而不是 than。"
     }
   ]
 };

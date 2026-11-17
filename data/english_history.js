@@ -443,5 +443,17 @@ window.ENGLISH_HISTORY = [
     topic: "Dance: Movement, Culture and the Human Body（舞蹈：律动、文化与人体）",
     articleTitle: "The Living Language of the Body: Why Dance Still Matters",
     words: ["choreography","dancer","ballet","posture","flexibility","pirouette","choreographer","graceful","expressive","technique","gesture","limb","synchronize","elevate","nonverbal","kinesthetic","poise","refine","dynamic","cadence","virtuoso","elegance","intensity","participant","ballroom","choreograph","gala","fluid","tone","inspire"]
+  },
+  {
+    date: "2026-11-16",
+    topic: "Epidemics, Pandemics & the Science of Infectious Disease（流行病、大流行与传染病科学）",
+    articleTitle: "The Invisible Enemy: How Infectious Disease Shapes Our World",
+    words: ["epidemic","pandemic","pathogen","virulent","contagious","contagion","infect","vector","incubation","onset","afflict","predispose","immunity","inoculate","booster","administer","disinfect","sterilize","isolate","vigilance","resurgence","widespread","sporadic","influenza","epidemiologist","antimicrobial","harbor","convalescence","fatality","contain"]
+  },
+  {
+    date: "2026-11-17",
+    topic: "The Science of Flavour: Taste, Smell and the Food We Love（风味的科学：味觉、嗅觉与我们喜爱的食物）",
+    articleTitle: "More Than Taste: The Science of Flavour",
+    words: ["palate","flavour","aroma","gustatory","savoury","pungent","bland","scent","odour","nostril","receptor","seasoning","condiment","culinary","ingredient","ferment","texture","appetizing","palatable","delectable","aromatic","digestion","delicacy","tangy","umami","aftertaste","piquancy","essence","infusion","lingering"]
   }
 ];
