@@ -455,5 +455,11 @@ window.ENGLISH_HISTORY = [
     topic: "The Science of Flavour: Taste, Smell and the Food We Love（风味的科学：味觉、嗅觉与我们喜爱的食物）",
     articleTitle: "More Than Taste: The Science of Flavour",
     words: ["palate","flavour","aroma","gustatory","savoury","pungent","bland","scent","odour","nostril","receptor","seasoning","condiment","culinary","ingredient","ferment","texture","appetizing","palatable","delectable","aromatic","digestion","delicacy","tangy","umami","aftertaste","piquancy","essence","infusion","lingering"]
+  },
+  {
+    date: "2026-11-18",
+    topic: "Desertification, Drylands & the Fight Against Land Degradation（荒漠化、干旱土地与遏制土地退化的斗争）",
+    articleTitle: "When the Land Turns to Dust: The Fight Against Desertification",
+    words: ["aridity","dryland","topsoil","overgrazing","grazing","salinization","salinity","barren","fertile","irrigation","dune","sandstorm","silt","windbreak","shelterbelt","shrub","grassland","pastoral","nomad","mulch","rehabilitation","evaporation","transpiration","monsoon","steppe","oasis","fodder","fallow","shortage","hazard"]
   }
 ];

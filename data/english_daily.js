@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-17",
-  topic: "The Science of Flavour: Taste, Smell and the Food We Love（风味的科学：味觉、嗅觉与我们喜爱的食物）",
+  date: "2026-11-18",
+  topic: "Desertification, Drylands & the Fight Against Land Degradation（荒漠化、干旱土地与遏制土地退化的斗争）",
   article: {
-    title: "More Than Taste: The Science of Flavour",
-    titleCn: "不止于味道：风味的科学",
+    title: "When the Land Turns to Dust: The Fight Against Desertification",
+    titleCn: "当土地化为尘土：抗击荒漠化之战",
     paras: [
       {
-        en: "Flavour is far more than a property of food; it is a construction of the human senses. The tongue detects only a handful of basic tastes, such as sweetness, bitterness, sourness and saltiness, while the nose identifies thousands of volatile compounds. When we eat, aromas travel from the mouth up the back of the throat, and the brain merges these signals into one seamless impression. This is why a blocked nose can make even a favourite meal taste strangely flat.",
-        cn: "风味远不只是食物本身的一种属性，它是人类感官共同构建的结果。舌头只能辨别寥寥几种基本味道，如甜、苦、酸、咸，而鼻子却能识别成千上万种挥发性化合物。进食时，香气从口腔沿喉咙后部上行，大脑把这些信号融合成一个完整连贯的印象。这也解释了为什么鼻子堵塞时，就连最爱的一餐尝起来也会奇怪地淡而无味。"
+        en: "Desertification does not mean that a desert simply advances across the countryside. It describes the gradual loss of fertile topsoil and plant cover in dryland regions, where rainfall is irregular and evaporation is intense. Vast areas are thought to be affected, and the families dependent on them are often among the poorest. Once the protecting shrub layer disappears, wind lifts dust into the air; the remaining ground holds less water, and every failed season makes a return to fertility harder.",
+        cn: "荒漠化并不意味着沙漠只是简单向前推进、吞没乡村。它指的是在干旱地区，肥沃的表土和植被覆盖逐渐流失的过程——那里降雨不规律，蒸发强烈。据估计，大片土地受到影响，而依赖这些土地生活的家庭往往最为贫困。一旦起保护作用的灌木层消失，风就会把尘土卷入空中；剩下的土壤持水能力下降，每一个歉收的季节都让地力恢复变得更加困难。"
       },
       {
-        en: "Researchers have long known that smell contributes most of what we call taste. Receptor cells in the nose respond to airborne molecules released during chewing, and these signals reach the brain together with input from the tongue. Surprisingly, the nose distinguishes far more subtleties than the tongue: people can often name a fruit from its scent alone. This explains why chefs speak of building aroma as carefully as they balance salt or acidity in a dish.",
-        cn: "研究者早就知道，我们所谓的“味道”大部分其实来自嗅觉。鼻腔中的感受器细胞会对咀嚼时释放的空气传播分子作出反应，这些信号与来自舌头的输入一同抵达大脑。令人惊讶的是，鼻子能分辨的细微差别远多于舌头：人们往往单凭气味就能说出一种水果的名字。这也解释了为什么厨师谈起营造香气时，会像平衡一道菜里的盐分或酸度一样小心翼翼。"
+        en: "Human activity can compress into decades a change that nature might take centuries to produce. Overgrazing strips grassland before plants can reseed, and households short of fuelwood cut the last scrub for cooking. Poor irrigation raises the water table, and evaporation draws salts upward; this salinization raises salinity near the surface and can leave fields barren within seasons. Shorter fallow periods prevent soil structure from recovering, while a weak monsoon can turn a marginal harvest into a shortage.",
+        cn: "人类活动能把大自然可能需要数百年才造成的变化压缩到几十年之内。过度放牧使草原在植物重新结籽之前就被啃秃，缺少薪柴的家庭则把最后的灌木丛砍去生火。规划不当的灌溉会抬高地下水位，蒸发又把盐分带到地表；这种盐碱化提高了表层土壤的盐度，能在几个季节内就让农田变得贫瘠。休耕期缩短使土壤结构无从恢复，而季风偏弱则可能让原本勉强糊口的收成变成一场短缺。"
       },
       {
-        en: "Preferences for particular flavours are learned rather than inborn. Children initially reject bitter vegetables, yet repeated exposure can turn dislike into enjoyment, and adults in different cultures develop very different palates. A pungent spice cherished in one country may seem unbearable in another. Food writers argue that such variation is not a matter of superior or inferior taste, but of familiarity: what we eat often becomes what we love.",
-        cn: "对特定风味的偏好是习得的，而非天生的。儿童起初会拒绝苦味蔬菜，但反复接触能把厌恶变成喜爱，不同文化中的成年人也会形成截然不同的口味。在某一个国家备受珍爱的辛辣香料，在另一个国家可能让人难以忍受。美食评论家认为，这种差异并非口味有高下之分，而是熟悉程度不同：我们常吃的东西，往往就会变成我们所爱的东西。"
+        en: "The effects spread well beyond the farms themselves. Dust raised from exposed soil travels thousands of kilometres, fouling the air of distant cities and depositing fine silt in reservoirs. A creeping dune can bury roads and classrooms, forcing nomad families and herders to abandon settlements that have stood for generations. Where pastoral communities once moved livestock between seasonal pastures, fixed borders now crowd animals around the few remaining wells, and competition for fodder can harden into conflict.",
+        cn: "其影响远远超出农田本身。从裸露土壤上扬起的尘土可以飘散数千公里，污染远方城市的空气，并把细小的泥沙沉积在水库中。缓缓移动的沙丘可能掩埋道路和教室，迫使游牧家庭和牧民舍弃世代相传的定居点。过去牧业社区会在季节性牧场之间转移牲畜，如今固定的边界却把动物挤在仅存的几口井旁，对草料的争夺可能演变成公开的冲突。"
       },
       {
-        en: "The food industry has exploited this knowledge for decades, engineering snacks with precise levels of salt, sugar and aroma to maximize pleasure. Critics worry that such products encourage overeating, because unnatural combinations of texture and seasoning can overwhelm the body's signals of fullness. A growing number of nutritionists therefore recommend slower eating, urging people to notice flavour rather than consume quickly. Understanding how flavour works may help us make wiser, more enjoyable choices.",
-        cn: "食品工业利用这些知识已有数十年之久，通过精确调配盐、糖和香气的含量来设计零食，以最大化愉悦感。批评者担心这类产品会助长过量进食，因为质地与调味的非自然组合会压倒身体发出的饱腹信号。因此，越来越多的营养学家建议放慢进食速度，敦促人们去细细感受风味，而不是匆匆吞下。理解风味的运作方式，或许能帮助我们做出更明智、更愉快的选择。"
+        en: "Successful rehabilitation is patient and local rather than spectacular. Shelterbelts of drought-tolerant trees act as a windbreak, and a layer of mulch keeps moisture in the topsoil long enough for seedlings to establish. Rotational grazing gives grassland time to rest, and earth banks capture storm rain. Such measures work best when farmers choose them; projects designed far away often collapse once funding ends. In the end, tackling aridity depends on local knowledge as much as on science.",
+        cn: "成功的土地修复靠的是耐心和因地制宜，而非声势浩大的工程。由耐旱树木组成的防护林带充当防风屏障，一层覆盖物则把水分留在表土中，足够幼苗扎根。轮牧让草原得到休养，土埂则拦蓄暴雨的雨水。这类措施在由农民自主选择时效果最好；远在别处设计出来的项目，往往在资金结束后就告失败。说到底，应对干旱既靠科学，也同样依赖当地的知识。"
       }
     ],
     glossary: [
-      { w: "construction", pos: "n.", p: "/kənˈstrʌkʃn/", cn: "构建；构造；建筑物" },
-      { w: "volatile", pos: "adj.", p: "/ˈvɒlətaɪl/", cn: "易挥发的；不稳定的" },
-      { w: "compounds", pos: "n.", p: "/ˈkɒmpaʊndz/", cn: "化合物（复数）" },
-      { w: "merges", pos: "v.", p: "/mɜːdʒɪz/", cn: "融合；合并（第三人称）" },
-      { w: "seamless", pos: "adj.", p: "/ˈsiːmləs/", cn: "无缝的；连贯完整的" },
-      { w: "impression", pos: "n.", p: "/ɪmˈpreʃn/", cn: "印象；感受" },
-      { w: "blocked", pos: "adj.", p: "/blɒkt/", cn: "堵塞的；受阻的" },
-      { w: "flat", pos: "adj.", p: "/flæt/", cn: "平淡的；淡而无味的" },
-      { w: "contributes", pos: "v.", p: "/kənˈtrɪbjuːts/", cn: "贡献；促成（第三人称）" },
-      { w: "airborne", pos: "adj.", p: "/ˈeəbɔːn/", cn: "空气传播的；空中的" },
-      { w: "molecules", pos: "n.", p: "/ˈmɒlɪkjuːlz/", cn: "分子（复数）" },
-      { w: "chewing", pos: "n.", p: "/ˈtʃuːɪŋ/", cn: "咀嚼" },
-      { w: "subtleties", pos: "n.", p: "/ˈsʌtltiz/", cn: "细微差别；微妙之处（复数）" },
-      { w: "acidity", pos: "n.", p: "/əˈsɪdəti/", cn: "酸度；酸性" },
-      { w: "inborn", pos: "adj.", p: "/ˌɪnˈbɔːn/", cn: "天生的；先天的" },
-      { w: "exposure", pos: "n.", p: "/ɪkˈspəʊʒə(r)/", cn: "接触；暴露" },
-      { w: "cherished", pos: "adj.", p: "/ˈtʃerɪʃt/", cn: "备受珍爱的；珍视的" },
-      { w: "unbearable", pos: "adj.", p: "/ʌnˈbeərəbl/", cn: "难以忍受的" },
-      { w: "superior", pos: "adj.", p: "/suːˈpɪəriə(r)/", cn: "更好的；优越的" },
-      { w: "inferior", pos: "adj.", p: "/ɪnˈfɪəriə(r)/", cn: "较差的；低劣的" },
-      { w: "familiarity", pos: "n.", p: "/fəˌmɪliˈærəti/", cn: "熟悉；熟悉程度" },
-      { w: "exploited", pos: "v.", p: "/ɪkˈsplɔɪtɪd/", cn: "利用；开发（过去式/过去分词）" },
-      { w: "engineering", pos: "v.", p: "/ˌendʒɪˈnɪərɪŋ/", cn: "精心设计；设计制造（现在分词）" },
-      { w: "maximize", pos: "v.", p: "/ˈmæksɪmaɪz/", cn: "使最大化；充分利用" },
-      { w: "overwhelm", pos: "v.", p: "/ˌəʊvəˈwelm/", cn: "压倒；使不知所措" },
-      { w: "fullness", pos: "n.", p: "/ˈfʊlnəs/", cn: "饱腹感；充满" },
-      { w: "nutritionists", pos: "n.", p: "/njuˈtrɪʃənɪsts/", cn: "营养学家（复数）" },
-      { w: "urging", pos: "v.", p: "/ˈɜːdʒɪŋ/", cn: "敦促；力劝（现在分词）" }
+      { w: "fertile", pos: "adj.", p: "/ˈfɜːtaɪl/", cn: "肥沃的；富饶的" },
+      { w: "topsoil", pos: "n.", p: "/ˈtɒpsɔɪl/", cn: "表土；表层土壤" },
+      { w: "dryland", pos: "n.", p: "/ˈdraɪlænd/", cn: "干旱地区；旱地" },
+      { w: "irregular", pos: "adj.", p: "/ɪˈreɡjələ(r)/", cn: "不规则的；不规律的" },
+      { w: "evaporation", pos: "n.", p: "/ɪˌvæpəˈreɪʃn/", cn: "蒸发；挥发" },
+      { w: "shrub", pos: "n.", p: "/ʃrʌb/", cn: "灌木" },
+      { w: "dust", pos: "n.", p: "/dʌst/", cn: "尘土；灰尘" },
+      { w: "overgrazing", pos: "n.", p: "/ˌəʊvəˈɡreɪzɪŋ/", cn: "过度放牧" },
+      { w: "grassland", pos: "n.", p: "/ˈɡrɑːslænd/", cn: "草原；草地" },
+      { w: "reseed", pos: "v.", p: "/ˌriːˈsiːd/", cn: "重新播种；自然结籽繁殖" },
+      { w: "fuelwood", pos: "n.", p: "/ˈfjuːlwʊd/", cn: "薪柴；燃料木" },
+      { w: "scrub", pos: "n.", p: "/skrʌb/", cn: "灌木丛；矮树丛" },
+      { w: "irrigation", pos: "n.", p: "/ˌɪrɪˈɡeɪʃn/", cn: "灌溉" },
+      { w: "salinization", pos: "n.", p: "/ˌsælɪnaɪˈzeɪʃn/", cn: "盐碱化；盐化" },
+      { w: "salinity", pos: "n.", p: "/səˈlɪnəti/", cn: "盐度；含盐量" },
+      { w: "barren", pos: "adj.", p: "/ˈbærən/", cn: "贫瘠的；荒芜的" },
+      { w: "fallow", pos: "adj.", p: "/ˈfæləʊ/", cn: "休耕的；闲置的" },
+      { w: "monsoon", pos: "n.", p: "/ˌmɒnˈsuːn/", cn: "季风；雨季" },
+      { w: "shortage", pos: "n.", p: "/ˈʃɔːtɪdʒ/", cn: "短缺；不足" },
+      { w: "silt", pos: "n.", p: "/sɪlt/", cn: "淤泥；泥沙" },
+      { w: "dune", pos: "n.", p: "/djuːn/", cn: "沙丘" },
+      { w: "nomad", pos: "n.", p: "/ˈnəʊmæd/", cn: "游牧民；流浪者" },
+      { w: "pastoral", pos: "adj.", p: "/ˈpɑːstərəl/", cn: "牧场的；牧民的；田园的" },
+      { w: "fodder", pos: "n.", p: "/ˈfɒdə(r)/", cn: "饲料；草料" },
+      { w: "rehabilitation", pos: "n.", p: "/ˌriːəˌbɪlɪˈteɪʃn/", cn: "修复；重建；康复" },
+      { w: "windbreak", pos: "n.", p: "/ˈwɪndbreɪk/", cn: "防风林；防风墙" },
+      { w: "mulch", pos: "n.", p: "/mʌltʃ/", cn: "覆盖物；护根层" },
+      { w: "aridity", pos: "n.", p: "/əˈrɪdəti/", cn: "干旱；干燥" }
     ]
   },
   words: [
-    { w: "palate", pos: "n.", p: "/ˈpælət/", cn: "味觉；口味；上颚", ex: "Years of travelling had given her a remarkably adventurous palate.", exCn: "多年的旅行为她造就了极为敢于尝试的口味。" },
-    { w: "flavour", pos: "n.", p: "/ˈfleɪvə(r)/", cn: "风味；味道；滋味", ex: "The soup lacked flavour until she added a little more salt.", exCn: "这锅汤直到她多加了一点盐才有味道。" },
-    { w: "aroma", pos: "n.", p: "/əˈrəʊmə/", cn: "香气；芳香", ex: "The rich aroma of freshly baked bread filled the whole street.", exCn: "刚烤好的面包散发出的浓郁香气弥漫了整条街。" },
-    { w: "gustatory", pos: "adj.", p: "/ˈɡʌstətəri/", cn: "味觉的；尝味的", ex: "The gustatory nerves send signals to the brain within seconds.", exCn: "味觉神经会在几秒内把信号传送到大脑。" },
-    { w: "savoury", pos: "adj.", p: "/ˈseɪvəri/", cn: "咸香的；可口的；非甜味的", ex: "She prefers savoury snacks to sweet ones in the afternoon.", exCn: "下午她更喜欢咸香的小吃，而不是甜食。" },
-    { w: "pungent", pos: "adj.", p: "/ˈpʌndʒənt/", cn: "刺鼻的；辛辣的；尖锐的", ex: "A pungent smell of garlic drifted out of the kitchen.", exCn: "一股刺鼻的大蒜味从厨房里飘了出来。" },
-    { w: "bland", pos: "adj.", p: "/blænd/", cn: "清淡的；乏味的；温和的", ex: "The hospital food was nourishing but rather bland.", exCn: "医院的饭菜很有营养，但相当清淡。" },
-    { w: "scent", pos: "n.", p: "/sent/", cn: "气味；香味；香气", ex: "The scent of rain on dry earth is oddly comforting.", exCn: "雨水落在干土地上的气味出人意料地令人安心。" },
-    { w: "odour", pos: "n.", p: "/ˈəʊdə(r)/", cn: "气味；臭味（尤指难闻的）", ex: "An unpleasant odour was coming from the bottom of the bin.", exCn: "一股难闻的气味从垃圾桶底部散发出来。" },
-    { w: "nostril", pos: "n.", p: "/ˈnɒstrəl/", cn: "鼻孔", ex: "The smoke was so thick that it stung both nostrils.", exCn: "烟太浓了，刺痛了两个鼻孔。" },
-    { w: "receptor", pos: "n.", p: "/rɪˈseptə(r)/", cn: "感受器；受体", ex: "Each receptor on the tongue responds to a different chemical.", exCn: "舌头上的每个感受器都会对不同的化学物质作出反应。" },
-    { w: "seasoning", pos: "n.", p: "/ˈsiːzənɪŋ/", cn: "调味料；调味品", ex: "A little seasoning can transform a plain bowl of soup.", exCn: "一点点调味料就能让一碗清汤焕然一新。" },
-    { w: "condiment", pos: "n.", p: "/ˈkɒndɪmənt/", cn: "调味品；佐料", ex: "Every table had a small bottle of his favourite condiment.", exCn: "每张桌子上都放着一瓶他最爱的调味品。" },
-    { w: "culinary", pos: "adj.", p: "/ˈkʌlɪnəri/", cn: "烹饪的；厨艺的", ex: "Her culinary skills improved after a year in Paris.", exCn: "在巴黎待了一年后，她的厨艺提高了。" },
-    { w: "ingredient", pos: "n.", p: "/ɪnˈɡriːdiənt/", cn: "配料；成分；要素", ex: "Freshness is the most important ingredient in this recipe.", exCn: "新鲜度是这份食谱中最重要的要素。" },
-    { w: "ferment", pos: "v.", p: "/fəˈment/", cn: "发酵；酝酿", ex: "The beans ferment slowly for several weeks before roasting.", exCn: "这些豆子在烘焙前要缓慢发酵数周。" },
-    { w: "texture", pos: "n.", p: "/ˈtekstʃə(r)/", cn: "质地；口感；纹理", ex: "The cake had a light texture and a crisp outer layer.", exCn: "这块蛋糕质地轻盈，外层酥脆。" },
-    { w: "appetizing", pos: "adj.", p: "/ˈæpɪtaɪzɪŋ/", cn: "开胃的；诱人的；令人食欲大增的", ex: "The dish looked so appetizing that everyone reached for a fork.", exCn: "这道菜看起来太诱人了，人人都伸手拿叉子。" },
-    { w: "palatable", pos: "adj.", p: "/ˈpælətəbl/", cn: "可口的；合口味的；可接受的", ex: "The medicine was made more palatable with a hint of honey.", exCn: "加了一点蜂蜜后，这种药变得更易入口。" },
-    { w: "delectable", pos: "adj.", p: "/dɪˈlektəbl/", cn: "美味的；宜人的", ex: "She served a delectable dessert of pears and dark chocolate.", exCn: "她端上了一道梨配黑巧克力的美味甜点。" },
-    { w: "aromatic", pos: "adj.", p: "/ˌærəˈmætɪk/", cn: "芳香的；有香气的", ex: "The market was full of aromatic herbs and dried flowers.", exCn: "市场里满是芳香的草药和干花。" },
-    { w: "digestion", pos: "n.", p: "/dɪˈdʒestʃən/", cn: "消化；消化能力", ex: "Eating slowly is said to aid digestion considerably.", exCn: "据说细嚼慢咽能大大帮助消化。" },
-    { w: "delicacy", pos: "n.", p: "/ˈdelɪkəsi/", cn: "美味佳肴；珍馐；精致", ex: "This rare cheese is considered a local delicacy.", exCn: "这种稀有奶酪被视为当地的一道珍馐。" },
-    { w: "tangy", pos: "adj.", p: "/ˈtæŋi/", cn: "酸辣的；味道浓烈的；开胃的", ex: "A tangy sauce lifted the flavour of the grilled fish.", exCn: "一种酸辣的酱汁提升了烤鱼的风味。" },
-    { w: "umami", pos: "n.", p: "/uːˈmɑːmi/", cn: "鲜味（第五种基本味觉）", ex: "Tomatoes and mushrooms are rich in natural umami.", exCn: "番茄和蘑菇富含天然的鲜味。" },
-    { w: "aftertaste", pos: "n.", p: "/ˈɑːftəteɪst/", cn: "余味；回味", ex: "The tea left a pleasant aftertaste that lasted for minutes.", exCn: "这种茶留下了持续数分钟的宜人回味。" },
-    { w: "piquancy", pos: "n.", p: "/ˈpiːkənsi/", cn: "辛辣；刺激性；趣味", ex: "A squeeze of lemon added piquancy to the otherwise mild soup.", exCn: "挤一点柠檬给原本清淡的汤增添了辛辣风味。" },
-    { w: "essence", pos: "n.", p: "/ˈesns/", cn: "精华；本质；香精", ex: "Vanilla essence is used in a surprising number of desserts.", exCn: "香草精被用于数量惊人的甜点之中。" },
-    { w: "infusion", pos: "n.", p: "/ɪnˈfjuːʒn/", cn: "浸泡；泡制；注入", ex: "A slow infusion of spices gives the broth its depth.", exCn: "香料的缓慢浸泡赋予了高汤醇厚的层次。" },
-    { w: "lingering", pos: "adj.", p: "/ˈlɪŋɡərɪŋ/", cn: "持久的；挥之不去的；徘徊的", ex: "A lingering smell of smoke followed us into the street.", exCn: "一股挥之不去的烟味跟着我们来到了街上。" }
+    { w: "aridity", pos: "n.", p: "/əˈrɪdəti/", cn: "干旱；干燥", ex: "The aridity of the region makes conventional farming almost impossible.", exCn: "该地区的干旱使传统农业几乎无法进行。" },
+    { w: "dryland", pos: "n.", p: "/ˈdraɪlænd/", cn: "干旱地区；旱地", ex: "Each dryland community has developed its own way of saving water.", exCn: "每个干旱地区社区都发展出了自己节约用水的办法。" },
+    { w: "topsoil", pos: "n.", p: "/ˈtɒpsɔɪl/", cn: "表土；表层土壤", ex: "Heavy rain washed away the topsoil from the sloping field.", exCn: "大雨冲走了斜坡农田上的表土。" },
+    { w: "overgrazing", pos: "n.", p: "/ˌəʊvəˈɡreɪzɪŋ/", cn: "过度放牧", ex: "Overgrazing has left little grass for the winter months.", exCn: "过度放牧使得冬季几乎没有草可吃。" },
+    { w: "grazing", pos: "n.", p: "/ˈɡreɪzɪŋ/", cn: "放牧；吃草", ex: "Rotational grazing allows damaged pasture to recover naturally.", exCn: "轮牧让受损的牧场得以自然恢复。" },
+    { w: "salinization", pos: "n.", p: "/ˌsælɪnaɪˈzeɪʃn/", cn: "盐碱化；盐化", ex: "Salinization has ruined farmland that once produced wheat.", exCn: "盐碱化毁掉了曾经出产小麦的农田。" },
+    { w: "salinity", pos: "n.", p: "/səˈlɪnəti/", cn: "盐度；含盐量", ex: "Farmers test the salinity of the soil before planting each crop.", exCn: "农民在种下每种作物前都会检测土壤的盐度。" },
+    { w: "barren", pos: "adj.", p: "/ˈbærən/", cn: "贫瘠的；荒芜的", ex: "What had been a green valley is now a barren stretch of sand.", exCn: "曾经翠绿的山谷如今成了一片荒芜的沙地。" },
+    { w: "fertile", pos: "adj.", p: "/ˈfɜːtaɪl/", cn: "肥沃的；富饶的", ex: "The river deposits fertile soil along its banks every year.", exCn: "这条河每年都在两岸沉积肥沃的土壤。" },
+    { w: "irrigation", pos: "n.", p: "/ˌɪrɪˈɡeɪʃn/", cn: "灌溉", ex: "Drip irrigation uses far less water than flooding the fields.", exCn: "滴灌比漫灌用水少得多。" },
+    { w: "dune", pos: "n.", p: "/djuːn/", cn: "沙丘", ex: "The children slid down a steep dune behind their village.", exCn: "孩子们从村后一座陡峭的沙丘上滑下来。" },
+    { w: "sandstorm", pos: "n.", p: "/ˈsændstɔːm/", cn: "沙尘暴", ex: "A sudden sandstorm forced the school to close for the day.", exCn: "一场突如其来的沙尘暴迫使学校当天停课。" },
+    { w: "silt", pos: "n.", p: "/sɪlt/", cn: "淤泥；泥沙", ex: "Fine silt carried by floodwater gradually filled the reservoir.", exCn: "洪水带来的细泥沙逐渐淤积在水库里。" },
+    { w: "windbreak", pos: "n.", p: "/ˈwɪndbreɪk/", cn: "防风林；防风墙", ex: "A row of trees serves as a windbreak for the exposed orchard.", exCn: "一排树为暴露在外的果园充当防风林。" },
+    { w: "shelterbelt", pos: "n.", p: "/ˈʃeltəbelt/", cn: "防护林带", ex: "The government planted a shelterbelt to hold the shifting sands.", exCn: "政府种下一条防护林带，以固定流动的沙丘。" },
+    { w: "shrub", pos: "n.", p: "/ʃrʌb/", cn: "灌木", ex: "Even a small shrub can protect the soil beneath it from wind.", exCn: "即使一株小灌木也能保护其下方的土壤免受风蚀。" },
+    { w: "grassland", pos: "n.", p: "/ˈɡrɑːslænd/", cn: "草原；草地", ex: "The grassland turns gold in the dry months of late summer.", exCn: "到了夏末的旱季，这片草原变成金黄色。" },
+    { w: "pastoral", pos: "adj.", p: "/ˈpɑːstərəl/", cn: "牧场的；牧民的；田园的", ex: "Pastoral communities move their animals to fresh grass each season.", exCn: "牧业社区每个季节都会把牲畜转移到新草场。" },
+    { w: "nomad", pos: "n.", p: "/ˈnəʊmæd/", cn: "游牧民；流浪者", ex: "The nomad pitched his tent near a spring at dusk.", exCn: "这位游牧民在黄昏时把帐篷搭在泉水附近。" },
+    { w: "mulch", pos: "n.", p: "/mʌltʃ/", cn: "覆盖物；护根层", ex: "A thick mulch of straw keeps the soil damp for longer.", exCn: "厚厚一层稻草覆盖物能让土壤更长时间保持湿润。" },
+    { w: "rehabilitation", pos: "n.", p: "/ˌriːəˌbɪlɪˈteɪʃn/", cn: "修复；重建；康复", ex: "Land rehabilitation takes years of patient, community-led work.", exCn: "土地修复需要多年耐心的、由社区主导的工作。" },
+    { w: "evaporation", pos: "n.", p: "/ɪˌvæpəˈreɪʃn/", cn: "蒸发；挥发", ex: "Strong sunlight increases evaporation from the shallow pond.", exCn: "强烈的阳光加快了浅池塘的水分蒸发。" },
+    { w: "transpiration", pos: "n.", p: "/ˌtrænspɪˈreɪʃn/", cn: "蒸腾作用", ex: "Trees lose water through transpiration on hot, windy days.", exCn: "在炎热多风的日子里，树木通过蒸腾作用散失水分。" },
+    { w: "monsoon", pos: "n.", p: "/ˌmɒnˈsuːn/", cn: "季风；雨季", ex: "The monsoon arrived two weeks late and shortened the growing season.", exCn: "季风迟到了两周，缩短了作物的生长期。" },
+    { w: "steppe", pos: "n.", p: "/step/", cn: "干草原；大草原", ex: "The open steppe stretched to the horizon without a single tree.", exCn: "辽阔的干草原一直延伸到地平线，一棵树也没有。" },
+    { w: "oasis", pos: "n.", p: "/əʊˈeɪsɪs/", cn: "绿洲", ex: "A small oasis appeared where the underground water reached the surface.", exCn: "地下水涌出地表的地方出现了一小片绿洲。" },
+    { w: "fodder", pos: "n.", p: "/ˈfɒdə(r)/", cn: "饲料；草料", ex: "Stored fodder keeps the herd alive during the driest months.", exCn: "储存的草料让畜群在最干旱的月份里得以生存。" },
+    { w: "fallow", pos: "adj.", p: "/ˈfæləʊ/", cn: "休耕的；闲置的", ex: "Leaving a field fallow for one season restores some of its nutrients.", exCn: "让一块田休耕一季，可以恢复其中的部分养分。" },
+    { w: "shortage", pos: "n.", p: "/ˈʃɔːtɪdʒ/", cn: "短缺；不足", ex: "A shortage of water forced the village to ration supplies.", exCn: "缺水迫使这个村庄定量供应水源。" },
+    { w: "hazard", pos: "n.", p: "/ˈhæzəd/", cn: "危害；隐患；危险", ex: "Airborne dust is a serious health hazard for nearby residents.", exCn: "空气中的尘土对附近居民构成严重的健康危害。" }
   ],
   vocabArticle: {
-    title: "A Feast for the Senses（感官的盛宴）",
-    titleCn: "感官的盛宴",
+    title: "A Valley Learns to Live with Less Water（一个学会少用水生存的河谷）",
+    titleCn: "一个学会少用水生存的河谷",
     paras: [
       {
-        en: "A person's palate determines how they judge every flavour. Some diners love a robust aroma, while others prefer a bland dish that offends no one. A gustatory impression begins on the tongue, but a savoury smell or a pungent spice can change it completely. Even before the first bite, the scent of bread or the faint odour of smoke entering each nostril prepares the brain for what is coming.",
-        cn: "一个人的味觉决定了他如何评判每一种风味。有些食客热爱浓郁的香气，另一些人则偏爱清淡、不得罪任何人的菜。味觉印象始于舌头，但一股咸香的气味或一种辛辣的香料能彻底改变它。甚至在咬第一口之前，面包的香味或进入每个鼻孔的淡淡烟味，就已让大脑为即将到来的味道做好准备。"
+        en: "The valley's aridity was no secret: for months each year the dryland held only a thin layer of topsoil over stone. Farmers who had once called the same ground fertile now watched the wind lift dust from every fallow field. A sandstorm could arrive before noon, and by evening a dune had shifted across the track to the school. Local elders remembered when a monsoon usually filled the wells; now even a modest shortage of rain threatened the whole harvest.",
+        cn: "这个河谷的干旱并不是秘密：每年有几个月，这片旱地只在石头上覆盖着薄薄一层表土。曾称同一片土地为沃土的农民，如今只能看着风从每一块休耕的田里卷起尘土。沙尘暴可能在中午前到来，到傍晚，一座沙丘就已移到通往学校的土路上。当地老人还记得季风通常会把井灌满的年月；如今，即使只是雨水稍显不足，也会威胁到整季收成。"
       },
       {
-        en: "Specialist cells act as a receptor for each airborne molecule, and seasoning can transform a humble ingredient. In every culinary tradition, a cook adds a condiment or two, allows sauces to ferment, and carefully controls texture so that a meal feels as good as it tastes. The fifth basic taste, umami, gives cooked tomatoes and aged cheese their deeper, satisfying quality.",
-        cn: "专门的细胞充当每一种空气传播分子的感受器，而调味料能改变一种不起眼的配料。在每一种烹饪传统中，厨师都会加上一两种调味品，让酱汁发酵，并仔细控制质地，使一餐的口感与味道同样出色。第五种基本味道——鲜味，赋予熟番茄和陈年奶酪更醇厚、更令人满足的特质。"
+        en: "Two habits had caused most of the damage. Overgrazing left the grassland bare before the rains returned, and continuous grazing around the wells meant that no seedling survived. Households also needed more fodder for their animals, so the last shrub was cut. When officials installed irrigation canals without drainage, evaporation left white salt on the surface; within seasons the salinity rose and salinization made whole plots barren. Even the nomad herders who passed through in winter found less to eat.",
+        cn: "两种习惯造成了大部分破坏。过度放牧使草原在雨季回来之前变得光秃秃，井边持续不断的放牧则让没有一株幼苗能够存活。各家还需要更多草料喂养牲畜，于是最后一丛灌木也被砍掉了。当官员们修建灌溉渠却没有配套排水时，蒸发在地表留下白色盐霜；几个季节之内盐度上升，盐碱化让整块整块的田变得贫瘠。就连冬天经过此地的游牧牧民，也发现可吃的东西变少了。"
       },
       {
-        en: "An appetizing plate is rarely accidental. A chef seeks something palatable and delectable, using an aromatic herb or a tangy sauce to lift a simple delicacy. The essence of a good recipe may lie in a slow infusion of spices, and a touch of piquancy keeps the palate interested from the first mouthful to the last.",
-        cn: "一盘令人食欲大增的菜很少是偶然得来的。厨师追求可口而美味的成品，用一种芳香的香草或酸辣的酱汁来提升一道简单的佳肴。好食谱的精髓或许在于香料的缓慢浸泡，而一丝辛辣能让味觉从第一口到最后一口都保持兴趣。"
+        en: "The turning point came when a small team studied the water rather than the crops. They measured transpiration from leaves, mapped the silt carried by floods, and noted that the old steppe had once supported scattered trees. A shelterbelt was planted along the exposed ridge, with a windbreak of lower bushes behind it. Mulch spread around young plants kept the soil cool, and a narrow oasis of green slowly reappeared near the spring.",
+        cn: "转折点出现在一个小团队决定先研究水、而不是研究庄稼的时候。他们测量叶片的蒸腾作用，绘制洪水携带的泥沙分布图，并注意到古老的干草原曾经支撑着零星的树木。人们沿着裸露的山脊种下一条防护林带，后面再配上一排较矮灌木组成的防风屏障。铺在幼苗周围的覆盖物让土壤保持凉爽，泉水附近渐渐重新出现了一小块绿色绿洲。"
       },
       {
-        en: "Good digestion begins long before food reaches the stomach, because pleasure itself aids the process. A lingering aftertaste can turn an ordinary meal into a memory, while a harsh or artificial note spoils it. That is why thoughtful cooks respect both science and instinct when they compose a dish.",
-        cn: "良好的消化早在食物到达胃部之前就已开始，因为愉悦感本身会有助于这一过程。持久的余味能把一顿寻常的饭变成一段记忆，而刺鼻或人造的味道则会毁掉它。正因如此，有心的厨师在创作一道菜时，既尊重科学，也尊重直觉。"
+        en: "The project's rehabilitation was never a single grand engineering work. Pastoral families agreed to rotate their animals, and the hazard of windborne dust declined as cover returned. Today visitors still see bare ground, but they also see shade. The lesson is plain: dry land recovers when people reduce the grazing pressure first and build the wells second.",
+        cn: "这个项目的土地修复从来不是一项宏大的工程。牧民家庭同意轮流放牧，随着植被恢复，风沙尘土造成的危害也减轻了。如今来访者仍能看到裸露的地面，但也能看到树荫。道理很简单：只要人们先减轻放牧压力、再考虑打井，干旱土地就能恢复。"
       }
     ]
   },
   grammar: [
     {
-      q: "The way ___ the brain combines taste and smell varies surprisingly from person to person.",
+      q: "The first settlers ___ the dry valley discovered a spring that could sustain their livestock.",
       options: [
-        "which",
-        "that",
-        "what",
-        "how"
+        "to reach",
+        "reaching",
+        "reached",
+        "being reached"
       ],
-      answer: 1,
-      explain: "考点：定语从句——先行词为 way 时的关系词选择。当先行词是 way，且定语从句中缺少的是方式状语（即“以某种方式”）时，可用 in which 或 that 引导，也常直接省略关系词，但不能用 what（what 不引导定语从句，且自身包含先行词），更不能用 how（how 不能引导定语从句）。本句中 the way that the brain combines taste and smell 意为“大脑把味觉与嗅觉结合起来的方式”，that 在从句中作方式状语。A（which）也不成立：若用 which，它须在从句中作主语或宾语，而本句主谓宾齐全，缺少的是状语，此时必须说 in which。扩展：the way in which...、the way that...、the way... 三种表达都正确；但若从句缺主语或宾语，则只能用 that / which 并在从句中充当该成分，不可省略。"
+      answer: 0,
+      explain: "考点：非谓语动词——不定式作后置定语。当名词被序数词（the first / the second）、last、next、only 或形容词最高级修饰时，其后通常用不定式作后置定语，表示“第几个做某事的人/物”，即 the first settlers to reach the valley（第一批到达这个干旱山谷的定居者）。B（reaching）是现在分词，强调主动、进行或伴随，不能表达“序数词所指的那一次动作”；C（reached）是谓语动词过去式，会造成一个句子出现两个谓语而缺少连词；D（being reached）是被动进行的现在分词，既语义不通（定居者主动抵达），也不符合该结构。扩展：类似表达还有 the last person to leave、the only one to complain、the best solution to adopt，均用不定式。"
     },
     {
-      q: "Freshly ground coffee is generally ___ instant coffee when it comes to flavour.",
+      q: "The government ___ vast sums on irrigation schemes that were never needed; the region's rainfall had recovered years earlier.",
       options: [
-        "more superior than",
-        "superior than",
-        "superior to",
-        "more superior to"
+        "needn't have spent",
+        "mustn't have spent",
+        "couldn't spend",
+        "shouldn't spend"
       ],
-      answer: 2,
-      explain: "考点：比较结构——本身已含比较意义的形容词后接 to 而非 than。superior（更好的）、inferior（较差的）、senior（级别较高的）、junior（级别较低的）、prior（先于……的）等词本身已含比较意义，没有比较级和最高级形式，不与 more 连用，也不搭配 than，其固定结构是 superior to / inferior to 等。因此 A（more superior than）与 D（more superior to）都错在冗余地加了 more；B（superior than）错在误用了 than。正确答案为 C（superior to）。扩展：还可插入方面状语，如 These beans are superior in aroma to those on the shelf.（这些豆子在香气上优于货架上的那些。）此时比较对象依然由 to 引出，而不是 than。"
+      answer: 0,
+      explain: "考点：情态动词 + 完成式——needn't have done 表示“本不必做却做了”。后半句说明该地区的降雨早在数年前就已恢复，可见灌溉工程其实没有必要，但钱已经花掉，因此用 needn't have spent（本不必花费却花了），带有遗憾或责备意味。B（mustn't have spent）不成立：mustn't 表“禁止”，不用于对过去动作的否定推测，对过去的否定推测应使用 couldn't/can't have done；C（couldn't spend）意为“当时没有能力花”，与“钱已经花出去了”矛盾；D（shouldn't spend）是对现在或将来的建议，时态与 had recovered、were 等过去语境不符。扩展：needn't have done 与 didn't need to do 意义不同——后者表示“过去不必做，所以也没做”，如 We didn't need to hurry, so we walked slowly.（我们不必着急，所以走得很慢。）"
     }
   ]
 };
