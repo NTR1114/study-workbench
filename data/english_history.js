@@ -461,5 +461,17 @@ window.ENGLISH_HISTORY = [
     topic: "Desertification, Drylands & the Fight Against Land Degradation（荒漠化、干旱土地与遏制土地退化的斗争）",
     articleTitle: "When the Land Turns to Dust: The Fight Against Desertification",
     words: ["aridity","dryland","topsoil","overgrazing","grazing","salinization","salinity","barren","fertile","irrigation","dune","sandstorm","silt","windbreak","shelterbelt","shrub","grassland","pastoral","nomad","mulch","rehabilitation","evaporation","transpiration","monsoon","steppe","oasis","fodder","fallow","shortage","hazard"]
+  },
+  {
+    date: "2026-11-19",
+    topic: "The Science of Colour: Perception, Pigment and the Palette of Human Culture（颜色的科学：感知、颜料与人类文化的调色板）",
+    articleTitle: "More Than Meets the Eye: The Science of Colour",
+    words: ["hue","pigment","retina","iris","tint","shade","saturation","chromatic","iridescent","vivid","muted","complementary","camouflage","symbolism","opaque","translucent","prism","reflection","refraction","monochromatic","palette","visualize","distinguish","gradient","pastel","garish","fluorescent","shimmer","stark","striking"]
+  },
+  {
+    date: "2026-11-20",
+    topic: "Weather Forecasting, Meteorology & the Science of Prediction（天气预报、气象学与预测科学）",
+    articleTitle: "Reading the Sky: The Science and Uncertainty of Weather Forecasting",
+    words: ["meteorology","meteorologist","barometer","radar","drizzle","downpour","gale","gust","thunderstorm","lightning","hail","frost","blizzard","humidity","dew","condensation","cumulus","stratus","cirrus","isobar","anticyclone","vortex","turbulence","chaos","chaotic","predict","prediction","uncertainty","accurate","probabilistic"]
   }
 ];

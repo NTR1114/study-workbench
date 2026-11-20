@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-18",
-  topic: "Desertification, Drylands & the Fight Against Land Degradation（荒漠化、干旱土地与遏制土地退化的斗争）",
+  date: "2026-11-20",
+  topic: "Weather Forecasting, Meteorology & the Science of Prediction（天气预报、气象学与预测科学）",
   article: {
-    title: "When the Land Turns to Dust: The Fight Against Desertification",
-    titleCn: "当土地化为尘土：抗击荒漠化之战",
+    title: "Reading the Sky: The Science and Uncertainty of Weather Forecasting",
+    titleCn: "读懂天空：天气预报的科学与其不确定性",
     paras: [
       {
-        en: "Desertification does not mean that a desert simply advances across the countryside. It describes the gradual loss of fertile topsoil and plant cover in dryland regions, where rainfall is irregular and evaporation is intense. Vast areas are thought to be affected, and the families dependent on them are often among the poorest. Once the protecting shrub layer disappears, wind lifts dust into the air; the remaining ground holds less water, and every failed season makes a return to fertility harder.",
-        cn: "荒漠化并不意味着沙漠只是简单向前推进、吞没乡村。它指的是在干旱地区，肥沃的表土和植被覆盖逐渐流失的过程——那里降雨不规律，蒸发强烈。据估计，大片土地受到影响，而依赖这些土地生活的家庭往往最为贫困。一旦起保护作用的灌木层消失，风就会把尘土卷入空中；剩下的土壤持水能力下降，每一个歉收的季节都让地力恢复变得更加困难。"
+        en: "Weather forecasting began with simple instruments and patient observation. Two centuries ago, a meteorologist relied on a barometer, a thermometer and local signs. Today, satellites, radar and ocean buoys transmit millions of measurements each hour, and supercomputers turn them into predictions. The aim, however, has not changed: to tell people whether a gale will arrive by evening or a dry spell will continue. Behind every forecast lies the same question — how reliably can the atmosphere be read?",
+        cn: "天气预报始于简单的仪器与耐心的观察。两个世纪前，气象学家只能依靠气压计、温度计和当地的各种迹象。如今，卫星、雷达和海洋浮标每小时传送数百万条测量数据，超级计算机再把这些数据处理成预测。然而，目标始终未变：告诉人们傍晚前是否会有大风，或者干旱是否会持续。每一次预报背后，都隐藏着同一个问题——我们究竟能多可靠地读懂大气？"
       },
       {
-        en: "Human activity can compress into decades a change that nature might take centuries to produce. Overgrazing strips grassland before plants can reseed, and households short of fuelwood cut the last scrub for cooking. Poor irrigation raises the water table, and evaporation draws salts upward; this salinization raises salinity near the surface and can leave fields barren within seasons. Shorter fallow periods prevent soil structure from recovering, while a weak monsoon can turn a marginal harvest into a shortage.",
-        cn: "人类活动能把大自然可能需要数百年才造成的变化压缩到几十年之内。过度放牧使草原在植物重新结籽之前就被啃秃，缺少薪柴的家庭则把最后的灌木丛砍去生火。规划不当的灌溉会抬高地下水位，蒸发又把盐分带到地表；这种盐碱化提高了表层土壤的盐度，能在几个季节内就让农田变得贫瘠。休耕期缩短使土壤结构无从恢复，而季风偏弱则可能让原本勉强糊口的收成变成一场短缺。"
+        en: "The atmosphere is governed by physical laws, but it is also famously chaotic. Tiny errors in measuring temperature or humidity can grow into large mistakes within days, a discovery called the butterfly effect. Forecasters therefore run an ensemble of slightly different models instead of trusting one answer. If most runs agree that rain will fall, confidence rises; if they disagree, uncertainty stays high. Charts of isobars help experts read the pressure pattern behind the numbers.",
+        cn: "大气受物理定律支配，但它也以混沌著称。测量温度或湿度时极小的误差，可能在几天之内放大成巨大的偏差，这一发现被称为「蝴蝶效应」。因此，预报员不会只相信单一答案，而是运行一组略有差异的模型。如果大多数运算都认为会下雨，可信度就会上升；如果结果相互矛盾，不确定性依然很高。等压线图能帮助专家读懂数字背后的气压格局。"
       },
       {
-        en: "The effects spread well beyond the farms themselves. Dust raised from exposed soil travels thousands of kilometres, fouling the air of distant cities and depositing fine silt in reservoirs. A creeping dune can bury roads and classrooms, forcing nomad families and herders to abandon settlements that have stood for generations. Where pastoral communities once moved livestock between seasonal pastures, fixed borders now crowd animals around the few remaining wells, and competition for fodder can harden into conflict.",
-        cn: "其影响远远超出农田本身。从裸露土壤上扬起的尘土可以飘散数千公里，污染远方城市的空气，并把细小的泥沙沉积在水库中。缓缓移动的沙丘可能掩埋道路和教室，迫使游牧家庭和牧民舍弃世代相传的定居点。过去牧业社区会在季节性牧场之间转移牲畜，如今固定的边界却把动物挤在仅存的几口井旁，对草料的争夺可能演变成公开的冲突。"
+        en: "Accurate warnings save lives and livelihoods. Radar tracks a thunderstorm as it forms, showing where lightning, hail or a violent downpour may strike within minutes. A gale warning lets ships change course and airlines reroute flights; a blizzard alert gives schools time to close. Even gentle drizzle matters, since damp fields delay planting and frost can ruin a harvest. Increasingly, probabilistic forecasts replace simple yes-or-no messages, explaining how severe an event might be and how confident scientists are.",
+        cn: "准确的预警能够挽救生命与生计。雷达在雷暴形成时便加以追踪，显示出闪电、冰雹或猛烈暴雨可能在几分钟内袭击何处。大风警报让船舶得以改变航向、航空公司得以调整航班；暴风雪预警则让学校有时间停课。即便是温柔的毛毛雨也很重要，因为潮湿的田地会推迟播种，而霜冻可能毁掉一季收成。如今，概率预报正逐渐取代简单的「是或否」式信息，它会说明事件可能有多严重，以及科学家对此有多大把握。"
       },
       {
-        en: "Successful rehabilitation is patient and local rather than spectacular. Shelterbelts of drought-tolerant trees act as a windbreak, and a layer of mulch keeps moisture in the topsoil long enough for seedlings to establish. Rotational grazing gives grassland time to rest, and earth banks capture storm rain. Such measures work best when farmers choose them; projects designed far away often collapse once funding ends. In the end, tackling aridity depends on local knowledge as much as on science.",
-        cn: "成功的土地修复靠的是耐心和因地制宜，而非声势浩大的工程。由耐旱树木组成的防护林带充当防风屏障，一层覆盖物则把水分留在表土中，足够幼苗扎根。轮牧让草原得到休养，土埂则拦蓄暴雨的雨水。这类措施在由农民自主选择时效果最好；远在别处设计出来的项目，往往在资金结束后就告失败。说到底，应对干旱既靠科学，也同样依赖当地的知识。"
+        en: "The next frontier is resolution. Better models can describe a single city rather than a whole region, and balloon sensors fill gaps over the oceans. Researchers test whether machine learning can speed up calculations without sacrificing accuracy. Yet physics is only half the task: a prediction must be communicated clearly, with its uncertainty explained rather than hidden. When people know what a forecast can and cannot say, they can plan a journey, protect a crop or heed an evacuation order.",
+        cn: "下一个前沿领域是分辨率。更好的模型可以描述一座城市，而不只是一个大区域；气球传感器则填补了海洋上空的空白。研究人员正在测试机器学习能否在不牺牲准确性的前提下加快计算速度。然而，物理学只完成了一半的任务：预报必须被清晰地传达，其中的不确定性应当被解释，而不是被掩盖。当人们明白预报能说什么、不能说什么时，他们就能安排行程、保护作物，或听从疏散命令。"
       }
     ],
     glossary: [
-      { w: "fertile", pos: "adj.", p: "/ˈfɜːtaɪl/", cn: "肥沃的；富饶的" },
-      { w: "topsoil", pos: "n.", p: "/ˈtɒpsɔɪl/", cn: "表土；表层土壤" },
-      { w: "dryland", pos: "n.", p: "/ˈdraɪlænd/", cn: "干旱地区；旱地" },
-      { w: "irregular", pos: "adj.", p: "/ɪˈreɡjələ(r)/", cn: "不规则的；不规律的" },
-      { w: "evaporation", pos: "n.", p: "/ɪˌvæpəˈreɪʃn/", cn: "蒸发；挥发" },
-      { w: "shrub", pos: "n.", p: "/ʃrʌb/", cn: "灌木" },
-      { w: "dust", pos: "n.", p: "/dʌst/", cn: "尘土；灰尘" },
-      { w: "overgrazing", pos: "n.", p: "/ˌəʊvəˈɡreɪzɪŋ/", cn: "过度放牧" },
-      { w: "grassland", pos: "n.", p: "/ˈɡrɑːslænd/", cn: "草原；草地" },
-      { w: "reseed", pos: "v.", p: "/ˌriːˈsiːd/", cn: "重新播种；自然结籽繁殖" },
-      { w: "fuelwood", pos: "n.", p: "/ˈfjuːlwʊd/", cn: "薪柴；燃料木" },
-      { w: "scrub", pos: "n.", p: "/skrʌb/", cn: "灌木丛；矮树丛" },
-      { w: "irrigation", pos: "n.", p: "/ˌɪrɪˈɡeɪʃn/", cn: "灌溉" },
-      { w: "salinization", pos: "n.", p: "/ˌsælɪnaɪˈzeɪʃn/", cn: "盐碱化；盐化" },
-      { w: "salinity", pos: "n.", p: "/səˈlɪnəti/", cn: "盐度；含盐量" },
-      { w: "barren", pos: "adj.", p: "/ˈbærən/", cn: "贫瘠的；荒芜的" },
-      { w: "fallow", pos: "adj.", p: "/ˈfæləʊ/", cn: "休耕的；闲置的" },
-      { w: "monsoon", pos: "n.", p: "/ˌmɒnˈsuːn/", cn: "季风；雨季" },
-      { w: "shortage", pos: "n.", p: "/ˈʃɔːtɪdʒ/", cn: "短缺；不足" },
-      { w: "silt", pos: "n.", p: "/sɪlt/", cn: "淤泥；泥沙" },
-      { w: "dune", pos: "n.", p: "/djuːn/", cn: "沙丘" },
-      { w: "nomad", pos: "n.", p: "/ˈnəʊmæd/", cn: "游牧民；流浪者" },
-      { w: "pastoral", pos: "adj.", p: "/ˈpɑːstərəl/", cn: "牧场的；牧民的；田园的" },
-      { w: "fodder", pos: "n.", p: "/ˈfɒdə(r)/", cn: "饲料；草料" },
-      { w: "rehabilitation", pos: "n.", p: "/ˌriːəˌbɪlɪˈteɪʃn/", cn: "修复；重建；康复" },
-      { w: "windbreak", pos: "n.", p: "/ˈwɪndbreɪk/", cn: "防风林；防风墙" },
-      { w: "mulch", pos: "n.", p: "/mʌltʃ/", cn: "覆盖物；护根层" },
-      { w: "aridity", pos: "n.", p: "/əˈrɪdəti/", cn: "干旱；干燥" }
+      { w: "observation", pos: "n.", p: "/ˌɒbzəˈveɪʃn/", cn: "观察；观测" },
+      { w: "meteorologist", pos: "n.", p: "/ˌmiːtiəˈrɒlədʒɪst/", cn: "气象学家" },
+      { w: "barometer", pos: "n.", p: "/bəˈrɒmɪtə(r)/", cn: "气压计" },
+      { w: "thermometer", pos: "n.", p: "/θəˈmɒmɪtə(r)/", cn: "温度计" },
+      { w: "radar", pos: "n.", p: "/ˈreɪdɑː(r)/", cn: "雷达" },
+      { w: "buoys", pos: "n.", p: "/bɔɪz/", cn: "浮标" },
+      { w: "measurements", pos: "n.", p: "/ˈmeʒəmənts/", cn: "测量数据；测量值" },
+      { w: "supercomputers", pos: "n.", p: "/ˈsuːpəkəmpjuːtəz/", cn: "超级计算机" },
+      { w: "predictions", pos: "n.", p: "/prɪˈdɪkʃnz/", cn: "预测" },
+      { w: "gale", pos: "n.", p: "/ɡeɪl/", cn: "大风；狂风" },
+      { w: "spell", pos: "n.", p: "/spel/", cn: "一段时间；一段时期" },
+      { w: "reliably", pos: "adv.", p: "/rɪˈlaɪəbli/", cn: "可靠地" },
+      { w: "chaotic", pos: "adj.", p: "/keɪˈɒtɪk/", cn: "混乱的；混沌的" },
+      { w: "humidity", pos: "n.", p: "/hjuːˈmɪdəti/", cn: "湿度" },
+      { w: "butterfly", pos: "n.", p: "/ˈbʌtəflaɪ/", cn: "蝴蝶（the butterfly effect：蝴蝶效应）" },
+      { w: "uncertainty", pos: "n.", p: "/ʌnˈsɜːtnti/", cn: "不确定性" },
+      { w: "isobars", pos: "n.", p: "/ˈaɪsəʊbɑːz/", cn: "等压线" },
+      { w: "accurate", pos: "adj.", p: "/ˈækjərət/", cn: "准确的" },
+      { w: "livelihoods", pos: "n.", p: "/ˈlaɪvlihʊdz/", cn: "生计" },
+      { w: "thunderstorm", pos: "n.", p: "/ˈθʌndəstɔːm/", cn: "雷暴" },
+      { w: "lightning", pos: "n.", p: "/ˈlaɪtnɪŋ/", cn: "闪电" },
+      { w: "hail", pos: "n.", p: "/heɪl/", cn: "冰雹" },
+      { w: "downpour", pos: "n.", p: "/ˈdaʊnpɔː(r)/", cn: "倾盆大雨" },
+      { w: "blizzard", pos: "n.", p: "/ˈblɪzəd/", cn: "暴风雪" },
+      { w: "drizzle", pos: "n.", p: "/ˈdrɪzl/", cn: "毛毛雨" },
+      { w: "frost", pos: "n.", p: "/frɒst/", cn: "霜；霜冻" },
+      { w: "probabilistic", pos: "adj.", p: "/ˌprɒbəbɪˈlɪstɪk/", cn: "概率的" },
+      { w: "evacuation", pos: "n.", p: "/ɪˌvækjuˈeɪʃn/", cn: "疏散；撤离" }
     ]
   },
   words: [
-    { w: "aridity", pos: "n.", p: "/əˈrɪdəti/", cn: "干旱；干燥", ex: "The aridity of the region makes conventional farming almost impossible.", exCn: "该地区的干旱使传统农业几乎无法进行。" },
-    { w: "dryland", pos: "n.", p: "/ˈdraɪlænd/", cn: "干旱地区；旱地", ex: "Each dryland community has developed its own way of saving water.", exCn: "每个干旱地区社区都发展出了自己节约用水的办法。" },
-    { w: "topsoil", pos: "n.", p: "/ˈtɒpsɔɪl/", cn: "表土；表层土壤", ex: "Heavy rain washed away the topsoil from the sloping field.", exCn: "大雨冲走了斜坡农田上的表土。" },
-    { w: "overgrazing", pos: "n.", p: "/ˌəʊvəˈɡreɪzɪŋ/", cn: "过度放牧", ex: "Overgrazing has left little grass for the winter months.", exCn: "过度放牧使得冬季几乎没有草可吃。" },
-    { w: "grazing", pos: "n.", p: "/ˈɡreɪzɪŋ/", cn: "放牧；吃草", ex: "Rotational grazing allows damaged pasture to recover naturally.", exCn: "轮牧让受损的牧场得以自然恢复。" },
-    { w: "salinization", pos: "n.", p: "/ˌsælɪnaɪˈzeɪʃn/", cn: "盐碱化；盐化", ex: "Salinization has ruined farmland that once produced wheat.", exCn: "盐碱化毁掉了曾经出产小麦的农田。" },
-    { w: "salinity", pos: "n.", p: "/səˈlɪnəti/", cn: "盐度；含盐量", ex: "Farmers test the salinity of the soil before planting each crop.", exCn: "农民在种下每种作物前都会检测土壤的盐度。" },
-    { w: "barren", pos: "adj.", p: "/ˈbærən/", cn: "贫瘠的；荒芜的", ex: "What had been a green valley is now a barren stretch of sand.", exCn: "曾经翠绿的山谷如今成了一片荒芜的沙地。" },
-    { w: "fertile", pos: "adj.", p: "/ˈfɜːtaɪl/", cn: "肥沃的；富饶的", ex: "The river deposits fertile soil along its banks every year.", exCn: "这条河每年都在两岸沉积肥沃的土壤。" },
-    { w: "irrigation", pos: "n.", p: "/ˌɪrɪˈɡeɪʃn/", cn: "灌溉", ex: "Drip irrigation uses far less water than flooding the fields.", exCn: "滴灌比漫灌用水少得多。" },
-    { w: "dune", pos: "n.", p: "/djuːn/", cn: "沙丘", ex: "The children slid down a steep dune behind their village.", exCn: "孩子们从村后一座陡峭的沙丘上滑下来。" },
-    { w: "sandstorm", pos: "n.", p: "/ˈsændstɔːm/", cn: "沙尘暴", ex: "A sudden sandstorm forced the school to close for the day.", exCn: "一场突如其来的沙尘暴迫使学校当天停课。" },
-    { w: "silt", pos: "n.", p: "/sɪlt/", cn: "淤泥；泥沙", ex: "Fine silt carried by floodwater gradually filled the reservoir.", exCn: "洪水带来的细泥沙逐渐淤积在水库里。" },
-    { w: "windbreak", pos: "n.", p: "/ˈwɪndbreɪk/", cn: "防风林；防风墙", ex: "A row of trees serves as a windbreak for the exposed orchard.", exCn: "一排树为暴露在外的果园充当防风林。" },
-    { w: "shelterbelt", pos: "n.", p: "/ˈʃeltəbelt/", cn: "防护林带", ex: "The government planted a shelterbelt to hold the shifting sands.", exCn: "政府种下一条防护林带，以固定流动的沙丘。" },
-    { w: "shrub", pos: "n.", p: "/ʃrʌb/", cn: "灌木", ex: "Even a small shrub can protect the soil beneath it from wind.", exCn: "即使一株小灌木也能保护其下方的土壤免受风蚀。" },
-    { w: "grassland", pos: "n.", p: "/ˈɡrɑːslænd/", cn: "草原；草地", ex: "The grassland turns gold in the dry months of late summer.", exCn: "到了夏末的旱季，这片草原变成金黄色。" },
-    { w: "pastoral", pos: "adj.", p: "/ˈpɑːstərəl/", cn: "牧场的；牧民的；田园的", ex: "Pastoral communities move their animals to fresh grass each season.", exCn: "牧业社区每个季节都会把牲畜转移到新草场。" },
-    { w: "nomad", pos: "n.", p: "/ˈnəʊmæd/", cn: "游牧民；流浪者", ex: "The nomad pitched his tent near a spring at dusk.", exCn: "这位游牧民在黄昏时把帐篷搭在泉水附近。" },
-    { w: "mulch", pos: "n.", p: "/mʌltʃ/", cn: "覆盖物；护根层", ex: "A thick mulch of straw keeps the soil damp for longer.", exCn: "厚厚一层稻草覆盖物能让土壤更长时间保持湿润。" },
-    { w: "rehabilitation", pos: "n.", p: "/ˌriːəˌbɪlɪˈteɪʃn/", cn: "修复；重建；康复", ex: "Land rehabilitation takes years of patient, community-led work.", exCn: "土地修复需要多年耐心的、由社区主导的工作。" },
-    { w: "evaporation", pos: "n.", p: "/ɪˌvæpəˈreɪʃn/", cn: "蒸发；挥发", ex: "Strong sunlight increases evaporation from the shallow pond.", exCn: "强烈的阳光加快了浅池塘的水分蒸发。" },
-    { w: "transpiration", pos: "n.", p: "/ˌtrænspɪˈreɪʃn/", cn: "蒸腾作用", ex: "Trees lose water through transpiration on hot, windy days.", exCn: "在炎热多风的日子里，树木通过蒸腾作用散失水分。" },
-    { w: "monsoon", pos: "n.", p: "/ˌmɒnˈsuːn/", cn: "季风；雨季", ex: "The monsoon arrived two weeks late and shortened the growing season.", exCn: "季风迟到了两周，缩短了作物的生长期。" },
-    { w: "steppe", pos: "n.", p: "/step/", cn: "干草原；大草原", ex: "The open steppe stretched to the horizon without a single tree.", exCn: "辽阔的干草原一直延伸到地平线，一棵树也没有。" },
-    { w: "oasis", pos: "n.", p: "/əʊˈeɪsɪs/", cn: "绿洲", ex: "A small oasis appeared where the underground water reached the surface.", exCn: "地下水涌出地表的地方出现了一小片绿洲。" },
-    { w: "fodder", pos: "n.", p: "/ˈfɒdə(r)/", cn: "饲料；草料", ex: "Stored fodder keeps the herd alive during the driest months.", exCn: "储存的草料让畜群在最干旱的月份里得以生存。" },
-    { w: "fallow", pos: "adj.", p: "/ˈfæləʊ/", cn: "休耕的；闲置的", ex: "Leaving a field fallow for one season restores some of its nutrients.", exCn: "让一块田休耕一季，可以恢复其中的部分养分。" },
-    { w: "shortage", pos: "n.", p: "/ˈʃɔːtɪdʒ/", cn: "短缺；不足", ex: "A shortage of water forced the village to ration supplies.", exCn: "缺水迫使这个村庄定量供应水源。" },
-    { w: "hazard", pos: "n.", p: "/ˈhæzəd/", cn: "危害；隐患；危险", ex: "Airborne dust is a serious health hazard for nearby residents.", exCn: "空气中的尘土对附近居民构成严重的健康危害。" }
+    { w: "meteorology", pos: "n.", p: "/ˌmiːtiəˈrɒlədʒi/", cn: "气象学", ex: "Meteorology helps us understand why weather changes so quickly.", exCn: "气象学帮助我们理解天气为何变化如此之快。" },
+    { w: "meteorologist", pos: "n.", p: "/ˌmiːtiəˈrɒlədʒɪst/", cn: "气象学家", ex: "The meteorologist warned that heavy rain would arrive before dusk.", exCn: "这位气象学家警告说，暴雨会在黄昏前到来。" },
+    { w: "barometer", pos: "n.", p: "/bəˈrɒmɪtə(r)/", cn: "气压计；晴雨表", ex: "A falling barometer often signals that bad weather is on the way.", exCn: "气压计读数下降往往预示着坏天气即将来临。" },
+    { w: "radar", pos: "n.", p: "/ˈreɪdɑː(r)/", cn: "雷达", ex: "Weather radar can locate a storm long before it reaches the town.", exCn: "气象雷达能在风暴抵达城镇之前很久就定位它。" },
+    { w: "drizzle", pos: "n.", p: "/ˈdrɪzl/", cn: "毛毛雨", ex: "A fine drizzle fell all morning, leaving the pavement gleaming.", exCn: "细密的毛毛雨下了一上午，让人行道闪闪发亮。" },
+    { w: "downpour", pos: "n.", p: "/ˈdaʊnpɔː(r)/", cn: "倾盆大雨", ex: "A sudden downpour flooded the streets within twenty minutes.", exCn: "一场突如其来的倾盆大雨在二十分钟内淹没了街道。" },
+    { w: "gale", pos: "n.", p: "/ɡeɪl/", cn: "大风；狂风", ex: "A strong gale forced the ferry to remain in port.", exCn: "一阵强风迫使渡轮滞留在港口。" },
+    { w: "gust", pos: "n.", p: "/ɡʌst/", cn: "一阵狂风；阵风", ex: "A sudden gust knocked the umbrella out of her hand.", exCn: "一阵突如其来的狂风把伞从她手中吹落。" },
+    { w: "thunderstorm", pos: "n.", p: "/ˈθʌndəstɔːm/", cn: "雷暴", ex: "The thunderstorm broke just as we reached the station.", exCn: "我们刚到车站，雷暴就爆发了。" },
+    { w: "lightning", pos: "n.", p: "/ˈlaɪtnɪŋ/", cn: "闪电", ex: "Flashes of lightning lit up the dark sky above the hills.", exCn: "一道道闪电照亮了山丘上空的黑暗天空。" },
+    { w: "hail", pos: "n.", p: "/heɪl/", cn: "冰雹", ex: "Hail damaged the crops just before the harvest began.", exCn: "冰雹在收获开始前损坏了庄稼。" },
+    { w: "frost", pos: "n.", p: "/frɒst/", cn: "霜；霜冻", ex: "An early frost destroyed the tender young plants.", exCn: "一场早霜冻死了娇嫩的幼苗。" },
+    { w: "blizzard", pos: "n.", p: "/ˈblɪzəd/", cn: "暴风雪", ex: "The blizzard made driving completely impossible.", exCn: "这场暴风雪使驾车完全无法进行。" },
+    { w: "humidity", pos: "n.", p: "/hjuːˈmɪdəti/", cn: "湿度", ex: "High humidity made the afternoon feel much hotter than it was.", exCn: "高湿度让这个下午感觉比实际温度热得多。" },
+    { w: "dew", pos: "n.", p: "/djuː/", cn: "露水", ex: "Drops of dew covered the grass early in the morning.", exCn: "清晨，露珠覆盖了草地。" },
+    { w: "condensation", pos: "n.", p: "/ˌkɒndenˈseɪʃn/", cn: "凝结；冷凝水", ex: "Condensation on the window showed how cold it had become.", exCn: "窗户上的凝结水显示出天气变得有多冷。" },
+    { w: "cumulus", pos: "n.", p: "/ˈkjuːmjələs/", cn: "积云", ex: "White cumulus clouds drifted slowly across the valley.", exCn: "白色的积云缓缓飘过山谷。" },
+    { w: "stratus", pos: "n.", p: "/ˈstreɪtəs/", cn: "层云", ex: "A grey layer of stratus hid the sun all day.", exCn: "一层灰色的层云整天遮住了太阳。" },
+    { w: "cirrus", pos: "n.", p: "/ˈsɪrəs/", cn: "卷云", ex: "Thin cirrus high overhead often precedes a change in weather.", exCn: "高空的薄卷云常常预示着天气将要变化。" },
+    { w: "isobar", pos: "n.", p: "/ˈaɪsəʊbɑː(r)/", cn: "等压线", ex: "Closely spaced isobars on the map indicate strong winds.", exCn: "地图上密集的等压线表示风力强劲。" },
+    { w: "anticyclone", pos: "n.", p: "/ˌæntiˈsaɪkləʊn/", cn: "反气旋；高压系统", ex: "An anticyclone brought several days of dry, settled weather.", exCn: "一个反气旋带来了几天干燥稳定的天气。" },
+    { w: "vortex", pos: "n.", p: "/ˈvɔːteks/", cn: "涡流；旋涡", ex: "The vortex of wind lifted dust high into the air.", exCn: "旋涡状的风把尘土高高卷入空中。" },
+    { w: "turbulence", pos: "n.", p: "/ˈtɜːbjələns/", cn: "湍流；动荡", ex: "The plane shook violently as it hit a patch of turbulence.", exCn: "飞机遇到一团湍流时剧烈颠簸。" },
+    { w: "chaos", pos: "n.", p: "/ˈkeɪɒs/", cn: "混沌；混乱", ex: "The chaos of the storm left the harbour in ruins.", exCn: "风暴造成的混乱让港口一片狼藉。" },
+    { w: "chaotic", pos: "adj.", p: "/keɪˈɒtɪk/", cn: "混沌的；混乱的", ex: "The weather proved far more chaotic than the model suggested.", exCn: "事实证明，天气远比模型所显示的更加混沌。" },
+    { w: "predict", pos: "v.", p: "/prɪˈdɪkt/", cn: "预测；预言", ex: "No one can predict exactly where the storm will turn.", exCn: "没有人能准确预测风暴将在何处转向。" },
+    { w: "prediction", pos: "n.", p: "/prɪˈdɪkʃn/", cn: "预测；预报", ex: "Her prediction of a cold snap turned out to be correct.", exCn: "她关于寒潮的预测结果证明是正确的。" },
+    { w: "uncertainty", pos: "n.", p: "/ʌnˈsɜːtnti/", cn: "不确定性", ex: "There is still considerable uncertainty about the storm's path.", exCn: "风暴的路径仍存在相当的不确定性。" },
+    { w: "accurate", pos: "adj.", p: "/ˈækjərət/", cn: "准确的", ex: "The new instrument provides accurate readings in seconds.", exCn: "这台新仪器能在几秒内提供准确的读数。" },
+    { w: "probabilistic", pos: "adj.", p: "/ˌprɒbəbɪˈlɪstɪk/", cn: "概率的", ex: "A probabilistic forecast states the chance of rain rather than promising it.", exCn: "概率预报说明下雨的可能性，而不是保证一定会下。" }
   ],
   vocabArticle: {
-    title: "A Valley Learns to Live with Less Water（一个学会少用水生存的河谷）",
-    titleCn: "一个学会少用水生存的河谷",
+    title: "A Lesson in Reading the Sky（一堂读懂天空的课）",
+    titleCn: "一堂读懂天空的课",
     paras: [
       {
-        en: "The valley's aridity was no secret: for months each year the dryland held only a thin layer of topsoil over stone. Farmers who had once called the same ground fertile now watched the wind lift dust from every fallow field. A sandstorm could arrive before noon, and by evening a dune had shifted across the track to the school. Local elders remembered when a monsoon usually filled the wells; now even a modest shortage of rain threatened the whole harvest.",
-        cn: "这个河谷的干旱并不是秘密：每年有几个月，这片旱地只在石头上覆盖着薄薄一层表土。曾称同一片土地为沃土的农民，如今只能看着风从每一块休耕的田里卷起尘土。沙尘暴可能在中午前到来，到傍晚，一座沙丘就已移到通往学校的土路上。当地老人还记得季风通常会把井灌满的年月；如今，即使只是雨水稍显不足，也会威胁到整季收成。"
+        en: "When I first studied meteorology, I imagined a meteorologist staring at a barometer and a cup of dew. My teacher laughed and showed me a sky full of cumulus clouds. She said that even a light drizzle carries a message, and that condensation on a cold window can reveal as much as a satellite picture. By measuring humidity and reading each isobar, an expert can predict the next shift in the weather.",
+        cn: "我刚学气象学时，想象中的气象学家就是盯着气压计和一杯露水。老师笑了，指给我看满天积云。她说，即使是小小的毛毛雨也带着信息，冷窗户上的凝结水所揭示的，不亚于一张卫星图片。通过测量湿度、判读每一条等压线，专家就能预测天气的下一次转变。"
       },
       {
-        en: "Two habits had caused most of the damage. Overgrazing left the grassland bare before the rains returned, and continuous grazing around the wells meant that no seedling survived. Households also needed more fodder for their animals, so the last shrub was cut. When officials installed irrigation canals without drainage, evaporation left white salt on the surface; within seasons the salinity rose and salinization made whole plots barren. Even the nomad herders who passed through in winter found less to eat.",
-        cn: "两种习惯造成了大部分破坏。过度放牧使草原在雨季回来之前变得光秃秃，井边持续不断的放牧则让没有一株幼苗能够存活。各家还需要更多草料喂养牲畜，于是最后一丛灌木也被砍掉了。当官员们修建灌溉渠却没有配套排水时，蒸发在地表留下白色盐霜；几个季节之内盐度上升，盐碱化让整块整块的田变得贫瘠。就连冬天经过此地的游牧牧民，也发现可吃的东西变少了。"
+        en: "On a winter morning, frost silvered the fields while a slow anticyclone held the air still. By noon, however, a gale was pushing a vortex of cold air across the coast, and every gust made the flags crack. The teacher drew a stratus layer low on the board and a wisp of cirrus high above it. Between them lay turbulence that no simple instrument could measure, and the chaos of a sky changing faster than anyone could follow.",
+        cn: "一个冬日的早晨，霜把田野染成银色，缓慢的反气旋让空气凝滞不动。然而到了中午，一股大风推着冷空气的旋涡掠过海岸，每一阵狂风都把旗帜吹得啪啪作响。老师在黑板上低低画了一层云，又在上方画了一缕卷云。两者之间是任何简单仪器都测不到的湍流，是天空变化快到无人能跟上的混沌。"
       },
       {
-        en: "The turning point came when a small team studied the water rather than the crops. They measured transpiration from leaves, mapped the silt carried by floods, and noted that the old steppe had once supported scattered trees. A shelterbelt was planted along the exposed ridge, with a windbreak of lower bushes behind it. Mulch spread around young plants kept the soil cool, and a narrow oasis of green slowly reappeared near the spring.",
-        cn: "转折点出现在一个小团队决定先研究水、而不是研究庄稼的时候。他们测量叶片的蒸腾作用，绘制洪水携带的泥沙分布图，并注意到古老的干草原曾经支撑着零星的树木。人们沿着裸露的山脊种下一条防护林带，后面再配上一排较矮灌木组成的防风屏障。铺在幼苗周围的覆盖物让土壤保持凉爽，泉水附近渐渐重新出现了一小块绿色绿洲。"
+        en: "Later, radar showed a thunderstorm gathering offshore. Within minutes, lightning lit the bay and hail drummed on the roof, followed by a sudden downpour that flooded the street. It was a chaotic scene, yet the model had warned us. The prediction was accurate about the timing but vague about the place, and my teacher reminded me that honest weather language must include uncertainty.",
+        cn: "后来，雷达显示一场雷暴正在近海聚集。几分钟之内，闪电照亮了海湾，冰雹敲打着屋顶，紧接着一场突如其来的倾盆大雨淹没了街道。这是一片混乱的景象，但模型早已提醒过我们。这次预测在时间上很准确，对地点却说得含糊；老师提醒我，诚实的天气表述必须包含不确定性。"
       },
       {
-        en: "The project's rehabilitation was never a single grand engineering work. Pastoral families agreed to rotate their animals, and the hazard of windborne dust declined as cover returned. Today visitors still see bare ground, but they also see shade. The lesson is plain: dry land recovers when people reduce the grazing pressure first and build the wells second.",
-        cn: "这个项目的土地修复从来不是一项宏大的工程。牧民家庭同意轮流放牧，随着植被恢复，风沙尘土造成的危害也减轻了。如今来访者仍能看到裸露的地面，但也能看到树荫。道理很简单：只要人们先减轻放牧压力、再考虑打井，干旱土地就能恢复。"
+        en: "Before I left, she explained that a probabilistic forecast does not promise certainty; it estimates what is likely. A blizzard may miss a town by twenty kilometres, and that small gap decides whether schools open. Meteorology, she said, is the art of describing a restless atmosphere without pretending it is tame. I walked home through the last of the rain, looking up with new respect.",
+        cn: "临走前，她解释说，概率预报并不承诺确定性，它只是估计可能性。一场暴风雪可能与某座小城擦肩而过二十公里，而这点微小差距就决定了学校是否开门。她说，气象学是一门描述躁动大气、却又不假装它已被驯服的艺术。我走回家，穿过最后的雨丝，带着新的敬意抬头望向天空。"
       }
     ]
   },
   grammar: [
     {
-      q: "The first settlers ___ the dry valley discovered a spring that could sustain their livestock.",
+      q: "___ of the approaching blizzard, the rescue team postponed the climb until the following morning.",
       options: [
-        "to reach",
-        "reaching",
-        "reached",
-        "being reached"
+        "Having warned",
+        "Having been warned",
+        "Warning",
+        "Being warned"
       ],
-      answer: 0,
-      explain: "考点：非谓语动词——不定式作后置定语。当名词被序数词（the first / the second）、last、next、only 或形容词最高级修饰时，其后通常用不定式作后置定语，表示“第几个做某事的人/物”，即 the first settlers to reach the valley（第一批到达这个干旱山谷的定居者）。B（reaching）是现在分词，强调主动、进行或伴随，不能表达“序数词所指的那一次动作”；C（reached）是谓语动词过去式，会造成一个句子出现两个谓语而缺少连词；D（being reached）是被动进行的现在分词，既语义不通（定居者主动抵达），也不符合该结构。扩展：类似表达还有 the last person to leave、the only one to complain、the best solution to adopt，均用不定式。"
+      answer: 1,
+      explain: "考点：现在分词完成式的被动语态作状语。分词的逻辑主语是 the rescue team（救援队），救援队是「被警告」的对象，因此要用被动；而「被警告」发生在 postponed（推迟）之前，二者有明确的先后关系，故用完成式被动 Having been warned，选 B。A（Having warned）是主动完成式，意思变成「救援队警告了别人」，逻辑不通；C（Warning）为主动的一般式，既无被动含义，也不体现动作先于谓语发生；D（Being warned）虽是被动，但表示与谓语动作同时进行，无法表达「先得到警告，随后才推迟行动」的时间顺序。扩展：Having been informed of the delay, the passengers waited patiently. 同样是「先被告知、后作出反应」的结构。"
     },
     {
-      q: "The government ___ vast sums on irrigation schemes that were never needed; the region's rainfall had recovered years earlier.",
+      q: "This time next week, meteorologists ___ data from a new weather balloon over the Atlantic.",
       options: [
-        "needn't have spent",
-        "mustn't have spent",
-        "couldn't spend",
-        "shouldn't spend"
+        "collect",
+        "will collect",
+        "will be collecting",
+        "have collected"
       ],
-      answer: 0,
-      explain: "考点：情态动词 + 完成式——needn't have done 表示“本不必做却做了”。后半句说明该地区的降雨早在数年前就已恢复，可见灌溉工程其实没有必要，但钱已经花掉，因此用 needn't have spent（本不必花费却花了），带有遗憾或责备意味。B（mustn't have spent）不成立：mustn't 表“禁止”，不用于对过去动作的否定推测，对过去的否定推测应使用 couldn't/can't have done；C（couldn't spend）意为“当时没有能力花”，与“钱已经花出去了”矛盾；D（shouldn't spend）是对现在或将来的建议，时态与 had recovered、were 等过去语境不符。扩展：needn't have done 与 didn't need to do 意义不同——后者表示“过去不必做，所以也没做”，如 We didn't need to hurry, so we walked slowly.（我们不必着急，所以走得很慢。）"
+      answer: 2,
+      explain: "考点：将来进行时。时间状语 This time next week（下周的这个时候）指的是将来某一具体时刻正在进行的动作，要用将来进行时 will be doing，故选 C（will be collecting），强调「那一刻气象学家们正忙着收集数据」。A（collect）一般现在时通常表示习惯或客观事实，不能描述将来某刻正在发生的动作；B（will collect）是一般将来时，只说明「将会收集」，缺少「届时正在进行」的意味；D（have collected）是现在完成时，表示到现在已经完成的动作，不能与指向将来的时间状语连用。扩展：将来进行时也常用于礼貌询问或安排，如 Will you be attending the conference tomorrow?；若换成 By next week, meteorologists will have collected...，则用将来完成时强调「到那时已经完成」。"
     }
   ]
 };
