@@ -473,5 +473,11 @@ window.ENGLISH_HISTORY = [
     topic: "Weather Forecasting, Meteorology & the Science of Prediction（天气预报、气象学与预测科学）",
     articleTitle: "Reading the Sky: The Science and Uncertainty of Weather Forecasting",
     words: ["meteorology","meteorologist","barometer","radar","drizzle","downpour","gale","gust","thunderstorm","lightning","hail","frost","blizzard","humidity","dew","condensation","cumulus","stratus","cirrus","isobar","anticyclone","vortex","turbulence","chaos","chaotic","predict","prediction","uncertainty","accurate","probabilistic"]
+  },
+  {
+    date: "2026-11-21",
+    topic: "Fungi, Mycelium & the Hidden Networks Beneath Our Feet（真菌、菌丝体与我们脚下的隐秘网络）",
+    articleTitle: "The Hidden Kingdom: Fungi and the Networks Beneath Our Feet",
+    words: ["fungus","fungal","mycelium","hypha","spore","germination","germinate","symbiosis","mutualistic","decomposer","decomposition","substrate","humus","decay","rotten","parasite","parasitic","lichen","mushroom","truffle","yeast","mould","subterranean","chitin","gill","carbohydrate","photosynthesis","chlorophyll","nitrogen","phosphorus"]
   }
 ];
