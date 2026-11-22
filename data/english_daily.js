@@ -1,135 +1,135 @@
 // 每日雅思学习内容 —— 由 WorkBuddy 每日自动更新
 window.ENGLISH_DAILY = {
-  date: "2026-11-21",
-  topic: "Fungi, Mycelium & the Hidden Networks Beneath Our Feet（真菌、菌丝体与我们脚下的隐秘网络）",
+  date: "2026-11-22",
+  topic: "Coffee, Tea and the World in a Cup（咖啡、茶与杯中的世界）",
   article: {
-    title: "The Hidden Kingdom: Fungi and the Networks Beneath Our Feet",
-    titleCn: "隐秘的王国：真菌与我们脚下的网络",
+    title: "The World in a Cup: How Coffee and Tea Shaped Global Life",
+    titleCn: "杯中世界：咖啡与茶如何塑造全球生活",
     paras: [
       {
-        en: "Fungi are neither plants nor animals, yet they shape almost every landscape on Earth. The mushroom visible above the soil is merely the fruiting body of a much larger organism. Beneath the surface, a mycelium spreads as a subterranean web of hyphae, threading between roots and stones. A single fungus may cover many hectares, ranking among the largest living things on the planet. Its spores drift on the wind, waiting for damp ground.",
-        cn: "真菌既不是植物，也不是动物，却塑造着地球上几乎每一处景观。土壤上方可见的蘑菇，只是一个庞大得多的生物体的子实体。在地表之下，菌丝体像一张地下菌丝网那样蔓延，穿行于根须与石块之间。单个真菌可能覆盖许多公顷，堪称地球上最大的生物之一。它的孢子随风飘散，等待着湿润的土壤。"
+        en: "The story of the world's favourite drinks begins in distant highlands. Coffee and tea come from different plants, yet both owe their power to caffeine, a natural stimulant that sharpens the mind. The coffee bean is the seed of a small berry, roasted until it darkens and releases its scent. Tea leaves are picked, withered and rolled, a process that changes their colour and taste. Few people know these habits once travelled along slow caravan routes.",
+        cn: "世界上最受欢迎的饮品的故事，始于遥远的高地。咖啡与茶来自截然不同的植物，却都仰仗咖啡因这种天然兴奋剂来提神醒脑。咖啡豆是一种小浆果的种子，经过烘焙后颜色变深并释放香气。茶叶则经过采摘、萎凋和揉捻，这一过程改变了它们的色泽与味道。很少有人知道，这些日常习惯曾沿着缓慢的商队路线一路走来。"
       },
       {
-        en: "As decomposers, fungi perform a service that few creatures can match. They colonise fallen leaves, rotten wood and dead roots, breaking down tough material through slow chemical decay. The humus they leave behind enriches the soil, while nitrogen and phosphorus return to the ground where new plants can use them. Many fungi also live in symbiosis with trees: the fungus supplies water and minerals, and the tree repays it with carbohydrate made in its leaves.",
-        cn: "作为分解者，真菌提供了一项几乎没有其他生物能与之匹敌的服务。它们定殖于落叶、腐木和枯根，通过缓慢的化学腐解把坚韧的物质分解。留下的腐殖质使土壤肥沃，而氮和磷则回归大地，供新植物利用。许多真菌还与树木共生：真菌提供水分和矿物质，树木则以叶片制造的碳水化合物作为回报。"
+        en: "From the fifteenth century onward, coffee and tea reshaped trade and politics. Plantations stretched across colonial territories, and thousands of pickers laboured for low wages under a harsh sun. Merchants grew rich on beans and leaves, while governments taxed every cup and fought wars over the profits. The drink that comforted a poet in one continent was grown by exhausted workers in another. Such inequality still lingers in the price of a morning brew.",
+        cn: "自十五世纪起，咖啡与茶重塑了贸易与政治。种植园蔓延到殖民地区，成千上万的采摘工在灼热的阳光下为微薄工资劳作。商人靠咖啡豆与茶叶致富，各国政府却对每一杯饮品征税，并为利润争斗不休。在一个大洲安慰诗人的饮品，在另一个大洲却由精疲力竭的工人种出。这种不平等至今仍留在晨间那杯咖啡的价格里。"
       },
       {
-        en: "This mutualistic partnership forms extensive underground networks. Through them, a mother tree can pass sugar to seedlings struggling in the shade, and a damaged plant may send chemical warnings to its neighbours. Such findings have changed how ecologists picture a forest: not as a collection of competing individuals, but as a community held together by threads too fine to see. A mushroom is only the visible tip of an exchange that has continued for millions of years.",
-        cn: "这种互利共生的伙伴关系形成了广泛的地下网络。通过它们，母树可以把糖分送给在树荫下挣扎的幼苗，受损的植物也可能向邻株发出化学警告。这些发现改变了生态学家对森林的想象：森林不再是一群彼此竞争的个体，而是一个由细到看不见的丝线维系起来的共同体。蘑菇只是这场持续了数百万年的交换中可见的顶端。"
+        en: "The appeal is not merely a matter of taste. Caffeine blocks signals of fatigue in the brain, producing alertness that can last for hours. Tea also contains tannin, which gives a dry, astringent edge to the liquid, and antioxidants that may protect cells from damage. Yet tolerance builds quickly: regular drinkers need more to achieve the same effect, and sudden withdrawal can bring headaches and irritability. A bitter cup may be invigorating, but it is not free of cost.",
+        cn: "这种吸引力并不只是味道问题。咖啡因会阻断大脑中的疲劳信号，产生可持续数小时的警觉感。茶还含有单宁，给茶汤带来干涩的收敛口感，以及可能保护细胞免受损伤的抗氧化剂。然而耐受性很快就会形成：常喝的人需要更大的量才能达到同样效果，突然停饮则可能带来头痛与烦躁。一杯苦涩的饮品或许令人精神焕发，但并非没有代价。"
       },
       {
-        en: "Human life is equally indebted to fungi. Yeast raises bread and gives drink its strength; mould provided the world with penicillin, and the truffle commands extraordinary prices. Lichens, part fungus and part alga, reveal the condition of the air around them. Even the chitin in a mushroom's cell walls inspires new materials. Yet these organisms remain poorly studied beside plants and animals. Protecting the soil they inhabit is essential if the quiet machinery of the earth is to keep working.",
-        cn: "人类的生活同样受惠于真菌。酵母让面包发酵、让饮品获得力量；霉菌为世界带来了青霉素，松露则卖出了惊人的高价。地衣一半是真菌、一半是藻类，能揭示周围空气的状况。就连蘑菇细胞壁中的几丁质，也在启发新材料的研发。然而，与植物和动物相比，这些生物仍研究不足。保护它们所栖息的土壤，是让地球这台安静机器持续运转的关键。"
+        en: "Coffee and tea also shape how societies meet. The cafe became a place for debate and business, while the kettle and the quiet ritual of steeping leaves created a different kind of calm. In many cultures, offering a cup is a gesture of friendship and respect. Producers now face new pressures: changing rainfall, rising prices and demand for shade-grown beans. How the next generation brews its drink will depend on choices made today by farmers, shoppers and governments alike.",
+        cn: "咖啡与茶也塑造着社会的交往方式。咖啡馆成为辩论与谈生意的场所，而水壶与静泡茶叶的习惯则营造出另一种平静。在许多文化中，奉上一杯饮品是友谊与尊重的表示。如今生产者面临新的压力：降雨模式改变、价格上涨，以及对遮阴种植咖啡豆的需求。下一代人如何冲泡杯中之物，将取决于今天农民、消费者与各国政府共同做出的选择。"
       }
     ],
     glossary: [
-      { w: "fungi", pos: "n.", p: "/ˈfʌŋɡaɪ/", cn: "真菌（fungus 的复数）" },
-      { w: "mushroom", pos: "n.", p: "/ˈmʌʃrʊm/", cn: "蘑菇；蕈" },
-      { w: "fruiting", pos: "adj.", p: "/ˈfruːtɪŋ/", cn: "结果的；产生子实体的" },
-      { w: "mycelium", pos: "n.", p: "/maɪˈsiːliəm/", cn: "菌丝体" },
-      { w: "subterranean", pos: "adj.", p: "/ˌsʌbtəˈreɪniən/", cn: "地下的；隐秘的" },
-      { w: "hyphae", pos: "n.", p: "/ˈhaɪfiː/", cn: "菌丝（hypha 的复数）" },
-      { w: "fungus", pos: "n.", p: "/ˈfʌŋɡəs/", cn: "真菌" },
-      { w: "hectares", pos: "n.", p: "/ˈhekteəz/", cn: "公顷（面积单位）" },
-      { w: "decomposers", pos: "n.", p: "/ˌdiːkəmˈpəʊzəz/", cn: "分解者" },
-      { w: "colonise", pos: "v.", p: "/ˈkɒlənaɪz/", cn: "定殖于；大量生长于" },
-      { w: "rotten", pos: "adj.", p: "/ˈrɒtn/", cn: "腐烂的；腐朽的" },
-      { w: "decay", pos: "n./v.", p: "/dɪˈkeɪ/", cn: "腐解；腐烂；衰减" },
-      { w: "humus", pos: "n.", p: "/ˈhjuːməs/", cn: "腐殖质" },
-      { w: "nitrogen", pos: "n.", p: "/ˈnaɪtrədʒən/", cn: "氮" },
-      { w: "phosphorus", pos: "n.", p: "/ˈfɒsfərəs/", cn: "磷" },
-      { w: "symbiosis", pos: "n.", p: "/ˌsɪmbaɪˈəʊsɪs/", cn: "共生（关系）" },
-      { w: "carbohydrate", pos: "n.", p: "/ˌkɑːbəʊˈhaɪdreɪt/", cn: "碳水化合物；糖类" },
-      { w: "mutualistic", pos: "adj.", p: "/ˌmjuːtʃuəˈlɪstɪk/", cn: "互利的；共生的" },
-      { w: "seedlings", pos: "n.", p: "/ˈsiːdlɪŋz/", cn: "幼苗；树苗" },
-      { w: "ecologists", pos: "n.", p: "/ˌiːkɒˈlɒdʒɪsts/", cn: "生态学家" },
-      { w: "indebted", pos: "adj.", p: "/ɪnˈdetɪd/", cn: "受惠的；感激的" },
-      { w: "yeast", pos: "n.", p: "/jiːst/", cn: "酵母" },
-      { w: "mould", pos: "n.", p: "/məʊld/", cn: "霉菌；霉" },
-      { w: "penicillin", pos: "n.", p: "/ˌpenɪˈsɪlɪn/", cn: "青霉素" },
-      { w: "truffle", pos: "n.", p: "/ˈtrʌfl/", cn: "松露" },
-      { w: "alga", pos: "n.", p: "/ˈælɡə/", cn: "藻类" },
-      { w: "chitin", pos: "n.", p: "/ˈkaɪtɪn/", cn: "几丁质；甲壳素" },
-      { w: "inhabit", pos: "v.", p: "/ɪnˈhæbɪt/", cn: "居住于；栖息于" }
+      { w: "caffeine", pos: "n.", p: "/ˈkæfiːn/", cn: "咖啡因" },
+      { w: "stimulant", pos: "n.", p: "/ˈstɪmjələnt/", cn: "兴奋剂；刺激物" },
+      { w: "bean", pos: "n.", p: "/biːn/", cn: "豆；咖啡豆" },
+      { w: "roasted", pos: "adj.", p: "/ˈrəʊstɪd/", cn: "烘焙过的；烤过的" },
+      { w: "withered", pos: "adj.", p: "/ˈwɪðəd/", cn: "萎凋的；干枯的" },
+      { w: "caravan", pos: "n.", p: "/ˈkærəvæn/", cn: "商队；大篷车" },
+      { w: "plantations", pos: "n.", p: "/plɑːnˈteɪʃnz/", cn: "种植园（plantation 的复数）" },
+      { w: "colonial", pos: "adj.", p: "/kəˈləʊniəl/", cn: "殖民的；殖民地的" },
+      { w: "territories", pos: "n.", p: "/ˈterətriz/", cn: "领土；地区（territory 的复数）" },
+      { w: "wages", pos: "n.", p: "/ˈweɪdʒɪz/", cn: "工资；工钱（wage 的复数）" },
+      { w: "exhausted", pos: "adj.", p: "/ɪɡˈzɔːstɪd/", cn: "精疲力竭的" },
+      { w: "brew", pos: "n.", p: "/bruː/", cn: "一杯茶（或咖啡）；冲泡" },
+      { w: "reshaped", pos: "v.", p: "/ˌriːˈʃeɪpt/", cn: "重塑；重新塑造（reshape 的过去式）" },
+      { w: "taxed", pos: "v.", p: "/tækst/", cn: "对……征税（tax 的过去式或过去分词）" },
+      { w: "fatigue", pos: "n.", p: "/fəˈtiːɡ/", cn: "疲劳；劳累" },
+      { w: "alertness", pos: "n.", p: "/əˈlɜːtnəs/", cn: "警觉；清醒" },
+      { w: "tannin", pos: "n.", p: "/ˈtænɪn/", cn: "单宁；鞣酸" },
+      { w: "astringent", pos: "adj.", p: "/əˈstrɪndʒənt/", cn: "收敛的；涩的" },
+      { w: "antioxidants", pos: "n.", p: "/ˌæntiˈɒksɪdənts/", cn: "抗氧化剂（antioxidant 的复数）" },
+      { w: "tolerance", pos: "n.", p: "/ˈtɒlərəns/", cn: "耐受性；忍耐力" },
+      { w: "withdrawal", pos: "n.", p: "/wɪðˈdrɔːəl/", cn: "戒断；退出" },
+      { w: "irritability", pos: "n.", p: "/ˌɪrɪtəˈbɪləti/", cn: "易怒；烦躁" },
+      { w: "bitter", pos: "adj.", p: "/ˈbɪtə(r)/", cn: "苦的；苦涩的" },
+      { w: "invigorating", pos: "adj.", p: "/ɪnˈvɪɡəreɪtɪŋ/", cn: "使人精神焕发的" },
+      { w: "cafe", pos: "n.", p: "/ˈkæfeɪ/", cn: "咖啡馆；小餐馆" },
+      { w: "kettle", pos: "n.", p: "/ˈketl/", cn: "水壶；烧水壶" },
+      { w: "steeping", pos: "n.", p: "/ˈstiːpɪŋ/", cn: "浸泡；泡（茶）" },
+      { w: "shade-grown", pos: "adj.", p: "/ʃeɪd ɡrəʊn/", cn: "遮阴种植的" }
     ]
   },
   words: [
-    { w: "fungus", pos: "n.", p: "/ˈfʌŋɡəs/", cn: "真菌", ex: "A single fungus can spread over an area larger than a football field.", exCn: "单个真菌蔓延的范围可能比一个足球场还大。" },
-    { w: "fungal", pos: "adj.", p: "/ˈfʌŋɡl/", cn: "真菌的", ex: "The fungal network connects many trees in the same forest.", exCn: "这张真菌网络把同一片森林里的许多树木连接起来。" },
-    { w: "mycelium", pos: "n.", p: "/maɪˈsiːliəm/", cn: "菌丝体", ex: "The mycelium grows hidden beneath the forest floor.", exCn: "菌丝体隐藏在森林地面之下生长。" },
-    { w: "hypha", pos: "n.", p: "/ˈhaɪfə/", cn: "菌丝", ex: "Each hypha absorbs nutrients from the surrounding soil.", exCn: "每一根菌丝都从周围土壤中吸收养分。" },
-    { w: "spore", pos: "n.", p: "/spɔː(r)/", cn: "孢子", ex: "A spore may travel hundreds of kilometres on the wind.", exCn: "一粒孢子可能随风飘行数百公里。" },
-    { w: "germination", pos: "n.", p: "/ˌdʒɜːmɪˈneɪʃn/", cn: "萌发；发芽", ex: "Rain triggers the germination of spores within a few hours.", exCn: "雨水在几小时内就会触发孢子的萌发。" },
-    { w: "germinate", pos: "v.", p: "/ˈdʒɜːmɪneɪt/", cn: "发芽；萌发", ex: "The spores germinate as soon as the ground becomes damp.", exCn: "地面一变潮湿，孢子就会萌发。" },
-    { w: "symbiosis", pos: "n.", p: "/ˌsɪmbaɪˈəʊsɪs/", cn: "共生；共生关系", ex: "The symbiosis between trees and fungi benefits both partners.", exCn: "树木与真菌之间的共生使双方都受益。" },
-    { w: "mutualistic", pos: "adj.", p: "/ˌmjuːtʃuəˈlɪstɪk/", cn: "互利的；互惠的", ex: "Their mutualistic relationship lasts for the whole growing season.", exCn: "它们的互利关系持续整个生长季。" },
-    { w: "decomposer", pos: "n.", p: "/ˌdiːkəmˈpəʊzə(r)/", cn: "分解者", ex: "A decomposer returns dead matter to the soil.", exCn: "分解者把死亡的物质归还给土壤。" },
-    { w: "decomposition", pos: "n.", p: "/ˌdiːkəmˈpəʊzɪʃn/", cn: "分解；腐解", ex: "Decomposition can take years in cold, dry ground.", exCn: "在寒冷干燥的土壤中，分解可能耗时数年。" },
-    { w: "substrate", pos: "n.", p: "/ˈsʌbstreɪt/", cn: "基质；底物", ex: "The fungus grows on a substrate of fallen leaves.", exCn: "这种真菌生长在落叶构成的基质上。" },
-    { w: "humus", pos: "n.", p: "/ˈhjuːməs/", cn: "腐殖质", ex: "Rich humus gives the forest soil its dark colour.", exCn: "丰富的腐殖质使森林土壤呈现深色。" },
-    { w: "decay", pos: "n./v.", p: "/dɪˈkeɪ/", cn: "腐烂；腐解；衰减", ex: "Slow decay releases minerals locked inside dead wood.", exCn: "缓慢的腐解释放出枯木中锁住的矿物质。" },
-    { w: "rotten", pos: "adj.", p: "/ˈrɒtn/", cn: "腐烂的；腐朽的", ex: "A rotten log provides food for hundreds of small creatures.", exCn: "一根腐烂的原木为数百种小生物提供了食物。" },
-    { w: "parasite", pos: "n.", p: "/ˈpærəsaɪt/", cn: "寄生生物；寄生虫", ex: "This parasite draws its food from a living host.", exCn: "这种寄生生物从活的宿主身上汲取养分。" },
-    { w: "parasitic", pos: "adj.", p: "/ˌpærəˈsɪtɪk/", cn: "寄生的", ex: "Parasitic fungi weaken trees that are already stressed.", exCn: "寄生性真菌会削弱本已受压的树木。" },
-    { w: "lichen", pos: "n.", p: "/ˈlaɪkən/", cn: "地衣", ex: "A lichen can survive on bare rock for decades.", exCn: "地衣可以在裸露的岩石上存活数十年。" },
-    { w: "mushroom", pos: "n.", p: "/ˈmʌʃrʊm/", cn: "蘑菇；蕈", ex: "The mushroom above ground is only part of the organism.", exCn: "地面上的蘑菇只是这个生物体的一部分。" },
-    { w: "truffle", pos: "n.", p: "/ˈtrʌfl/", cn: "松露", ex: "A mature truffle is worth more than its weight in silver.", exCn: "一颗成熟的松露，价值超过同等重量的白银。" },
-    { w: "yeast", pos: "n.", p: "/jiːst/", cn: "酵母", ex: "Yeast turns sugar into gas and makes bread rise.", exCn: "酵母把糖转化为气体，使面包膨胀。" },
-    { w: "mould", pos: "n.", p: "/məʊld/", cn: "霉菌；霉", ex: "A green mould appeared on the old bread.", exCn: "那块陈面包上长出了绿色霉菌。" },
-    { w: "subterranean", pos: "adj.", p: "/ˌsʌbtəˈreɪniən/", cn: "地下的；隐秘的", ex: "Subterranean fungi link the roots of distant trees.", exCn: "地下真菌把远处树木的根系连接起来。" },
-    { w: "chitin", pos: "n.", p: "/ˈkaɪtɪn/", cn: "几丁质；甲壳素", ex: "Chitin makes the wall of a fungal cell unusually tough.", exCn: "几丁质使真菌的细胞壁异常坚韧。" },
-    { w: "gill", pos: "n.", p: "/ɡɪl/", cn: "菌褶", ex: "Dark spores gather beneath each gill of the mushroom.", exCn: "深色的孢子聚集在蘑菇的每一片菌褶下方。" },
-    { w: "carbohydrate", pos: "n.", p: "/ˌkɑːbəʊˈhaɪdreɪt/", cn: "碳水化合物；糖类", ex: "Leaves produce carbohydrate that feeds the whole tree.", exCn: "叶片制造出供养整棵树的碳水化合物。" },
-    { w: "photosynthesis", pos: "n.", p: "/ˌfəʊtəʊˈsɪnθəsɪs/", cn: "光合作用", ex: "Photosynthesis converts sunlight into chemical energy.", exCn: "光合作用把阳光转化为化学能。" },
-    { w: "chlorophyll", pos: "n.", p: "/ˈklɒrəfɪl/", cn: "叶绿素", ex: "Chlorophyll gives leaves their green colour.", exCn: "叶绿素使叶片呈现绿色。" },
-    { w: "nitrogen", pos: "n.", p: "/ˈnaɪtrədʒən/", cn: "氮", ex: "Nitrogen is essential for the growth of new leaves.", exCn: "氮对新叶的生长至关重要。" },
-    { w: "phosphorus", pos: "n.", p: "/ˈfɒsfərəs/", cn: "磷", ex: "Roots absorb phosphorus released by decaying matter.", exCn: "根系吸收腐解物质释放出的磷。" }
+    { w: "caffeine", pos: "n.", p: "/ˈkæfiːn/", cn: "咖啡因", ex: "A cup of strong tea contains less caffeine than a similar cup of coffee.", exCn: "一杯浓茶所含的咖啡因比同样分量的咖啡少。" },
+    { w: "stimulant", pos: "n.", p: "/ˈstɪmjələnt/", cn: "兴奋剂；刺激物", ex: "Caffeine is a mild stimulant that helps people stay awake.", exCn: "咖啡因是一种温和的兴奋剂，能帮助人们保持清醒。" },
+    { w: "brew", pos: "n./v.", p: "/bruː/", cn: "冲泡；一杯茶（或咖啡）", ex: "She made a fresh brew before starting her morning work.", exCn: "她在上晨间工作前新冲泡了一杯茶。" },
+    { w: "brewing", pos: "n.", p: "/ˈbruːɪŋ/", cn: "冲泡；酿造", ex: "The brewing of tea requires water at the right temperature.", exCn: "泡茶需要温度恰当的水。" },
+    { w: "roast", pos: "v.", p: "/rəʊst/", cn: "烘焙；烘烤", ex: "Factories roast the beans until they turn dark brown.", exCn: "工厂把咖啡豆烘焙至深褐色。" },
+    { w: "bean", pos: "n.", p: "/biːn/", cn: "豆；咖啡豆", ex: "Each coffee bean contains a small amount of natural oil.", exCn: "每颗咖啡豆都含有少量天然油脂。" },
+    { w: "plantation", pos: "n.", p: "/plɑːnˈteɪʃn/", cn: "种植园", ex: "The family has worked on the same plantation for three generations.", exCn: "这家人已经在同一座种植园里劳作了三代。" },
+    { w: "picker", pos: "n.", p: "/ˈpɪkə(r)/", cn: "采摘者；采摘工", ex: "A skilled picker can gather twenty kilos of leaves a day.", exCn: "一名熟练的采摘工一天能采二十公斤茶叶。" },
+    { w: "colonial", pos: "adj.", p: "/kəˈləʊniəl/", cn: "殖民的；殖民地的", ex: "The colonial economy depended heavily on tea and coffee exports.", exCn: "殖民经济严重依赖茶叶和咖啡出口。" },
+    { w: "colonialism", pos: "n.", p: "/kəˈləʊniəlɪzəm/", cn: "殖民主义", ex: "Colonialism shaped where the world's coffee is grown today.", exCn: "殖民主义决定了当今世界咖啡的种植分布。" },
+    { w: "sip", pos: "v.", p: "/sɪp/", cn: "小口喝；啜饮", ex: "He took a slow sip of the bitter espresso.", exCn: "他慢慢啜了一口苦涩的浓缩咖啡。" },
+    { w: "astringent", pos: "adj.", p: "/əˈstrɪndʒənt/", cn: "收敛的；涩的", ex: "The astringent taste comes from compounds in the tea leaf.", exCn: "这种涩味来自茶叶中的化合物。" },
+    { w: "bitter", pos: "adj.", p: "/ˈbɪtə(r)/", cn: "苦的；苦涩的", ex: "Over-roasted beans leave a bitter taste in the mouth.", exCn: "烘焙过度的咖啡豆会在口中留下苦味。" },
+    { w: "fragrant", pos: "adj.", p: "/ˈfreɪɡrənt/", cn: "芳香的；香味浓郁的", ex: "The fragrant steam rose from the freshly brewed coffee.", exCn: "芳香的热气从刚煮好的咖啡中升起。" },
+    { w: "invigorating", pos: "adj.", p: "/ɪnˈvɪɡəreɪtɪŋ/", cn: "使人精神焕发的", ex: "A short walk after lunch can be as invigorating as coffee.", exCn: "午饭后散步一小会儿，和喝咖啡一样让人精神焕发。" },
+    { w: "sociability", pos: "n.", p: "/ˌsəʊʃəˈbɪləti/", cn: "社交性；合群", ex: "The cafe owes much of its success to human sociability.", exCn: "咖啡馆的成功很大程度上归功于人类的社交天性。" },
+    { w: "cafe", pos: "n.", p: "/ˈkæfeɪ/", cn: "咖啡馆；小餐馆", ex: "The old cafe has been a meeting place for local writers.", exCn: "这家老咖啡馆一直是当地作家的聚会场所。" },
+    { w: "kettle", pos: "n.", p: "/ˈketl/", cn: "水壶；烧水壶", ex: "Put the kettle on and the tea will be ready soon.", exCn: "把水壶烧上，茶很快就好了。" },
+    { w: "arabica", pos: "n.", p: "/əˈræbɪkə/", cn: "阿拉比卡咖啡（豆）", ex: "Arabica grows at high altitudes and is prized for its smooth taste.", exCn: "阿拉比卡咖啡生长在高海拔地区，以口感顺滑而受珍视。" },
+    { w: "robusta", pos: "n.", p: "/rəʊˈbʌstə/", cn: "罗布斯塔咖啡（豆）", ex: "Robusta contains more caffeine and tastes stronger than arabica.", exCn: "罗布斯塔咖啡因含量更高，味道比阿拉比卡更浓烈。" },
+    { w: "espresso", pos: "n.", p: "/eˈspresəʊ/", cn: "浓缩咖啡", ex: "A small espresso delivers a surprisingly strong dose of caffeine.", exCn: "一小杯浓缩咖啡所含的咖啡因多得惊人。" },
+    { w: "grind", pos: "v.", p: "/ɡraɪnd/", cn: "研磨；磨碎", ex: "You should grind the beans just before brewing the coffee.", exCn: "你应该在冲咖啡前才研磨咖啡豆。" },
+    { w: "foam", pos: "n.", p: "/fəʊm/", cn: "泡沫；泡沫层", ex: "A thin foam formed on top of the hot milk.", exCn: "热牛奶表面形成了一层薄薄的泡沫。" },
+    { w: "mug", pos: "n.", p: "/mʌɡ/", cn: "马克杯；大杯", ex: "He wrapped both hands around the warm mug.", exCn: "他把双手都裹在温热的马克杯上。" },
+    { w: "alertness", pos: "n.", p: "/əˈlɜːtnəs/", cn: "警觉；清醒", ex: "The drink improved her alertness during the long night shift.", exCn: "这种饮品提高了她在漫长夜班中的警觉性。" },
+    { w: "withdrawal", pos: "n.", p: "/wɪðˈdrɔːəl/", cn: "戒断；退出", ex: "Headaches are a common symptom of caffeine withdrawal.", exCn: "头痛是咖啡因戒断的常见症状。" },
+    { w: "tolerance", pos: "n.", p: "/ˈtɒlərəns/", cn: "耐受性；忍耐力", ex: "Regular drinking builds up a tolerance to caffeine.", exCn: "经常饮用会建立起对咖啡因的耐受性。" },
+    { w: "antioxidant", pos: "n.", p: "/ˌæntiˈɒksɪdənt/", cn: "抗氧化剂", ex: "Green tea is rich in antioxidants that protect body cells.", exCn: "绿茶富含保护人体细胞的抗氧化剂。" },
+    { w: "tannin", pos: "n.", p: "/ˈtænɪn/", cn: "单宁；鞣酸", ex: "Tannin gives strong tea its dry and slightly bitter edge.", exCn: "单宁使浓茶带有干涩且微苦的口感。" },
+    { w: "steep", pos: "v.", p: "/stiːp/", cn: "浸泡；泡（茶）", ex: "Let the leaves steep for three minutes before you drink.", exCn: "饮用前让茶叶浸泡三分钟。" }
   ],
   vocabArticle: {
-    title: "The Kingdom Beneath Our Feet（脚下的王国）",
-    titleCn: "脚下的王国",
+    title: "The World in a Cup（杯中世界）",
+    titleCn: "杯中世界",
     paras: [
       {
-        en: "To understand a fungus, look beyond the mushroom. The visible cap and every gill are only the fungal fruiting body; the real organism is a mycelium hidden in subterranean soil. Each thread-like hypha absorbs food, and a single spore can germinate after rain. Germination is slow, but once it begins, the network grows quietly beneath our feet.",
-        cn: "要理解一种真菌，别只看蘑菇。可见的菌盖和每一片菌褶只是真菌的子实体；真正的生物体是藏在地下土壤中的菌丝体。每一根线状的菌丝都在吸收养分，而一粒孢子可以在雨后萌发。萌发很缓慢，但一旦开始，这张网络便在我们脚下悄悄生长。"
+        en: "To understand a brew, begin with the bean. Growers roast the seeds until they darken, and the smell can be fragrant enough to fill a street. There are two main species: arabica, valued for its gentle taste, and robusta, which carries more caffeine. Before you grind anything, choose carefully, because the quality of the roast shapes every later step. Even a simple espresso depends on this first decision.",
+        cn: "要理解一杯冲泡好的咖啡，先从咖啡豆说起。种植者把种子烘焙至颜色变深，香气浓郁得能弥漫整条街。主要有两个品种：阿拉比卡以口感温和著称，罗布斯塔则含有更多咖啡因。在研磨之前要仔细挑选，因为烘焙的质量决定了之后的每一步。就连一杯简单的浓缩咖啡，也取决于最初这个决定。"
       },
       {
-        en: "As a decomposer, the fungus feeds on a substrate of rotten leaves and dead wood. Decomposition is slow chemistry: decay releases nitrogen and phosphorus into the humus, where roots can reach them. Because plants capture carbohydrate through photosynthesis, using chlorophyll in their leaves, the fungus cannot make its own sugar. It survives by trading minerals for the sweet product of someone else's sunlight.",
-        cn: "作为分解者，真菌以落叶和枯木构成的基质为食。分解是一场缓慢的化学过程：腐解把氮和磷释放到腐殖质中，根系便能获取它们。由于植物通过叶片中的叶绿素进行光合作用来捕获碳水化合物，真菌无法自己制造糖分。它靠用矿物质交换别人阳光下的甜美产物而生存。"
+        en: "From the plantation to the port, the trade was built on human labour. A picker worked from dawn, while a colonial administration taxed every sack and kept the profits. Colonialism left a mark that survives in today's prices. Merchants carried the kettle and the mug across continents, and the habit of a morning brewing slowly spread everywhere.",
+        cn: "从种植园到港口，这门生意建立在人力劳作之上。采摘工从黎明就开始干活，而殖民当局对每一袋货物征税并独吞利润。殖民主义留下的印记，至今仍体现在价格里。商人把水壶和马克杯带过各大洲，清晨冲泡的习惯也慢慢传遍世界。"
       },
       {
-        en: "That exchange is symbiosis at its best: a mutualistic partnership in which both partners gain. Not every fungus is so generous, however. A parasitic species lives as a parasite on living tissue, draining its host, while a lichen combines a fungus with an alga and can survive on bare stone. Even yeast and the prized truffle belong to this strange kingdom, one feeding on sugar and the other hidden beside roots.",
-        cn: "这种交换是共生最典型的样子：一种双方都获益的互利伙伴关系。然而并非每种真菌都如此慷慨。寄生性物种作为寄生生物生活在活组织中，汲取宿主的养分；而地衣则是真菌与藻类的结合，能在裸岩上存活。就连酵母和珍贵的松露也属于这个奇异的王国，一个以糖为食，另一个藏在树根旁。"
+        en: "The first sip can be sharp: tannin makes the drink astringent, and the taste is often bitter. Yet caffeine is a mild stimulant, and alertness follows within minutes, so the cup feels invigorating. Regular drinkers develop tolerance, so more is needed; stop suddenly and withdrawal brings headaches. Tea also supplies an antioxidant or two.",
+        cn: "第一口可能颇为刺激：单宁让饮品带涩，味道往往发苦。然而咖啡因是一种温和的兴奋剂，几分钟后警觉感便随之而来，因此这一杯让人精神焕发。经常饮用的人会产生耐受性，于是需要更大的量；突然停饮，戒断反应会带来头痛。茶还能提供一两种抗氧化剂。"
       },
       {
-        en: "A common mould on old bread shows the same design, and even the chitin strengthening its walls has inspired new materials. Scientists still know little about these organisms compared with birds or trees. Yet without them, fallen leaves would pile up, soil would lose its fertility, and forests would slowly starve. The next time you see a mushroom, remember the quiet network underneath.",
-        cn: "陈面包上常见的霉菌也遵循同样的构造，甚至其细胞壁中的几丁质还启发了新材料。与鸟类和树木相比，科学家对这些生物仍知之甚少。然而没有它们，落叶会堆积如山，土壤会失去肥力，森林也会慢慢挨饿。下次你看到一朵蘑菇，请记得脚下那张安静的网络。"
+        en: "At home, steep the leaves slowly and let the foam settle; the pause itself matters. A busy cafe turns a private mug into a public conversation, feeding sociability in a way few institutions can. Offer a friend a brew and you offer time. Colonialism may have shaped the supply, but the daily sip now belongs to ordinary people.",
+        cn: "在家里，慢慢浸泡茶叶，让泡沫平息；这段停顿本身就很重要。一家热闹的咖啡馆把私人的杯子变成公开的交谈，以少有机构能做到的方式滋养着社交天性。请朋友喝一杯，就是送出一段时间。殖民主义或许塑造了供应，但日常的这一口如今属于普通人。"
       }
     ]
   },
   grammar: [
     {
-      q: "___, the fungus continued to spread through the soil long after the rain had stopped.",
+      q: "Many a visitor to the new cafe ___ surprised by the bitter taste of the first sip.",
       options: [
-        "However cold was the weather",
-        "No matter how cold the weather was",
-        "No matter how cold was the weather",
-        "Although cold the weather was"
+        "are",
+        "is",
+        "were",
+        "have been"
       ],
       answer: 1,
-      explain: "考点：no matter how 引导让步状语从句的语序。no matter how 相当于 however，结构为「no matter how + 形容词/副词 + 主语 + 谓语」，从句必须使用陈述语序，不能像疑问句中那样把系动词提到主语之前，故选 B（No matter how cold the weather was）。A（However cold was the weather）虽然 however 可以替换 no matter how，但把 was 提前构成了倒装，不符合该结构的陈述语序要求；C（No matter how cold was the weather）同样错在把 was 置于主语 the weather 之前；D（Although cold the weather was）中 although 引导的让步从句也应为正常语序 Although the weather was cold，而且 although 一般不与这种前置形容词结构搭配。扩展：No matter how difficult the task seems, we must finish it on time. 主句用一般将来时或祈使语气时，从句通常仍用一般现在时表将来。"
+      explain: "考点：主谓一致——「many a + 单数可数名词」作主语时，谓语动词用单数。many a visitor 意义上指「许多游客」，但语法中心词是单数名词 visitor，且 many a 后必须接单数名词，因此谓语须用第三人称单数 is，选 B。A（are）、C（were）、D（have been）都是复数谓语，与 many a 的单数语法形式不一致。扩展：Many a scholar has studied the history of tea. 注意区别 many 后接复数名词时谓语用复数，如 Many visitors are surprised by the taste. 雅思写作中 many a 属较正式表达，一旦使用就必须保持谓语单数，这是高频陷阱。"
     },
     {
-      q: "The mycelium is believed ___ beneath the forest floor long before the first trees appeared.",
+      q: "Such tea ___ is grown on the high slopes commands the highest price in the market.",
       options: [
-        "to spread",
-        "to have spread",
-        "spreading",
-        "having spread"
+        "that",
+        "as",
+        "which",
+        "what"
       ],
       answer: 1,
-      explain: "考点：It is believed/said/thought/reported + 不定式，且不定式用完成式表示先于谓语发生的动作。句中 long before the first trees appeared（早在第一批树木出现之前）明确说明菌丝蔓延发生在人们相信或认为这一动作之前，因此要用 to have done 形式，选 B（to have spread）。A（to spread）为不定式的一般式，表示与谓语同时或之后发生的动作，无法体现「早于谓语」的时间关系；C（spreading）和 D（having spread）都是分词形式，不能充当 is believed 后面的主语补足语——这个句型要求用不定式。扩展：The technique is said to have been used for centuries. 这一结构常与 well-known, reported, estimated 等搭配，完成时形式 to have done / to have been done 是雅思阅读和写作中的高频考点。"
+      explain: "考点：定语从句——「such + 名词 + as」引导限制性定语从句。当先行词被 such 修饰，且关系词需要在从句中充当主语或宾语时，必须用 as，构成 such...as... 结构；本句中 as 指代 tea，在从句 as is grown on the high slopes 里作主语，主句谓语为 commands，故选 B。A（that）不能与 such 构成这种定语从句：such...that 引导的是结果状语从句，that 后的句子成分必须完整，如 It was such fine tea that prices rose.；C（which）不可用于 such 之后；D（what）不能引导定语从句，它本身包含先行词。扩展：Such books as he recommends are worth reading. 对比结果状语从句：This is such a rare tea that few people have tasted it."
     }
   ]
 };

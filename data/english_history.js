@@ -479,5 +479,11 @@ window.ENGLISH_HISTORY = [
     topic: "Fungi, Mycelium & the Hidden Networks Beneath Our Feet（真菌、菌丝体与我们脚下的隐秘网络）",
     articleTitle: "The Hidden Kingdom: Fungi and the Networks Beneath Our Feet",
     words: ["fungus","fungal","mycelium","hypha","spore","germination","germinate","symbiosis","mutualistic","decomposer","decomposition","substrate","humus","decay","rotten","parasite","parasitic","lichen","mushroom","truffle","yeast","mould","subterranean","chitin","gill","carbohydrate","photosynthesis","chlorophyll","nitrogen","phosphorus"]
+  },
+  {
+    date: "2026-11-22",
+    topic: "Coffee, Tea and the World in a Cup（咖啡、茶与杯中的世界）",
+    articleTitle: "The World in a Cup: How Coffee and Tea Shaped Global Life",
+    words: ["caffeine","stimulant","brew","brewing","roast","bean","plantation","picker","colonial","colonialism","sip","astringent","bitter","fragrant","invigorating","sociability","cafe","kettle","arabica","robusta","espresso","grind","foam","mug","alertness","withdrawal","tolerance","antioxidant","tannin","steep"]
   }
 ];
