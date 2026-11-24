@@ -485,5 +485,11 @@ window.ENGLISH_HISTORY = [
     topic: "Coffee, Tea and the World in a Cup（咖啡、茶与杯中的世界）",
     articleTitle: "The World in a Cup: How Coffee and Tea Shaped Global Life",
     words: ["caffeine","stimulant","brew","brewing","roast","bean","plantation","picker","colonial","colonialism","sip","astringent","bitter","fragrant","invigorating","sociability","cafe","kettle","arabica","robusta","espresso","grind","foam","mug","alertness","withdrawal","tolerance","antioxidant","tannin","steep"]
+  },
+  {
+    date: "2026-11-23",
+    topic: "Salt, Trade and the Science of an Everyday Mineral（盐、贸易与一种日常矿物质的科学）",
+    articleTitle: "Salt: The Ordinary Mineral That Shaped Civilisation",
+    words: ["halite","brine","saltpan","crystallize","crystal","desalinate","iodine","iodized","goitre","thyroid","sodium","potassium","preservative","curing","pickling","dehydration","perishable","monopoly","caravan","camel","barter","spice","quarry","dissolve","solubility","brackish","osmotic","osmosis","microbe","refrigeration"]
   }
 ];
