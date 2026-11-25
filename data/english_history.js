@@ -491,5 +491,11 @@ window.ENGLISH_HISTORY = [
     topic: "Salt, Trade and the Science of an Everyday Mineral（盐、贸易与一种日常矿物质的科学）",
     articleTitle: "Salt: The Ordinary Mineral That Shaped Civilisation",
     words: ["halite","brine","saltpan","crystallize","crystal","desalinate","iodine","iodized","goitre","thyroid","sodium","potassium","preservative","curing","pickling","dehydration","perishable","monopoly","caravan","camel","barter","spice","quarry","dissolve","solubility","brackish","osmotic","osmosis","microbe","refrigeration"]
+  },
+  {
+    date: "2026-11-24",
+    topic: "Ice, Glaciers and the Frozen Archive of Climate（冰、冰川与气候的冰封档案）",
+    articleTitle: "The Frozen Record: What Ice Reveals About a Changing Planet",
+    words: ["iceberg","permafrost","tundra","thaw","meltwater","crevasse","moraine","calving","ablation","albedo","hexagonal","isotope","borehole","paleoclimate","thermometer","proxy","varve","methane","inundation","retreat","snowfall","avalanche","cirque","fjord","scour","frigid","glacial","chill","sublimation","cryosphere"]
   }
 ];
