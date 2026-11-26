@@ -497,5 +497,11 @@ window.ENGLISH_HISTORY = [
     topic: "Ice, Glaciers and the Frozen Archive of Climate（冰、冰川与气候的冰封档案）",
     articleTitle: "The Frozen Record: What Ice Reveals About a Changing Planet",
     words: ["iceberg","permafrost","tundra","thaw","meltwater","crevasse","moraine","calving","ablation","albedo","hexagonal","isotope","borehole","paleoclimate","thermometer","proxy","varve","methane","inundation","retreat","snowfall","avalanche","cirque","fjord","scour","frigid","glacial","chill","sublimation","cryosphere"]
+  },
+  {
+    date: "2026-11-25",
+    topic: "Timekeeping, Calendars and the Science of Measuring Time（计时、历法与测量时间的科学）",
+    articleTitle: "The Measure of Moments: How Humans Learned to Track Time",
+    words: ["sundial","shadow","noon","solstice","equinox","lunar","horizon","dawn","dusk","pendulum","escapement","gear","clockwork","timepiece","chronometer","timetable","daylight","leap","calendar","atomic","caesium","vibration","stable","synchronise","elapsed","duration","interval","perpetual","epoch","almanac"]
   }
 ];
