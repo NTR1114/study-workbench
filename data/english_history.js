@@ -503,5 +503,17 @@ window.ENGLISH_HISTORY = [
     topic: "Timekeeping, Calendars and the Science of Measuring Time（计时、历法与测量时间的科学）",
     articleTitle: "The Measure of Moments: How Humans Learned to Track Time",
     words: ["sundial","shadow","noon","solstice","equinox","lunar","horizon","dawn","dusk","pendulum","escapement","gear","clockwork","timepiece","chronometer","timetable","daylight","leap","calendar","atomic","caesium","vibration","stable","synchronise","elapsed","duration","interval","perpetual","epoch","almanac"]
+  },
+  {
+    date: "2026-11-26",
+    topic: "Paper, Printing and the Spread of Ideas（纸张、印刷与思想的传播）",
+    articleTitle: "Ink, Paper and the Spread of Ideas",
+    words: ["parchment","papyrus","vellum","watermark","quill","ink","scribe","codex","typeset","typeface","glyph","press","etch","lithography","bindery","binding","folio","pamphlet","broadsheet","propagate","tract","treatise","heresy","readership","impression","proofread","brittle","compose","movable","paper"]
+  },
+  {
+    date: "2026-11-27",
+    topic: "Numbers, Counting and the Language of Mathematics（数字、计数与数学的语言）",
+    articleTitle: "Numbers, Proof and the Language of Mathematics",
+    words: ["arithmetic","numeral","digit","decimal","fraction","geometry","algebra","equation","theorem","calculate","computation","statistics","probability","integer","infinity","symmetry","pattern","quantity","abstract","logic","proof","axiom","variable","formula","abacus","tally","cipher","numeracy","mathematician","zero"]
   }
 ];
